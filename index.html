@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Budapest XV. kerület Szövőgyár utcai kúthasználati korlátozás érintett ingatlanjai</title>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            background-color: #f5f6fa;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        }
+        #map {
+            width: 100%;
+            height: 100vh;
+        }
+        .control-panel {
+            position: absolute;
+            top: 20px;
+            left: 80px;
+            z-index: 1000;
+            background: rgba(255, 255, 255, 0.95);
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+            max-width: 320px;
+            pointer-events: auto;
+        }
+        .control-panel h3 {
+            margin: 0 0 8px 0;
+            color: #2c3e50;
+            font-size: 16px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 6px;
+        }
+        .control-panel p {
+            margin: 0;
+            font-size: 15px;
+            color: #34495e;
+            line-height: 1.4;
+            text-decoration: none;
+        }
+        .legend {
+            font-size: 11px;
+            color: #7f8c8d;
+            margin-top: 10px;
+            padding-top: 8px;
+            line-height: 1.4;
+            border-top: 1px solid #ecf0f1;
+        }
+        .legend a, #parcel-count {
+            font-size: 11px;
+            color: #7f8c8d;
+            text-decoration: none;
+        }
+        .popup-container {
+            font-size: 13px;
+            line-height: 1.5;
+            min-width: 180px;
+        }
+        .popup-title {
+            font-weight: bold;
+            color: #2980b9;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 4px;
+            margin-bottom: 6px;
+            font-size: 14px;
+        }
+        .file-selector-container {
+            margin-top: 12px;
+            padding-top: 8px;
+            border-top: 1px dashed #ccc;
+        }
+        .file-selector-label {
+            font-size: 11px;
+            color: #e74c3c;
+            margin-bottom: 6px;
+            display: block;
+            line-height: 1.3;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="control-panel">
+        <p>Budapest XV. kerület Szövőgyár utcai kúthasználati korlátozás érintett ingatlanjai</p>
+        <div class="legend">
+            <p id="parcel-count">Adatok betöltése...</p>
+            <strong>Forrás:</strong> <a href="https://www.bpxv.hu/aktualitasok/kuthasznalati-korlatozas-szovogyar-utca-tersegeben">Kúthasználati korlátozás a Szövőgyár utca térségében</a><br>
+            <a href="parcels.geojson">Adatok letöltése (GeoJSON)</a>
+        </div>
+    </div>
+
+    <div id="map"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+    <script>
+        // Initialize Leaflet Map centered near District XV, Budapest
+        const map = L.map('map').setView([47.5725, 19.1190], 16);
+
+        // CartoDB Positron - Ultra-clean light gray map style (Default layer)
+        const cleanLightMap = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+            maxZoom: 20,
+            attribution: '© OpenStreetMap, © CARTO'
+        }).addTo(map);
+
+        // Standard OpenStreetMap base layer
+        const openStreetMap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '© OpenStreetMap contributors'
+        });
+
+        // Google Satellite Hybrid layer
+        const googleSatellite = L.tileLayer('https://{s}.google.com/vt/lyrs=s,h&x={x}&y={y}&z={z}', {
+            maxZoom: 20,
+            subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
+            attribution: '© Google Maps'
+        });
+
+        // Add base layers to map controller
+        const baseMaps = {
+            "OpenStreetMap CartoDB Positron (Alapértelmezett)": cleanLightMap,
+            "OpenStreetMap Standard": openStreetMap,
+            "Google Satellite": googleSatellite
+        };
+        L.control.layers(baseMaps).addTo(map);
+
+        // Polygon styling configuration
+        const defaultStyle = {
+            color: "#e74c3c",
+            weight: 2,
+            opacity: 0.85,
+            fillColor: "#e74c3c",
+            fillOpacity: 0.3
+        };
+
+        const hoverStyle = {
+            color: "#6010b3",
+            weight: 3,
+            opacity: 1.0,
+            fillColor: "#6010b3",
+            fillOpacity: 0.5
+        };
+
+        let geoJsonLayer = null;
+
+        // Function to render GeoJSON data onto the map
+        function renderParcels(geoJsonData) {
+            if (geoJsonLayer) {
+                map.removeLayer(geoJsonLayer);
+            }
+
+            const count = geoJsonData.features ? geoJsonData.features.length : 0;
+            document.getElementById('parcel-count').innerHTML = `<strong>Összes helyrajzi szám:</strong> ${count}`;
+
+            geoJsonLayer = L.geoJSON(geoJsonData, {
+                style: defaultStyle,
+                onEachFeature: function (feature, layer) {
+                    const lotNumber = feature.properties.lotNumber || 'N/A';
+                    
+                    const popupContent = `
+                        <div class="popup-container">
+                            <b>Helyrajzi szám:</b> ${lotNumber}
+                        </div>
+                    `;
+                    layer.bindPopup(popupContent);
+
+                    layer.on({
+                        mouseover: function (e) {
+                            const currentLayer = e.target;
+                            currentLayer.setStyle(hoverStyle);
+                            currentLayer.bringToFront();
+                        },
+                        mouseout: function (e) {
+                            geoJsonLayer.resetStyle(e.target);
+                        }
+                    });
+                }
+            }).addTo(map);
+        }
+
+        // 1. First attempt: Direct fetch of parcels.geojson (works on GitHub Pages or local server)
+        fetch('parcels.geojson')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Could not fetch parcels.geojson directly');
+                }
+                return response.json();
+            })
+            .then(geoJsonData => {
+                renderParcels(geoJsonData);
+            })
+            .catch(error => {
+                console.warn("Direct fetch failed (CORS or missing file). Activating local file fallback selector...");
+                
+                // 2. Fallback: Add a manual file input selector for local file-system use
+                const controlPanel = document.querySelector('.control-panel .legend');
+                const fallbackDiv = document.createElement('div');
+                fallbackDiv.className = 'file-selector-container';
+                fallbackDiv.innerHTML = `
+                    <span class="file-selector-label">Helyi fájl-hozzáférés korlátozva (CORS). Kérlek válaszd ki a parcels.geojson fájlt:</span>
+                    <input type="file" id="geojson-file-input" accept=".geojson,application/json" style="font-size: 11px; width: 100%;">
+                `;
+                controlPanel.appendChild(fallbackDiv);
+                
+                document.getElementById('parcel-count').innerHTML = "Kérlek válaszd ki a parcels.geojson fájlt.";
+                
+                document.getElementById('geojson-file-input').addEventListener('change', function(e) {
+                    const file = e.target.files[0];
+                    if (!file) return;
+                    
+                    const reader = new FileReader();
+                    reader.onload = function(evt) {
+                        try {
+                            const geoJsonData = JSON.parse(evt.target.result);
+                            renderParcels(geoJsonData);
+                            fallbackDiv.remove(); // Remove selector on successful local load
+                        } catch (err) {
+                            document.getElementById('parcel-count').innerHTML = "Hiba: érvénytelen GeoJSON fájl.";
+                            console.error(err);
+                        }
+                    };
+                    reader.readAsText(file);
+                });
+            });
+    </script>
+</body>
+</html>

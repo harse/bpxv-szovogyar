@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Budapest XV. kerület Szövőgyár utcai kúthasználati korlátozás érintett ingatlanjai</title>
+    <title>Budapest XV. kerület, Szövőgyár utcai szennyezés</title>
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
     <style>
@@ -87,11 +87,15 @@
 <body>
 
     <div class="control-panel">
-        <p>Budapest XV. kerület Szövőgyár utcai kúthasználati korlátozás érintett ingatlanjai</p>
+        <p>
+            Budapest XV. kerület, Szövőgyár u. 21. szám alatti ingatlanon és környezetében 
+            feltárt szennyezettséggel érintett, vélelmezett hatásterület
+        </p>
         <div class="legend">
             <p id="parcel-count">Adatok betöltése...</p>
-            <strong>Forrás:</strong> <a href="https://www.bpxv.hu/aktualitasok/kuthasznalati-korlatozas-szovogyar-utca-tersegeben">Kúthasználati korlátozás a Szövőgyár utca térségében</a><br>
-            <a href="parcels.geojson">Adatok letöltése (GeoJSON)</a>
+            <strong>Forrás:</strong> <a href="https://kormanyhivatalok.hu/system/files/dokumentum/pest/2026-05/05398-10.pdf">Pest Vármegyei Kormányhivatal hirdetménye</a><br>
+            <a href="parcels.geojson">Adatok letöltése (GeoJSON)</a><br>
+            Frissítve: 2026.07.01.
         </div>
     </div>
 
@@ -102,7 +106,7 @@
 
     <script>
         // Initialize Leaflet Map centered near District XV, Budapest
-        const map = L.map('map').setView([47.5725, 19.1190], 16);
+        const map = L.map('map').setView([47.5725, 19.1160], 16);
 
         // CartoDB Positron - Ultra-clean light gray map style (Default layer)
         const cleanLightMap = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
@@ -148,6 +152,14 @@
             fillOpacity: 0.5
         };
 
+        const specialStyle = {
+            color: "#ff0000",
+            weight: 4,
+            opacity: 1.0,
+            fillColor: "#ff2222",
+            fillOpacity: 0.6
+        };
+
         let geoJsonLayer = null;
 
         // Function to render GeoJSON data onto the map
@@ -160,7 +172,12 @@
             document.getElementById('parcel-count').innerHTML = `<strong>Összes helyrajzi szám:</strong> ${count}`;
 
             geoJsonLayer = L.geoJSON(geoJsonData, {
-                style: defaultStyle,
+                style: function (feature) {
+                    if (feature.properties.lotNumber === "88323") {
+                        return specialStyle;
+                    }
+                    return defaultStyle;
+                },
                 onEachFeature: function (feature, layer) {
                     const lotNumber = feature.properties.lotNumber || 'N/A';
                     

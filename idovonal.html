@@ -1,0 +1,1366 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Idővonal - Budapest XV. kerület, Szövőgyár utcai szennyezés</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body, html {
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            background-color: #f5f6fa;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            color: #34495e;
+        }
+        .container {
+            width: 100%;
+            max-width: 860px;
+            margin: 0 auto;
+            padding: 24px 20px 40px;
+        }
+        .header-card {
+            background: #ffffff;
+            border-radius: 12px;
+            padding: 28px 24px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+            margin-bottom: 20px;
+        }
+        .nav-links {
+            font-size: 14px;
+            margin-bottom: 16px;
+            display: flex;
+            gap: 16px;
+        }
+        .nav-links a {
+            color: #3498db;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        .nav-links a:hover {
+            text-decoration: underline;
+        }
+        h1 {
+            margin: 0 0 8px 0;
+            color: #2c3e50;
+            font-size: 22px;
+            font-weight: 700;
+        }
+        p.subtitle {
+            margin: 0 0 16px 0;
+            font-size: 14px;
+            color: #7f8c8d;
+            line-height: 1.5;
+        }
+        .source-info {
+            font-size: 12px;
+            color: #95a5a6;
+            padding-top: 12px;
+            border-top: 1px solid #f1f2f6;
+        }
+        .source-info a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        .source-info a:hover {
+            text-decoration: underline;
+        }
+
+        /* Authorities and Officials Card */
+        .abbreviations-card {
+            background: #ffffff;
+            border-radius: 10px;
+            padding: 18px 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+            margin-bottom: 24px;
+            font-size: 13.5px;
+            color: #34495e;
+        }
+        .abbreviations-title {
+            font-weight: 600;
+            color: #2c3e50;
+            cursor: pointer;
+            user-select: none;
+            outline: none;
+            font-size: 15px;
+        }
+        .abbreviations-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+            gap: 14px 18px;
+            margin-top: 14px;
+            padding-top: 14px;
+            border-top: 1px solid #f1f2f6;
+        }
+        .abbr-item {
+            background-color: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 14px;
+            line-height: 1.45;
+        }
+        .abbr-header {
+            font-size: 14px;
+            color: #2c3e50;
+            margin-bottom: 6px;
+        }
+        .abbr-header strong {
+            color: #2980b9;
+        }
+        .abbr-contact {
+            font-size: 12px;
+            color: #64748b;
+            margin-bottom: 8px;
+            line-height: 1.4;
+        }
+        .abbr-contact a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        .abbr-contact a:hover {
+            text-decoration: underline;
+        }
+        .abbr-persons {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            margin-top: 8px;
+        }
+        .person-card {
+            background-color: #ffffff;
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            padding: 8px 10px;
+            font-size: 12px;
+            line-height: 1.4;
+        }
+        .person-name {
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        .person-contact {
+            font-size: 11px;
+            color: #7f8c8d;
+            margin-top: 2px;
+        }
+        .person-contact a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        .person-contact a:hover {
+            text-decoration: underline;
+        }
+
+        /* Abbreviation Tooltip Style */
+        abbr.abbr-tooltip {
+            text-decoration: underline dotted #3498db;
+            cursor: help;
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        abbr.abbr-tooltip:hover {
+            color: #2980b9;
+            background-color: #ebf5fb;
+            border-radius: 3px;
+        }
+
+        /* Search and controls */
+        .controls-card {
+            background: #ffffff;
+            border-radius: 10px;
+            padding: 16px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+            margin-bottom: 28px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .search-box {
+            flex: 1;
+            min-width: 220px;
+            padding: 10px 14px;
+            border: 1px solid #dcdde1;
+            border-radius: 6px;
+            font-size: 14px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        .search-box:focus {
+            border-color: #3498db;
+        }
+        .sort-btn {
+            padding: 10px 16px;
+            background-color: #f1f2f6;
+            border: 1px solid #dcdde1;
+            border-radius: 6px;
+            font-size: 13px;
+            color: #2c3e50;
+            cursor: pointer;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+        .sort-btn:hover {
+            background-color: #e4e7eb;
+        }
+        .count-label {
+            font-size: 13px;
+            color: #7f8c8d;
+            width: 100%;
+            margin-top: 4px;
+        }
+
+        /* Timeline styles */
+        .timeline {
+            position: relative;
+            padding-left: 24px;
+            border-left: 3px solid #3498db;
+            margin-left: 8px;
+        }
+        .timeline-item {
+            position: relative;
+            margin-bottom: 28px;
+            scroll-margin-top: 20px;
+        }
+        .timeline-item:last-child {
+            margin-bottom: 0;
+        }
+        .timeline-dot {
+            position: absolute;
+            left: -32px;
+            top: 20px;
+            width: 13px;
+            height: 13px;
+            border-radius: 50%;
+            background-color: #3498db;
+            border: 3px solid #f5f6fa;
+        }
+        .timeline-content {
+            background: #ffffff;
+            border-radius: 10px;
+            padding: 22px 20px;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+            transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.3s ease;
+        }
+        .timeline-content:hover {
+            box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+        }
+
+        /* Parent reference link */
+        .parent-ref {
+            margin-bottom: 12px;
+        }
+        .parent-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 12px;
+            color: #4a5568;
+            background-color: #edf2f7;
+            padding: 5px 10px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 500;
+            border: 1px solid #cbd5e1;
+            transition: all 0.2s ease;
+        }
+        .parent-link:hover {
+            background-color: #e2e8f0;
+            color: #1a202c;
+            border-color: #94a3b8;
+        }
+
+        /* Highlight animation for parent target */
+        @keyframes targetHighlight {
+            0% {
+                background-color: #ebf5fb;
+                box-shadow: 0 0 0 3px #3498db;
+            }
+            100% {
+                background-color: #ffffff;
+                box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+            }
+        }
+        .highlight {
+            animation: targetHighlight 2s ease-out;
+        }
+
+        .timeline-date {
+            display: inline-block;
+            font-size: 12px;
+            font-weight: 700;
+            color: #ffffff;
+            background-color: #e74c3c;
+            padding: 3px 8px;
+            border-radius: 4px;
+            letter-spacing: 0.5px;
+            margin-bottom: 10px;
+        }
+        .timeline-title {
+            font-size: 17px;
+            font-weight: 600;
+            color: #2c3e50;
+            margin: 0 0 10px 0;
+            line-height: 1.35;
+        }
+        .meta-group {
+            font-size: 13px;
+            background-color: #f8f9fa;
+            padding: 10px 12px;
+            border-radius: 6px;
+            margin-bottom: 12px;
+            line-height: 1.5;
+            border-left: 3px solid #3498db;
+        }
+        .meta-row {
+            margin-bottom: 4px;
+        }
+        .meta-row:last-child {
+            margin-bottom: 0;
+        }
+        .meta-label {
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        .meta-value {
+            color: #34495e;
+        }
+        .timeline-body {
+            font-size: 14px;
+            line-height: 1.55;
+            color: #4a5568;
+            margin: 0 0 14px 0;
+        }
+        .pdf-btn {
+            display: inline-flex;
+            align-items: center;
+            padding: 8px 14px;
+            background-color: #ebf5fb;
+            color: #2980b9;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 600;
+            transition: background 0.2s, color 0.2s;
+        }
+        .pdf-btn:hover {
+            background-color: #3498db;
+            color: #ffffff;
+        }
+
+        /* Attachments section */
+        .attachments-group {
+            margin-top: 16px;
+            padding-top: 14px;
+            border-top: 1px dashed #cbd5e1;
+        }
+        .attachments-header {
+            font-size: 13px;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .attachment-card {
+            background-color: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            padding: 10px 14px;
+            margin-bottom: 8px;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-between;
+            gap: 8px;
+        }
+        .attachment-card:last-child {
+            margin-bottom: 0;
+        }
+        .attachment-info {
+            flex: 1;
+            min-width: 200px;
+        }
+        .attachment-title {
+            font-size: 13px;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 2px;
+        }
+        .attachment-meta {
+            font-size: 12px;
+            color: #7f8c8d;
+        }
+        .attachment-btn {
+            font-size: 12px;
+            color: #2980b9;
+            background-color: #ffffff;
+            border: 1px solid #cbd5e1;
+            padding: 5px 10px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: 500;
+            white-space: nowrap;
+            transition: all 0.2s ease;
+        }
+        .attachment-btn:hover {
+            background-color: #3498db;
+            color: #ffffff;
+            border-color: #3498db;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 12px;
+            color: #95a5a6;
+            line-height: 1.5;
+        }
+        .footer p {
+            margin: 4px 0;
+        }
+        .footer .disclaimer {
+            font-size: 11px;
+            color: #676868;
+            max-width: 650px;
+            margin: 10px auto 0;
+            line-height: 1.45;
+        }
+
+        @media (max-width: 580px) {
+            .container {
+                padding: 16px 12px 32px;
+            }
+            .header-card {
+                padding: 20px 16px;
+            }
+            .timeline-content {
+                padding: 16px 14px;
+            }
+            .timeline {
+                margin-left: 4px;
+                padding-left: 18px;
+            }
+            .timeline-dot {
+                left: -25px;
+            }
+            .timeline-title {
+                font-size: 15px;
+            }
+            .abbreviations-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header-card">
+            <div class="nav-links">
+                <a href="index.html">&larr; Főoldal</a>
+                <a href="hatasterulet.html">Vélelmezett hatásterület</a>
+                <a href="naptar.html">Naptár nézet &rarr;</a>
+            </div>
+            <h1>Idővonal</h1>
+            <p class="subtitle">A Budapest XV. kerület, Szövőgyár utca 19-21. és környezetében feltárt szennyezéssel kapcsolatos hivatalos dokumentumok időrendi áttekintése.</p>
+            <div class="source-info">
+                <strong>Forrás:</strong> <a href="https://www.bpxv.hu/aktualitasok/kozlemeny-szovogyar-utca-19-21-szam-alatti-ingatlanon-es-kornyezeteben-feltart-0" target="_blank" rel="noopener">Budapest XV. Kerületi Önkormányzat - Szövőgyár utcai dokumentumok</a>
+            </div>
+        </div>
+
+        <details class="abbreviations-card">
+            <summary class="abbreviations-title">Érintett hivatalok, tisztségviselők és elérhetőségeik</summary>
+            <div class="abbreviations-grid">
+                
+                <div class="abbr-item">
+                    <div class="abbr-header"><strong>BPXV</strong> – Budapest XV. kerület Önkormányzata &amp; Polgármesteri Hivatal</div>
+                    <div class="abbr-contact"><strong>Cím:</strong> 1153 Budapest, Bocskai utca 1-3. (Postacím: 1601 Bp. Pf. 46.)</div>
+                    <div class="abbr-contact"><strong>Központi e-mail:</strong> <a href="mailto:info@bpxv.hu">info@bpxv.hu</a> | <strong>Tel.:</strong> <a href="tel:+3613053100">+36 1 305 3100</a></div>
+                    <div class="abbr-persons">
+                        <div class="person-card">
+                            <span class="person-name">Cserdiné Németh Angéla</span> (polgármester)<br>
+                            <span class="person-contact">E-mail: <a href="mailto:polgarmester@bpxv.hu">polgarmester@bpxv.hu</a> | Tel.: <a href="tel:+3613053235">+36 1 305 3235</a> / <a href="tel:+3613053260">+36 1 305 3260</a></span>
+                        </div>
+                        <div class="person-card">
+                            <span class="person-name">dr. Kevevári Edit</span> (jegyző)<br>
+                            <span class="person-contact">E-mail: <a href="mailto:jegyzo@bpxv.hu">jegyzo@bpxv.hu</a> | Tel.: <a href="tel:+3613053100">+36 1 305 3100</a></span>
+                        </div>
+                        <div class="person-card">
+                            <span class="person-name">Dr. Zsidei Kinga</span> (aljegyző)<br>
+                            <span class="person-contact">E-mail: <a href="mailto:aljegyzo@bpxv.hu">aljegyzo@bpxv.hu</a></span>
+                        </div>
+                        <div class="person-card">
+                            <span class="person-name">Dudás Anikó / Varga Nóra / Groszné Kővári Réka</span> (Hatósági &amp; Városgazdálkodási Osztály)<br>
+                            <span class="person-contact">E-mail: <a href="mailto:hatosagifoosztaly@bpxv.hu">hatosagifoosztaly@bpxv.hu</a> | Tel.: <a href="tel:+3613053361">+36 1 305 3361</a> / <a href="tel:+3613053273">+36 1 305 3273</a></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="abbr-item">
+                    <div class="abbr-header"><strong>PEKH</strong> – Pest Vármegyei Kormányhivatal (Környezetvédelmi Főosztály)</div>
+                    <div class="abbr-contact"><strong>Cím:</strong> 1013 Budapest, Avar u. 9.</div>
+                    <div class="abbr-contact"><strong>E-mail:</strong> <a href="mailto:zoldhatosag@pest.gov.hu">zoldhatosag@pest.gov.hu</a> | <strong>Tel.:</strong> <a href="tel:+3617766280">+36 1 776 6280</a></div>
+                    <div class="abbr-persons">
+                        <div class="person-card">
+                            <span class="person-name">dr. Cserkúti Szabolcs</span> (főosztályvezető)
+                        </div>
+                        <div class="person-card">
+                            <span class="person-name">Illés Gábor</span> (osztályvezető / ügyintéző)
+                        </div>
+                    </div>
+                </div>
+
+                <div class="abbr-item">
+                    <div class="abbr-header"><strong>BFKH XIV. KH</strong> – BFKH XIV. Kerületi Hivatala (Népegészségügyi Osztály)</div>
+                    <div class="abbr-contact"><strong>Cím:</strong> 1148 Budapest, Bánki Donát park 12/F.</div>
+                    <div class="abbr-contact"><strong>E-mail:</strong> <a href="mailto:nepegeszsegugy14@14kh.bfkh.gov.hu">nepegeszsegugy14@14kh.bfkh.gov.hu</a> | <strong>Tel.:</strong> <a href="tel:+3615503781">+36 1 550 3781</a> / <a href="tel:+3615503782">+36 1 550 3782</a></div>
+                    <div class="abbr-persons">
+                        <div class="person-card">
+                            <span class="person-name">Dr. Néráth Andrea</span> (kerületi tisztifőorvos, osztályvezető)
+                        </div>
+                    </div>
+                </div>
+
+                <div class="abbr-item">
+                    <div class="abbr-header"><strong>MNV Zrt.</strong> – Magyar Nemzeti Vagyonkezelő Zrt.</div>
+                    <div class="abbr-contact"><strong>Cím:</strong> 1133 Budapest, Pozsonyi út 56.</div>
+                    <div class="abbr-contact"><strong>E-mail:</strong> <a href="mailto:info@mnv.hu">info@mnv.hu</a> | <strong>Tel.:</strong> <a href="tel:+3612374400">+36 1 237 4400</a></div>
+                    <div class="abbr-persons">
+                        <div class="person-card">
+                            <span class="person-name">dr. Lakner Zsuzsa</span> (vezérigazgató)
+                        </div>
+                        <div class="person-card">
+                            <span class="person-name">Holndonner Péter</span> (környezetvédelmi csoportvezető)
+                        </div>
+                    </div>
+                </div>
+
+                <div class="abbr-item">
+                    <div class="abbr-header"><strong>NNGYK</strong> – Nemzeti Népegészségügyi és Gyógyszerészeti Központ</div>
+                    <div class="abbr-contact"><strong>Cím:</strong> 1097 Budapest, Albert Flórián út 2-6.</div>
+                    <div class="abbr-contact"><strong>E-mail:</strong> <a href="mailto:tisztifoorvos@nngyk.gov.hu">tisztifoorvos@nngyk.gov.hu</a> / <a href="mailto:kozegeszseg@nngyk.gov.hu">kozegeszseg@nngyk.gov.hu</a></div>
+                    <div class="abbr-contact"><strong>Tel.:</strong> <a href="tel:+3614761100">+36 1 476 1100</a> / <a href="tel:+3614761278">+36 1 476 1278</a></div>
+                    <div class="abbr-persons">
+                        <div class="person-card">
+                            <span class="person-name">Dr. Müller Cecília</span> (országos tisztifőorvos)
+                        </div>
+                    </div>
+                </div>
+
+                <div class="abbr-item">
+                    <div class="abbr-header"><strong>BFK</strong> – Budapest Főváros Kormányhivatala</div>
+                    <div class="abbr-contact"><strong>Cím:</strong> 1056 Budapest, Váci u. 62-64.</div>
+                    <div class="abbr-contact"><strong>E-mail:</strong> <a href="mailto:budapest@bfkh.gov.hu">budapest@bfkh.gov.hu</a> | <strong>Tel.:</strong> <a href="tel:+3614856900">+36 1 485 6900</a></div>
+                    <div class="abbr-persons">
+                        <div class="person-card">
+                            <span class="person-name">dr. Mészár Erika</span> (Főigazgató)
+                        </div>
+                    </div>
+                </div>
+
+                <div class="abbr-item">
+                    <div class="abbr-header"><strong>Szakértő szervezetek</strong> – ADEPT ENVIRO Kft.</div>
+                    <div class="abbr-contact"><strong>Cím:</strong> 1117 Budapest, Budafoki út 70.</div>
+                    <div class="abbr-contact"><strong>E-mail:</strong> <a href="mailto:adeptenviro@adeptenviro.com">adeptenviro@adeptenviro.com</a> | <strong>Tel.:</strong> <a href="tel:+36309703713">+36 30 970 3713</a></div>
+                    <div class="abbr-persons">
+                        <div class="person-card">
+                            <span class="person-name">Vámosi Oszkár</span> (ügyvezető)
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </details>
+
+        <div class="controls-card">
+            <input type="text" id="search-input" class="search-box" placeholder="Keresés (pl. óvoda, határozat, NNGYK, mérés)...">
+            <button id="sort-btn" class="sort-btn">Rendezés: legújabb elöl</button>
+            <div id="count-label" class="count-label">Összesen bejegyzés</div>
+        </div>
+
+        <div id="timeline-container" class="timeline"></div>
+
+        <div class="footer">
+            <p class="disclaimer">Felelősségkizárás: Az oldal készítője nem vállal felelősséget az oldalon megjelenített adatok, dokumentumok és információk pontosságáért, teljességéért vagy tartalmáért. Az adatok tájékoztató jellegűek, a hivatalos információkért kérjük, látogasson el az illetékes hatóságok hivatalos felületeire.</p>
+        </div>
+    </div>
+
+    <script>
+const timelineData = [
+  {
+    "id": 109,
+    "filename": "40.",
+    "url": "https://www.bpxv.hu/aktualitasok/kuthasznalati-korlatozas-szovogyar-utca-tersegeben",
+    "date": "2026.06.25",
+    "author": "BPXV Önkormányzat",
+    "recipient": "XV. kerületi lakosság",
+    "title": "Kúthasználati korlátozás kiterjesztése a Szövőgyár utca térségében",
+    "summary": "A jegyző egy határozatban korlátozta az érintett területen található háztartási kutak használatát egy a korábbinál nagyobb területen.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/06/bp_fnef_03948_4_2026_15._ker.jegyzo1_szkk_alairt_3_0.pdf",
+        "date": "2026.06.12",
+        "author": "dr. Mészár Erika főigazgató (BFK)",
+        "title": "Kérés a kutak használatának korlátozását elrendelő határozat kiegészítésre"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/06/05398-24_2026_szovogyar_vizkorlatozas_0.pdf",
+        "date": "2026.06.17",
+        "author": "Illés Gábor osztályvezető (PEKH)",
+        "title": "A szennyeződéssel érintett ingatlanok helyrajzi számának listája"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/06/7_584_26_2026_hatarozat_kuthasznalat_korlatozasa_szovogyar_utca_0.pdf",
+        "date": "2026.06.23",
+        "author": "Dr. Zsidei Kinga aljegyző (BPXV)",
+        "title": "Kúthasználati határozat"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/06/jav_7_584_27_2026_tajekoztatas_keres_fovarosi_kormanyhivatal_szovogyar_ugye_alairt_alairt_alairt_0.pdf",
+        "date": "2026.06.24",
+        "author": "dr. Kevevári Edit jegyző (BPXV)",
+        "title": "Válasz dr. Mészár Erika főigazgató (BFK) részére"
+      },
+    ]
+  },
+  {
+    "id": 108,
+    "filename": "39.",
+    "url": "https://www.bpxv.hu/aktualitasok/tajekoztatast-kert-az-onkormanyzat-szovogyar-utcai-ingatlan-zarodokumentaciojarol",
+    "date": "2026.05.04",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+    "title": "Tájékoztatást kért az önkormányzat a Szövőgyár utcai ingatlan záródokumentációjáról",
+    "summary": "Az önkormányzat arról kért információt, hogy benyújtották-e a határidőig a szükséges záródokumentációt a Szövőgyár utcai ingatlan ügyében.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/05/7_584_18_2026_tajekoztatas_keres_pvkh_04.30.pdf",
+        "date": "2026.05.04",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "filename": "38.",
+    "url": "https://www.bpxv.hu/aktualitasok/modositottak-szovogyar-utcai-ingatlan-karmentesitesere-vonatkozo-hatarozatot",
+    "date": "2026.04.14",
+    "author": "dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "Módosították a Szövőgyár utcai ingatlan kármentesítésére vonatkozó határozatot",
+    "summary": "A módosítás értelmében a tényfeltárási záródokumentáció benyújtásának határideje 2026. április 30. napjára változott.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/04/05398-5_2026.pdf",
+        "date": "2026.04.14",
+        "author": "dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+        "title": "A hivatalos határozat"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "filename": "37.",
+    "url": "https://www.bpxv.hu/aktualitasok/kormanyhivatali-valasz-erkezett-szovogyar-utcai-ugyben",
+    "date": "2026.02.26",
+    "author": "dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "Kormányhivatali válasz érkezett a Szövőgyár utcai ügyben",
+    "summary": "A Kormányhivatal tájékoztatása szerint az óvoda működésének felfüggesztése továbbra is indokolt, a környezeti tényfeltárás pedig még folyamatban van.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/02/bp_14_neo_00620_3_2026_onkormanyzatnak_valaszlevel.pdf",
+        "date": "2026.02.26",
+        "author": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ],
+    "parent": 105
+  },
+  {
+    "id": 105,
+    "filename": "36.",
+    "url": "https://www.bpxv.hu/aktualitasok/ujabb-megkereses-szovogyar-utcai-tagovoda-ugyeben",
+    "date": "2026.02.23",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+    "title": "A polgármester újabb megkeresése a kerületi tisztifőorvoshoz",
+    "summary": "Cserdiné Németh Angéla ismét hivatalos levélben fordult Dr. Néráth Andrea kerületi tisztifőorvoshoz a Szövőgyár utcai tagóvoda újranyitásának előmozdítása érdekében. Az önkormányzat haladéktalan állásfoglalást kér a szükséges intézkedésekről.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/02/szovogyar_7_584_10_2026_tajekoztatas_keres_bpxiv._nepeu._02.17._alairt_alairt_alairt.pdf",
+        "date": "2026.02.23",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "filename": "35.",
+    "url": "https://www.bpxv.hu/aktualitasok/tajekoztatas-szovogyar-utcai-terulet-es-az-egykori-novenyolajgyar-ugyeben",
+    "date": "2026.02.17",
+    "author": "dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "A Pest Vármegyei Kormányhivatal tájékoztatása",
+    "summary": "A Pest Vármegyei Kormányhivatal két külön ügyben adott tájékoztatást: a Szövőgyár utca 19–21. szám alatti ingatlanon feltárt felszín alatti szennyezettségről, valamint az egykori Növényolajgyár területével kapcsolatos kármentesítési eljárásról.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/02/05398-2026_xv._ker_colortex_-_novenyolajgyar_polgarmester_tajek.pdf",
+        "date": "2026.02.17",
+        "author": "dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "filename": "",
+    "url": "https://www.bpxv.hu/aktualitasok/hatarido-hosszabbitast-kertek-szovogyar-utcai-szennyezes-tenyfeltarasara",
+    "date": "2026.02.11",
+    "author": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "Határidő-hosszabbítást kértek a Szövőgyár utcai szennyezés tényfeltárására",
+    "summary": "Az MNV Zrt. határidő-hosszabbítást kezdeményezett a tényfeltárási záródokumentáció benyújtására.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/02/mnv_01_10851_3_2026_szovogyar_utca_ugyeben_pm_tajekoztatasa.pdf",
+        "date": "2026.02.11",
+        "author": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "filename": "",
+    "url": "https://www.bpxv.hu/aktualitasok/tajekoztatast-ker-az-onkormanyzat-magyar-nemzeti-vagyonkezelo-zrt-tol-es-pest",
+    "date": "2026.02.05",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.), dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+    "title": "Az önkormányzat tájékoztatást kér az MNV Zrt.-től és a Pest Vármegyei Kormányhivataltól",
+    "summary": "A Szövőgyár utcában feltárt talajszennyezés miatt Cserdiné Németh Angéla polgármester hivatalos megkeresésben fordult az illetékes állami szervekhez, az érintett lakók és az óvoda jövője érdekében.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/02/7_584_5_2026_tajekoztatas_keres_mnv_zrt._02.04._szovogyar_alairt_alairt_alairt.pdf",
+        "date": "2026.02.05",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "A teljes, hivatalos levél az MNV Zrt. felé"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/02/7_584_4_2026_tajekoztatas_keres_pvkh_01.30_szovogyar_alairt_alairt_alairt.pdf",
+        "date": "2026.02.05",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "A teljes, hivatalos levél a Pest Vármegyei Kormányhivatal felé"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "filename": "",
+    "url": "https://www.bpxv.hu/aktualitasok/tajekoztatas-kerese-dr-nerath-andrea-keruleti-tisztifoorvos-osztalyvezetotol-7/2262-61",
+    "date": "2025.12.12",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+    "title": "Tájékoztatás kérése Dr. Néráth Andrea kerületi tisztifőorvos osztályvezetőtől",
+    "summary": "Cserdiné Németh Angéla levele a Budapest Főváros Kormányhivatala XIV. Kerületi Hivatala Népegészségügyi Osztályának.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2025/12/7_2262_62_2025_polgarmester_tajekoztatas_keres_bpxiv._nepeu.12.02._szovogyar_alairt_alairt_alairt_alairt.pdf",
+        "date": "2025.12.12",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "filename": "31_melleklet.pdf",
+    "url": "https://www.bpxv.hu/aktualitasok/level-budapest-fovaros-kormanyhivatala-xiv-keruleti-hivatal-nepegeszsegugyi",
+    "date": "2025.11.05",
+    "author": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "Népegészségügyi tájékoztatás az egészségügyi kockázatokról",
+    "summary": "Hivatalos tájékoztatás a beltéri levegőben mért oldószer-koncentrációk népegészségügyi megítéléséről.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/2025-11/31_melleklet_0.pdf",
+        "date": "2025.11.05",
+        "author": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "filename": "",
+    "url": "https://www.bpxv.hu/aktualitasok/cserdine-nemeth-angela-polgarmester-levele-budapest-fovaros-kormanyhivatala-xiv",
+    "date": "2025.10.03",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+    "title": "Cserdiné Németh Angéla polgármester levele Budapest Főváros Kormányhivatala XIV. Kerületi Hivatala Népegészségügyi Osztálynak",
+    "summary": "A polgármester levelében tájékoztatást kért Dr. Néráth Andrea kerületi tisztifőorvos osztályvezetőtől.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/2025-10/szovogyar_sima_7_2262_55_2025_tajekoztatas_keres_bpxiv._09.19_alairt_alairt_alairt.pdf",
+        "date": "2025.10.03",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "filename": "29_melleklet.pdf",
+    "url": "https://www.bpxv.hu/aktualitasok/volt-budapesti-finomkotottarugyar-colortex-koruli-kornyezetvedelmi-vizsgalatok",
+    "date": "2025.09.24",
+    "author": "Groszné Kővári Réka (Városgazdálkodási Főosztály)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "A Városgazdálkodási Főosztály tájékoztatója a műszaki leíráshoz készült helyszínrajzról",
+    "summary": "A volt Budapesti Finomkötöttárugyár (Colortex) körüli környezetvédelmi vizsgálatok folytatása 17 új közterületi furat (mintakút) kialakításával.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/2025-09/helyszinrajz_adept_env_2025.pdf",
+        "date": "2025.08.14",
+        "author": "ADEPT ENVIRO Kft.",
+        "title": "Kármentesítési mintavételi helyszínrajz és térkép"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "filename": "28_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-09/28_melleklet.pdf",
+    "date": "2025.08.29",
+    "author": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "BFKH tájékoztatása a népegészségügyi vizsgálatokról",
+    "summary": "A XIV. kerületi Népegészségügyi Osztály válaszlevele a folyamatban lévő népegészségügyi és hatósági vizsgálatokról.",
+    "parent": 32
+  },
+  {
+    "id": 32,
+    "filename": "26_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-06/26_melleklet.pdf",
+    "date": "2025.06.23",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+    "title": "Tájékoztatás kérése az óvoda állapotáról",
+    "summary": "Megkeresés a kerületi tisztifőorvoshoz az óvoda újranyitási feltételeiről és a további levegőmérések szempontjairól."
+  },
+  {
+    "id": 33,
+    "filename": "27_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-07/27_melleklet.pdf",
+    "date": "2025.07.17",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+    "title": "Tájékoztatás kérése a környezetvédelmi hatóságtól",
+    "summary": "A polgármester kéri a Kormányhivatal folyamatos tájékoztatását a környezetvédelmi eljárások és tényfeltárások haladásáról."
+  },
+  {
+    "id": 31,
+    "filename": "25_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-06/25_melleklet.pdf",
+    "date": "2025.05.30",
+    "author": "Dr. Müller Cecília országos tisztifőorvos (NNGYK)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "NNGYK válaszlevele a levegőminőség-mérés eredményéről",
+    "summary": "A Nemzeti Népegészségügyi és Gyógyszerészeti Központ válaszlevele a levegőminőség-mérés eredményéről, kiértékeléséről és a vizsgálati jegyzőkönyvről."
+  },
+  {
+    "id": 30,
+    "filename": "24_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/24_melleklet.pdf",
+    "date": "2025.05.28",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Müller Cecília országos tisztifőorvos (NNGYK)",
+    "title": "Újabb megkeresés az NNGYK felé",
+    "summary": "A polgármester jelzi, hogy válasz hiányában az egészségügyért felelős miniszterhez kénytelen fordulni a lakosság védelmében."
+  },
+  {
+    "id": 27,
+    "filename": "21_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/21_melleklet.pdf",
+    "date": "2025.05.12",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Müller Cecília országos tisztifőorvos (NNGYK)",
+    "title": "Sürgető tájékoztatás kérése az NNGYK-tól",
+    "summary": "A polgármester ismételten kéri a vizsgálati eredmények és szakmai vélemény megküldését a lakosság tájékoztatása érdekében."
+  },
+  {
+    "id": 28,
+    "filename": "22_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/22_melleklet.pdf",
+    "date": "2025.05.14",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Holndonner Péter csoportvezető (MNV Zrt.)",
+    "title": "Adat- és tájékoztatás kérés az MNV Zrt.-től",
+    "summary": "Megkeresés a május 6-i fórumon elhangzottak alapján a tényfeltárás jelenlegi állásáról és az időbeli ütemezésről."
+  },
+  {
+    "id": 29,
+    "filename": "23_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/23_melleklet.pdf",
+    "date": "2025.05.22",
+    "author": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "MNV Zrt. válasza a levegőminőség-mérésekről",
+    "summary": "Az MNV Zrt. tájékoztatja az Önkormányzatot a mérések feldolgozásáról és a hatóságokkal való adatmegosztásról.",
+    "parent": 28
+  },
+  {
+    "id": 23,
+    "filename": "18_melleklet_0.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/18_melleklet_0.pdf",
+    "date": "2025.05.05",
+    "author": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "BFKH válasza a lakossági fórum meghívására",
+    "summary": "A XIV. kerületi Népegészségügyi Osztály kimenti részvételét a lakossági fórumról, hatásköri hivatkozással."
+  },
+  {
+    "id": 24,
+    "filename": "19_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/19_melleklet.pdf",
+    "date": "2025.05.06",
+    "author": "Dr. Müller Cecília országos tisztifőorvos (NNGYK)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "NNGYK tájékoztatása a lakossági fórumról",
+    "summary": "Az NNGYK válasza: a mérések lezárása és a hatósági döntések meghozatala után tartja indokoltnak a lakosság tájékoztatását."
+  },
+  {
+    "id": 25,
+    "filename": "20_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/20_melleklet.pdf",
+    "date": "2025.05.08",
+    "author": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "Tájékoztató az óvodai levegőmintavételekről",
+    "summary": "Az MNV Zrt. megküldi a Szövőgyár utcai óvodában április 20-21-én végzett megismételt levegőmintavételek eredményét.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/2025-05/20_melleklet_levegomintavetelek_laboratoriumi_eredmenyei_jegyzokonyv.pdf",
+        "date": "2025.05.08",
+        "author": "ADEPT ENVIRO Kft. / Bálint Analitika Kft.",
+        "title": "Jegyzőkönyv - Ismételt óvodai levegőmérés (74/2025)"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "filename": "16._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/16._melleklet.pdf",
+    "date": "2025.04.30",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Bodroghelyi Csaba elnök (Nemzeti Akkreditáló Hatóság)",
+    "title": "Akkreditált mérések elvégzésének kérése",
+    "summary": "A polgármester megkeresi a NAH-ot független akkreditált laboratóriumok kijelölése és akkreditált mérések lefolytatása érdekében."
+  },
+  {
+    "id": 21,
+    "filename": "17_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/17_melleklet.pdf",
+    "date": "2025.04.30",
+    "author": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "MNV Zrt. válasza a lakossági fórum meghívására",
+    "summary": "Az MNV Zrt. kimenti jelenlétét a lakossági fórumról, jelzi hogy az adatokat megküldte a hatóságoknak.",
+    "parent": 22
+  },
+  {
+    "id": 22,
+    "filename": "17_2_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/17_2_melleklet.pdf",
+    "date": "2025.04.28",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "title": "Meghívó lakossági fórumra (2025. május 6.)",
+    "summary": "A polgármester meghívja az MNV Zrt. vezetését a május 6-án tartandó rendkívüli lakossági fórumra."
+  },
+  {
+    "id": 19,
+    "filename": "15._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/15._melleklet.pdf",
+    "date": "2025.04.30",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Müller Cecília országos tisztifőorvos (NNGYK)",
+    "title": "Intézkedések és közreműködés kérése az NNGYK-tól",
+    "summary": "A polgármester felkéri az NNGYK-t a lakosság egészségvédelme érdekében szükséges további mérések és szakhatósági intézkedések elrendelésére.",
+    "parent": 17
+  },
+  {
+    "id": 17,
+    "filename": "13._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/13._melleklet.pdf",
+    "date": "2025.04.23",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Müller Cecília országos tisztifőorvos (NNGYK)",
+    "title": "Tájékoztatás az óvoda bezárásáról és ismételt mérések sürgetése",
+    "summary": "A polgármester tájékoztatja az országos tisztifőorvost az óvoda bezárásáról, és a megismételt beltéri mérések eredményének haladéktalan megküldését kéri.",
+    "parent": 18
+  },
+  {
+    "id": 18,
+    "filename": "14._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/14._melleklet.pdf",
+    "date": "2025.04.29",
+    "author": "NNGYK Közegészségügyi Főosztály",
+    "recipient": "BPXV Önkormányzat",
+    "title": "NNGYK tájékoztatása a népegészségügyi határozatról",
+    "summary": "Az NNGYK visszajelzése az óvoda működésének felfüggesztéséről hozott népegészségügyi döntéssel kapcsolatban."
+  },
+  {
+    "id": 16,
+    "filename": "12._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/12._melleklet.pdf",
+    "date": "2025.04.17",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Lakosság / Óvodai szülők",
+    "title": "Hirdetmény az óvoda működésének felfüggesztéséről",
+    "summary": "Sürgősségi hirdetmény: a Népegészségügyi Osztály határozata alapján a Szövőgyár utcai óvoda működését felfüggesztik, a gyerekeket átmenetileg a Mozdonyvezető utcai óvodába helyezik át."
+  },
+  {
+    "id": 15,
+    "filename": "11._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/11._melleklet.pdf",
+    "date": "2025.04.17",
+    "author": "BFKH XIV. Kerületi Hivatala Népegészségügyi Osztály",
+    "recipient": "BPXV Önkormányzat",
+    "title": "Határozat az óvoda működésének felfüggesztésére",
+    "summary": "Budapest Főváros Kormányhivatala XIV. Kerületi Hivatalának kerületi tisztifőorvos osztályvezetőjének határozata, melyben a Rákospalotai Összevont Óvoda Szövőgyár tagóvoda tekintetében a kifogásolt beltéri levegő minőség miatt, a kifogásolt beltéri levegő minőség megfelelőségének igazolásáig az óvoda működésének felfüggesztésére kötelezi Budapest Főváros XV. kerület Rákospalota, Pestújhely, Újpalota Önkormányzat Gazdasági Működtetési Központot mint működtetőt."
+  },
+  {
+    "id": 11,
+    "filename": "10._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/10._melleklet.pdf",
+    "date": "2025.04.14",
+    "author": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "MNV Zrt. tájékoztatója a mérésekről és kockázatszámításról",
+    "summary": "Tájékoztató a Szövőgyár utcai óvoda beltéri levegővizsgálatáról és az egykori gyárterület kockázatszámítási dokumentációjáról.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/2025-04/10._melleklet_budapest_-_volt_szovogyar_-_ovoda_-_belteri_levego_vizsgalati_jelentes.pdf",
+        "date": "2025.04.10",
+        "author": "ADEPT ENVIRO Kft.",
+        "title": "Összefoglaló jelentés az óvodai beltéri levegőmérésről"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/2025-04/10_melleklet_budapest_-_volt_szovogyar_-_ovoda_-_belteri_levego_vizsgalati_jelentes_1._melleklet.pdf",
+        "date": "2025.03.29",
+        "author": "ADEPT ENVIRO Kft. / Bálint Analitika Kft.",
+        "title": "Vizsgálati jegyzőkönyv - Óvodai beltéri levegőmérés",
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/2025-04/10._melleklet_egykori_szovogyar_terulete_-_tervezett_epitkezes_-_kockazatszamitas.pdf",
+        "date": "2025.03.31",
+        "author": "ADEPT ENVIRO Kft.",
+        "title": "Ingatlanfejlesztési kockázati számítások (88323 hrsz.)",
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "filename": "9._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/9._melleklet.pdf",
+    "date": "2025.04.10",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "ADEPT ENVIRO Kft.",
+    "title": "Tulajdonosi nyilatkozat a tényfeltárási munkák elvégzéséhez",
+    "summary": "A polgármester hozzájáruló nyilatkozata az önkormányzati ingatlanokon (óvoda, közterületek) végzendő mérésekhez és fúrásokhoz."
+  },
+  {
+    "id": 8,
+    "filename": "8._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/8._melleklet.pdf",
+    "date": "2025.03.14",
+    "author": "Pest Vármegyei Kormányhivatal",
+    "recipient": "MNV Zrt. / BPXV Önkormányzat",
+    "title": "Tájékoztató a kiegészítő tényfeltárás elrendeléséről",
+    "summary": "Pest Vármegyei Kormányhivatal levele, melyben a honlapon közzétett hirdetmény pontosítását kérik."
+  },
+  {
+    "id": 9,
+    "filename": "8._melleklet-_uj_informaciok_a_szovogyar_utcat_erinto_szennyezettseggel_kapcsolatban_002.pdf",
+    "url": "https://www.bpxv.hu/aktualitasok/uj-informaciok-szovogyar-utcat-erinto-felszin-alatti-szennyezettsegrol",
+    "date": "2025.03.21",
+    "author": "dr. Kevevári Edit jegyző (BPXV)",
+    "recipient": "XV. kerületi lakosság",
+    "title": "Új információk a Szövőgyár utcát érintő szennyezettségről",
+    "summary": "Tájékoztatás a kiegészítő tényfeltárási munkálatok megkezdéséről és a lakossági mérések állásáról.",
+    "parent": 8
+  },
+  {
+    "id": 7,
+    "filename": "7._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/7._melleklet.pdf",
+    "date": "2025.03.04",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "title": "Talaj- és talajvízszennyezettség vizsgálatának kérése",
+    "summary": "Az Önkormányzat polgármesterének levele az MNV Zrt. részére, melyben a talaj- és talajvízszennyezettség soron kívüli vizsgálatát kéri az Óvoda területén."
+  },
+  {
+    "id": 6,
+    "filename": "6._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/6._melleklet.pdf",
+    "date": "2025.03.06",
+    "author": "dr. Kevevári Edit jegyző (BPXV)",
+    "recipient": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "title": "Tájékoztatás az MNV Zrt. megkeresésére",
+    "summary": "Az Önkormányzat jegyzőjének válaszlevele az MNV Zrt. részére.",
+    "parent": 5
+  },
+  {
+    "id": 5,
+    "filename": "5._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/5._melleklet.pdf",
+    "date": "2025.03.03",
+    "author": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "recipient": "dr. Kevevári Edit jegyző (BPXV)",
+    "title": "MNV Zrt. válaszlevele a kármentesítési intézkedésekről",
+    "summary": "Magyar Nemzeti Vagyonkezelő Zrt. Budapest XV. kerület, Szövőgyár utca 19-21. szám alatti ingatlanon és környezetében feltárt szennyezettség ügyében kiadott közleménnyel kapcsolatos, MNV/01/2288/5/2025. ikt. számú helyreigazítási kérelme."
+  },
+  {
+    "id": 2,
+    "filename": "2._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/2._melleklet.pdf",
+    "date": "2025.02.27",
+    "author": "dr. Kevevári Edit jegyző (BPXV)",
+    "recipient": "Érintett ingatlanok tulajdonosai",
+    "title": "Határozat a kúthasználat korlátozásáról",
+    "summary": "Az Önkormányzat jegyzőjének kúthasználat korlátozása tárgyában hozott határozata."
+  },
+  {
+    "id": 3,
+    "filename": "3._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/3._melleklet.pdf",
+    "date": "2025.02.26",
+    "author": "dr. Kevevári Edit jegyző (BPXV)",
+    "recipient": "XV. kerületi lakosság",
+    "title": "Közlemény a felszín alatti szennyezettségről - Facebook",
+    "summary": "Facebookon közzétett önkormányzati közlemény a szennyezettségről."
+  },
+  {
+    "id": 4,
+    "filename": "4._melleklet.pdf",
+    "url": "https://www.bpxv.hu/aktualitasok/kozlemeny-felszin-alatti-szennyezettsegrol",
+    "date": "2025.02.26",
+    "author": "dr. Kevevári Edit jegyző (BPXV)",
+    "recipient": "XV. kerületi lakosság",
+    "title": "Közlemény a felszín alatti szennyezettségről - Honlap",
+    "summary": "Honlapon közzétett önkormányzati közlemény a szennyezettségről."
+  },
+  {
+    "id": 1,
+    "filename": "1._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/1._melleklet.pdf",
+    "date": "2025.02.19",
+    "author": "Illés Gábor (Pest Vármegyei Kormányhivatal)",
+    "recipient": "dr. Kevevári Edit jegyző (BPXV)",
+    "title": "Környezetvédelmi hatósági kötelezés tényfeltárásra",
+    "summary": "Pest Vármegyei Kormányhivatal tájékoztatása a Szövőgyár utca 19-21. szám alatti ingatlanon és környezetében feltárt felszín alatti szennyezettséggel kapcsolatban."
+  }
+];
+
+        let isDescending = true;
+
+        const ABBREVIATIONS = {
+            'BFKH XIV. KH': 'Budapest Főváros Kormányhivatalának XIV. Kerületi Hivatala',
+            'BPXV': 'Budapest XV. kerület Önkormányzata',
+            'PEKH': 'Pest Vármegyei Kormányhivatal',
+            'NNGYK': 'Nemzeti Népegészségügyi és Gyógyszerészeti Központ',
+            'MNV Zrt.': 'Magyar Nemzeti Vagyonkezelő Zrt.',
+            'BFK': 'Budapest Főváros Kormányhivatala'
+        };
+
+        function escapeHtml(str) {
+            if (!str) return '';
+            return String(str)
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;');
+        }
+
+        function resolveAbbreviations(text) {
+            if (!text) return '';
+            let escaped = escapeHtml(text);
+            const keys = Object.keys(ABBREVIATIONS).sort((a, b) => b.length - a.length);
+            keys.forEach(abbr => {
+                const full = ABBREVIATIONS[abbr];
+                const escapedAbbr = escapeHtml(abbr);
+                const escapedFull = escapeHtml(full);
+                const regex = new RegExp(`\\b${escapedAbbr.replace(/\./g, '\\.')}\\b`, 'g');
+                escaped = escaped.replace(regex, `<abbr title="${escapedFull}" class="abbr-tooltip">${escapedAbbr}</abbr>`);
+            });
+            return escaped;
+        }
+
+        function scrollToParent(e, parentId) {
+            e.preventDefault();
+            const targetEl = document.getElementById(`item-${parentId}`);
+            if (targetEl) {
+                targetEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                const contentEl = targetEl.querySelector('.timeline-content');
+                if (contentEl) {
+                    contentEl.classList.remove('highlight');
+                    void contentEl.offsetWidth; // Trigger reflow
+                    contentEl.classList.add('highlight');
+                }
+            }
+        }
+
+        function renderTimeline(data) {
+            const container = document.getElementById('timeline-container');
+            container.innerHTML = '';
+
+            if (data.length === 0) {
+                container.innerHTML = '<div style="background: #fff; padding: 20px; border-radius: 8px; text-align: center; color: #7f8c8d;">Nincs a keresésnek megfelelő dokumentum.</div>';
+                return;
+            }
+
+            data.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'timeline-item';
+                div.id = `item-${item.id}`;
+
+                let parentHtml = '';
+                if (item.parent) {
+                    const parentItem = timelineData.find(p => p.id === item.parent);
+                    if (parentItem) {
+                        parentHtml = `
+                            <div class="parent-ref">
+                                <a href="#item-${item.parent}" class="parent-link" onclick="scrollToParent(event, ${item.parent})">
+                                    &hookleftarrow; Előzmény: ${resolveAbbreviations(parentItem.title)} (${escapeHtml(parentItem.date || '')})
+                                </a>
+                            </div>
+                        `;
+                    }
+                }
+
+                let attachmentsHtml = '';
+                if (item.attachments && Array.isArray(item.attachments) && item.attachments.length > 0) {
+                    const attachItems = item.attachments.map(att => {
+                        const metaParts = [];
+                        if (att.date) metaParts.push(escapeHtml(att.date));
+                        if (att.author) metaParts.push(resolveAbbreviations(att.author));
+                        const metaStr = metaParts.join(' | ');
+
+                        return `
+                            <div class="attachment-card">
+                                <div class="attachment-info">
+                                    <div class="attachment-title">${resolveAbbreviations(att.title)}</div>
+                                    ${metaStr ? `<div class="attachment-meta">${metaStr}</div>` : ''}
+                                </div>
+                                <a href="${escapeHtml(att.url)}" target="_blank" rel="noopener" class="attachment-btn">
+                                    Csatolmány megnyitása (PDF) &rarr;
+                                </a>
+                            </div>
+                        `;
+                    }).join('');
+
+                    attachmentsHtml = `
+                        <div class="attachments-group">
+                            <div class="attachments-header">
+                                Csatolmányok (${item.attachments.length}):
+                            </div>
+                            ${attachItems}
+                        </div>
+                    `;
+                }
+
+                let pdfBtnHtml = '';
+                if (item.url) {
+                    pdfBtnHtml = `
+                        <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener" class="pdf-btn">
+                            Hivatalos cikk / dokumentum megnyitása &rarr;
+                        </a>
+                    `;
+                }
+
+                div.innerHTML = `
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        ${parentHtml}
+                        <span class="timeline-date">${escapeHtml(item.date || 'Nincs dátum')}</span>
+                        <h2 class="timeline-title">${resolveAbbreviations(item.title)}</h2>
+                        <div class="meta-group">
+                            <div class="meta-row"><span class="meta-label">Szerző / küldő:</span> <span class="meta-value">${resolveAbbreviations(item.author || '-')}</span></div>
+                            <div class="meta-row"><span class="meta-label">Címzett:</span> <span class="meta-value">${resolveAbbreviations(item.recipient || '-')}</span></div>
+                        </div>
+                        <p class="timeline-body">${resolveAbbreviations(item.summary)}</p>
+                        ${pdfBtnHtml}
+                        ${attachmentsHtml}
+                    </div>
+                `;
+                container.appendChild(div);
+            });
+        }
+
+        function filterAndSort() {
+            const query = document.getElementById('search-input').value.toLowerCase().trim();
+            
+            let filtered = timelineData.filter(item => {
+                if (!query) return true;
+
+                const matchMain = (item.title && item.title.toLowerCase().includes(query)) ||
+                                  (item.author && item.author.toLowerCase().includes(query)) ||
+                                  (item.recipient && item.recipient.toLowerCase().includes(query)) ||
+                                  (item.summary && item.summary.toLowerCase().includes(query)) ||
+                                  (item.date && item.date.toLowerCase().includes(query)) ||
+                                  (item.filename && item.filename.toLowerCase().includes(query));
+
+                if (matchMain) return true;
+
+                if (item.attachments && Array.isArray(item.attachments)) {
+                    const matchAtt = item.attachments.some(att => 
+                        (att.title && att.title.toLowerCase().includes(query)) ||
+                        (att.author && att.author.toLowerCase().includes(query)) ||
+                        (att.date && att.date.toLowerCase().includes(query))
+                    );
+                    if (matchAtt) return true;
+                }
+
+                if (item.parent) {
+                    const parentItem = timelineData.find(p => p.id === item.parent);
+                    if (parentItem && parentItem.title && parentItem.title.toLowerCase().includes(query)) {
+                        return true;
+                    }
+                }
+
+                return false;
+            });
+
+            filtered.sort((a, b) => {
+                const dateA = a.date || '0000.00.00';
+                const dateB = b.date || '0000.00.00';
+                return isDescending ? dateB.localeCompare(dateA) : dateA.localeCompare(dateB);
+            });
+
+            document.getElementById('count-label').textContent = `Találatok: ${filtered.length} / ${timelineData.length} bejegyzés`;
+            renderTimeline(filtered);
+        }
+
+        document.getElementById('search-input').addEventListener('input', filterAndSort);
+
+        document.getElementById('sort-btn').addEventListener('click', () => {
+            isDescending = !isDescending;
+            document.getElementById('sort-btn').textContent = isDescending ? 'Rendezés: legújabb elöl' : 'Rendezés: legrégebbi elöl';
+            filterAndSort();
+        });
+
+        // Initial render
+        filterAndSort();
+    </script>
+</body>
+</html>

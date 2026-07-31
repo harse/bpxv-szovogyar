@@ -1,0 +1,1207 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Naptár nézet - Budapest XV. kerület, Szövőgyár utcai szennyezés</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body, html {
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            background-color: #f5f6fa;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            color: #34495e;
+        }
+        .container {
+            width: 100%;
+            max-width: 880px;
+            margin: 0 auto;
+            padding: 24px 20px 40px;
+        }
+        .header-card {
+            background: #ffffff;
+            border-radius: 12px;
+            padding: 28px 24px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+            margin-bottom: 20px;
+        }
+        .nav-links {
+            font-size: 14px;
+            margin-bottom: 16px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+        }
+        .nav-links a {
+            color: #3498db;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        .nav-links a:hover {
+            text-decoration: underline;
+        }
+        h1 {
+            margin: 0 0 8px 0;
+            color: #2c3e50;
+            font-size: 22px;
+            font-weight: 700;
+        }
+        p.subtitle {
+            margin: 0 0 16px 0;
+            font-size: 14px;
+            color: #7f8c8d;
+            line-height: 1.5;
+        }
+
+        /* Calendar Controls Header */
+        .calendar-controls {
+            background: #ffffff;
+            border-radius: 10px;
+            padding: 16px 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+            margin-bottom: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+        }
+        .month-title {
+            font-size: 18px;
+            font-weight: 700;
+            color: #2c3e50;
+        }
+        .btn-group {
+            display: flex;
+            gap: 8px;
+        }
+        .cal-btn {
+            padding: 8px 14px;
+            background-color: #f1f2f6;
+            border: 1px solid #dcdde1;
+            border-radius: 6px;
+            font-size: 13px;
+            color: #2c3e50;
+            cursor: pointer;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+        .cal-btn:hover {
+            background-color: #e4e7eb;
+        }
+        .cal-select {
+            padding: 8px 12px;
+            border: 1px solid #dcdde1;
+            border-radius: 6px;
+            font-size: 13px;
+            color: #2c3e50;
+            background: #fff;
+            outline: none;
+            cursor: pointer;
+        }
+
+        /* Calendar Grid */
+        .calendar-card {
+            background: #ffffff;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+            margin-bottom: 28px;
+        }
+        .weekdays-grid {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            text-align: center;
+            font-weight: 600;
+            font-size: 12px;
+            color: #7f8c8d;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #f1f2f6;
+            margin-bottom: 10px;
+        }
+        .days-grid {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 6px;
+        }
+        .day-cell {
+            min-height: 80px;
+            background-color: #fafbfc;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            padding: 6px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            cursor: pointer;
+            transition: all 0.15s ease;
+        }
+        .day-cell.other-month {
+            background-color: #f8fafc;
+            opacity: 0.35;
+            cursor: default;
+        }
+        .day-cell:hover:not(.other-month) {
+            border-color: #3498db;
+            box-shadow: 0 2px 8px rgba(52, 152, 219, 0.15);
+        }
+        .day-cell.selected-day {
+            border-color: #3498db;
+            background-color: #ebf5fb;
+            box-shadow: 0 0 0 2px #3498db;
+        }
+        .day-number {
+            font-size: 13px;
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        .doc-badge-container {
+            display: flex;
+            flex-direction: column;
+            gap: 3px;
+            margin-top: 4px;
+        }
+        .doc-badge {
+            font-size: 10px;
+            font-weight: 600;
+            background-color: #3498db;
+            color: #ffffff;
+            padding: 2px 5px;
+            border-radius: 4px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            text-align: center;
+        }
+        .has-docs {
+            border-left: 3px solid #e74c3c;
+            background-color: #fff9f8;
+        }
+
+        /* Selected Date Details Panel */
+        .details-card {
+            background: #ffffff;
+            border-radius: 12px;
+            padding: 24px 20px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+            scroll-margin-top: 20px;
+        }
+        .details-title-bar {
+            font-size: 16px;
+            font-weight: 700;
+            color: #2c3e50;
+            padding-bottom: 12px;
+            margin-bottom: 16px;
+            border-bottom: 2px solid #3498db;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .event-card {
+            background-color: #fafbfc;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 16px;
+            margin-bottom: 16px;
+        }
+        .event-card:last-child {
+            margin-bottom: 0;
+        }
+        .event-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #2c3e50;
+            margin: 0 0 8px 0;
+        }
+        .meta-group {
+            font-size: 12.5px;
+            background-color: #ffffff;
+            padding: 8px 12px;
+            border-radius: 6px;
+            border: 1px solid #e2e8f0;
+            margin-bottom: 10px;
+            line-height: 1.45;
+        }
+        .meta-row {
+            margin-bottom: 3px;
+        }
+        .meta-row:last-child {
+            margin-bottom: 0;
+        }
+        .meta-label {
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        .event-desc {
+            font-size: 13.5px;
+            line-height: 1.5;
+            color: #4a5568;
+            margin: 0 0 12px 0;
+        }
+        .btn-link-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .action-link {
+            font-size: 12.5px;
+            font-weight: 600;
+            padding: 7px 12px;
+            border-radius: 6px;
+            text-decoration: none;
+            transition: all 0.2s ease;
+        }
+        .action-timeline {
+            background-color: #ebf5fb;
+            color: #2980b9;
+        }
+        .action-timeline:hover {
+            background-color: #3498db;
+            color: #ffffff;
+        }
+        .action-pdf {
+            background-color: #f1f2f6;
+            color: #2c3e50;
+            border: 1px solid #cbd5e1;
+        }
+        .action-pdf:hover {
+            background-color: #e2e8f0;
+        }
+
+        /* Abbreviation Tooltip Style */
+        abbr.abbr-tooltip {
+            text-decoration: underline dotted #3498db;
+            cursor: help;
+            font-weight: 600;
+            color: #2c3e50;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 12px;
+            color: #95a5a6;
+            line-height: 1.5;
+        }
+        .footer p {
+            margin: 4px 0;
+        }
+        .footer .disclaimer {
+            font-size: 11px;
+            color: #676868;
+            max-width: 650px;
+            margin: 10px auto 0;
+            line-height: 1.45;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 16px 12px 32px;
+            }
+            .day-cell {
+                min-height: 55px;
+                padding: 4px;
+            }
+            .day-number {
+                font-size: 11px;
+            }
+            .doc-badge {
+                font-size: 9px;
+                padding: 1px 3px;
+            }
+            .calendar-controls {
+                flex-direction: column;
+                align-items: stretch;
+                text-align: center;
+            }
+            .btn-group {
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header-card">
+            <div class="nav-links">
+                <a href="index.html">&larr; Főoldal</a>
+                <a href="hatasterulet.html">Vélelmezett hatásterület</a>
+                <a href="idovonal.html">Idővonal &rarr;</a>
+            </div>
+            <h1>Naptár nézet</h1>
+            <p class="subtitle">A Szövőgyár utcai szennyezési ügy dokumentumainak havi naptáras áttekintése. Kattintson a kijelölt napokra a részletes anyagok megjelenítéséhez.</p>
+        </div>
+
+        <div class="calendar-controls">
+            <div class="btn-group">
+                <button id="prev-month" class="cal-btn">&larr; Előző hónap</button>
+                <button id="next-month" class="cal-btn">Következő hónap &rarr;</button>
+            </div>
+            <div id="month-display" class="month-title">2026. Június</div>
+            <select id="month-select" class="cal-select"></select>
+        </div>
+
+        <div class="calendar-card">
+            <div class="weekdays-grid">
+                <div>Hétfő</div>
+                <div>Kedd</div>
+                <div>Szerda</div>
+                <div>Csütörtök</div>
+                <div>Péntek</div>
+                <div>Szombat</div>
+                <div>Vasárnap</div>
+            </div>
+            <div id="days-grid" class="days-grid"></div>
+        </div>
+
+        <div id="details-container" class="details-card"></div>
+
+        <div class="footer">
+            <p class="disclaimer">Felelősségkizárás: Az oldal készítője nem vállal felelősséget az oldalon megjelenített adatok, dokumentumok és információk pontosságáért, teljességéért vagy tartalmáért. Az adatok tájékoztató jellegűek, a hivatalos információkért kérjük, látogasson el az illetékes hatóságok hivatalos felületeire.</p>
+        </div>
+    </div>
+
+    <script>
+const timelineData = [
+  {
+    "id": 109,
+    "filename": "40.",
+    "url": "https://www.bpxv.hu/aktualitasok/kuthasznalati-korlatozas-szovogyar-utca-tersegeben",
+    "date": "2026.06.25",
+    "author": "BPXV Önkormányzat",
+    "recipient": "XV. kerületi lakosság",
+    "title": "Kúthasználati korlátozás kiterjesztése a Szövőgyár utca térségében",
+    "summary": "A jegyző egy határozatban korlátozta az érintett területen található háztartási kutak használatát egy a korábbinál nagyobb területen.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/06/bp_fnef_03948_4_2026_15._ker.jegyzo1_szkk_alairt_3_0.pdf",
+        "date": "2026.06.12",
+        "author": "dr. Mészár Erika főigazgató (BFK)",
+        "title": "Kérés a kutak használatának korlátozását elrendelő határozat kiegészítésre"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/06/05398-24_2026_szovogyar_vizkorlatozas_0.pdf",
+        "date": "2026.06.17",
+        "author": "Illés Gábor osztályvezető (PEKH)",
+        "title": "A szennyeződéssel érintett ingatlanok helyrajzi számának listája"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/06/7_584_26_2026_hatarozat_kuthasznalat_korlatozasa_szovogyar_utca_0.pdf",
+        "date": "2026.06.23",
+        "author": "Dr. Zsidei Kinga aljegyző (BPXV)",
+        "title": "Kúthasználati határozat"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/06/jav_7_584_27_2026_tajekoztatas_keres_fovarosi_kormanyhivatal_szovogyar_ugye_alairt_alairt_alairt_0.pdf",
+        "date": "2026.06.24",
+        "author": "dr. Kevevári Edit jegyző (BPXV)",
+        "title": "Válasz dr. Mészár Erika főigazgató (BFK) részére"
+      },
+    ]
+  },
+  {
+    "id": 108,
+    "filename": "39.",
+    "url": "https://www.bpxv.hu/aktualitasok/tajekoztatast-kert-az-onkormanyzat-szovogyar-utcai-ingatlan-zarodokumentaciojarol",
+    "date": "2026.05.04",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+    "title": "Tájékoztatást kért az önkormányzat a Szövőgyár utcai ingatlan záródokumentációjáról",
+    "summary": "Az önkormányzat arról kért információt, hogy benyújtották-e a határidőig a szükséges záródokumentációt a Szövőgyár utcai ingatlan ügyében.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/05/7_584_18_2026_tajekoztatas_keres_pvkh_04.30.pdf",
+        "date": "2026.05.04",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "filename": "38.",
+    "url": "https://www.bpxv.hu/aktualitasok/modositottak-szovogyar-utcai-ingatlan-karmentesitesere-vonatkozo-hatarozatot",
+    "date": "2026.04.14",
+    "author": "dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "Módosították a Szövőgyár utcai ingatlan kármentesítésére vonatkozó határozatot",
+    "summary": "A módosítás értelmében a tényfeltárási záródokumentáció benyújtásának határideje 2026. április 30. napjára változott.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/04/05398-5_2026.pdf",
+        "date": "2026.04.14",
+        "author": "dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+        "title": "A hivatalos határozat"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "filename": "37.",
+    "url": "https://www.bpxv.hu/aktualitasok/kormanyhivatali-valasz-erkezett-szovogyar-utcai-ugyben",
+    "date": "2026.02.26",
+    "author": "dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "Kormányhivatali válasz érkezett a Szövőgyár utcai ügyben",
+    "summary": "A Kormányhivatal tájékoztatása szerint az óvoda működésének felfüggesztése továbbra is indokolt, a környezeti tényfeltárás pedig még folyamatban van.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/02/bp_14_neo_00620_3_2026_onkormanyzatnak_valaszlevel.pdf",
+        "date": "2026.02.26",
+        "author": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ],
+    "parent": 105
+  },
+  {
+    "id": 105,
+    "filename": "36.",
+    "url": "https://www.bpxv.hu/aktualitasok/ujabb-megkereses-szovogyar-utcai-tagovoda-ugyeben",
+    "date": "2026.02.23",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+    "title": "A polgármester újabb megkeresése a kerületi tisztifőorvoshoz",
+    "summary": "Cserdiné Németh Angéla ismét hivatalos levélben fordult Dr. Néráth Andrea kerületi tisztifőorvoshoz a Szövőgyár utcai tagóvoda újranyitásának előmozdítása érdekében. Az önkormányzat haladéktalan állásfoglalást kér a szükséges intézkedésekről.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/02/szovogyar_7_584_10_2026_tajekoztatas_keres_bpxiv._nepeu._02.17._alairt_alairt_alairt.pdf",
+        "date": "2026.02.23",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "filename": "35.",
+    "url": "https://www.bpxv.hu/aktualitasok/tajekoztatas-szovogyar-utcai-terulet-es-az-egykori-novenyolajgyar-ugyeben",
+    "date": "2026.02.17",
+    "author": "dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "A Pest Vármegyei Kormányhivatal tájékoztatása",
+    "summary": "A Pest Vármegyei Kormányhivatal két külön ügyben adott tájékoztatást: a Szövőgyár utca 19–21. szám alatti ingatlanon feltárt felszín alatti szennyezettségről, valamint az egykori Növényolajgyár területével kapcsolatos kármentesítési eljárásról.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/02/05398-2026_xv._ker_colortex_-_novenyolajgyar_polgarmester_tajek.pdf",
+        "date": "2026.02.17",
+        "author": "dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "filename": "",
+    "url": "https://www.bpxv.hu/aktualitasok/hatarido-hosszabbitast-kertek-szovogyar-utcai-szennyezes-tenyfeltarasara",
+    "date": "2026.02.11",
+    "author": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "Határidő-hosszabbítást kértek a Szövőgyár utcai szennyezés tényfeltárására",
+    "summary": "Az MNV Zrt. határidő-hosszabbítást kezdeményezett a tényfeltárási záródokumentáció benyújtására.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/02/mnv_01_10851_3_2026_szovogyar_utca_ugyeben_pm_tajekoztatasa.pdf",
+        "date": "2026.02.11",
+        "author": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "filename": "",
+    "url": "https://www.bpxv.hu/aktualitasok/tajekoztatast-ker-az-onkormanyzat-magyar-nemzeti-vagyonkezelo-zrt-tol-es-pest",
+    "date": "2026.02.05",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.), dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+    "title": "Az önkormányzat tájékoztatást kér az MNV Zrt.-től és a Pest Vármegyei Kormányhivataltól",
+    "summary": "A Szövőgyár utcában feltárt talajszennyezés miatt Cserdiné Németh Angéla polgármester hivatalos megkeresésben fordult az illetékes állami szervekhez, az érintett lakók és az óvoda jövője érdekében.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/02/7_584_5_2026_tajekoztatas_keres_mnv_zrt._02.04._szovogyar_alairt_alairt_alairt.pdf",
+        "date": "2026.02.05",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "A teljes, hivatalos levél az MNV Zrt. felé"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/02/7_584_4_2026_tajekoztatas_keres_pvkh_01.30_szovogyar_alairt_alairt_alairt.pdf",
+        "date": "2026.02.05",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "A teljes, hivatalos levél a Pest Vármegyei Kormányhivatal felé"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "filename": "",
+    "url": "https://www.bpxv.hu/aktualitasok/tajekoztatas-kerese-dr-nerath-andrea-keruleti-tisztifoorvos-osztalyvezetotol-7/2262-61",
+    "date": "2025.12.12",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+    "title": "Tájékoztatás kérése Dr. Néráth Andrea kerületi tisztifőorvos osztályvezetőtől",
+    "summary": "Cserdiné Németh Angéla levele a Budapest Főváros Kormányhivatala XIV. Kerületi Hivatala Népegészségügyi Osztályának.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2025/12/7_2262_62_2025_polgarmester_tajekoztatas_keres_bpxiv._nepeu.12.02._szovogyar_alairt_alairt_alairt_alairt.pdf",
+        "date": "2025.12.12",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "filename": "31_melleklet.pdf",
+    "url": "https://www.bpxv.hu/aktualitasok/level-budapest-fovaros-kormanyhivatala-xiv-keruleti-hivatal-nepegeszsegugyi",
+    "date": "2025.11.05",
+    "author": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "Népegészségügyi tájékoztatás az egészségügyi kockázatokról",
+    "summary": "Hivatalos tájékoztatás a beltéri levegőben mért oldószer-koncentrációk népegészségügyi megítéléséről.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/2025-11/31_melleklet_0.pdf",
+        "date": "2025.11.05",
+        "author": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "filename": "",
+    "url": "https://www.bpxv.hu/aktualitasok/cserdine-nemeth-angela-polgarmester-levele-budapest-fovaros-kormanyhivatala-xiv",
+    "date": "2025.10.03",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+    "title": "Cserdiné Németh Angéla polgármester levele Budapest Főváros Kormányhivatala XIV. Kerületi Hivatala Népegészségügyi Osztálynak",
+    "summary": "A polgármester levelében tájékoztatást kért Dr. Néráth Andrea kerületi tisztifőorvos osztályvezetőtől.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/2025-10/szovogyar_sima_7_2262_55_2025_tajekoztatas_keres_bpxiv._09.19_alairt_alairt_alairt.pdf",
+        "date": "2025.10.03",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "A teljes, hivatalos levél"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "filename": "29_melleklet.pdf",
+    "url": "https://www.bpxv.hu/aktualitasok/volt-budapesti-finomkotottarugyar-colortex-koruli-kornyezetvedelmi-vizsgalatok",
+    "date": "2025.09.24",
+    "author": "Groszné Kővári Réka (Városgazdálkodási Főosztály)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "A Városgazdálkodási Főosztály tájékoztatója a műszaki leíráshoz készült helyszínrajzról",
+    "summary": "A volt Budapesti Finomkötöttárugyár (Colortex) körüli környezetvédelmi vizsgálatok folytatása 17 új közterületi furat (mintakút) kialakításával.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/2025-09/helyszinrajz_adept_env_2025.pdf",
+        "date": "2025.08.14",
+        "author": "ADEPT ENVIRO Kft.",
+        "title": "Kármentesítési mintavételi helyszínrajz és térkép"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "filename": "28_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-09/28_melleklet.pdf",
+    "date": "2025.08.29",
+    "author": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "BFKH tájékoztatása a népegészségügyi vizsgálatokról",
+    "summary": "A XIV. kerületi Népegészségügyi Osztály válaszlevele a folyamatban lévő népegészségügyi és hatósági vizsgálatokról.",
+    "parent": 32
+  },
+  {
+    "id": 32,
+    "filename": "26_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-06/26_melleklet.pdf",
+    "date": "2025.06.23",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+    "title": "Tájékoztatás kérése az óvoda állapotáról",
+    "summary": "Megkeresés a kerületi tisztifőorvoshoz az óvoda újranyitási feltételeiről és a további levegőmérések szempontjairól."
+  },
+  {
+    "id": 33,
+    "filename": "27_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-07/27_melleklet.pdf",
+    "date": "2025.07.17",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "dr. Cserkúti Szabolcs főosztályvezető (PEKH)",
+    "title": "Tájékoztatás kérése a környezetvédelmi hatóságtól",
+    "summary": "A polgármester kéri a Kormányhivatal folyamatos tájékoztatását a környezetvédelmi eljárások és tényfeltárások haladásáról."
+  },
+  {
+    "id": 31,
+    "filename": "25_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-06/25_melleklet.pdf",
+    "date": "2025.05.30",
+    "author": "Dr. Müller Cecília országos tisztifőorvos (NNGYK)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "NNGYK válaszlevele a levegőminőség-mérés eredményéről",
+    "summary": "A Nemzeti Népegészségügyi és Gyógyszerészeti Központ válaszlevele a levegőminőség-mérés eredményéről, kiértékeléséről és a vizsgálati jegyzőkönyvről."
+  },
+  {
+    "id": 30,
+    "filename": "24_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/24_melleklet.pdf",
+    "date": "2025.05.28",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Müller Cecília országos tisztifőorvos (NNGYK)",
+    "title": "Újabb megkeresés az NNGYK felé",
+    "summary": "A polgármester jelzi, hogy válasz hiányában az egészségügyért felelős miniszterhez kénytelen fordulni a lakosság védelmében."
+  },
+  {
+    "id": 27,
+    "filename": "21_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/21_melleklet.pdf",
+    "date": "2025.05.12",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Müller Cecília országos tisztifőorvos (NNGYK)",
+    "title": "Sürgető tájékoztatás kérése az NNGYK-tól",
+    "summary": "A polgármester ismételten kéri a vizsgálati eredmények és szakmai vélemény megküldését a lakosság tájékoztatása érdekében."
+  },
+  {
+    "id": 28,
+    "filename": "22_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/22_melleklet.pdf",
+    "date": "2025.05.14",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Holndonner Péter csoportvezető (MNV Zrt.)",
+    "title": "Adat- és tájékoztatás kérés az MNV Zrt.-től",
+    "summary": "Megkeresés a május 6-i fórumon elhangzottak alapján a tényfeltárás jelenlegi állásáról és az időbeli ütemezésről."
+  },
+  {
+    "id": 29,
+    "filename": "23_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/23_melleklet.pdf",
+    "date": "2025.05.22",
+    "author": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "MNV Zrt. válasza a levegőminőség-mérésekről",
+    "summary": "Az MNV Zrt. tájékoztatja az Önkormányzatot a mérések feldolgozásáról és a hatóságokkal való adatmegosztásról.",
+    "parent": 28
+  },
+  {
+    "id": 23,
+    "filename": "18_melleklet_0.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/18_melleklet_0.pdf",
+    "date": "2025.05.05",
+    "author": "Dr. Néráth Andrea kerületi tisztifőorvos (BFKH XIV. KH)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "BFKH válasza a lakossági fórum meghívására",
+    "summary": "A XIV. kerületi Népegészségügyi Osztály kimenti részvételét a lakossági fórumról, hatásköri hivatkozással."
+  },
+  {
+    "id": 24,
+    "filename": "19_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/19_melleklet.pdf",
+    "date": "2025.05.06",
+    "author": "Dr. Müller Cecília országos tisztifőorvos (NNGYK)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "NNGYK tájékoztatása a lakossági fórumról",
+    "summary": "Az NNGYK válasza: a mérések lezárása és a hatósági döntések meghozatala után tartja indokoltnak a lakosság tájékoztatását."
+  },
+  {
+    "id": 25,
+    "filename": "20_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/20_melleklet.pdf",
+    "date": "2025.05.08",
+    "author": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "Tájékoztató az óvodai levegőmintavételekről",
+    "summary": "Az MNV Zrt. megküldi a Szövőgyár utcai óvodában április 20-21-én végzett megismételt levegőmintavételek eredményét.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/2025-05/20_melleklet_levegomintavetelek_laboratoriumi_eredmenyei_jegyzokonyv.pdf",
+        "date": "2025.05.08",
+        "author": "ADEPT ENVIRO Kft. / Bálint Analitika Kft.",
+        "title": "Jegyzőkönyv - Ismételt óvodai levegőmérés (74/2025)"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "filename": "16._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/16._melleklet.pdf",
+    "date": "2025.04.30",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Bodroghelyi Csaba elnök (Nemzeti Akkreditáló Hatóság)",
+    "title": "Akkreditált mérések elvégzésének kérése",
+    "summary": "A polgármester megkeresi a NAH-ot független akkreditált laboratóriumok kijelölése és akkreditált mérések lefolytatása érdekében."
+  },
+  {
+    "id": 21,
+    "filename": "17_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/17_melleklet.pdf",
+    "date": "2025.04.30",
+    "author": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "MNV Zrt. válasza a lakossági fórum meghívására",
+    "summary": "Az MNV Zrt. kimenti jelenlétét a lakossági fórumról, jelzi hogy az adatokat megküldte a hatóságoknak.",
+    "parent": 22
+  },
+  {
+    "id": 22,
+    "filename": "17_2_melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-05/17_2_melleklet.pdf",
+    "date": "2025.04.28",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "title": "Meghívó lakossági fórumra (2025. május 6.)",
+    "summary": "A polgármester meghívja az MNV Zrt. vezetését a május 6-án tartandó rendkívüli lakossági fórumra."
+  },
+  {
+    "id": 19,
+    "filename": "15._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/15._melleklet.pdf",
+    "date": "2025.04.30",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Müller Cecília országos tisztifőorvos (NNGYK)",
+    "title": "Intézkedések és közreműködés kérése az NNGYK-tól",
+    "summary": "A polgármester felkéri az NNGYK-t a lakosság egészségvédelme érdekében szükséges további mérések és szakhatósági intézkedések elrendelésére.",
+    "parent": 17
+  },
+  {
+    "id": 17,
+    "filename": "13._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/13._melleklet.pdf",
+    "date": "2025.04.23",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Dr. Müller Cecília országos tisztifőorvos (NNGYK)",
+    "title": "Tájékoztatás az óvoda bezárásáról és ismételt mérések sürgetése",
+    "summary": "A polgármester tájékoztatja az országos tisztifőorvost az óvoda bezárásáról, és a megismételt beltéri mérések eredményének haladéktalan megküldését kéri.",
+    "parent": 18
+  },
+  {
+    "id": 18,
+    "filename": "14._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/14._melleklet.pdf",
+    "date": "2025.04.29",
+    "author": "NNGYK Közegészségügyi Főosztály",
+    "recipient": "BPXV Önkormányzat",
+    "title": "NNGYK tájékoztatása a népegészségügyi határozatról",
+    "summary": "Az NNGYK visszajelzése az óvoda működésének felfüggesztéséről hozott népegészségügyi döntéssel kapcsolatban."
+  },
+  {
+    "id": 16,
+    "filename": "12._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/12._melleklet.pdf",
+    "date": "2025.04.17",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "Lakosság / Óvodai szülők",
+    "title": "Hirdetmény az óvoda működésének felfüggesztéséről",
+    "summary": "Sürgősségi hirdetmény: a Népegészségügyi Osztály határozata alapján a Szövőgyár utcai óvoda működését felfüggesztik, a gyerekeket átmenetileg a Mozdonyvezető utcai óvodába helyezik át."
+  },
+  {
+    "id": 15,
+    "filename": "11._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/11._melleklet.pdf",
+    "date": "2025.04.17",
+    "author": "BFKH XIV. Kerületi Hivatala Népegészségügyi Osztály",
+    "recipient": "BPXV Önkormányzat",
+    "title": "Határozat az óvoda működésének felfüggesztésére",
+    "summary": "Budapest Főváros Kormányhivatala XIV. Kerületi Hivatalának kerületi tisztifőorvos osztályvezetőjének határozata, melyben a Rákospalotai Összevont Óvoda Szövőgyár tagóvoda tekintetében a kifogásolt beltéri levegő minőség miatt, a kifogásolt beltéri levegő minőség megfelelőségének igazolásáig az óvoda működésének felfüggesztésére kötelezi Budapest Főváros XV. kerület Rákospalota, Pestújhely, Újpalota Önkormányzat Gazdasági Működtetési Központot mint működtetőt."
+  },
+  {
+    "id": 11,
+    "filename": "10._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/10._melleklet.pdf",
+    "date": "2025.04.14",
+    "author": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "recipient": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "title": "MNV Zrt. tájékoztatója a mérésekről és kockázatszámításról",
+    "summary": "Tájékoztató a Szövőgyár utcai óvoda beltéri levegővizsgálatáról és az egykori gyárterület kockázatszámítási dokumentációjáról.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/2025-04/10._melleklet_budapest_-_volt_szovogyar_-_ovoda_-_belteri_levego_vizsgalati_jelentes.pdf",
+        "date": "2025.04.10",
+        "author": "ADEPT ENVIRO Kft.",
+        "title": "Összefoglaló jelentés az óvodai beltéri levegőmérésről"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/2025-04/10_melleklet_budapest_-_volt_szovogyar_-_ovoda_-_belteri_levego_vizsgalati_jelentes_1._melleklet.pdf",
+        "date": "2025.03.29",
+        "author": "ADEPT ENVIRO Kft. / Bálint Analitika Kft.",
+        "title": "Vizsgálati jegyzőkönyv - Óvodai beltéri levegőmérés",
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/2025-04/10._melleklet_egykori_szovogyar_terulete_-_tervezett_epitkezes_-_kockazatszamitas.pdf",
+        "date": "2025.03.31",
+        "author": "ADEPT ENVIRO Kft.",
+        "title": "Ingatlanfejlesztési kockázati számítások (88323 hrsz.)",
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "filename": "9._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/9._melleklet.pdf",
+    "date": "2025.04.10",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "ADEPT ENVIRO Kft.",
+    "title": "Tulajdonosi nyilatkozat a tényfeltárási munkák elvégzéséhez",
+    "summary": "A polgármester hozzájáruló nyilatkozata az önkormányzati ingatlanokon (óvoda, közterületek) végzendő mérésekhez és fúrásokhoz."
+  },
+  {
+    "id": 8,
+    "filename": "8._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/8._melleklet.pdf",
+    "date": "2025.03.14",
+    "author": "Pest Vármegyei Kormányhivatal",
+    "recipient": "MNV Zrt. / BPXV Önkormányzat",
+    "title": "Tájékoztató a kiegészítő tényfeltárás elrendeléséről",
+    "summary": "Pest Vármegyei Kormányhivatal levele, melyben a honlapon közzétett hirdetmény pontosítását kérik."
+  },
+  {
+    "id": 9,
+    "filename": "8._melleklet-_uj_informaciok_a_szovogyar_utcat_erinto_szennyezettseggel_kapcsolatban_002.pdf",
+    "url": "https://www.bpxv.hu/aktualitasok/uj-informaciok-szovogyar-utcat-erinto-felszin-alatti-szennyezettsegrol",
+    "date": "2025.03.21",
+    "author": "dr. Kevevári Edit jegyző (BPXV)",
+    "recipient": "XV. kerületi lakosság",
+    "title": "Új információk a Szövőgyár utcát érintő szennyezettségről",
+    "summary": "Tájékoztatás a kiegészítő tényfeltárási munkálatok megkezdéséről és a lakossági mérések állásáról.",
+    "parent": 8
+  },
+  {
+    "id": 7,
+    "filename": "7._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/7._melleklet.pdf",
+    "date": "2025.03.04",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "title": "Talaj- és talajvízszennyezettség vizsgálatának kérése",
+    "summary": "Az Önkormányzat polgármesterének levele az MNV Zrt. részére, melyben a talaj- és talajvízszennyezettség soron kívüli vizsgálatát kéri az Óvoda területén."
+  },
+  {
+    "id": 6,
+    "filename": "6._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/6._melleklet.pdf",
+    "date": "2025.03.06",
+    "author": "dr. Kevevári Edit jegyző (BPXV)",
+    "recipient": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "title": "Tájékoztatás az MNV Zrt. megkeresésére",
+    "summary": "Az Önkormányzat jegyzőjének válaszlevele az MNV Zrt. részére.",
+    "parent": 5
+  },
+  {
+    "id": 5,
+    "filename": "5._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/5._melleklet.pdf",
+    "date": "2025.03.03",
+    "author": "dr. Lakner Zsuzsa vezérigazgató (MNV Zrt.)",
+    "recipient": "dr. Kevevári Edit jegyző (BPXV)",
+    "title": "MNV Zrt. válaszlevele a kármentesítési intézkedésekről",
+    "summary": "Magyar Nemzeti Vagyonkezelő Zrt. Budapest XV. kerület, Szövőgyár utca 19-21. szám alatti ingatlanon és környezetében feltárt szennyezettség ügyében kiadott közleménnyel kapcsolatos, MNV/01/2288/5/2025. ikt. számú helyreigazítási kérelme."
+  },
+  {
+    "id": 2,
+    "filename": "2._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/2._melleklet.pdf",
+    "date": "2025.02.27",
+    "author": "dr. Kevevári Edit jegyző (BPXV)",
+    "recipient": "Érintett ingatlanok tulajdonosai",
+    "title": "Határozat a kúthasználat korlátozásáról",
+    "summary": "Az Önkormányzat jegyzőjének kúthasználat korlátozása tárgyában hozott határozata."
+  },
+  {
+    "id": 3,
+    "filename": "3._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/3._melleklet.pdf",
+    "date": "2025.02.26",
+    "author": "dr. Kevevári Edit jegyző (BPXV)",
+    "recipient": "XV. kerületi lakosság",
+    "title": "Közlemény a felszín alatti szennyezettségről - Facebook",
+    "summary": "Facebookon közzétett önkormányzati közlemény a szennyezettségről."
+  },
+  {
+    "id": 4,
+    "filename": "4._melleklet.pdf",
+    "url": "https://www.bpxv.hu/aktualitasok/kozlemeny-felszin-alatti-szennyezettsegrol",
+    "date": "2025.02.26",
+    "author": "dr. Kevevári Edit jegyző (BPXV)",
+    "recipient": "XV. kerületi lakosság",
+    "title": "Közlemény a felszín alatti szennyezettségről - Honlap",
+    "summary": "Honlapon közzétett önkormányzati közlemény a szennyezettségről."
+  },
+  {
+    "id": 1,
+    "filename": "1._melleklet.pdf",
+    "url": "https://www.bpxv.hu/sites/default/files/2025-04/1._melleklet.pdf",
+    "date": "2025.02.19",
+    "author": "Illés Gábor (Pest Vármegyei Kormányhivatal)",
+    "recipient": "dr. Kevevári Edit jegyző (BPXV)",
+    "title": "Környezetvédelmi hatósági kötelezés tényfeltárásra",
+    "summary": "Pest Vármegyei Kormányhivatal tájékoztatása a Szövőgyár utca 19-21. szám alatti ingatlanon és környezetében feltárt felszín alatti szennyezettséggel kapcsolatban."
+  }
+];
+
+        const ABBREVIATIONS = {
+            'BFKH XIV. KH': 'Budapest Főváros Kormányhivatalának XIV. Kerületi Hivatala',
+            'BPXV': 'Budapest XV. kerület Önkormányzata',
+            'PEKH': 'Pest Vármegyei Kormányhivatal',
+            'NNGYK': 'Nemzeti Népegészségügyi és Gyógyszerészeti Központ',
+            'MNV Zrt.': 'Magyar Nemzeti Vagyonkezelő Zrt.',
+            'BFK': 'Budapest Főváros Kormányhivatala'
+        };
+
+        function escapeHtml(str) {
+            if (!str) return '';
+            return String(str)
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;');
+        }
+
+        function resolveAbbreviations(text) {
+            if (!text) return '';
+            let escaped = escapeHtml(text);
+            const keys = Object.keys(ABBREVIATIONS).sort((a, b) => b.length - a.length);
+            keys.forEach(abbr => {
+                const full = ABBREVIATIONS[abbr];
+                const escapedAbbr = escapeHtml(abbr);
+                const escapedFull = escapeHtml(full);
+                const regex = new RegExp(`\\b${escapedAbbr.replace(/\./g, '\\.')}\\b`, 'g');
+                escaped = escaped.replace(regex, `<abbr title="${escapedFull}" class="abbr-tooltip">${escapedAbbr}</abbr>`);
+            });
+            return escaped;
+        }
+
+        // Group documents by date (YYYY.MM.DD)
+        const dateMap = {};
+        timelineData.forEach(item => {
+            if (item.date) {
+                // Standardize date YYYY.MM.DD
+                const cleanDate = item.date.trim();
+                if (!dateMap[cleanDate]) {
+                    dateMap[cleanDate] = [];
+                }
+                dateMap[cleanDate].push(item);
+            }
+        });
+
+        const monthNames = [
+            'Január', 'Február', 'Március', 'Április', 'Május', 'Június',
+            'Július', 'Augusztus', 'Szeptember', 'Október', 'November', 'December'
+        ];
+
+        // State variables
+        let currentYear = 2026;
+        let currentMonth = 5; // 0-indexed: June (5)
+        let selectedDateStr = null;
+
+        function initCalendarControls() {
+            const select = document.getElementById('month-select');
+            select.innerHTML = '';
+            
+            // Available months range 2025.01 - 2026.12
+            for (let y = 2025; y <= 2026; y++) {
+                for (let m = 0; m < 12; m++) {
+                    const option = document.createElement('option');
+                    option.value = `${y}-${m}`;
+                    option.textContent = `${y}. ${monthNames[m]}`;
+                    select.appendChild(option);
+                }
+            }
+
+            select.addEventListener('change', (e) => {
+                const [y, m] = e.target.value.split('-').map(Number);
+                currentYear = y;
+                currentMonth = m;
+                renderCalendar();
+            });
+
+            document.getElementById('prev-month').addEventListener('click', () => {
+                currentMonth--;
+                if (currentMonth < 0) {
+                    currentMonth = 11;
+                    currentYear--;
+                }
+                if (currentYear < 2025) {
+                    currentYear = 2025;
+                    currentMonth = 0;
+                }
+                renderCalendar();
+            });
+
+            document.getElementById('next-month').addEventListener('click', () => {
+                currentMonth++;
+                if (currentMonth > 11) {
+                    currentMonth = 0;
+                    currentYear++;
+                }
+                if (currentYear > 2026) {
+                    currentYear = 2026;
+                    currentMonth = 11;
+                }
+                renderCalendar();
+            });
+        }
+
+        function renderCalendar() {
+            // Update select dropdown
+            const select = document.getElementById('month-select');
+            select.value = `${currentYear}-${currentMonth}`;
+
+            document.getElementById('month-display').textContent = `${currentYear}. ${monthNames[currentMonth]}`;
+
+            const daysContainer = document.getElementById('days-grid');
+            daysContainer.innerHTML = '';
+
+            // First day of current month
+            const firstDay = new Date(currentYear, currentMonth, 1);
+            // Day of week (0 = Sun, 1 = Mon, ...). Convert to Mon = 0, Sun = 6
+            let startingDay = firstDay.getDay() - 1;
+            if (startingDay < 0) startingDay = 6;
+
+            const daysInMonth = new Date(currentYear, currentMonth + 1, 0).getDate();
+            const daysInPrevMonth = new Date(currentYear, currentMonth, 0).getDate();
+
+            // Previous month fill days
+            for (let i = startingDay - 1; i >= 0; i--) {
+                const cell = document.createElement('div');
+                cell.className = 'day-cell other-month';
+                cell.innerHTML = `<span class="day-number">${daysInPrevMonth - i}</span>`;
+                daysContainer.appendChild(cell);
+            }
+
+            // Current month days
+            for (let day = 1; day <= daysInMonth; day++) {
+                const monthStr = String(currentMonth + 1).padStart(2, '0');
+                const dayStr = String(day).padStart(2, '0');
+                const dateKey = `${currentYear}.${monthStr}.${dayStr}`;
+
+                const docs = dateMap[dateKey] || [];
+
+                const cell = document.createElement('div');
+                cell.className = 'day-cell';
+                if (docs.length > 0) {
+                    cell.classList.add('has-docs');
+                }
+                if (dateKey === selectedDateStr) {
+                    cell.classList.add('selected-day');
+                }
+
+                let badgeHtml = '';
+                if (docs.length > 0) {
+                    badgeHtml = `
+                        <div class="doc-badge-container">
+                            <span class="doc-badge">${docs.length} dokumentum</span>
+                        </div>
+                    `;
+                }
+
+                cell.innerHTML = `
+                    <span class="day-number">${day}</span>
+                    ${badgeHtml}
+                `;
+
+                cell.addEventListener('click', () => {
+                    selectedDateStr = dateKey;
+                    document.querySelectorAll('.day-cell').forEach(c => c.classList.remove('selected-day'));
+                    cell.classList.add('selected-day');
+                    renderSelectedDateDetails(dateKey, docs);
+                });
+
+                daysContainer.appendChild(cell);
+            }
+
+            // Next month fill days to complete 35 or 42 grid cells
+            const totalCells = daysContainer.children.length;
+            const remainingCells = (totalCells <= 35 ? 35 : 42) - totalCells;
+
+            for (let i = 1; i <= remainingCells; i++) {
+                const cell = document.createElement('div');
+                cell.className = 'day-cell other-month';
+                cell.innerHTML = `<span class="day-number">${i}</span>`;
+                daysContainer.appendChild(cell);
+            }
+
+            // If a date is already selected in this month, render it, else auto-select first day with docs or day 1
+            if (selectedDateStr && selectedDateStr.startsWith(`${currentYear}.${String(currentMonth + 1).padStart(2, '0')}`)) {
+                renderSelectedDateDetails(selectedDateStr, dateMap[selectedDateStr] || []);
+            } else {
+                // Auto-select latest day in month with docs
+                let foundDay = null;
+                for (let d = daysInMonth; d >= 1; d--) {
+                    const dk = `${currentYear}.${String(currentMonth + 1).padStart(2, '0')}.${String(d).padStart(2, '0')}`;
+                    if (dateMap[dk]) {
+                        foundDay = dk;
+                        break;
+                    }
+                }
+                if (foundDay) {
+                    selectedDateStr = foundDay;
+                    renderSelectedDateDetails(foundDay, dateMap[foundDay]);
+                } else {
+                    const defaultKey = `${currentYear}.${String(currentMonth + 1).padStart(2, '0')}.01`;
+                    selectedDateStr = defaultKey;
+                    renderSelectedDateDetails(defaultKey, []);
+                }
+            }
+        }
+
+        function renderSelectedDateDetails(dateStr, docs) {
+            const container = document.getElementById('details-container');
+            container.innerHTML = '';
+
+            const header = document.createElement('div');
+            header.className = 'details-title-bar';
+            header.innerHTML = `
+                <span>Kiválasztott dátum: ${escapeHtml(dateStr)}</span>
+                <span style="font-size: 13px; font-weight: normal; color: #7f8c8d;">${docs.length} dokumentum</span>
+            `;
+            container.appendChild(header);
+
+            if (docs.length === 0) {
+                const empty = document.createElement('div');
+                empty.style.color = '#7f8c8d';
+                empty.style.fontSize = '14px';
+                empty.style.padding = '12px 0';
+                empty.textContent = 'Ezen a napon nem rögzítettek hivatalos dokumentumot.';
+                container.appendChild(empty);
+                return;
+            }
+
+            docs.forEach(item => {
+                const card = document.createElement('div');
+                card.className = 'event-card';
+
+                let pdfLinkHtml = '';
+                if (item.url) {
+                    pdfLinkHtml = `<a href="${escapeHtml(item.url)}" target="_blank" rel="noopener" class="action-link action-pdf">PDF megnyitása &rarr;</a>`;
+                }
+
+                card.innerHTML = `
+                    <h3 class="event-title">${resolveAbbreviations(item.title)}</h3>
+                    <div class="meta-group">
+                        <div class="meta-row"><span class="meta-label">Szerző / küldő:</span> <span>${resolveAbbreviations(item.author || '-')}</span></div>
+                        <div class="meta-row"><span class="meta-label">Címzett:</span> <span>${resolveAbbreviations(item.recipient || '-')}</span></div>
+                    </div>
+                    <p class="event-desc">${resolveAbbreviations(item.summary)}</p>
+                    <div class="btn-link-group">
+                        <a href="idovonal.html#item-${item.id}" class="action-link action-timeline">Megtekintés az Idővonalon &rarr;</a>
+                        ${pdfLinkHtml}
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        // Initialize
+        initCalendarControls();
+        renderCalendar();
+    </script>
+</body>
+</html>

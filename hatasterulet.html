@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vélelmezett hatásterület - Budapest XV. kerület, Szövőgyár utca</title>
+    <title>Vélelmezett hatásterületek - Budapest XV. kerület</title>
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
     <style>
@@ -24,10 +24,10 @@
             left: 20px;
             z-index: 1000;
             background: rgba(255, 255, 255, 0.95);
-            padding: 15px;
-            border-radius: 8px;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
-            max-width: 320px;
+            padding: 16px;
+            border-radius: 10px;
+            box-shadow: 0 4px 18px rgba(0, 0, 0, 0.15);
+            max-width: 340px;
             pointer-events: auto;
         }
         @media (min-width: 600px) {
@@ -37,7 +37,7 @@
         }
         .nav-links {
             font-size: 13px;
-            margin-bottom: 10px;
+            margin-bottom: 12px;
             padding-bottom: 8px;
             border-bottom: 1px solid #ecf0f1;
             display: flex;
@@ -52,19 +52,32 @@
             text-decoration: underline;
         }
         .control-panel h3 {
-            margin: 0 0 8px 0;
+            margin: 0 0 10px 0;
             color: #2c3e50;
             font-size: 16px;
             border-bottom: 2px solid #3498db;
             padding-bottom: 6px;
         }
-        .control-panel p {
-            margin: 0;
-            font-size: 14px;
+        .area-info {
+            font-size: 13px;
             color: #34495e;
-            line-height: 1.4;
-            text-decoration: none;
+            line-height: 1.45;
+            margin-bottom: 10px;
         }
+        .area-info-item {
+            margin-bottom: 8px;
+            padding-left: 10px;
+        }
+        .area-szovogyar {
+            border-left: 4px solid #e74c3c;
+        }
+        .area-foti {
+            border-left: 4px solid #3498db;
+        }
+        .area-overlap {
+            border-left: 4px solid #8e44ad;
+        }
+
         .legend {
             font-size: 11px;
             color: #7f8c8d;
@@ -85,7 +98,6 @@
         }
         .popup-title {
             font-weight: bold;
-            color: #2980b9;
             border-bottom: 1px solid #ddd;
             padding-bottom: 4px;
             margin-bottom: 6px;
@@ -113,16 +125,28 @@
             <a href="idovonal.html">Idővonal</a>
             <a href="naptar.html">Naptár &rarr;</a>
         </div>
-        <h3>Vélelmezett hatásterület</h3>
-        <p>
-            Budapest XV. kerület, Szövőgyár u. 21. szám alatti ingatlanon és környezetében 
-            feltárt szennyezettséggel érintett, vélelmezett hatásterület
-        </p>
+        <h3>Hatásterületek</h3>
+        <div class="area-info">
+            <div class="area-info-item area-szovogyar">
+                <strong>Szövőgyár utca 19-21.:</strong> Tényfeltárással érintett vélelmezett hatásterület (piros).
+            </div>
+            <div class="area-info-item area-foti">
+                <strong>Fóti út 141. - Blaha Lujza utca 15.:</strong> Környezetében feltárt szennyezettség (kék).
+            </div>
+            <div class="area-info-item area-overlap" id="overlap-info" style="display: none;">
+                <strong>Átfedésben lévő terület:</strong> Mindkét szennyezettséggel érintett zóna (lila).
+            </div>
+        </div>
+
         <div class="legend">
             <p id="parcel-count">Adatok betöltése...</p>
-            <strong>Forrás:</strong> <a href="https://kormanyhivatalok.hu/system/files/dokumentum/pest/2026-05/05398-10.pdf" target="_blank" rel="noopener">Pest Vármegyei Kormányhivatal hirdetménye</a><br>
-            <a href="parcels.geojson">Adatok letöltése (GeoJSON)</a><br>
-            Frissítve: 2026.07.01.<br>
+            <strong>Források:</strong><br>
+            - <a href="https://kormanyhivatalok.hu/system/files/dokumentum/pest/2026-05/05398-10.pdf" target="_blank" rel="noopener">Pest Vármegyei Kormányhivatal hirdetménye (2026.05.11.)</a><br>
+            - <a href="https://kormanyhivatalok.hu/system/files/dokumentum/pest/2026-07/07300-18.pdf" target="_blank" rel="noopener">Pest Vármegyei Kormányhivatal hirdetménye (2026.07.14.)</a><br><br>
+            <strong>GeoJSON letöltés:</strong> 
+            <a href="parcels_szovogyar_19-21.geojson" download>Szövőgyár utca 19-21.</a> | 
+            <a href="parcels_foti_141_04.geojson" download>Fóti út 141.</a><br>
+            Frissítve: 2026.08.01.<br>
             <span style="display: block; margin-top: 6px; font-size: 10px; color: #a0aec0; line-height: 1.3;">Felelősségkizárás: Az oldal készítője nem vállal felelősséget az adatok pontosságáért vagy tartalmáért.</span>
         </div>
     </div>
@@ -131,10 +155,12 @@
 
     <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <!-- Turf.js for spatial analysis -->
+    <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
 
     <script>
         // Initialize Leaflet Map centered near District XV, Budapest
-        const map = L.map('map').setView([47.5725, 19.1160], 16);
+        const map = L.map('map').setView([47.5725, 19.1130], 15);
 
         // CartoDB Positron - Ultra-clean light gray map style (Default layer)
         const cleanLightMap = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
@@ -163,117 +189,228 @@
         };
         L.control.layers(baseMaps).addTo(map);
 
-        // Polygon styling configuration
-        const defaultStyle = {
-            color: "#e74c3c",
+        // Styling Configurations
+        // 1. Szövőgyár 19-21 (Red)
+        const styleSzovogyar = {
+            color: "#c0392b",
             weight: 2,
             opacity: 0.85,
             fillColor: "#e74c3c",
-            fillOpacity: 0.3
+            fillOpacity: 0.35
+        };
+        const hoverSzovogyar = {
+            color: "#641e16",
+            weight: 3.5,
+            opacity: 1.0,
+            fillColor: "#922b21",
+            fillOpacity: 0.65
         };
 
-        const hoverStyle = {
-            color: "#6010b3",
-            weight: 3,
+        // 2. Fóti út 141. (Blue)
+        const styleFoti = {
+            color: "#2980b9",
+            weight: 2,
+            opacity: 0.85,
+            fillColor: "#3498db",
+            fillOpacity: 0.35
+        };
+        const hoverFoti = {
+            color: "#154360",
+            weight: 3.5,
             opacity: 1.0,
-            fillColor: "#6010b3",
+            fillColor: "#1b4f72",
+            fillOpacity: 0.65
+        };
+
+        // 3. Overlap (Purple)
+        const styleOverlap = {
+            color: "#8e44ad",
+            weight: 3,
+            opacity: 0.9,
+            fillColor: "#9b59b6",
             fillOpacity: 0.5
         };
-
-        const specialStyle = {
-            color: "#ff0000",
+        const hoverOverlap = {
+            color: "#4a235a",
             weight: 4,
             opacity: 1.0,
-            fillColor: "#ff2222",
-            fillOpacity: 0.6
+            fillColor: "#512e5f",
+            fillOpacity: 0.75
         };
 
-        let geoJsonLayer = null;
+        let szovogyarLayer = null;
+        let fotiLayer = null;
 
-        // Function to render GeoJSON data onto the map
-        function renderParcels(geoJsonData) {
-            if (geoJsonLayer) {
-                map.removeLayer(geoJsonLayer);
+        function renderMapLayers(szovogyarGeoJson, fotiGeoJson) {
+            if (szovogyarLayer) map.removeLayer(szovogyarLayer);
+            if (fotiLayer) map.removeLayer(fotiLayer);
+
+            const countSz = szovogyarGeoJson ? (szovogyarGeoJson.features ? szovogyarGeoJson.features.length : 0) : 0;
+            const countFoti = fotiGeoJson ? (fotiGeoJson.features ? fotiGeoJson.features.length : 0) : 0;
+
+            // Extract lot numbers from both GeoJSON datasets
+            const szovogyarLots = new Set(
+                (szovogyarGeoJson && szovogyarGeoJson.features)
+                    ? szovogyarGeoJson.features.map(f => f.properties && f.properties.lotNumber).filter(Boolean)
+                    : []
+            );
+
+            const fotiLots = new Set(
+                (fotiGeoJson && fotiGeoJson.features)
+                    ? fotiGeoJson.features.map(f => f.properties && f.properties.lotNumber).filter(Boolean)
+                    : []
+            );
+
+            // Find overlapping lot numbers (present in both lists)
+            const overlapLots = new Set(
+                [...szovogyarLots].filter(lot => fotiLots.has(lot))
+            );
+
+            // Display overlap banner if any lot number is present in both
+            if (overlapLots.size > 0) {
+                document.getElementById('overlap-info').style.display = 'block';
+            } else {
+                document.getElementById('overlap-info').style.display = 'none';
             }
 
-            const count = geoJsonData.features ? geoJsonData.features.length : 0;
-            document.getElementById('parcel-count').innerHTML = `<strong>Összes helyrajzi szám:</strong> ${count}`;
+            document.getElementById('parcel-count').innerHTML = `
+                <strong>Szövőgyár hrsz.:</strong> ${countSz} | <strong>Fóti út hrsz.:</strong> ${countFoti}
+            `;
 
-            geoJsonLayer = L.geoJSON(geoJsonData, {
-                style: function (feature) {
-                    if (feature.properties.lotNumber === "88323") {
-                        return specialStyle;
+            function isLotOverlap(feature) {
+                const lot = feature && feature.properties && feature.properties.lotNumber;
+                return lot ? overlapLots.has(lot) : false;
+            }
+
+            // 1. Render Szövőgyár Layer
+            if (szovogyarGeoJson) {
+                szovogyarLayer = L.geoJSON(szovogyarGeoJson, {
+                    style: function (feature) {
+                        return isLotOverlap(feature) ? styleOverlap : styleSzovogyar;
+                    },
+                    onEachFeature: function (feature, layer) {
+                        const lotNumber = (feature.properties && feature.properties.lotNumber) || 'N/A';
+                        const isOverlap = isLotOverlap(feature);
+
+                        const popupContent = `
+                            <div class="popup-container">
+                                <div class="popup-title" style="color: ${isOverlap ? '#8e44ad' : '#c0392b'};">
+                                    ${isOverlap ? 'Átfedésben lévő helyrajzi szám' : 'Szövőgyár u. 19-21.'}
+                                </div>
+                                <b>Helyrajzi szám:</b> ${lotNumber}
+                            </div>
+                        `;
+                        layer.bindPopup(popupContent);
+
+                        layer.on({
+                            mouseover: function (e) {
+                                const l = e.target;
+                                l.setStyle(isOverlap ? hoverOverlap : hoverSzovogyar);
+                                l.bringToFront();
+                            },
+                            mouseout: function (e) {
+                                szovogyarLayer.resetStyle(e.target);
+                            }
+                        });
                     }
-                    return defaultStyle;
-                },
-                onEachFeature: function (feature, layer) {
-                    const lotNumber = feature.properties.lotNumber || 'N/A';
-                    
-                    const popupContent = `
-                        <div class="popup-container">
-                            <b>Helyrajzi szám:</b> ${lotNumber}
-                        </div>
-                    `;
-                    layer.bindPopup(popupContent);
+                }).addTo(map);
+            }
 
-                    layer.on({
-                        mouseover: function (e) {
-                            const currentLayer = e.target;
-                            currentLayer.setStyle(hoverStyle);
-                            currentLayer.bringToFront();
-                        },
-                        mouseout: function (e) {
-                            geoJsonLayer.resetStyle(e.target);
-                        }
-                    });
-                }
-            }).addTo(map);
+            // 2. Render Fóti út 141. Layer
+            if (fotiGeoJson) {
+                fotiLayer = L.geoJSON(fotiGeoJson, {
+                    style: function (feature) {
+                        return isLotOverlap(feature) ? styleOverlap : styleFoti;
+                    },
+                    onEachFeature: function (feature, layer) {
+                        const lotNumber = (feature.properties && feature.properties.lotNumber) || 'N/A';
+                        const isOverlap = isLotOverlap(feature);
+
+                        const popupContent = `
+                            <div class="popup-container">
+                                <div class="popup-title" style="color: ${isOverlap ? '#8e44ad' : '#2980b9'};">
+                                    ${isOverlap ? 'Átfedésben lévő helyrajzi szám' : 'Fóti út 141. - Blaha L. u. 15.'}
+                                </div>
+                                <b>Helyrajzi szám:</b> ${lotNumber}
+                            </div>
+                        `;
+                        layer.bindPopup(popupContent);
+
+                        layer.on({
+                            mouseover: function (e) {
+                                const l = e.target;
+                                l.setStyle(isOverlap ? hoverOverlap : hoverFoti);
+                                l.bringToFront();
+                            },
+                            mouseout: function (e) {
+                                fotiLayer.resetStyle(e.target);
+                            }
+                        });
+                    }
+                }).addTo(map);
+            }
         }
 
-        // 1. First attempt: Direct fetch of parcels.geojson (works on GitHub Pages or local server)
-        fetch('parcels.geojson')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Could not fetch parcels.geojson directly');
-                }
-                return response.json();
-            })
-            .then(geoJsonData => {
-                renderParcels(geoJsonData);
-            })
-            .catch(error => {
-                console.warn("Direct fetch failed (CORS or missing file). Activating local file fallback selector...");
+        // Fetch both GeoJSON files concurrently
+        Promise.all([
+            fetch('parcels_szovogyar_19-21.geojson').then(r => r.ok ? r.json() : null),
+            fetch('parcels_foti_141_04.geojson').then(r => r.ok ? r.json() : null)
+        ])
+        .then(([szovogyarData, fotiData]) => {
+            if (!szovogyarData && !fotiData) {
+                throw new Error('Direct fetch failed for both files');
+            }
+            renderMapLayers(szovogyarData, fotiData);
+        })
+        .catch(err => {
+            console.warn("Direct fetch failed (CORS or missing file). Activating local file fallback selector...");
+            
+            const controlPanel = document.querySelector('.control-panel .legend');
+            const fallbackDiv = document.createElement('div');
+            fallbackDiv.className = 'file-selector-container';
+            fallbackDiv.innerHTML = `
+                <span class="file-selector-label">Helyi fájl-hozzáférés korlátozva (CORS). Válaszd ki a két GeoJSON fájlt:</span>
+                <input type="file" id="geojson-file-input" accept=".geojson,application/json" multiple style="font-size: 11px; width: 100%;">
+            `;
+            controlPanel.appendChild(fallbackDiv);
+            
+            document.getElementById('parcel-count').innerHTML = "Válaszd ki a parcels_szovogyar_19-21.geojson és parcels_foti_141_04.geojson fájlokat.";
+            
+            document.getElementById('geojson-file-input').addEventListener('change', function(e) {
+                const files = Array.from(e.target.files);
+                if (files.length === 0) return;
                 
-                // 2. Fallback: Add a manual file input selector for local file-system use
-                const controlPanel = document.querySelector('.control-panel .legend');
-                const fallbackDiv = document.createElement('div');
-                fallbackDiv.className = 'file-selector-container';
-                fallbackDiv.innerHTML = `
-                    <span class="file-selector-label">Helyi fájl-hozzáférés korlátozva (CORS). Kérlek válaszd ki a parcels.geojson fájlt:</span>
-                    <input type="file" id="geojson-file-input" accept=".geojson,application/json" style="font-size: 11px; width: 100%;">
-                `;
-                controlPanel.appendChild(fallbackDiv);
-                
-                document.getElementById('parcel-count').innerHTML = "Kérlek válaszd ki a parcels.geojson fájlt.";
-                
-                document.getElementById('geojson-file-input').addEventListener('change', function(e) {
-                    const file = e.target.files[0];
-                    if (!file) return;
-                    
+                let szData = null;
+                let fData = null;
+                let readCount = 0;
+
+                files.forEach(file => {
                     const reader = new FileReader();
                     reader.onload = function(evt) {
                         try {
-                            const geoJsonData = JSON.parse(evt.target.result);
-                            renderParcels(geoJsonData);
-                            fallbackDiv.remove(); // Remove selector on successful local load
+                            const parsed = JSON.parse(evt.target.result);
+                            if (file.name.includes('szovogyar') || file.name.includes('19-21')) {
+                                szData = parsed;
+                            } else if (file.name.includes('foti') || file.name.includes('141')) {
+                                fData = parsed;
+                            } else if (!szData) {
+                                szData = parsed;
+                            } else {
+                                fData = parsed;
+                            }
                         } catch (err) {
-                            document.getElementById('parcel-count').innerHTML = "Hiba: érvénytelen GeoJSON fájl.";
-                            console.error(err);
+                            console.error('Error parsing file:', file.name, err);
+                        }
+                        readCount++;
+                        if (readCount === files.length) {
+                            renderMapLayers(szData, fData);
+                            fallbackDiv.remove();
                         }
                     };
                     reader.readAsText(file);
                 });
             });
+        });
     </script>
 </body>
 </html>

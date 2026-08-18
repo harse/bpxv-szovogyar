@@ -133,9 +133,9 @@
             <div class="area-info-item area-foti">
                 <strong>Fóti út 141. - Blaha Lujza utca 15.</strong> környezetében feltárt szennyezettség (kék).
             </div>
-            <!-- <div class="area-info-item area-overlap" id="overlap-info" style="display: none;">
+            <div class="area-info-item area-overlap" id="overlap-info" style="display: none;">
                 <strong>Átfedésben lévő terület:</strong> Mindkét szennyezettséggel érintett zóna (lila).
-            </div> -->
+            </div>
         </div>
 
         <div class="legend">
@@ -267,10 +267,9 @@
             );
 
             // Display overlap banner if any lot number is present in both
-            if (overlapLots.size > 0) {
-                document.getElementById('overlap-info').style.display = 'block';
-            } else {
-                document.getElementById('overlap-info').style.display = 'none';
+            const overlapEl = document.getElementById('overlap-info');
+            if (overlapEl) {
+                overlapEl.style.display = overlapLots.size > 0 ? 'block' : 'none';
             }
 
             document.getElementById('parcel-count').innerHTML = `
@@ -353,8 +352,8 @@
 
         // Fetch both GeoJSON files concurrently
         Promise.all([
-            fetch('parcels_szovogyar_19-21.geojson').then(r => r.ok ? r.json() : null),
-            fetch('parcels_foti_141_04.geojson').then(r => r.ok ? r.json() : null)
+            fetch('parcels_szovogyar_19-21.geojson').then(r => r.ok ? r.json() : null).catch(() => null),
+            fetch('parcels_foti_141_04.geojson').then(r => r.ok ? r.json() : null).catch(() => null)
         ])
         .then(([szovogyarData, fotiData]) => {
             if (!szovogyarData && !fotiData) {
@@ -363,6 +362,7 @@
             renderMapLayers(szovogyarData, fotiData);
         })
         .catch(err => {
+            console.error("GeoJSON load error:", err);
             console.warn("Direct fetch failed (CORS or missing file). Activating local file fallback selector...");
             
             const controlPanel = document.querySelector('.control-panel .legend');

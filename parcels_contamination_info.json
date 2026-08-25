@@ -1,0 +1,4082 @@
+{
+  "76331/228": {
+    "ssz": "1.",
+    "lotNumber": "76331/228",
+    "rawLotNumber": "(76331/228)",
+    "azonositas": "Szilas-patak meder, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "76334/4": {
+    "ssz": "2.",
+    "lotNumber": "76334/4",
+    "rawLotNumber": "(76334/4)",
+    "azonositas": "Erdősor utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "76334/6": {
+    "ssz": "3.",
+    "lotNumber": "76334/6",
+    "rawLotNumber": "(76334/6)",
+    "azonositas": "Szilas-patak meder, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "76334/7": {
+    "ssz": "4.",
+    "lotNumber": "76334/7",
+    "rawLotNumber": "76334/7",
+    "azonositas": "Szilágyi utca 30., UTE atlétikai stadion",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "76334/9": {
+    "ssz": "5.",
+    "lotNumber": "76334/9",
+    "rawLotNumber": "76334/9",
+    "azonositas": "Szilágyi utca, hsz. nélkül, bekerítetlen, erdős terület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "76334/10": {
+    "ssz": "6.",
+    "lotNumber": "76334/10",
+    "rawLotNumber": "76334/10",
+    "azonositas": "Szilágyi utca, hsz. nélkül, bekerítetlen terület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "76370/1": {
+    "ssz": "7.",
+    "lotNumber": "76370/1",
+    "rawLotNumber": "(76370/1)",
+    "azonositas": "Szilágyi utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "76555/3": {
+    "ssz": "8.",
+    "lotNumber": "76555/3",
+    "rawLotNumber": "(76555/3)",
+    "azonositas": "Szilágyi utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "76555/4": {
+    "ssz": "9.",
+    "lotNumber": "76555/4",
+    "rawLotNumber": "76555/4",
+    "azonositas": "Szilas-patak meder, nem közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "76555/5": {
+    "ssz": "10.",
+    "lotNumber": "76555/5",
+    "rawLotNumber": "76555/5",
+    "azonositas": "Szilágyi utca, villamospálya",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "76555/6": {
+    "ssz": "11.",
+    "lotNumber": "76555/6",
+    "rawLotNumber": "76555/6",
+    "azonositas": "Szilágyi utca, villamospálya",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "76555/7": {
+    "ssz": "12.",
+    "lotNumber": "76555/7",
+    "rawLotNumber": "76555/7",
+    "azonositas": "Szilágyi utca, villamospálya",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88053": {
+    "ssz": "13.",
+    "lotNumber": "88053",
+    "rawLotNumber": "88053",
+    "azonositas": "Géza Fejedelem tér, bekerítetlen, de nem közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88054": {
+    "ssz": "14.",
+    "lotNumber": "88054",
+    "rawLotNumber": "(88054)",
+    "azonositas": "Géza Fejedelem tér, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88055": {
+    "ssz": "15.",
+    "lotNumber": "88055",
+    "rawLotNumber": "88055",
+    "azonositas": "Károlyi Sándor utca 2., gyógyszertár",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88056": {
+    "ssz": "16.",
+    "lotNumber": "88056",
+    "rawLotNumber": "88056",
+    "azonositas": "Károlyi Sándor utca 4.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88057": {
+    "ssz": "17.",
+    "lotNumber": "88057",
+    "rawLotNumber": "88057",
+    "azonositas": "Károlyi Sándor utca 6.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88058": {
+    "ssz": "18.",
+    "lotNumber": "88058",
+    "rawLotNumber": "88058",
+    "azonositas": "Csákó utca 2.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88059": {
+    "ssz": "19.",
+    "lotNumber": "88059",
+    "rawLotNumber": "88059",
+    "azonositas": "Csákó utca 4.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88060": {
+    "ssz": "20.",
+    "lotNumber": "88060",
+    "rawLotNumber": "88060",
+    "azonositas": "Géza Fejedelem tér 2.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88061": {
+    "ssz": "21.",
+    "lotNumber": "88061",
+    "rawLotNumber": "88061",
+    "azonositas": "Géza Fejedelem tér 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88062": {
+    "ssz": "22.",
+    "lotNumber": "88062",
+    "rawLotNumber": "88062",
+    "azonositas": "Csákó utca 6.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88063": {
+    "ssz": "23.",
+    "lotNumber": "88063",
+    "rawLotNumber": "88063",
+    "azonositas": "Csákó utca 8.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88064": {
+    "ssz": "24.",
+    "lotNumber": "88064",
+    "rawLotNumber": "88064",
+    "azonositas": "Géza Fejedelem tér 4.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88065": {
+    "ssz": "25.",
+    "lotNumber": "88065",
+    "rawLotNumber": "88065",
+    "azonositas": "Géza Fejedelem tér 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88066": {
+    "ssz": "26.",
+    "lotNumber": "88066",
+    "rawLotNumber": "88066",
+    "azonositas": "Csákó utca 10.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88067": {
+    "ssz": "27.",
+    "lotNumber": "88067",
+    "rawLotNumber": "88067",
+    "azonositas": "Csákó utca 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88068": {
+    "ssz": "28.",
+    "lotNumber": "88068",
+    "rawLotNumber": "88068",
+    "azonositas": "Géza Fejedelem tér 6.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88069": {
+    "ssz": "29.",
+    "lotNumber": "88069",
+    "rawLotNumber": "88069",
+    "azonositas": "Géza Fejedelem tér 7.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88070": {
+    "ssz": "30.",
+    "lotNumber": "88070",
+    "rawLotNumber": "88070",
+    "azonositas": "Csákó utca 14.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88071": {
+    "ssz": "31.",
+    "lotNumber": "88071",
+    "rawLotNumber": "88071",
+    "azonositas": "Platán utca 7.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88072": {
+    "ssz": "32.",
+    "lotNumber": "88072",
+    "rawLotNumber": "88072",
+    "azonositas": "Platán utca 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88073": {
+    "ssz": "33.",
+    "lotNumber": "88073",
+    "rawLotNumber": "88073",
+    "azonositas": "Platán utca 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88074": {
+    "ssz": "34.",
+    "lotNumber": "88074",
+    "rawLotNumber": "88074",
+    "azonositas": "Géza Fejedelem tér 8.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88075": {
+    "ssz": "35.",
+    "lotNumber": "88075",
+    "rawLotNumber": "(88075)",
+    "azonositas": "Platán utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88076/2": {
+    "ssz": "36.",
+    "lotNumber": "88076/2",
+    "rawLotNumber": "88076/2",
+    "azonositas": "Platán utca 2.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88077": {
+    "ssz": "37.",
+    "lotNumber": "88077",
+    "rawLotNumber": "88077",
+    "azonositas": "Platán utca 4.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88078": {
+    "ssz": "38.",
+    "lotNumber": "88078",
+    "rawLotNumber": "88078",
+    "azonositas": "Platán utca 6.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88079": {
+    "ssz": "39.",
+    "lotNumber": "88079",
+    "rawLotNumber": "88079",
+    "azonositas": "Csákó utca 18.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88080": {
+    "ssz": "40.",
+    "lotNumber": "88080",
+    "rawLotNumber": "88080",
+    "azonositas": "Csákó utca 20.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88081": {
+    "ssz": "41.",
+    "lotNumber": "88081",
+    "rawLotNumber": "(88081)",
+    "azonositas": "Csákó utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88082": {
+    "ssz": "42.",
+    "lotNumber": "88082",
+    "rawLotNumber": "88082",
+    "azonositas": "Csákó utca 19.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88083": {
+    "ssz": "43.",
+    "lotNumber": "88083",
+    "rawLotNumber": "88083",
+    "azonositas": "Csákó utca 17.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88084": {
+    "ssz": "44.",
+    "lotNumber": "88084",
+    "rawLotNumber": "88084",
+    "azonositas": "Platán utca 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88085": {
+    "ssz": "45.",
+    "lotNumber": "88085",
+    "rawLotNumber": "88085",
+    "azonositas": "Platán utca 14a-14b.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88086": {
+    "ssz": "46.",
+    "lotNumber": "88086",
+    "rawLotNumber": "88086",
+    "azonositas": "Platán utca 16., Győztes utca 18.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88087": {
+    "ssz": "47.",
+    "lotNumber": "88087",
+    "rawLotNumber": "88087",
+    "azonositas": "Győztes utca 20.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88088": {
+    "ssz": "48.",
+    "lotNumber": "88088",
+    "rawLotNumber": "88088",
+    "azonositas": "Győztes utca 22.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88089": {
+    "ssz": "49.",
+    "lotNumber": "88089",
+    "rawLotNumber": "88089",
+    "azonositas": "Győztes utca 24.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88090": {
+    "ssz": "50.",
+    "lotNumber": "88090",
+    "rawLotNumber": "(88090)",
+    "azonositas": "Győztes utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88091": {
+    "ssz": "51.",
+    "lotNumber": "88091",
+    "rawLotNumber": "88091",
+    "azonositas": "Győztes utca 23.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88092": {
+    "ssz": "52.",
+    "lotNumber": "88092",
+    "rawLotNumber": "88092",
+    "azonositas": "Ferenczy Sándor utca 24.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88093": {
+    "ssz": "53.",
+    "lotNumber": "88093",
+    "rawLotNumber": "88093",
+    "azonositas": "Ferenczy Sándor utca 22.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88094": {
+    "ssz": "54.",
+    "lotNumber": "88094",
+    "rawLotNumber": "88094",
+    "azonositas": "Győztes utca 21.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88095": {
+    "ssz": "55.",
+    "lotNumber": "88095",
+    "rawLotNumber": "88095",
+    "azonositas": "Győztes utca 19.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88096": {
+    "ssz": "56.",
+    "lotNumber": "88096",
+    "rawLotNumber": "88096",
+    "azonositas": "Platán utca 18., Győztes utca 17.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88097": {
+    "ssz": "57.",
+    "lotNumber": "88097",
+    "rawLotNumber": "88097",
+    "azonositas": "Platán utca 20.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88098": {
+    "ssz": "58.",
+    "lotNumber": "88098",
+    "rawLotNumber": "88098",
+    "azonositas": "Platán utca 22.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88099": {
+    "ssz": "59.",
+    "lotNumber": "88099",
+    "rawLotNumber": "88099",
+    "azonositas": "Ferenczy Sándor utca 20.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88100": {
+    "ssz": "60.",
+    "lotNumber": "88100",
+    "rawLotNumber": "88100",
+    "azonositas": "Platán utca 24.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88101": {
+    "ssz": "61.",
+    "lotNumber": "88101",
+    "rawLotNumber": "(88101)",
+    "azonositas": "Ferenczy Sándor utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88102": {
+    "ssz": "62.",
+    "lotNumber": "88102",
+    "rawLotNumber": "88102",
+    "azonositas": "Ferenczy Sándor utca 23.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88103": {
+    "ssz": "63.",
+    "lotNumber": "88103",
+    "rawLotNumber": "88103",
+    "azonositas": "Ferenczy Sándor utca 21.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88104": {
+    "ssz": "64.",
+    "lotNumber": "88104",
+    "rawLotNumber": "88104",
+    "azonositas": "Ferenczy Sándor utca 19.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88105": {
+    "ssz": "65.",
+    "lotNumber": "88105",
+    "rawLotNumber": "88105",
+    "azonositas": "Ferenczy Sándor utca 17.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88106": {
+    "ssz": "66.",
+    "lotNumber": "88106",
+    "rawLotNumber": "88106",
+    "azonositas": "Platán utca 28.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88107": {
+    "ssz": "67.",
+    "lotNumber": "88107",
+    "rawLotNumber": "88107",
+    "azonositas": "Platán utca 30.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88108": {
+    "ssz": "68.",
+    "lotNumber": "88108",
+    "rawLotNumber": "88108",
+    "azonositas": "Győzelem utca 20.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88109": {
+    "ssz": "69.",
+    "lotNumber": "88109",
+    "rawLotNumber": "88109",
+    "azonositas": "Platán utca 32.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88110": {
+    "ssz": "70.",
+    "lotNumber": "88110",
+    "rawLotNumber": "(88110)",
+    "azonositas": "Platán utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88111": {
+    "ssz": "71.",
+    "lotNumber": "88111",
+    "rawLotNumber": "88111",
+    "azonositas": "Platán utca 9.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88112": {
+    "ssz": "72.",
+    "lotNumber": "88112",
+    "rawLotNumber": "88112",
+    "azonositas": "Platán utca 11a-11b.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88113": {
+    "ssz": "73.",
+    "lotNumber": "88113",
+    "rawLotNumber": "88113",
+    "azonositas": "Csákó utca 13.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88114": {
+    "ssz": "74.",
+    "lotNumber": "88114",
+    "rawLotNumber": "88114",
+    "azonositas": "Csákó utca 11.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88115": {
+    "ssz": "75.",
+    "lotNumber": "88115",
+    "rawLotNumber": "88115",
+    "azonositas": "Csákó utca 9.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88116": {
+    "ssz": "76.",
+    "lotNumber": "88116",
+    "rawLotNumber": "88116",
+    "azonositas": "Csákó utca 7.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88117": {
+    "ssz": "77.",
+    "lotNumber": "88117",
+    "rawLotNumber": "88117",
+    "azonositas": "Csákó utca 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88118": {
+    "ssz": "78.",
+    "lotNumber": "88118",
+    "rawLotNumber": "88118",
+    "azonositas": "Csákó utca 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88119": {
+    "ssz": "79.",
+    "lotNumber": "88119",
+    "rawLotNumber": "88119",
+    "azonositas": "Csákó utca 1., Károlyi Sándor út 10.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88120": {
+    "ssz": "80.",
+    "lotNumber": "88120",
+    "rawLotNumber": "88120",
+    "azonositas": "Károlyi Sándor út 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88121": {
+    "ssz": "81.",
+    "lotNumber": "88121",
+    "rawLotNumber": "88121",
+    "azonositas": "Károlyi Sándor út 14.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88122": {
+    "ssz": "82.",
+    "lotNumber": "88122",
+    "rawLotNumber": "88122",
+    "azonositas": "Károlyi Sándor út 16., Győztes utca 2.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88123": {
+    "ssz": "83.",
+    "lotNumber": "88123",
+    "rawLotNumber": "88123",
+    "azonositas": "Győztes utca 4.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88124": {
+    "ssz": "84.",
+    "lotNumber": "88124",
+    "rawLotNumber": "88124",
+    "azonositas": "Győztes utca 6.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88125": {
+    "ssz": "85.",
+    "lotNumber": "88125",
+    "rawLotNumber": "88125",
+    "azonositas": "Győztes utca 8a-8.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88126": {
+    "ssz": "86.",
+    "lotNumber": "88126",
+    "rawLotNumber": "88126",
+    "azonositas": "Győztes utca 10a-10.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88127": {
+    "ssz": "87.",
+    "lotNumber": "88127",
+    "rawLotNumber": "88127",
+    "azonositas": "Győztes utca 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88128": {
+    "ssz": "88.",
+    "lotNumber": "88128",
+    "rawLotNumber": "88128",
+    "azonositas": "Győztes utca 14.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88129": {
+    "ssz": "89.",
+    "lotNumber": "88129",
+    "rawLotNumber": "88129",
+    "azonositas": "Platán utca 13.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88130": {
+    "ssz": "90.",
+    "lotNumber": "88130",
+    "rawLotNumber": "88130",
+    "azonositas": "Platán utca 15., Győztes utca 16.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88131": {
+    "ssz": "91.",
+    "lotNumber": "88131",
+    "rawLotNumber": "(88131)",
+    "azonositas": "Győztes utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88132": {
+    "ssz": "92.",
+    "lotNumber": "88132",
+    "rawLotNumber": "88132",
+    "azonositas": "Platán utca 17.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88133": {
+    "ssz": "93.",
+    "lotNumber": "88133",
+    "rawLotNumber": "88133",
+    "azonositas": "Platán utca 19.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88134": {
+    "ssz": "94.",
+    "lotNumber": "88134",
+    "rawLotNumber": "88134",
+    "azonositas": "Győztes utca 13.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88135": {
+    "ssz": "95.",
+    "lotNumber": "88135",
+    "rawLotNumber": "88135",
+    "azonositas": "Győztes utca 11.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88136": {
+    "ssz": "96.",
+    "lotNumber": "88136",
+    "rawLotNumber": "88136",
+    "azonositas": "Győztes utca 9.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88137": {
+    "ssz": "97.",
+    "lotNumber": "88137",
+    "rawLotNumber": "88137",
+    "azonositas": "Győztes utca 7a-7.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88138": {
+    "ssz": "98.",
+    "lotNumber": "88138",
+    "rawLotNumber": "88138",
+    "azonositas": "Győztes utca 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88139": {
+    "ssz": "99.",
+    "lotNumber": "88139",
+    "rawLotNumber": "88139",
+    "azonositas": "Győztes utca 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88140": {
+    "ssz": "100.",
+    "lotNumber": "88140",
+    "rawLotNumber": "88140",
+    "azonositas": "Győztes utca 1., Károlyi Sándor út 18.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88141": {
+    "ssz": "101.",
+    "lotNumber": "88141",
+    "rawLotNumber": "88141",
+    "azonositas": "Károlyi Sándor út 20.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88142": {
+    "ssz": "102.",
+    "lotNumber": "88142",
+    "rawLotNumber": "88142",
+    "azonositas": "Károlyi Sándor út 22.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88143": {
+    "ssz": "103.",
+    "lotNumber": "88143",
+    "rawLotNumber": "88143",
+    "azonositas": "Károlyi Sándor út 24., Ferenczy Sándor utca 2.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88144": {
+    "ssz": "104.",
+    "lotNumber": "88144",
+    "rawLotNumber": "88144",
+    "azonositas": "Ferenczy Sándor utca 4.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88145": {
+    "ssz": "105.",
+    "lotNumber": "88145",
+    "rawLotNumber": "88145",
+    "azonositas": "Ferenczy Sándor utca 6.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88146": {
+    "ssz": "106.",
+    "lotNumber": "88146",
+    "rawLotNumber": "88146",
+    "azonositas": "Ferenczy Sándor utca 8.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88147": {
+    "ssz": "107.",
+    "lotNumber": "88147",
+    "rawLotNumber": "88147",
+    "azonositas": "Ferenczy Sándor utca 10.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88148": {
+    "ssz": "108.",
+    "lotNumber": "88148",
+    "rawLotNumber": "88148",
+    "azonositas": "Ferenczy Sándor utca 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88148/1": {
+    "ssz": "108.",
+    "lotNumber": "88148",
+    "rawLotNumber": "88148",
+    "azonositas": "Ferenczy Sándor utca 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88149": {
+    "ssz": "109.",
+    "lotNumber": "88149",
+    "rawLotNumber": "88149",
+    "azonositas": "Ferenczy Sándor utca 14.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88150": {
+    "ssz": "110.",
+    "lotNumber": "88150",
+    "rawLotNumber": "88150",
+    "azonositas": "Platán utca 21.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88151": {
+    "ssz": "111.",
+    "lotNumber": "88151",
+    "rawLotNumber": "88151",
+    "azonositas": "Platán utca 23.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88152": {
+    "ssz": "112.",
+    "lotNumber": "88152",
+    "rawLotNumber": "(88152)",
+    "azonositas": "Ferenczy Sándor utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88153": {
+    "ssz": "113.",
+    "lotNumber": "88153",
+    "rawLotNumber": "88153",
+    "azonositas": "Platán utca 25., Ferenczy Sándor utca 15.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88154": {
+    "ssz": "114.",
+    "lotNumber": "88154",
+    "rawLotNumber": "88154",
+    "azonositas": "Platán utca 27.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88155": {
+    "ssz": "115.",
+    "lotNumber": "88155",
+    "rawLotNumber": "88155",
+    "azonositas": "Ferenczy Sándor utca 13.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88156": {
+    "ssz": "116.",
+    "lotNumber": "88156",
+    "rawLotNumber": "88156",
+    "azonositas": "Ferenczy Sándor utca 11.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88157": {
+    "ssz": "117.",
+    "lotNumber": "88157",
+    "rawLotNumber": "88157",
+    "azonositas": "Ferenczy Sándor utca 9.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88158": {
+    "ssz": "118.",
+    "lotNumber": "88158",
+    "rawLotNumber": "88158",
+    "azonositas": "Ferenczy Sándor utca 7.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88159": {
+    "ssz": "119.",
+    "lotNumber": "88159",
+    "rawLotNumber": "88159",
+    "azonositas": "Ferenczy Sándor utca 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88160": {
+    "ssz": "120.",
+    "lotNumber": "88160",
+    "rawLotNumber": "88160",
+    "azonositas": "Ferenczy Sándor utca 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88161": {
+    "ssz": "121.",
+    "lotNumber": "88161",
+    "rawLotNumber": "88161",
+    "azonositas": "Ferenczy Sándor utca 1., Károlyi Sándor út 26.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88162": {
+    "ssz": "122.",
+    "lotNumber": "88162",
+    "rawLotNumber": "88162",
+    "azonositas": "Károlyi Sándor út 28.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88163": {
+    "ssz": "123.",
+    "lotNumber": "88163",
+    "rawLotNumber": "88163",
+    "azonositas": "Károlyi Sándor út 30.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88164": {
+    "ssz": "124.",
+    "lotNumber": "88164",
+    "rawLotNumber": "88164",
+    "azonositas": "Károlyi Sándor út 32., Győzelem utca 2.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88165": {
+    "ssz": "125.",
+    "lotNumber": "88165",
+    "rawLotNumber": "88165",
+    "azonositas": "Győzelem utca 4.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88166": {
+    "ssz": "126.",
+    "lotNumber": "88166",
+    "rawLotNumber": "88166",
+    "azonositas": "Győzelem utca 6.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88167": {
+    "ssz": "127.",
+    "lotNumber": "88167",
+    "rawLotNumber": "88167",
+    "azonositas": "Győzelem utca 8.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88168": {
+    "ssz": "128.",
+    "lotNumber": "88168",
+    "rawLotNumber": "88168",
+    "azonositas": "Győzelem utca 10.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88169": {
+    "ssz": "129.",
+    "lotNumber": "88169",
+    "rawLotNumber": "88169",
+    "azonositas": "Győzelem utca 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88170": {
+    "ssz": "130.",
+    "lotNumber": "88170",
+    "rawLotNumber": "88170",
+    "azonositas": "Győzelem utca 14.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88171": {
+    "ssz": "131.",
+    "lotNumber": "88171",
+    "rawLotNumber": "88171",
+    "azonositas": "Platán utca 29.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88172": {
+    "ssz": "132.",
+    "lotNumber": "88172",
+    "rawLotNumber": "88172",
+    "azonositas": "Platán utca 31.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88173": {
+    "ssz": "133.",
+    "lotNumber": "88173",
+    "rawLotNumber": "(88173)",
+    "azonositas": "Győzelem utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88174": {
+    "ssz": "134.",
+    "lotNumber": "88174",
+    "rawLotNumber": "88174",
+    "azonositas": "Győzelem utca 23.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88175": {
+    "ssz": "135.",
+    "lotNumber": "88175",
+    "rawLotNumber": "88175",
+    "azonositas": "Győzelem utca 21.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88176": {
+    "ssz": "136.",
+    "lotNumber": "88176",
+    "rawLotNumber": "88176",
+    "azonositas": "Győzelem utca 19.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88177": {
+    "ssz": "137.",
+    "lotNumber": "88177",
+    "rawLotNumber": "88177",
+    "azonositas": "Győzelem utca 17.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88178": {
+    "ssz": "138.",
+    "lotNumber": "88178",
+    "rawLotNumber": "88178",
+    "azonositas": "Győzelem utca 15.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88179": {
+    "ssz": "139.",
+    "lotNumber": "88179",
+    "rawLotNumber": "88179",
+    "azonositas": "Győzelem utca 13.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88180": {
+    "ssz": "140.",
+    "lotNumber": "88180",
+    "rawLotNumber": "88180",
+    "azonositas": "Győzelem utca 11.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88181": {
+    "ssz": "141.",
+    "lotNumber": "88181",
+    "rawLotNumber": "88181",
+    "azonositas": "Győzelem utca 9.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88182": {
+    "ssz": "142.",
+    "lotNumber": "88182",
+    "rawLotNumber": "88182",
+    "azonositas": "Győzelem utca 7.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88183": {
+    "ssz": "143.",
+    "lotNumber": "88183",
+    "rawLotNumber": "88183",
+    "azonositas": "Győzelem utca 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88184": {
+    "ssz": "144.",
+    "lotNumber": "88184",
+    "rawLotNumber": "88184",
+    "azonositas": "Győzelem utca 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88185": {
+    "ssz": "145.",
+    "lotNumber": "88185",
+    "rawLotNumber": "88185",
+    "azonositas": "Győzelem utca 1., Károlyi Sándor út 34.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88186": {
+    "ssz": "146.",
+    "lotNumber": "88186",
+    "rawLotNumber": "88186",
+    "azonositas": "Károlyi Sándor út 36.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88187": {
+    "ssz": "147.",
+    "lotNumber": "88187",
+    "rawLotNumber": "88187",
+    "azonositas": "Szilas patak medre",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88188": {
+    "ssz": "148.",
+    "lotNumber": "88188",
+    "rawLotNumber": "(88188)",
+    "azonositas": "Szilas-patak régi medre (betemetve), közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88189": {
+    "ssz": "149.",
+    "lotNumber": "88189",
+    "rawLotNumber": "88189",
+    "azonositas": "Károlyi Sándor út, bekerítetlen terület a Szilas-patak mellett, nem közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88190": {
+    "ssz": "150.",
+    "lotNumber": "88190",
+    "rawLotNumber": "(88190)",
+    "azonositas": "Szilas-patak régi medre (betemetve), közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88191": {
+    "ssz": "151.",
+    "lotNumber": "88191",
+    "rawLotNumber": "(88191)",
+    "azonositas": "Szilas-patak medre, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88192": {
+    "ssz": "152.",
+    "lotNumber": "88192",
+    "rawLotNumber": "88192",
+    "azonositas": "MÁV vaspályák közötti elkerítetlen erdős terület, nem közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88193/1": {
+    "ssz": "153.",
+    "lotNumber": "88193/1",
+    "rawLotNumber": "(88193/1)",
+    "azonositas": "Szilas-patak medre melletti elkerítetlen, erdős terület, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88193/2": {
+    "ssz": "154.",
+    "lotNumber": "88193/2",
+    "rawLotNumber": "(88193/2)",
+    "azonositas": "Szilas-patak medre, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88193/3": {
+    "ssz": "155.",
+    "lotNumber": "88193/3",
+    "rawLotNumber": "(88193/3)",
+    "azonositas": "Szilas-patak medre melletti bekerített terület, XV. ker. Önkormányzat zöldhulladékgyűjtő (Kovácsi Kálmán tér)",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88195": {
+    "ssz": "156.",
+    "lotNumber": "88195",
+    "rawLotNumber": "(88195)",
+    "azonositas": "MÁV vaspálya",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88196": {
+    "ssz": "157.",
+    "lotNumber": "88196",
+    "rawLotNumber": "88196",
+    "azonositas": "Töltés utca 28.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88197": {
+    "ssz": "158.",
+    "lotNumber": "88197",
+    "rawLotNumber": "88197",
+    "azonositas": "Töltés utca 26.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88198": {
+    "ssz": "159.",
+    "lotNumber": "88198",
+    "rawLotNumber": "88198",
+    "azonositas": "Töltés utca 24.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88199": {
+    "ssz": "160.",
+    "lotNumber": "88199",
+    "rawLotNumber": "88199",
+    "azonositas": "Kovácsi Kálmán tér 14.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88200": {
+    "ssz": "161.",
+    "lotNumber": "88200",
+    "rawLotNumber": "88200",
+    "azonositas": "Kovácsi Kálmán tér 13.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88201": {
+    "ssz": "162.",
+    "lotNumber": "88201",
+    "rawLotNumber": "88201",
+    "azonositas": "Töltés utca 22.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88202": {
+    "ssz": "163.",
+    "lotNumber": "88202",
+    "rawLotNumber": "88202",
+    "azonositas": "Kovácsi Kálmán tér 13/A.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88203": {
+    "ssz": "164.",
+    "lotNumber": "88203",
+    "rawLotNumber": "88203",
+    "azonositas": "Kovácsi Kálmán tér 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88204": {
+    "ssz": "165.",
+    "lotNumber": "88204",
+    "rawLotNumber": "88204",
+    "azonositas": "Töltés utca 20.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88205": {
+    "ssz": "166.",
+    "lotNumber": "88205",
+    "rawLotNumber": "88205",
+    "azonositas": "Kemény István utca 8.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88206": {
+    "ssz": "167.",
+    "lotNumber": "88206",
+    "rawLotNumber": "88206",
+    "azonositas": "Kemény István utca 6.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88207": {
+    "ssz": "168.",
+    "lotNumber": "88207",
+    "rawLotNumber": "88207",
+    "azonositas": "Kemény István utca 4.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88208": {
+    "ssz": "169.",
+    "lotNumber": "88208",
+    "rawLotNumber": "88208",
+    "azonositas": "Kemény István utca 2.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88209": {
+    "ssz": "170.",
+    "lotNumber": "88209",
+    "rawLotNumber": "(88209)",
+    "azonositas": "Kemény István utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88210": {
+    "ssz": "171.",
+    "lotNumber": "88210",
+    "rawLotNumber": "88210",
+    "azonositas": "Töltés utca 16.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88211": {
+    "ssz": "172.",
+    "lotNumber": "88211",
+    "rawLotNumber": "88211",
+    "azonositas": "Töltés utca 14.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88212": {
+    "ssz": "173.",
+    "lotNumber": "88212",
+    "rawLotNumber": "88212",
+    "azonositas": "Kemény István utca 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88213": {
+    "ssz": "174.",
+    "lotNumber": "88213",
+    "rawLotNumber": "88213",
+    "azonositas": "Töltés tér 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88214": {
+    "ssz": "175.",
+    "lotNumber": "88214",
+    "rawLotNumber": "88214",
+    "azonositas": "Kemény István utca 1/A.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88215": {
+    "ssz": "176.",
+    "lotNumber": "88215",
+    "rawLotNumber": "88215",
+    "azonositas": "Kemény István utca 1.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88216": {
+    "ssz": "177.",
+    "lotNumber": "88216",
+    "rawLotNumber": "88216",
+    "azonositas": "Csomád utca 2. (Kovácsi Kálmán tér 9.)",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88217": {
+    "ssz": "178.",
+    "lotNumber": "88217",
+    "rawLotNumber": "(88217)",
+    "azonositas": "Kovácsi Kálmán tér, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88218": {
+    "ssz": "179.",
+    "lotNumber": "88218",
+    "rawLotNumber": "88218",
+    "azonositas": "MÁV vaspálya, Kovácsi Kálmán tér, nem közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88219": {
+    "ssz": "180.",
+    "lotNumber": "88219",
+    "rawLotNumber": "(88219)",
+    "azonositas": "Kovácsi Kálmán tér, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88220": {
+    "ssz": "181.",
+    "lotNumber": "88220",
+    "rawLotNumber": "(88220)",
+    "azonositas": "Kovácsi Kálmán tér, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88221": {
+    "ssz": "182.",
+    "lotNumber": "88221",
+    "rawLotNumber": "88221",
+    "azonositas": "Kovácsi Kálmán tér 8.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88222": {
+    "ssz": "183.",
+    "lotNumber": "88222",
+    "rawLotNumber": "88222",
+    "azonositas": "Kovácsi Kálmán tér 7.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88223": {
+    "ssz": "184.",
+    "lotNumber": "88223",
+    "rawLotNumber": "88223",
+    "azonositas": "Töltés tér 2.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88224": {
+    "ssz": "185.",
+    "lotNumber": "88224",
+    "rawLotNumber": "88224",
+    "azonositas": "Kovácsi Kálmán tér 6.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88225": {
+    "ssz": "186.",
+    "lotNumber": "88225",
+    "rawLotNumber": "88225",
+    "azonositas": "Kovácsi Kálmán tér 6/A.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88226": {
+    "ssz": "187.",
+    "lotNumber": "88226",
+    "rawLotNumber": "88226",
+    "azonositas": "Töltés tér 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88227": {
+    "ssz": "188.",
+    "lotNumber": "88227",
+    "rawLotNumber": "88227",
+    "azonositas": "Töltés utca 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88228": {
+    "ssz": "189.",
+    "lotNumber": "88228",
+    "rawLotNumber": "88228",
+    "azonositas": "Töltés utca 10.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88229": {
+    "ssz": "190.",
+    "lotNumber": "88229",
+    "rawLotNumber": "88229",
+    "azonositas": "Kovácsi Kálmán tér 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88230": {
+    "ssz": "191.",
+    "lotNumber": "88230",
+    "rawLotNumber": "88230",
+    "azonositas": "Kovácsi Kálmán tér 4/A.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88231": {
+    "ssz": "192.",
+    "lotNumber": "88231",
+    "rawLotNumber": "88231",
+    "azonositas": "Töltés utca 8.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88232": {
+    "ssz": "193.",
+    "lotNumber": "88232",
+    "rawLotNumber": "88232",
+    "azonositas": "Kovácsi Kálmán tér 4.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88233": {
+    "ssz": "194.",
+    "lotNumber": "88233",
+    "rawLotNumber": "88233",
+    "azonositas": "Kovácsi Kálmán tér 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88234": {
+    "ssz": "195.",
+    "lotNumber": "88234",
+    "rawLotNumber": "88234",
+    "azonositas": "Töltés utca 6.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88235": {
+    "ssz": "196.",
+    "lotNumber": "88235",
+    "rawLotNumber": "88235",
+    "azonositas": "Töltés utca 4.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88236": {
+    "ssz": "197.",
+    "lotNumber": "88236",
+    "rawLotNumber": "88236",
+    "azonositas": "Töltés utca 2.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88237": {
+    "ssz": "198.",
+    "lotNumber": "88237",
+    "rawLotNumber": "88237",
+    "azonositas": "Kovácsi Kálmán tér 2.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88238": {
+    "ssz": "199.",
+    "lotNumber": "88238",
+    "rawLotNumber": "88238",
+    "azonositas": "Károlyi Sándor utca 38/B.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88239": {
+    "ssz": "200.",
+    "lotNumber": "88239",
+    "rawLotNumber": "88239",
+    "azonositas": "Károlyi Sándor utca 38/A.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88240": {
+    "ssz": "201.",
+    "lotNumber": "88240",
+    "rawLotNumber": "(88240)",
+    "azonositas": "Károlyi Sándor út, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88241": {
+    "ssz": "202.",
+    "lotNumber": "88241",
+    "rawLotNumber": "88241",
+    "azonositas": "Közvágóhíd utca 24., üzletház",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88243": {
+    "ssz": "203.",
+    "lotNumber": "88243",
+    "rawLotNumber": "88243",
+    "azonositas": "Közvágóhíd utca 22.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88244": {
+    "ssz": "204.",
+    "lotNumber": "88244",
+    "rawLotNumber": "88244",
+    "azonositas": "Közvágóhíd utca 20.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88245": {
+    "ssz": "205.",
+    "lotNumber": "88245",
+    "rawLotNumber": "88245",
+    "azonositas": "Közvágóhíd utca 18/B.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88246": {
+    "ssz": "206.",
+    "lotNumber": "88246",
+    "rawLotNumber": "88246",
+    "azonositas": "Közvágóhíd utca 18.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88258/2": {
+    "ssz": "207.",
+    "lotNumber": "88258/2",
+    "rawLotNumber": "88258/2",
+    "azonositas": "Károlyi Sándor út 7., egykori Növényolajgyár területe",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88262/2": {
+    "ssz": "208.",
+    "lotNumber": "88262/2",
+    "rawLotNumber": "(88262/2)",
+    "azonositas": "Szilas patak nyomvonala",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88263": {
+    "ssz": "209.",
+    "lotNumber": "88263",
+    "rawLotNumber": "88263",
+    "azonositas": "Károlyi Sándor út 5. (bekerítetlen terület)",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88265": {
+    "ssz": "210.",
+    "lotNumber": "88265",
+    "rawLotNumber": "88265",
+    "azonositas": "Anyácska utca 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88266/1": {
+    "ssz": "211.",
+    "lotNumber": "88266/1",
+    "rawLotNumber": "88266/1",
+    "azonositas": "Anyácska utca, hsz. nélkül, tényleges beközlekedés a 88263 hrsz.-en keresztül",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88266/2": {
+    "ssz": "212.",
+    "lotNumber": "88266/2",
+    "rawLotNumber": "88266/2",
+    "azonositas": "Nyél a 88266/2 hrsz-hez, Anyácska utcából (használaton kívül)",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88267": {
+    "ssz": "213.",
+    "lotNumber": "88267",
+    "rawLotNumber": "88267",
+    "azonositas": "Anyácska utca 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88268": {
+    "ssz": "214.",
+    "lotNumber": "88268",
+    "rawLotNumber": "88268",
+    "azonositas": "Anyácska utca 7.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88269": {
+    "ssz": "215.",
+    "lotNumber": "88269",
+    "rawLotNumber": "88269",
+    "azonositas": "Anyácska utca 9.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88270": {
+    "ssz": "216.",
+    "lotNumber": "88270",
+    "rawLotNumber": "88270",
+    "azonositas": "Anyácska utca 9. sz. telekkel egybenyitva",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88271": {
+    "ssz": "217.",
+    "lotNumber": "88271",
+    "rawLotNumber": "88271",
+    "azonositas": "Anyácska utca 11.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88272": {
+    "ssz": "218.",
+    "lotNumber": "88272",
+    "rawLotNumber": "88272",
+    "azonositas": "Anyácska utca 13.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88273": {
+    "ssz": "219.",
+    "lotNumber": "88273",
+    "rawLotNumber": "88273",
+    "azonositas": "Anyácska utca 15.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88276": {
+    "ssz": "220.",
+    "lotNumber": "88276",
+    "rawLotNumber": "88276",
+    "azonositas": "Anyácska utca 19.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88278": {
+    "ssz": "221.",
+    "lotNumber": "88278",
+    "rawLotNumber": "88278",
+    "azonositas": "Anyácska utca 21.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88279": {
+    "ssz": "222.",
+    "lotNumber": "88279",
+    "rawLotNumber": "88279",
+    "azonositas": "Anyácska utca 25.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88299": {
+    "ssz": "223.",
+    "lotNumber": "88299",
+    "rawLotNumber": "88299",
+    "azonositas": "Énekes utca 20.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88300": {
+    "ssz": "224.",
+    "lotNumber": "88300",
+    "rawLotNumber": "88300",
+    "azonositas": "Énekes utca 22.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Igen",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88301": {
+    "ssz": "225.",
+    "lotNumber": "88301",
+    "rawLotNumber": "88301",
+    "azonositas": "Anyácska utca 14.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Nem"
+  },
+  "88302": {
+    "ssz": "226.",
+    "lotNumber": "88302",
+    "rawLotNumber": "88302",
+    "azonositas": "Anyácska utca 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88303": {
+    "ssz": "227.",
+    "lotNumber": "88303",
+    "rawLotNumber": "88303",
+    "azonositas": "Énekes utca 24.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Igen",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88304": {
+    "ssz": "228.",
+    "lotNumber": "88304",
+    "rawLotNumber": "88304",
+    "azonositas": "Énekes utca 28., Pisztráng utca 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88305": {
+    "ssz": "229.",
+    "lotNumber": "88305",
+    "rawLotNumber": "88305",
+    "azonositas": "Anyácska utca 10.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88306": {
+    "ssz": "230.",
+    "lotNumber": "88306",
+    "rawLotNumber": "88306",
+    "azonositas": "Anyácska utca 8.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88307": {
+    "ssz": "231.",
+    "lotNumber": "88307",
+    "rawLotNumber": "88307",
+    "azonositas": "Pisztráng utca 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88308": {
+    "ssz": "232.",
+    "lotNumber": "88308",
+    "rawLotNumber": "88308",
+    "azonositas": "Anyácska utca 6.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88309": {
+    "ssz": "233.",
+    "lotNumber": "88309",
+    "rawLotNumber": "(88309)",
+    "azonositas": "Anyácska utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88310": {
+    "ssz": "234.",
+    "lotNumber": "88310",
+    "rawLotNumber": "(88310)",
+    "azonositas": "Pisztráng utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88311": {
+    "ssz": "235.",
+    "lotNumber": "88311",
+    "rawLotNumber": "88311",
+    "azonositas": "Pozsony utca 36., Leánynevelő Intézet",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Igen",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88320": {
+    "ssz": "236.",
+    "lotNumber": "88320",
+    "rawLotNumber": "88320",
+    "azonositas": "Szövőgyár utca 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88321": {
+    "ssz": "237.",
+    "lotNumber": "88321",
+    "rawLotNumber": "88321",
+    "azonositas": "Szövőgyár utca 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88322/1": {
+    "ssz": "238.",
+    "lotNumber": "88322/1",
+    "rawLotNumber": "88322/1",
+    "azonositas": "Az egykori Budapesti Finomkötöttárugyár gyártelepből kialakított harmadik ingatlan, jelenleg ipartelep",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Igen",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88322/2": {
+    "ssz": "239.",
+    "lotNumber": "88322/2",
+    "rawLotNumber": "88322/2",
+    "azonositas": "LabSystem Kft. ingatlanja. Ipari ingatlan, egykori Budapesti Finomkötöttárugyár gyártelep része",
+    "fk_lnapl": "Igen",
+    "fav_lnapl": "Igen",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88323": {
+    "ssz": "240.",
+    "lotNumber": "88323",
+    "rawLotNumber": "88323",
+    "azonositas": "Dinamo Invest Kft. ingatlanja. Lakóövezeti területté átminősített ingatlan, egykori Budapesti Finomkötöttárugyár gyártelep része",
+    "fk_lnapl": "Igen",
+    "fav_lnapl": "Igen",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88325": {
+    "ssz": "241.",
+    "lotNumber": "88325",
+    "rawLotNumber": "88325",
+    "azonositas": "Énekes utca 33. ipari üzem",
+    "fk_lnapl": "Igen",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88326": {
+    "ssz": "242.",
+    "lotNumber": "88326",
+    "rawLotNumber": "88326",
+    "azonositas": "Szövőgyár utca 23. lakóház",
+    "fk_lnapl": "Igen",
+    "fav_lnapl": "Igen",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88327": {
+    "ssz": "243.",
+    "lotNumber": "88327",
+    "rawLotNumber": "(88327)",
+    "azonositas": "Szövőgyár utca, közterület",
+    "fk_lnapl": "Igen",
+    "fav_lnapl": "Igen",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88328/1": {
+    "ssz": "244.",
+    "lotNumber": "88328/1",
+    "rawLotNumber": "(88328/1)",
+    "azonositas": "Énekes utca, közterület",
+    "fk_lnapl": "Igen",
+    "fav_lnapl": "Igen",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88328/2": {
+    "ssz": "245.",
+    "lotNumber": "88328/2",
+    "rawLotNumber": "88328/2",
+    "azonositas": "Énekes utca 19-35. lakóház",
+    "fk_lnapl": "Igen",
+    "fav_lnapl": "Igen",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88334": {
+    "ssz": "246.",
+    "lotNumber": "88334",
+    "rawLotNumber": "88334",
+    "azonositas": "Szövőgyár utca 24., Szövő Ovi",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Igen",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88335": {
+    "ssz": "247.",
+    "lotNumber": "88335",
+    "rawLotNumber": "88335",
+    "azonositas": "Szövőgyár utca 22.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88336": {
+    "ssz": "248.",
+    "lotNumber": "88336",
+    "rawLotNumber": "88336",
+    "azonositas": "Szövőgyár utca 20.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88337": {
+    "ssz": "249.",
+    "lotNumber": "88337",
+    "rawLotNumber": "88337",
+    "azonositas": "Szövőgyár utca 18.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88338": {
+    "ssz": "250.",
+    "lotNumber": "88338",
+    "rawLotNumber": "88338",
+    "azonositas": "Szövőgyár utca 16.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88339": {
+    "ssz": "251.",
+    "lotNumber": "88339",
+    "rawLotNumber": "88339",
+    "azonositas": "Szövőgyár utca 14.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88340": {
+    "ssz": "252.",
+    "lotNumber": "88340",
+    "rawLotNumber": "88340",
+    "azonositas": "Szövőgyár utca 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88422": {
+    "ssz": "253.",
+    "lotNumber": "88422",
+    "rawLotNumber": "(88422)",
+    "azonositas": "Énekes utca, közterület",
+    "fk_lnapl": "Igen",
+    "fav_lnapl": "Igen",
+    "fk_dnapl": "Igen",
+    "fav_dnapl": "Igen"
+  },
+  "88438": {
+    "ssz": "254.",
+    "lotNumber": "88438",
+    "rawLotNumber": "(88438)",
+    "azonositas": "Töltés utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88439": {
+    "ssz": "255.",
+    "lotNumber": "88439",
+    "rawLotNumber": "(88439)",
+    "azonositas": "Töltés tér, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88440": {
+    "ssz": "256.",
+    "lotNumber": "88440",
+    "rawLotNumber": "(88440)",
+    "azonositas": "MÁV vaspálya (Csomád utca)",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88441": {
+    "ssz": "257.",
+    "lotNumber": "88441",
+    "rawLotNumber": "(88441)",
+    "azonositas": "Töltés tér, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88442": {
+    "ssz": "258.",
+    "lotNumber": "88442",
+    "rawLotNumber": "(88442)",
+    "azonositas": "Töltés utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88443": {
+    "ssz": "259.",
+    "lotNumber": "88443",
+    "rawLotNumber": "88443",
+    "azonositas": "Kemény István utca 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88444": {
+    "ssz": "260.",
+    "lotNumber": "88444",
+    "rawLotNumber": "88444",
+    "azonositas": "Kemény István utca 5/B.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88445": {
+    "ssz": "261.",
+    "lotNumber": "88445",
+    "rawLotNumber": "88445",
+    "azonositas": "Töltés tér 10.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88446": {
+    "ssz": "262.",
+    "lotNumber": "88446",
+    "rawLotNumber": "88446",
+    "azonositas": "Töltés tér 9.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88447": {
+    "ssz": "263.",
+    "lotNumber": "88447",
+    "rawLotNumber": "88447",
+    "azonositas": "Töltés tér 8.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88448": {
+    "ssz": "264.",
+    "lotNumber": "88448",
+    "rawLotNumber": "88448",
+    "azonositas": "Csomád utca 6/B.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88449": {
+    "ssz": "265.",
+    "lotNumber": "88449",
+    "rawLotNumber": "88449",
+    "azonositas": "Kemény István utca 7.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88450": {
+    "ssz": "266.",
+    "lotNumber": "88450",
+    "rawLotNumber": "88450",
+    "azonositas": "Kemény István utca 9.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88451": {
+    "ssz": "267.",
+    "lotNumber": "88451",
+    "rawLotNumber": "88451",
+    "azonositas": "Csomád utca 8.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88452": {
+    "ssz": "268.",
+    "lotNumber": "88452",
+    "rawLotNumber": "88452",
+    "azonositas": "Csomád utca 10.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88453": {
+    "ssz": "269.",
+    "lotNumber": "88453",
+    "rawLotNumber": "88453",
+    "azonositas": "Kemény István utca 11.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88454": {
+    "ssz": "270.",
+    "lotNumber": "88454",
+    "rawLotNumber": "88454",
+    "azonositas": "Kemény István utca 13.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88455": {
+    "ssz": "271.",
+    "lotNumber": "88455",
+    "rawLotNumber": "88455",
+    "azonositas": "Kemény István utca 15.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88456": {
+    "ssz": "272.",
+    "lotNumber": "88456",
+    "rawLotNumber": "88456",
+    "azonositas": "Csomád utca 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88457": {
+    "ssz": "273.",
+    "lotNumber": "88457",
+    "rawLotNumber": "88457",
+    "azonositas": "Csomád utca 14.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88458": {
+    "ssz": "274.",
+    "lotNumber": "88458",
+    "rawLotNumber": "88458",
+    "azonositas": "Kemény István utca 17.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88459": {
+    "ssz": "275.",
+    "lotNumber": "88459",
+    "rawLotNumber": "88459",
+    "azonositas": "Kemény István utca 19.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88460": {
+    "ssz": "276.",
+    "lotNumber": "88460",
+    "rawLotNumber": "88460",
+    "azonositas": "Csomád utca 16.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88461": {
+    "ssz": "277.",
+    "lotNumber": "88461",
+    "rawLotNumber": "88461",
+    "azonositas": "Csomád utca 18.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88462": {
+    "ssz": "278.",
+    "lotNumber": "88462",
+    "rawLotNumber": "88462",
+    "azonositas": "Kemény István utca 21.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88463": {
+    "ssz": "279.",
+    "lotNumber": "88463",
+    "rawLotNumber": "88463",
+    "azonositas": "Kemény István utca 23.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88464": {
+    "ssz": "280.",
+    "lotNumber": "88464",
+    "rawLotNumber": "88464",
+    "azonositas": "Kemény István utca 25.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88465": {
+    "ssz": "281.",
+    "lotNumber": "88465",
+    "rawLotNumber": "88465",
+    "azonositas": "Csomád utca 20.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88466": {
+    "ssz": "282.",
+    "lotNumber": "88466",
+    "rawLotNumber": "88466",
+    "azonositas": "Csomád utca 22.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88467": {
+    "ssz": "283.",
+    "lotNumber": "88467",
+    "rawLotNumber": "88467",
+    "azonositas": "Kemény István utca 27.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88468": {
+    "ssz": "284.",
+    "lotNumber": "88468",
+    "rawLotNumber": "88468",
+    "azonositas": "Kemény István utca 29.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88469": {
+    "ssz": "285.",
+    "lotNumber": "88469",
+    "rawLotNumber": "88469",
+    "azonositas": "Csomád utca 24.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88470": {
+    "ssz": "286.",
+    "lotNumber": "88470",
+    "rawLotNumber": "88470",
+    "azonositas": "Csomád utca 26.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88471": {
+    "ssz": "287.",
+    "lotNumber": "88471",
+    "rawLotNumber": "88471",
+    "azonositas": "Kemény István utca 31.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88485": {
+    "ssz": "288.",
+    "lotNumber": "88485",
+    "rawLotNumber": "(88485)",
+    "azonositas": "Kemény István utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88504": {
+    "ssz": "289.",
+    "lotNumber": "88504",
+    "rawLotNumber": "88504",
+    "azonositas": "Kemény István utca 34.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88505": {
+    "ssz": "290.",
+    "lotNumber": "88505",
+    "rawLotNumber": "88505",
+    "azonositas": "Kemény István utca 32.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88506": {
+    "ssz": "291.",
+    "lotNumber": "88506",
+    "rawLotNumber": "88506",
+    "azonositas": "Alagi tér 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88507": {
+    "ssz": "292.",
+    "lotNumber": "88507",
+    "rawLotNumber": "88507",
+    "azonositas": "Alagi tér 11.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88508": {
+    "ssz": "293.",
+    "lotNumber": "88508",
+    "rawLotNumber": "88508",
+    "azonositas": "Kemény István utca 30.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88509": {
+    "ssz": "294.",
+    "lotNumber": "88509",
+    "rawLotNumber": "88509",
+    "azonositas": "Kemény István utca 28.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88510": {
+    "ssz": "295.",
+    "lotNumber": "88510",
+    "rawLotNumber": "88510",
+    "azonositas": "Alagi tér 10.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88511": {
+    "ssz": "296.",
+    "lotNumber": "88511",
+    "rawLotNumber": "88511",
+    "azonositas": "Alagi tér 9.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88512": {
+    "ssz": "297.",
+    "lotNumber": "88512",
+    "rawLotNumber": "88512",
+    "azonositas": "Kemény István utca 26.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88513": {
+    "ssz": "298.",
+    "lotNumber": "88513",
+    "rawLotNumber": "88513",
+    "azonositas": "Kemény István utca 24.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88514": {
+    "ssz": "299.",
+    "lotNumber": "88514",
+    "rawLotNumber": "88514",
+    "azonositas": "Alagi tér 8.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88515": {
+    "ssz": "300.",
+    "lotNumber": "88515",
+    "rawLotNumber": "88515",
+    "azonositas": "Alagi tér 7.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88516": {
+    "ssz": "301.",
+    "lotNumber": "88516",
+    "rawLotNumber": "88516",
+    "azonositas": "Kemény István utca 22.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88517": {
+    "ssz": "302.",
+    "lotNumber": "88517",
+    "rawLotNumber": "88517",
+    "azonositas": "Kemény István utca 20.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88518": {
+    "ssz": "303.",
+    "lotNumber": "88518",
+    "rawLotNumber": "88518",
+    "azonositas": "Alagi tér 6.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88519": {
+    "ssz": "304.",
+    "lotNumber": "88519",
+    "rawLotNumber": "88519",
+    "azonositas": "Alagi tér 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88520": {
+    "ssz": "305.",
+    "lotNumber": "88520",
+    "rawLotNumber": "88520",
+    "azonositas": "Kemény István utca 18.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88521": {
+    "ssz": "306.",
+    "lotNumber": "88521",
+    "rawLotNumber": "88521",
+    "azonositas": "Kemény István utca 16.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88522": {
+    "ssz": "307.",
+    "lotNumber": "88522",
+    "rawLotNumber": "88522",
+    "azonositas": "Alagi tér 4.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88523": {
+    "ssz": "308.",
+    "lotNumber": "88523",
+    "rawLotNumber": "88523",
+    "azonositas": "Alagi tér 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88524": {
+    "ssz": "309",
+    "lotNumber": "88524",
+    "rawLotNumber": "88524",
+    "azonositas": "Alagi tér 2.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88525": {
+    "ssz": "310.",
+    "lotNumber": "88525",
+    "rawLotNumber": "88525",
+    "azonositas": "Kemény István utca 14.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88526": {
+    "ssz": "311.",
+    "lotNumber": "88526",
+    "rawLotNumber": "88526",
+    "azonositas": "Kemény István utca 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88527": {
+    "ssz": "312.",
+    "lotNumber": "88527",
+    "rawLotNumber": "88527",
+    "azonositas": "Kemény István utca 10.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88528": {
+    "ssz": "313.",
+    "lotNumber": "88528",
+    "rawLotNumber": "88528",
+    "azonositas": "Töltés utca 15.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88529": {
+    "ssz": "314.",
+    "lotNumber": "88529",
+    "rawLotNumber": "88529",
+    "azonositas": "Töltés utca 17.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88530": {
+    "ssz": "315.",
+    "lotNumber": "88530",
+    "rawLotNumber": "88530",
+    "azonositas": "Töltés utca 19.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88531": {
+    "ssz": "316.",
+    "lotNumber": "88531",
+    "rawLotNumber": "(88531)",
+    "azonositas": "Alagi tér, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88533": {
+    "ssz": "317.",
+    "lotNumber": "88533",
+    "rawLotNumber": "88533",
+    "azonositas": "Alagi tér 13., Református Misszió Központ",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88570": {
+    "ssz": "318.",
+    "lotNumber": "88570",
+    "rawLotNumber": "88570",
+    "azonositas": "Alagi tér 16.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88571": {
+    "ssz": "319.",
+    "lotNumber": "88571",
+    "rawLotNumber": "88571",
+    "azonositas": "Alagi tér 17.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88572": {
+    "ssz": "320.",
+    "lotNumber": "88572",
+    "rawLotNumber": "88572",
+    "azonositas": "Alagi tér 18.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88573": {
+    "ssz": "321.",
+    "lotNumber": "88573",
+    "rawLotNumber": "88573",
+    "azonositas": "Harsányi Kálmán utca 13.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88574": {
+    "ssz": "322.",
+    "lotNumber": "88574",
+    "rawLotNumber": "88574",
+    "azonositas": "Harsányi Kálmán utca 11.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88575": {
+    "ssz": "323.",
+    "lotNumber": "88575",
+    "rawLotNumber": "88575",
+    "azonositas": "Alagi tér 19.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88576": {
+    "ssz": "324.",
+    "lotNumber": "88576",
+    "rawLotNumber": "88576",
+    "azonositas": "Alagi tér 20.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88577": {
+    "ssz": "325.",
+    "lotNumber": "88577",
+    "rawLotNumber": "88577",
+    "azonositas": "Harsányi Kálmán utca 11/A.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88578": {
+    "ssz": "326.",
+    "lotNumber": "88578",
+    "rawLotNumber": "88578",
+    "azonositas": "Harsányi Kálmán utca 9.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88579": {
+    "ssz": "327.",
+    "lotNumber": "88579",
+    "rawLotNumber": "88579",
+    "azonositas": "Harsányi Kálmán utca 7.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88580": {
+    "ssz": "328.",
+    "lotNumber": "88580",
+    "rawLotNumber": "88580",
+    "azonositas": "Alagi tér 21.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88581": {
+    "ssz": "329.",
+    "lotNumber": "88581",
+    "rawLotNumber": "88581",
+    "azonositas": "Alagi tér 22.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88582": {
+    "ssz": "330.",
+    "lotNumber": "88582",
+    "rawLotNumber": "88582",
+    "azonositas": "Töltés utca 21.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88583": {
+    "ssz": "331.",
+    "lotNumber": "88583",
+    "rawLotNumber": "88583",
+    "azonositas": "Töltés utca 23.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88584": {
+    "ssz": "332.",
+    "lotNumber": "88584",
+    "rawLotNumber": "88584",
+    "azonositas": "Töltés utca 25.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88585": {
+    "ssz": "333.",
+    "lotNumber": "88585",
+    "rawLotNumber": "88585",
+    "azonositas": "Harsányi Kálmán utca 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88586": {
+    "ssz": "334.",
+    "lotNumber": "88586",
+    "rawLotNumber": "(88586)",
+    "azonositas": "MÁV vaspálya (Harsányi Kálmán utca)",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88587": {
+    "ssz": "335.",
+    "lotNumber": "88587",
+    "rawLotNumber": "(88587)",
+    "azonositas": "Harsányi Kálmán utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88860": {
+    "ssz": "336.",
+    "lotNumber": "88860",
+    "rawLotNumber": "(88860)",
+    "azonositas": "Csomád utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "88876": {
+    "ssz": "337.",
+    "lotNumber": "88876",
+    "rawLotNumber": "(88876)",
+    "azonositas": "Csomád utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89071": {
+    "ssz": "338.",
+    "lotNumber": "89071",
+    "rawLotNumber": "89071",
+    "azonositas": "Veresegyházi utca 26.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89072": {
+    "ssz": "339.",
+    "lotNumber": "89072",
+    "rawLotNumber": "89072",
+    "azonositas": "Csomád utca 17.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89073": {
+    "ssz": "340.",
+    "lotNumber": "89073",
+    "rawLotNumber": "89073",
+    "azonositas": "Csomád utca 15/B.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89074": {
+    "ssz": "341.",
+    "lotNumber": "89074",
+    "rawLotNumber": "89074",
+    "azonositas": "Veresegyházi utca 24.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89075": {
+    "ssz": "342.",
+    "lotNumber": "89075",
+    "rawLotNumber": "89075",
+    "azonositas": "Veresegyházi utca 22.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89076": {
+    "ssz": "343.",
+    "lotNumber": "89076",
+    "rawLotNumber": "89076",
+    "azonositas": "Csomád utca 15/A.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89077": {
+    "ssz": "344.",
+    "lotNumber": "89077",
+    "rawLotNumber": "89077",
+    "azonositas": "Csomád utca 13.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89078": {
+    "ssz": "345.",
+    "lotNumber": "89078",
+    "rawLotNumber": "89078",
+    "azonositas": "Veresegyházi utca 20.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89079": {
+    "ssz": "346.",
+    "lotNumber": "89079",
+    "rawLotNumber": "89079",
+    "azonositas": "Veresegyházi utca 18.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89080": {
+    "ssz": "347.",
+    "lotNumber": "89080",
+    "rawLotNumber": "89080",
+    "azonositas": "Veresegyházi utca 16.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89081": {
+    "ssz": "348.",
+    "lotNumber": "89081",
+    "rawLotNumber": "89081",
+    "azonositas": "Csomád utca 11.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89082": {
+    "ssz": "349.",
+    "lotNumber": "89082",
+    "rawLotNumber": "89082",
+    "azonositas": "Csomád utca 9/B.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89083": {
+    "ssz": "350.",
+    "lotNumber": "89083",
+    "rawLotNumber": "89083",
+    "azonositas": "Veresegyházi utca 14.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89084": {
+    "ssz": "351.",
+    "lotNumber": "89084",
+    "rawLotNumber": "89084",
+    "azonositas": "Veresegyházi utca 12.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89085": {
+    "ssz": "352.",
+    "lotNumber": "89085",
+    "rawLotNumber": "89085",
+    "azonositas": "Csomád utca 9.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89086": {
+    "ssz": "353.",
+    "lotNumber": "89086",
+    "rawLotNumber": "89086",
+    "azonositas": "Csomád utca 7.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89087": {
+    "ssz": "354.",
+    "lotNumber": "89087",
+    "rawLotNumber": "89087",
+    "azonositas": "Veresegyházi utca 10.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89088": {
+    "ssz": "355.",
+    "lotNumber": "89088",
+    "rawLotNumber": "89088",
+    "azonositas": "Veresegyházi utca 8.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89089": {
+    "ssz": "356.",
+    "lotNumber": "89089",
+    "rawLotNumber": "89089",
+    "azonositas": "Csomád utca 5/B.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89090": {
+    "ssz": "357.",
+    "lotNumber": "89090",
+    "rawLotNumber": "89090",
+    "azonositas": "Csomád utca 5/A.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89091": {
+    "ssz": "358.",
+    "lotNumber": "89091",
+    "rawLotNumber": "89091",
+    "azonositas": "Csomád utca 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89092": {
+    "ssz": "359.",
+    "lotNumber": "89092",
+    "rawLotNumber": "89092",
+    "azonositas": "Veresegyházi utca 6/B.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89093": {
+    "ssz": "360.",
+    "lotNumber": "89093",
+    "rawLotNumber": "89093",
+    "azonositas": "Veresegyházi utca 6.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89094": {
+    "ssz": "361.",
+    "lotNumber": "89094",
+    "rawLotNumber": "89094",
+    "azonositas": "Veresegyházi utca 4.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89095": {
+    "ssz": "362.",
+    "lotNumber": "89095",
+    "rawLotNumber": "89095",
+    "azonositas": "Töltés tér 6.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89096": {
+    "ssz": "363.",
+    "lotNumber": "89096",
+    "rawLotNumber": "89096",
+    "azonositas": "Töltés utca 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89097": {
+    "ssz": "364.",
+    "lotNumber": "89097",
+    "rawLotNumber": "89097",
+    "azonositas": "Veresegyházi utca 2.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89098": {
+    "ssz": "365.",
+    "lotNumber": "89098",
+    "rawLotNumber": "(89098)",
+    "azonositas": "Veresegyházi utca, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89117": {
+    "ssz": "366.",
+    "lotNumber": "89117",
+    "rawLotNumber": "89117",
+    "azonositas": "Veresegyházi utca 25-27.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89121": {
+    "ssz": "367.",
+    "lotNumber": "89121",
+    "rawLotNumber": "89121",
+    "azonositas": "Veresegyházi utca 23.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89122": {
+    "ssz": "368.",
+    "lotNumber": "89122",
+    "rawLotNumber": "89122",
+    "azonositas": "Veresegyházi utca 21.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89123": {
+    "ssz": "369.",
+    "lotNumber": "89123",
+    "rawLotNumber": "89123",
+    "azonositas": "Károlyi Sándor út 56.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89124": {
+    "ssz": "370.",
+    "lotNumber": "89124",
+    "rawLotNumber": "89124",
+    "azonositas": "Károlyi Sándor út 54.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89125": {
+    "ssz": "371.",
+    "lotNumber": "89125",
+    "rawLotNumber": "89125",
+    "azonositas": "Veresegyházi utca 19.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89126": {
+    "ssz": "372.",
+    "lotNumber": "89126",
+    "rawLotNumber": "89126",
+    "azonositas": "Veresegyházi utca 17.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89127": {
+    "ssz": "373.",
+    "lotNumber": "89127",
+    "rawLotNumber": "89127",
+    "azonositas": "Károlyi Sándor út 52.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89128": {
+    "ssz": "374.",
+    "lotNumber": "89128",
+    "rawLotNumber": "89128",
+    "azonositas": "Károlyi Sándor út 50.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89129": {
+    "ssz": "375.",
+    "lotNumber": "89129",
+    "rawLotNumber": "89129",
+    "azonositas": "Veresegyházi utca 15.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89130": {
+    "ssz": "376.",
+    "lotNumber": "89130",
+    "rawLotNumber": "89130",
+    "azonositas": "Veresegyházi utca 13.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89131": {
+    "ssz": "377.",
+    "lotNumber": "89131",
+    "rawLotNumber": "89131",
+    "azonositas": "Veresegyházi utca 11.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89132": {
+    "ssz": "378.",
+    "lotNumber": "89132",
+    "rawLotNumber": "89132",
+    "azonositas": "Károlyi Sándor út 48.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89133": {
+    "ssz": "379.",
+    "lotNumber": "89133",
+    "rawLotNumber": "89133",
+    "azonositas": "Károlyi Sándor út 46.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89134": {
+    "ssz": "380.",
+    "lotNumber": "89134",
+    "rawLotNumber": "89134",
+    "azonositas": "Veresegyházi utca 9.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89135": {
+    "ssz": "381.",
+    "lotNumber": "89135",
+    "rawLotNumber": "89135",
+    "azonositas": "Veresegyházi utca 7.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89136": {
+    "ssz": "382.",
+    "lotNumber": "89136",
+    "rawLotNumber": "89136",
+    "azonositas": "Károlyi Sándor út 44.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89137": {
+    "ssz": "383.",
+    "lotNumber": "89137",
+    "rawLotNumber": "89137",
+    "azonositas": "Károlyi Sándor út 42.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89138": {
+    "ssz": "384.",
+    "lotNumber": "89138",
+    "rawLotNumber": "89138",
+    "azonositas": "Veresegyházi utca 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89139": {
+    "ssz": "385.",
+    "lotNumber": "89139",
+    "rawLotNumber": "89139",
+    "azonositas": "Veresegyházi utca 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89140": {
+    "ssz": "386.",
+    "lotNumber": "89140",
+    "rawLotNumber": "89140",
+    "azonositas": "Veresegyházi utca 1.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89141": {
+    "ssz": "387.",
+    "lotNumber": "89141",
+    "rawLotNumber": "89141",
+    "azonositas": "Töltés utca 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89142": {
+    "ssz": "388.",
+    "lotNumber": "89142",
+    "rawLotNumber": "89142",
+    "azonositas": "Töltés utca 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89143": {
+    "ssz": "389.",
+    "lotNumber": "89143",
+    "rawLotNumber": "89143",
+    "azonositas": "Töltés utca 1/B.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89144": {
+    "ssz": "390.",
+    "lotNumber": "89144",
+    "rawLotNumber": "89144",
+    "azonositas": "Töltés utca 1.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89145": {
+    "ssz": "391.",
+    "lotNumber": "89145",
+    "rawLotNumber": "89145",
+    "azonositas": "Károlyi Sándor út 40/B.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89146": {
+    "ssz": "392.",
+    "lotNumber": "89146",
+    "rawLotNumber": "(89146)",
+    "azonositas": "Károlyi Sándor út, közterület",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89147": {
+    "ssz": "393.",
+    "lotNumber": "89147",
+    "rawLotNumber": "89147",
+    "azonositas": "Károlyi Sándor út 41.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89148": {
+    "ssz": "394.",
+    "lotNumber": "89148",
+    "rawLotNumber": "89148",
+    "azonositas": "Közvágóhíd utca 27.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89149": {
+    "ssz": "395.",
+    "lotNumber": "89149",
+    "rawLotNumber": "89149",
+    "azonositas": "Közvágóhíd utca 25.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89150": {
+    "ssz": "396.",
+    "lotNumber": "89150",
+    "rawLotNumber": "89150",
+    "azonositas": "Vácduka tér 1.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89151": {
+    "ssz": "397.",
+    "lotNumber": "89151",
+    "rawLotNumber": "89151",
+    "azonositas": "Vácduka tér 2.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89152": {
+    "ssz": "398.",
+    "lotNumber": "89152",
+    "rawLotNumber": "89152",
+    "azonositas": "Vácduka tér 3.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89153": {
+    "ssz": "399.",
+    "lotNumber": "89153",
+    "rawLotNumber": "89153",
+    "azonositas": "Károlyi Sándor út 43.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89154": {
+    "ssz": "400.",
+    "lotNumber": "89154",
+    "rawLotNumber": "89154",
+    "azonositas": "Károlyi Sándor út 45.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89155": {
+    "ssz": "401.",
+    "lotNumber": "89155",
+    "rawLotNumber": "89155",
+    "azonositas": "Vácduka tér 4.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89156": {
+    "ssz": "402.",
+    "lotNumber": "89156",
+    "rawLotNumber": "89156",
+    "azonositas": "Vácduka tér 5.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89157": {
+    "ssz": "403.",
+    "lotNumber": "89157",
+    "rawLotNumber": "89157",
+    "azonositas": "Károlyi Sándor út 47.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89158": {
+    "ssz": "404.",
+    "lotNumber": "89158",
+    "rawLotNumber": "89158",
+    "azonositas": "Károlyi Sándor út 49.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89162": {
+    "ssz": "405.",
+    "lotNumber": "89162",
+    "rawLotNumber": "89162",
+    "azonositas": "Károlyi Sándor út 51.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89163": {
+    "ssz": "406.",
+    "lotNumber": "89163",
+    "rawLotNumber": "89163",
+    "azonositas": "Károlyi Sándor út 53.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  },
+  "89166": {
+    "ssz": "407.",
+    "lotNumber": "89166",
+    "rawLotNumber": "89166",
+    "azonositas": "Károlyi Sándor út 55.",
+    "fk_lnapl": "Nem",
+    "fav_lnapl": "Nem",
+    "fk_dnapl": "Nem",
+    "fav_dnapl": "Igen"
+  }
+}

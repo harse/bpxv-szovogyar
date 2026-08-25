@@ -240,6 +240,34 @@
 
         let szovogyarLayer = null;
         let fotiLayer = null;
+        let contaminationInfoMap = {};
+
+        function formatContaminationDetails(lotNumber) {
+            if (!contaminationInfoMap || !lotNumber) return '';
+            
+            const cleanLot = String(lotNumber).replace(/[\(\)]/g, '').trim();
+            const info = contaminationInfoMap[cleanLot] || contaminationInfoMap[lotNumber];
+            if (!info) return '';
+
+            const isYes = val => val && String(val).trim().toLowerCase() === 'igen';
+
+            const badge = val => isYes(val) 
+                ? '<span style="color:#c0392b; font-weight:bold; background:#fadbd8; padding:1px 5px; border-radius:3px;">IGEN</span>' 
+                : '<span style="color:#27ae60; font-weight:normal; background:#e8f8f5; padding:1px 5px; border-radius:3px;">NEM</span>';
+
+            return `
+                <div style="margin-top: 8px; padding-top: 6px; border-top: 1px solid #e2e8f0; font-size: 12px; line-height: 1.45;">
+                    ${info.azonositas ? `<div style="margin-bottom: 6px; color: #2c3e50;"><b>Azonosítás / Cím:</b> ${info.azonositas}</div>` : ''}
+                    <div style="font-weight: 600; color: #34495e; margin-bottom: 4px;">Szennyezettségi adatok (8.4.2. táblázat):</div>
+                    <ul style="margin: 0; padding-left: 16px; color: #4a5568; list-style-type: disc;">
+                        <li>Földtani közeg (FK), LNAPL: ${badge(info.fk_lnapl)}</li>
+                        <li>Felszín alatti víz (FAV), LNAPL: ${badge(info.fav_lnapl)}</li>
+                        <li>Földtani közeg (FK), DNAPL: ${badge(info.fk_dnapl)}</li>
+                        <li>Felszín alatti víz (FAV), DNAPL: ${badge(info.fav_dnapl)}</li>
+                    </ul>
+                </div>
+            `;
+        }
 
         function renderMapLayers(szovogyarGeoJson, fotiGeoJson) {
             if (szovogyarLayer) map.removeLayer(szovogyarLayer);
@@ -290,6 +318,7 @@
                     onEachFeature: function (feature, layer) {
                         const lotNumber = (feature.properties && feature.properties.lotNumber) || 'N/A';
                         const isOverlap = isLotOverlap(feature);
+                        const contaminationDetails = formatContaminationDetails(lotNumber);
 
                         const popupContent = `
                             <div class="popup-container">
@@ -297,6 +326,7 @@
                                     ${isOverlap ? 'Átfedésben lévő helyrajzi szám' : 'Szövőgyár u. 19-21.'}
                                 </div>
                                 <b>Helyrajzi szám:</b> ${lotNumber}
+                                ${contaminationDetails}
                             </div>
                         `;
                         layer.bindPopup(popupContent);
@@ -324,6 +354,7 @@
                     onEachFeature: function (feature, layer) {
                         const lotNumber = (feature.properties && feature.properties.lotNumber) || 'N/A';
                         const isOverlap = isLotOverlap(feature);
+                        const contaminationDetails = formatContaminationDetails(lotNumber);
 
                         const popupContent = `
                             <div class="popup-container">
@@ -331,6 +362,7 @@
                                     ${isOverlap ? 'Átfedésben lévő helyrajzi szám' : 'Fóti út 141. - Blaha L. u. 15.'}
                                 </div>
                                 <b>Helyrajzi szám:</b> ${lotNumber}
+                                ${contaminationDetails}
                             </div>
                         `;
                         layer.bindPopup(popupContent);
@@ -350,12 +382,16 @@
             }
         }
 
-        // Fetch both GeoJSON files concurrently
+        // Fetch GeoJSON files and contamination info concurrently
         Promise.all([
             fetch('parcels_szovogyar_19-21_04.geojson').then(r => r.ok ? r.json() : null).catch(() => null),
-            fetch('parcels_foti_141_04.geojson').then(r => r.ok ? r.json() : null).catch(() => null)
+            fetch('parcels_foti_141_04.geojson').then(r => r.ok ? r.json() : null).catch(() => null),
+            fetch('parcels_contamination_info.json').then(r => r.ok ? r.json() : null).catch(() => null)
         ])
-        .then(([szovogyarData, fotiData]) => {
+        .then(([szovogyarData, fotiData, contaminationData]) => {
+            if (contaminationData) {
+                contaminationInfoMap = contaminationData;
+            }
             if (!szovogyarData && !fotiData) {
                 throw new Error('Direct fetch failed for both files');
             }

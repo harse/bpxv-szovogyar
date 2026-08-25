@@ -1,0 +1,11498 @@
+---
+id: 111
+title: "Kiegészítő tényfeltárási záródokumentáció - törzsanyag/főjelentés"
+date: "2026.04.30"
+author: "ADEPT ENVIRO Kft."
+recipient: "IV. és XV. kerületi lakosság"
+summary: "A Pest Vármegyei Kormányhivatal beavatkozási terv és kármentesítési monitoring terv készítésére, valamint beavatkozás tervezése alatti kármentesítési monitoring tevékenység végézésére kötelezte az MNV-t."
+source_url: "https://www.bpxv.hu/sites/default/files/media/file/2026/08/szovogyar_utca_-_ktzd_-_260429_-signed.pdf"
+original_filename: "szovogyar_utca_-_ktzd_-_260429_-signed.pdf"
+case_number: "NAH-7-0070/2022"
+lot_numbers: ["10000", "11800", "12000", "12894", "13204", "15000", "15064/3", "16705", "17074/1972", "20000", "20460", "20837", "25000", "30000", "35000", "75100/6", "76331/228", "76334/10", "76334/4", "76334/6", "76334/7", "76334/9", "76370/1", "76555/3", "76555/4", "76555/5", "76555/6", "76555/7", "88053", "88054", "88055", "88056", "88057", "88058", "88059", "88060", "88061", "88062", "88063", "88064", "88065", "88066", "88067", "88068", "88069", "88070", "88071", "88072", "88073", "88074", "88075", "88076/2", "88077", "88078", "88079", "88080", "88081", "88082", "88083", "88084", "88085", "88086", "88087", "88088", "88089", "88090", "88091", "88092", "88093", "88094", "88095", "88096", "88097", "88098", "88099", "88100", "88101", "88102", "88103", "88104", "88105", "88106", "88107", "88108", "88109", "88110", "88111", "88112", "88113", "88114", "88115", "88116", "88117", "88118", "88119", "88120", "88121", "88122", "88123", "88124", "88125", "88126", "88127", "88128", "88129", "88130", "88131", "88132", "88133", "88134", "88135", "88136", "88137", "88138", "88139", "88140", "88141", "88142", "88143", "88144", "88145", "88146", "88147", "88148", "88149", "88150", "88151", "88152", "88153", "88154", "88155", "88156", "88157", "88158", "88159", "88160", "88161", "88162", "88163", "88164", "88165", "88166", "88167", "88168", "88169", "88170", "88171", "88172", "88173", "88174", "88175", "88176", "88177", "88178", "88179", "88180", "88181", "88182", "88183", "88184", "88185", "88186", "88187", "88188", "88189", "88190", "88191", "88192", "88193/1", "88193/2", "88193/3", "88195", "88196", "88197", "88198", "88199", "88200", "88201", "88202", "88203", "88204", "88205", "88206", "88207", "88208", "88209", "88210", "88211", "88212", "88213", "88214", "88215", "88216", "88217", "88218", "88219", "88220", "88221", "88222", "88223", "88224", "88225", "88226", "88227", "88228", "88229", "88230", "88231", "88232", "88233", "88234", "88235", "88236", "88237", "88238", "88239", "88240", "88241", "88243", "88244", "88245", "88246", "88258/1", "88258/2", "88258/3", "88258/4", "88258/7", "88262/2", "88263", "88265", "88266/1", "88266/2", "88267", "88268", "88269", "88270", "88271", "88272", "88273", "88276", "88278", "88279", "88294", "88299", "88300", "88301", "88302", "88303", "88304", "88305", "88306", "88307", "88308", "88309", "88310", "88311", "88320", "88321", "88322/1", "88322/2", "88322/3", "88323", "88324", "88325", "88326", "88327", "88328/1", "88328/2", "88334", "88335", "88336", "88337", "88338", "88339", "88340", "88352", "88355", "88422", "88438", "88439", "88440", "88441", "88442", "88443", "88444", "88445", "88446", "88447", "88448", "88449", "88450", "88451", "88452", "88453", "88454", "88455", "88456", "88457", "88458", "88459", "88460", "88461", "88462", "88463", "88464", "88465", "88466", "88467", "88468", "88469", "88470", "88471", "88485", "88504", "88505", "88506", "88507", "88508", "88509", "88510", "88511", "88512", "88513", "88514", "88515", "88516", "88517", "88518", "88519", "88520", "88521", "88522", "88523", "88524", "88525", "88526", "88527", "88528", "88529", "88530", "88531", "88533", "88570", "88571", "88572", "88573", "88574", "88575", "88576", "88577", "88578", "88579", "88580", "88581", "88582", "88583", "88584", "88585", "88586", "88587", "88858/9", "88860", "88876", "89071", "89072", "89073", "89074", "89075", "89076", "89077", "89078", "89079", "89080", "89081", "89082", "89083", "89084", "89085", "89086", "89087", "89088", "89089", "89090", "89091", "89092", "89093", "89094", "89095", "89096", "89097", "89098", "89117", "89121", "89122", "89123", "89124", "89125", "89126", "89127", "89128", "89129", "89130", "89131", "89132", "89133", "89134", "89135", "89136", "89137", "89138", "89139", "89140", "89141", "89142", "89143", "89144", "89145", "89146", "89147", "89148", "89149", "89150", "89151", "89152", "89153", "89154", "89155", "89156", "89157", "89158", "89162", "89163", "89166"]
+---
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+# VOLT BUDAPESTI
+FINOMKÖTÖTTÁRUGYÁR TELEPHELY
+
+1151 BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+## KIEGÉSZÍTŐ TÉNYFELTÁRÁSI
+ZÁRÓDOKUMENTÁCIÓ
+
+2026. ÁPRILIS
+
+DOKUMENTUM AZONOSÍTÓ: 0383/T/01/01/2024
+
+![img-0.jpeg](img-0.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+1/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+# TARTALOMJEGYZÉK
+
+TARTALOMJEGYZÉK...2
+ÁBRAJEGYZÉK...7
+TÁBLÁZATOK...9
+MELLÉKLETEK...9
+FÜGGELÉKEK...10
+ALÁÍRÓLAP...11
+1. ALAPADATOK...12
+1.1. MEGRENDELŐ ADATAI...12
+1.2. MŰSZAKI ELLENŐR ADATAI...12
+1.3. DOKUMENTÁCIÓ KÉSZÍTŐJE...12
+1.4. A TERVEZÉSSEL ÉRINTETT INGATLANOK...14
+1.4.1. AZ ÉRINTETT TERÜLET ALAPADATAI...15
+1.4.2. A TERÜLET ELHELYEZKEDÉSE, MEGKÖZELÍTHETŐSÉGE...18
+1.4.3. A VIZSGÁLT TERÜLET MÚLTJA...19
+2. BEVEZETÉS...23
+2.1. A TERÜLETHASZNÁLAT TÖRTÉNETE...23
+2.1.1. AZ EGYKORI BUDAPESTI FINOMKÖTÖTTÁRUGYÁR RÁKOSPALOTAI EGYSÉGE...23
+2.1.2. LEÁNYNEVELŐ INTÉZET...36
+2.1.3. RÁKOSPALOTAI KERTVÁROS...39
+2.1.4. JELENLEGI TERÜLETHASZNÁLAT...40
+2.1.5. POTENCIÁLIS SZENNYEZŐFORRÁSOK AZONOSÍTÁSA...42
+2.1.6. HAVÁRIA ESEMÉNY...44
+2.1.7. A TERÜLETEN VÉGZETT MEGELŐZŐ KÁRMENTESÍTÉSI MUNKÁLATOK ISMERTETÉSE...44
+2.1.7.1. ELŐZETES TÉNYFELTÁRÁS (2017, SÖVIT KÖRNYEZETVÉDELMI KFT.)...46
+2.1.7.2. KÖRNYEZETVÉDELMI ÁLLAPOTFELMÉRÉS (2022)...52
+2.1.7.3. RÉSZLETES TÉNYFELTÁRÁS (2023)...52
+2.1.8. A SZENNYEZETT TERÜLET KÖRNYEZETÉBEN AZONOSÍTOTT MÁS SZENNYEZÉSSEL ÉRINTETT TERÜLETEK...66
+2.1.8.1. AZ EGYKORI NÖVÉNYOLAJGYÁR TERÜLETÉRŐL KIINDULT SZENNYEZŐDÉS...67
+2.1.8.2. AZ EGYKORI VÁKUUMTECHNIKAI GÉPGYÁR TERÜLETÉRŐL KIINDULT SZENNYEZŐDÉS...69
+2.2. HATÓSÁGI HATÁROZATOK...73
+3. A TERÜLET JELLEMZÉSE...78
+3.1. TÁJBESOROLÁS ÉS DOMBORZAT...78
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+2/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+3.2. ÉGHAJLATI JELLEMZŐK...78
+3.3. FÖLDTANI ADOTTSÁGOK ...78
+3.4. VÍZRAJZ...79
+3.5. VÍZFÖLDTANI VISZONYOK ...79
+3.6. A VIZSGÁLT TERÜLET KÖRNYEZETÉBEN TALÁLHATÓ VÍZHASZNÁLATOK...80
+3.7. TERMÉSZETVÉDELMI ÉRINTETTSÉG ...81
+3.8. A TERÜLET SZENNYEZŐDÉS ÉRZÉKENYSÉGI BESOROLÁSA ...81
+4. TÉNYFELTÁRÁSI STRATÉGIA...82
+5. TÉNYFELTÁRÁSI MÓDSZERTAN...83
+5.1. ADATGYŰJTÉS, ÉRTÉKELÉS, TEREPBEJÁRÁS, MINTAVÉTELI PONTOK KIJELÖLÉSE ...83
+5.2. FÚRÁSOS FELTÁRÁS, FÖLDTANI KÖZEG MINTAVÉTELE ...83
+5.3. FELSZÍN ALATTI VÍZ MINTAVÉTEL ...84
+5.4. FELSZÍNI VÍZ MINTAVÉTEL ...84
+5.5. MEDERÜLEDÉK MINTAVÉTEL...84
+5.6. EGYÉB MINTAVÉTEL ...84
+5.7. LABORATÓRIUMI VIZSGÁLATOK ...85
+5.8. GEODÉZIA...85
+5.9. TARTÁLYVIZSGÁLATOK...85
+5.10. AZ EREDMÉNYEK FELDOLGOZÁSA ...85
+5.11. KOCKÁZATI SZÁMÍTÁSOK...85
+5.12. A FELTÁRT OLDOTT FÁZISÚ SZENNYEZETTSÉG VISELKEDÉSÉNEK VIZSGÁLATA HIDRODINAMIKAI- ÉS
+TRANSZPORT MODELLEZÉSSEL ...86
+6. AZ ELVÉGZETT MUNKÁLATOK BEMUTATÁSA ...87
+6.1. TÉNYFELTÁRÁS LÉTESÍTMÉNYEI ...87
+6.2. KÖZMŰEGYEZTETÉSEK ...95
+6.3. FÚRÁSI MUNKÁK ...96
+6.3.1. FÖLDTANI KÖZEG MINTAVÉTELE...96
+6.3.2. VÍZMINTAVÉTELI PONTOK LÉTESÍTÉSE...97
+6.4. HIDRAULIKAI VIZSGÁLATOK...100
+6.5. FELSZÍN ALATTI VÍZ MINTAVÉTELEK ...103
+6.6. EGYÉB KÖRNYEZETI ELEMEK MINTAVÉTELE ...106
+6.7. LABORATÓRIUMI VIZSGÁLATOK ...107
+6.7.1. KÉMIAI LABORATÓRIUMI VIZSGÁLATOK ...107
+6.7.1.1. SZŰRŐVIZSGÁLATOK...107
+6.7.1.2. CÉLKOMPONENSEK VIZSGÁLATA ...107
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+3/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+6.7.2. TALAJMECHANIKAI VIZSGÁLATOK ... 109
+6.8. GEODÉZIAI MÉRÉSEK ... 109
+6.9. GEOFIZIKAI VIZSGÁLATOK ... 109
+6.10. OLDOTT FÁZISÚ HALOGÉNEZETT ALIFÁS SZENNYEZETTSÉG FORRÁSTERÜLETÉNEK AZONOSÍTÁSA, RÉSZLETES FELTÁRÁSA ... 109
+6.11. SZAK-, ÉS LEVÉLTÁRI IRODALOMKUTATÁS ... 113
+6.11.1. A PERKLÓRETÉN TEXTILIPARI ALKALMAZÁSA ... 114
+6.11.2. HAZAI VEGYTISZTÍTÁSHOZ KAPCSOLÓDÓ PERKLÓRETÉN SZENNYEZÉS KÁRMENTESÍTÉSI TAPASZTALATAI 118
+6.11.3. A PERKLÓRETÉN ALKALMAZÁSA AZ EGYKORI SZÖVŐGYÁR TERÜLETÉN ... 119
+6.12. A SZENNYEZETT TERÜLETEN JELENLÉVŐ CSATORNAHÁLÓZAT RÉSZLETES VIZSGÁLATA ... 124
+7. A VIZSGÁLATI EREDMÉNYEK ISMERTETÉSE ... 129
+7.1. SEKÉLYFÖLDTANI FELÉPÍTÉS ... 129
+7.1.1. FEKÜMORFOLÓGIA ... 129
+7.2. VÍZFÖLDTANI VISZONYOK ... 130
+7.2.1. VÍZJÁRÁS ... 132
+7.2.1.1. TELÍTETT ZÓNA VASTAGSÁGA ... 132
+7.2.2. HORIZONTÁLIS HIDRAULIKA ... 132
+7.2.3. VERTIKÁLIS HIDRAULIKA ... 133
+7.3. TEREPI SZENNYEZETTSÉG ÉSZLELÉSEK ... 134
+7.4. KÖRNYEZETI ELEMEK VIZSGÁLATI EREDMÉNYEI ... 134
+7.4.1. SZŰRŐVIZSGÁLATOK ... 134
+7.4.2. FÖLDTANI KÖZEG SZENNYEZETTSÉGE ... 134
+7.4.2.1. LNAPL SZENNYEZETTSÉG ... 135
+7.4.2.2. DNAPL SZENNYEZETTSÉG ... 136
+7.4.2.3. ARZÉN SZENNYEZETTSÉG ... 136
+7.4.3. FELSZÍN ALATTI VÍZ SZENNYEZETTSÉGE ... 137
+7.4.3.1. LNAPL SZENNYEZETTSÉG ... 137
+7.4.3.2. DNAPL SZENNYEZETTSÉG ... 137
+7.4.4. ÁLTALÁNOS VÍZKÉMIAI VISZONYOK ... 138
+7.4.4.1. REDOX POTENCIÁL ... 138
+7.4.4.2. ASSZIMILÁCIÓS KAPACITÁST BEFOLYÁSOLÓ PARAMÉTEREK ... 140
+7.4.5. EGYÉB KÖRNYEZETI ELEMEK SZENNYEZETTSÉGE ... 140
+8. VIZSGÁLATI EREDMÉNYEK ÉRTÉKELÉSE ... 146
+8.1. FÖLDTANI ÉS VÍZFÖLDTANI VISZONYOK ... 146
+8.2. FÖLDTANI KÖZEG SZENNYEZETTSÉGE ... 147
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+4/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+8.2.1. LNAPL SZENNYEZETTSÉG...147
+8.2.1.1. LNAPL SZENNYEZETTSÉG FORRÁSAI, KIALAKULÁSA...151
+8.2.2. DNAPL SZENNYEZETTSÉG...154
+8.2.2.1. DNAPL JELLEGŰ SZENNYEZŐANYAGOK ÖNÁLLÓ FÁZISÚ JELENLÉTE...159
+8.2.2.2. DNAPL SZENNYEZETTSÉG FORRÁSA, KIALAKULÁSA...160
+8.3. FELSZÍN ALATTI VÍZ SZENNYEZETTSÉGE...168
+8.3.1. FÉMEK...168
+8.3.2. LNAPL SZENNYEZETTSÉG...168
+8.3.3. DNAPL SZENNYEZETTSÉG...170
+8.4. LNAPL ÉS DNAPL SZENNYEZETTSÉGEK ÖSSZESÍTETT MENNYISÉGEI...171
+8.5. AZ LNAPL ÉS DNAPL SZENNYEZETTSÉG EGYMÁSRA HATÁSA...185
+8.6. JELEN KÁRHELYRŐL KIINDULT ÉS AZ EGYKORI VÁKUUMTECHNIKAI GÉPGYÁRBÓL KIINDULT OLDOTT FÁZISÚ
+SZENNYEZŐ CSÓVÁK EGYMÁSRA HATÁSA...186
+8.7. A FELSZÍN ALATTI KÖZEGEK SZENNYEZETTSÉGI ÁLLAPOTÁRA VONATKOZÓ ISMERETEK ÖSSZEFOGLALÁSA...187
+9. HIDRAULIKAI- ÉS TRANSZPORTMODELLEZÉS...191
+10. KOCKÁZATI SZÁMÍTÁSOK...192
+10.1. KORÁBBI KOCKÁZATI SZÁMÍTÁSOK...192
+10.1.1. 2023. ÉVI KOCKÁZATI SZÁMÍTÁSOK...192
+10.1.2. 2025. ÉVI KOCKÁZATI SZÁMÍTÁSOK...194
+10.2. 2026. ÉVI MENNYISÉGI KOCKÁZATFELMÉRÉS...194
+10.2.1. KOCKÁZAT FOGALMA ÉRTELMEZÉSE SZÁMÍTÁSA...194
+10.2.2. A SZENNYEZETTSÉG JELLEMZÉSE...197
+10.2.3. KITETTSÉGI (EXPOZÍCIÓS) VISZONYOK...201
+10.2.3.1. A 88323 HRSZ.-EN TERVEZETT INGATLANFEJLESZTÉS...201
+10.2.3.2. A 88323 HRSZ.-EN KÍVÜLI ÉRINTETTSÉGEK...201
+10.2.4. KOCKÁZATI SZÁMÍTÁSOKOKBAN FIGYELEMBE VETT KONCENTRÁCIÓK...203
+10.2.4.1. 88323 HRSZ...203
+10.2.4.2. 88323 HRSZ.-EN KÍVÜLI TERÜLETEK...205
+10.2.5. EXPOZÍCIÓS SZCENÁRIÓK SZÁMÍTÁSA...206
+10.2.6. A 88323 HRSZ.-ON TERVEZETT INGATLANFEJLESZTÉS ESETE...206
+10.2.6.1. LNAPL KIGŐZÖLGÉS FÖLDTANI KÖZEGBŐL...207
+10.2.6.2. KIGŐZÖLGÉS FELSZÍN ALATTI VÍZBŐL...208
+10.2.7. A 88322/2 HRSZ (LABSYSTEM KFT.) ESETE...208
+10.2.7.1. DNAPL KIGŐZÖLGÉS FÖLDTANI KÖZEGBŐL...208
+10.2.7.2. DNAPL KIGŐZÖLGÉS FELSZÍN ALATTI VÍZBŐL...209
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+5/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+10.2.7.3. 88322/2 HRSZ IPARI TERÜLETHASZNÁLAT BELTÉRI BELÉGZÉS KOCKÁZATA ...209
+10.2.7.3.1. 88322/2 HRSZ IRODA ÉS RAKTÁRÉPÜLETEK LÉGTÉRSZENNYEZETTSÉGÉNEK VIZSGÁLATA ...210
+10.2.8. KÖZINTÉZMÉNY, 88334 HRSZ (SZÖVŐ OVI ÓVODA) ESETE ...213
+10.2.9. LAKÓÖVEZET (RÁKOSPALOTAI KERTVÁROS) ESETE ...214
+10.2.10. DNAPL SZENNYEZETTSÉG BOMLÁSTERMÉKEI ...215
+10.2.11. A „D” KÁRMENTESÍTÉSI CÉLÁLLAPOT HATÁRÉRTÉK JAVASLATOK ...217
+10.2.11.1. LNAPL SZENNYEZETTSÉGET ALKOTÓ KOMPONENSEK ...217
+10.2.11.2. DNAPL SZENNYEZETTSÉGET ALKOTÓ KOMPONENSEK ...219
+10.3. KÖRNYEZETI KOCKÁZATOK ÉRTÉKELÉSE ...220
+10.4. „D” FELETTI SZENNYEZETTSÉGGEL ÉRINTETT INGATLANOK AZONOSÍTÁSA ...220
+10.4.1. LNAPL ÉS DNAPL „D” FELETTI SZENNYEZETTSÉGEK ÖSSZESÍTETT MENNYISÉGEI ...220
+11. KÁRFELELŐS AZONOSÍTÁSA ...233
+12. BEAVATKOZÁSI KONCEPCIÓ ...235
+12.1. BEAVATKOZÁS NÉLKÜLI ESET ...236
+12.2. GÓCTERÜLETI BEAVATKOZÁSI KONCEPCIÓ ...236
+12.2.1. LNAPL GÓCTERÜLET ...236
+12.2.1.1. LNAPL SZENNYEZETTSÉGHEZ KAPCSOLÓDÓ EX-SITU OFF SITE BEAVATKOZÁS ...238
+12.2.2. DNAPL GÓCTERÜLET ...240
+12.2.2.1. DNAPL GÓCTERÜLET KÖNNYEN HOZZÁFÉRHETŐ TÉRSÉGE ...241
+12.2.2.2. DNAPL GÓCTERÜLET NEHEZEN HOZZÁFÉRHETŐ TÉRSÉGE ...243
+12.2.2.3. DNAPL GÓCTERÜLET, BEAVATKOZÁSOK ÖSSZEFOGLALÁSA ...244
+12.2.2.4. ÁTMENETI INTÉZKEDÉSEK A DNAPL GÓCTERÜLET TÉRSÉGÉBEN ...244
+12.3. OLDOTT FÁZISÚ CSÓVA TERÜLETÉHEZ KAPCSOLÓDÓ KONCEPCIÓ ...245
+12.3.1.1. ÁTMENETI INTÉZKEDÉSEK A DNAPL OLDOTT FÁZISÚ CSÓVA TÉRSÉGÉBEN ...248
+13. KÁRMENTESÍTÉSI MONITORING TERV A BEAVATKOZÁS MEGKEZDÉSÉIG (MONITORING I. SZAKASZ) ...249
+13.1. KÁRMENTESÍTÉSI MONITORING II. SZAKASZ ...287
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+6/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## ÁBRAJEGYZÉK
+
+1. ÁTNÉZETES HELYSZÍNRAJZ
+2. RÉSZLETES HELYSZÍNRAJZOK
+3. A VIZSGÁLT TERÜLET KÖRNYEZETÉBEN NYILVÁNTARTOTT VÍZKIVÉTELI HELYEK
+4.1. – 4.10. FÖLDTANI KÖZEG SZENNYEZETTSÉGI ÁBRÁK
+4.1. BENZOL KONCENTRÁCIÓK A TALAJBAN
+4.2. TOLUOL KONCENTRÁCIÓK A TALAJBAN
+4.3. ETILBENZOL KONCENTRÁCIÓK A TALAJBAN
+4.4. XILOLOK KONCENTRÁCIÓK A TALAJBAN
+4.5. EGYÉB ALKILBENZOLOK KONCENTRÁCIÓK A TALAJBAN
+4.6. TPH KONCENTRÁCIÓK A TALAJBAN
+4.7. PAH KONCENTRÁCIÓK A TALAJBAN
+4.8. ARZÉN KONCENTRÁCIÓK A TALAJBAN
+4.9. VINIL-KLORID KONCENTRÁCIÓK A TALAJBAN
+4.10. ÖSSZES ILLÉKONY HALOGÉNEZETT ALIFÁS SZÉNHIDROGÉN KONCENTRÁCIÓK A TALAJBAN
+5.1. – 5.58. FELSZÍN ALATTI VÍZ SZENNYEZETTSÉGI ÁBRÁK
+5.1. OLDOTT BENZOL KONCENTRÁCIÓK A TALAJVÍZBEN
+5.2. OLDOTT TOLUOL KONCENTRÁCIÓK A TALAJVÍZBEN
+5.3. OLDOTT ETILBENZOL KONCENTRÁCIÓK A TALAJVÍZBEN
+5.4. OLDOTT XILOLOK ÖSSZESEN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.5. OLDOTT EGYÉB ALKILBENZOLOK ÖSSZESEN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.6. OLDOTT TPH KONCENTRÁCIÓK A TALAJVÍZBEN
+5.7. OLDOTT NAFTALINOK KONCENTRÁCIÓK A TALAJVÍZBEN
+5.8. OLDOTT ACENAFTILÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.9. OLDOTT ACENAFTÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.10. OLDOTT FLUORÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.11. OLDOTT FENANTRÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.12. OLDOTT ANTRACÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.13. OLDOTT FLUORANTÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.14. OLDOTT PIRÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.15. OLDOTT BENZO[A]ANTRACÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.16. OLDOTT KRIZÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.17. OLDOTT BENZO[B]FLUORANTÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.18. OLDOTT BENZO[K]FLUORANTÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.19. OLDOTT BENZO[E]PIRÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+7/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+5.20. OLDOTT BENZO[A]PIRÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.21. OLDOTT INDENO[1,2,3-CD]PIRÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.22. OLDOTT DIBENZO[A,H]ANTRACÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.23. OLDOTT BENZO[GHI]PERILÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.24. OLDOTT PAH KONCENTRÁCIÓK A TALAJVÍZBEN
+5.25. OLDOTT DIKLÓR-ETÉNEK KONCENTRÁCIÓK A TALAJVÍZBEN
+5.26. OLDOTT DIKLÓR-ETÁN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.27. OLDOTT KLOROFORM KONCENTRÁCIÓK A TALAJVÍZBEN
+5.28. OLDOTT SZÉNTETRAKLORID KONCENTRÁCIÓK A TALAJVÍZBEN
+5.29. OLDOTT TRIKLÓR-ETÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.30. OLDOTT TETRAKLÓR-ETÉN KONCENTRÁCIÓK A TALAJVÍZBEN
+5.31. OLDOTT ÖSSZES ILLÉKONY HALOGÉNEZETT ALIFÁS SZÉNHIDROGÉN ÉS VINIL-KLORID KONCENTRÁCIÓK A TALAJVÍZBEN
+5.32. OLDOTT KLORID KONCENTRÁCIÓK A TALAJVÍZBEN
+5.33. OLDOTT SZULFÁT KONCENTRÁCIÓK A TALAJVÍZBEN
+5.34. OLDOTT NITRÁT KONCENTRÁCIÓK A TALAJVÍZBEN
+5.35. OLDOTT VAS (OLDOTT) KONCENTRÁCIÓK A TALAJVÍZBEN
+5.36. OLDOTT MANGÁN (OLDOTT) KONCENTRÁCIÓK A TALAJVÍZBEN
+5.37. OLDOTT METÁN (OLDOTT) KONCENTRÁCIÓK A TALAJVÍZBEN
+6.1. – 6.5. HIDRAULIKAI ÁBRÁK
+6.1. FELSŐ SZINT 2026.01.08.
+6.2. FELSŐ SZINT 2026.02.23.
+6.3. FELSŐ SZINT 2026.04.09.
+6.4. ALSÓ SZINT 2026.01.08.
+6.5. ALSÓ SZINT 2026.02.23.
+6.6. ALSÓ SZINT 2026.04.09.
+7.1.-7.6. A BUDAPESTI FINOMKÖTÖTTÁRUGYÁR FELSŐ SZŰRŐZÉSŰ KUTAK SZENNYEZETTSÉGI ADATSORÁBÓL ÉS A VÁKUUMTECHNIKAI GÉPGYÁR 2025 SZEPTEMBERI MONITORING EREDMÉNYEK ADATSORÁBÓL KÉSZÍTETT INTEGRÁLT ÁTTEKINTŐ OLDOTT FÁZISÚ SZENNYEZETTSÉG ELTERJEDÉSI ÁBRÁK
+8.1.-8.4. AZ EGYKORI BUDAPESTI FINOMKÖTÖTTÁRUGYÁR GYÁRTELEPÉN ÉS A LEÁNYNEVELŐ INTÉZET TERÜLETÉN FELLELHETŐ MŰKÖDŐ ÉS NEM MŰKÖDŐ CSATORNAHÁLÓZATOK FELMÉRÉSI TÉRKÉPEI
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+8/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+# TÁBLÁZATOK
+
+1. FÖLDTANI KÖZEG, TPH, BTEX, PAH VIZSGÁLATI EREDMÉNYEK
+2. FÖLDTANI KÖZEG, HALOGÉNEZETT SZENNYEZÖ KOMPONENSEK VIZSGÁLATI EREDMÉNYEK
+3. DERITO ULEDEK, TPH, BTEX, PAH VIZSGALATI EREDMENYEK
+4. DERITO ULEDEK, HALOGENEZETT SZENNYEZO KOMPONENSEK VIZSGALATI EREDMENYEK
+5. FÖLDTANI KÖZEG, ARZÉN VIZSGÁLATI EREDMÉNYEK
+6. FELSZÍN ALATTI VÍZ, TPH, BTEX, PAH VIZSGÁLATI EREDMÉNYEK
+7. FELSZÍN ALATTI VÍZ, ÁLTALÁNOS VÍZKÉMIA VIZSGÁLATI EREDMÉNYEK
+8. FELSZÍN ALATTI VÍZ, HALOGÉNEZETT SZENNYEZO KOMPONENSEK VIZSGÁLATI EREDMÉNYEK
+9. FELSZÍN ALATTI VÍZ, FÉMEK, FÉLFÉMEK VIZSGÁLATI EREDMÉNYEK
+10.FÖLDTANI KÖZEG, DNAPL SZENNYEZETT MINTÁK, STATISZTIKAI ALAPADATOK
+11. „B" SZENNYEZETTSÉGI HATÁRÉRTÉK FELETT SZENNYEZETT FÖLDTANI KÖZEG KITERJEDÉSENEK FELSZINI VETÜLETÉNEK, MENNYISEGÉNEK, VALAMINT A SZENNYEZÖKOMPONENSEK ÖSSZESITETT TÖMEGÉNEK KALKULÁCIÖJA
+12. „D" KÁRMENTESITÉSI CÉLÁLLAPOT HATÁRÉRTÉK FELETT SZENNYEZETT FÖLDTANI KÖZEG KITERJEDÉSENEK FELSZINI VETÜLETÉNEK, MENNYISEGÉNEK, VALAMINT A SZENNYEZÖKOMPONENSEK ÖSSZESITETT TÖMEGÉNEK KALKULÁCIÖJA
+
+# MELLÉKLETEK
+
+1. TULAJDONI LAPOK
+2. HATOSAGI HATAROZATOK
+3. FURASI ES FÖLDTANI KÖZEG MINTAVÉTELI JEGYZÖKÖNYVEK
+4. FELSZÍN ALATTI VÍZ MINTAVÉTELI JEGYZÖKÖNYVEK
+5. FÖLDTANI KÖZEG ES FELSZÍN ALATTI VÍZ LABORATORIUMI VIZSGÁLATI EREDMÉNYEK JEGYZÖKÖNYVEI
+6. EGYIDEJÜ VÍZSZINTMÉRÉS JEGYZÖKÖNYV
+7. GEODEZIAI MERESI JEGYZOKONYV
+8. A PENZUGYKUTATO RT., COLORIT RT., VALAMINT A KVANTUM BANK, MINT A BFK FELSZÁMOLÓJA ÁLTAL KIADOTT „PÁLYAZATI DOKUMENTÁCIÖ", 1995
+9. SZENATOMSZÁM ELOSZLÁSI DIAGRAMOK
+10.A LABSYSTEM KFT. BUDAPEST XV., SZÖVÖGYÁR UTCA 19. SZ. ALATTI MUNKAHELYEN DOLGOZO MUNKAVÁLLALOK MUNKAVEGZÉS SORÁN ESZLELHETO EXPOZICIOS TERHELESENEK MérésI JEGYZÖKÖNYVEI
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+9/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+11. A LABSYSTEM KFT. BUDAPEST XV., SZÖVŐGYÁR UTCA 19. SZ. ALATTI SZÉKHELYÉN TALÁLHATÓ
+IRODAÉPÜLET ÉS RAKTÁRÉPÜLETBEN KELETKEZŐ LÉGTÉRSZENNYEZETTSÉG FELMÉRÉSI
+JEGYZŐKÖNYVE
+
+# FÜGGELÉKEK
+
+1. SZIVÁRGÁSHIDRAULIKAI ÉS TRANSZPORTMODELL
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+10/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## ALÁÍRÓLAP
+
+A Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban MNV Zrt.), mint a volt Budapesti Finomkötöttárugyár telephelyén és környezetében (továbbiakban: SZÖVŐGYÁR) jelenlévő szennyeződés kármentesítésének Kötelezettje, megbízta a Nitrokémia Zrt.-t, mint 100%-os állami tulajdonú közreműködő szervezetet a szennyezettséggel érintett területre vonatkozóan az elkészült és az illetékes hatóság által kiadott PE-06/KTF/60624-9/2023. sz. határozattal jóváhagyott tényfeltárási záródokumentáció és beavatkozási terv végrehajtásához kapcsolódó további, kiegészítő munkálatok – kiegészítő tényfeltárás - elvégzésére. A Nitrokémia Zrt. a kiegészítő tényfeltárási munkálatok végzésével bízta meg az Adept Enviro Kft.-t. A hivatkozott határozat alapján a folyamatban időszaki előrehaladási jelentéseket szükséges benyújtani a hatóság részére. Jelen dokumentáció, a kiegészítő tényfeltárás elvégzett munkálatainak eredményét, valamint az az alapján készült beavatkozási tervet foglalja össze, mely a 219/2004 (VII. 21.) a felszín alatti vizek védelméről szóló Korm. rendelet és kapcsolódó egyéb jogszabályok és tárgyi ügyet szabályozó okiratok előírásai alapján a volt Budapest Finomkötöttárugyár (SZÖVŐGYÁR) telephelyet és környezetét érintő szennyezettségre vonatkozóan készült. A dokumentációt az Adept Enviro Kft. szakértői készítették, a jogszabályi előírásoknak való megfelelőségét jelen aláírásukkal igazolják.
+
+Budapest, 2026. április 30.
+
+Köhler Artúr
+vezető szakértő
+
+Melegh Csongor
+műszaki vezető
+
+Vámosi Oszkár
+ügyvezető
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+11/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRÓ KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+# 1. ALAPADATOK
+
+## 1.1. MEGRENDELŐ ADATAI
+
+A „SZÖVŐGYÁR telephelyen” észlelt környezeti kárral kapcsolatban a kármentesítési feladatok végzésére a kötelezett az MNV Zrt., aki a feladat végrehajtását a Nitrokémia Zrt. részére delegálta.
+
+Megrendelő: Nitrokémia Környezetvédelmi Tanácsadó és Szolgáltató Zrt.
+Címe: 8184 Fűzfőgyártelep, Munkás tér 2.
+Telefon: 36 88 543-300
+Honlap: www.nitrokemia.hu
+E-mail: nitrokemia@nitro.hu
+Kapcsolattartó: Fülöp Tamás; tfulop@nitro.hu
+
+## 1.2. MŰSZAKI ELLENŐR ADATAI
+
+Megnevezése: Envecon Kft.
+Székhely: 1026 Budapest, Pasaréti út 62.
+Kapcsolattartó: Mándoki Ákos; mandoki.akos@envecon.hu
+
+## 1.3. DOKUMENTÁCIÓ KÉSZÍTŐJE
+
+Adept Enviro Kft.
+
+Székhely: 1111 Budapest, Lágymányosi utca 12. Fszt. 2. ajtó
+Iroda: 1095 Budapest, Máriássy u. 5.
+Tevékenység: Projektirányítás, terepi munkák, mintavételek, tanulmánykészítés
+Akkreditációs szám: NAH-7-0070/2022
+Képviseli: Vámosi Oszkár (ügyvezető)
+
+Dokumentáció készítői: Köhler Artúr (projektvezető)
+kármentesítési szakfelelős
+okl. geológus
+Kamarai szám: 13-13204
+Engedélyei
+SZVV-3.3 (víztisztítás), SZÉM3 (vízgazdálkodási építmények szakértése), SZVV-3.9 (vízfeltárás, kútfúrás vízbázis védelem), SZKV-3.10 (vízanalitika, vízminőség védelem), SZKV-1.1 (hulladékgazdálkodási szakértő), SZKV-1.3 (víz-és földtani közeg védelem), VZ-TEL - Települési víziközmű tervezése, VZ-TER - Területi vízgazdálkodási építmények tervezése, VZ-VKG - Vízkészlet gazdálkodási építmények tervezése.
+
+KÉSZÍTETTE: ADEPT ENVIRÓ KFT.
+
+12/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**Melegh Csongor** (műszaki vezető, szakértés, tanulmánykészítés)
+
+Műszaki vezető
+
+okl. geológus
+
+Kamarai szám: 01-12894
+
+Engedélyei: SZVV-3.10 (vízanalitika, vízminőség védelem), SZVV-3.9 (vízfeltárás, kútfúrás vízbázis védelem), SZKV-1.3. (víz-és földtani közeg védelem), SZKV-1.2, (levegőtisztaság-védelmi szakértő), SZKV-1.1 (hulladékgazdálkodási szakértő);
+VZ-TEL - Települési víziközmű tervezése, VZ-TER - Területi vízgazdálkodási építmények tervezése, VZ-VKG - Vízkészlet gazdálkodási építmények tervezése
+
+**dr. Kapui Zsuzsanna** (projektvezetés)
+
+kármentesítési szakértő asszisztens
+
+okl. geológus
+
+**dr. Bolla Krisztina** (projektszervezési szakértés)
+
+projekt előkészítési vezető
+
+jogász, környezetgazdálkodási agrármérnök
+
+**Máthé Ágnes** (szakértés, terepi munkálatok)
+
+kármentesítési szakértő asszisztens
+
+okl. környezetkutató
+
+**Bacsó Tamás** (modellezés, tanulmánykészítés)
+
+kármentesítési szakértő
+
+okl. hidrogeológus mérnök
+
+Kamarai szám: 13-16705
+
+**Biró Anna** (szakértés, terepi munkálatok)
+
+kármentesítési szakértő asszisztens
+
+okl. geológus
+
+**Kordé András** (terepi munkálatok)
+
+kármentesítési szakértő asszisztens
+
+okl. geológus
+
+**Botos Kristóf** (szakértés, terepi munkálatok)
+
+kármentesítési ügyintéző
+
+geológus
+
+**Dobrányi Levente** (szakértés, terepi munkálatok)
+
+kármentesítési ügyintéző
+
+geológus
+
+**Jávorcsik Réka** (terepi munkálatok, adatfeldolgozás)
+
+back-office adminisztrátor
+
+**Közreműködő alvállalkozók**
+
+**EUROFINS Analytical Services Hungary Kft.**
+
+Székhely: 1045 Budapest, Anonymus utca 6.
+
+Tevékenység: Mintavétel, akkreditált laborelemzés
+
+![img-1.jpeg](img-1.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+13/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Akkreditációs szám: NAH-1-1398/2019
+Képviseli: Filep Zoltán
+
+Nagy Gergely Attila EV.
+
+Lakcím: 1112 Budapest, Gazdagréti út 32.
+Tevékenység: Geodéziai munkák
+Képviseli: Nagy Gergely Attila
+
+# 1.4. A TERVEZÉSSEL ÉRINTETT INGATLANOK
+
+A vizsgált terület Pest vármegyében, Budapest XV. kerületében helyezkedik el, az egykor itt működött Budapesti Finomkötöttárugyár valamikori iparterülete (1.1. táblázat) (Budapest XV. kerület, Szövőgyár utca 19-21., 88323 hrsz.) és annak környezete. (1. ábra). A továbbiakban az egyszerűség kedvéért a területet SZÖVŐGYÁR néven hivatkozzuk. Az iparterületet, ill. annak egy részét a Budapesti Finomkötöttárugyár tönkremenetelét követően a COLORTEX Kft. magántulajdonú vállalat használta egy ideig és az ő használata idején derült fény arra, hogy a területen (szénhidrogén) szennyezettség van jelen, ezért sokáig a kármentesítési folyamat szóhasználatban össze lett kötve a COLORTEX Kft. itteni jelenléte által a COLORTEX Kft.-vel („a COLORTEX szennyezés”). Mivel ez a vélelem azóta megdőlt (azt az olajszármazék szennyezés tekintetében a Kft. hatósági eljárásban is alátámasztotta), emiatt a területhez kötődő kármentesítési feladatokat, tevékenységet a jelen dokumentációban már az eredeti területhasználó Budapesti Finomkötöttárugyárhoz, ill. magához a szennyezések gócterületeivel érintett ingatlanhoz kötjük (Szövőgyár utca).
+
+A 2023-ban elkészült tényfeltárási záródokumentációban rögzítésre került, hogy a szennyezettség egy része (halogéntartalmú alifás szénhidrogén szennyezettség) keletkezésének tekintetében akár a szomszédos 88311 hrsz. ingatlan is érintett lehet, melynek használója a Leánynevelő Intézet. Jelen dokumentáció az ezzel kapcsolatos tényeket is tisztázza, mégpedig azt, hogy a szennyeződés kiindulási pontja egyértelműen az egykori Budapesti Finomkötöttárugyár gyártelepe. (Ezen ingatlan tehát az a terület, ahol a szennyező tevékenységet folytatták).
+
+A gyártelep területét jelenleg megosztás útján kialakított több ingatlan fedi le, melyek adatait a továbbiakban mutatjuk be.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+14/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+### 1.4.1. AZ ÉRINTETT TERÜLET ALAPADATAI
+
+A szennyezettség keletkezési helye:
+
+|   | **1.) olajszármazék szennyezettség**  |
+| --- | --- |
+|   | 1151 Budapest XV., Szövőgyár utca 15-21., 88323 hrsz.  |
+|  Területe: | 6 305 m²  |
+|  Művelési ág: | Kivett ipartelep  |
+|  Terület tulajdonosai: | Dinamo Invest 2020 Kft.  |
+|   | **2.) halogéntartalmú alifás szénhidrogén szennyezettség**  |
+|   | 1151 Budapest XV., Szövőgyár utca 15-21., 88323 hrsz.  |
+|  Területe: | 6 305 m²  |
+|  Művelési ág: | Kivett ipartelep  |
+|  Terület tulajdonosai: | Dinamo Invest 2020 Kft.  |
+
+A tulajdoni lapot az **1. melléklet**ben csatoljuk. A terület sarokponti koordinátáit az alábbi táblázat mutatja be:
+
+**1.1 szövegközti táblázat.** Az érintett terület sarkponti koordinátái
+
+|  Sarokponti koordináta  |   |
+| --- | --- |
+|  EOV Y | EOV X  |
+|  654 870 | 247 920  |
+|  654 950 | 247 580  |
+|  655 130 | 247 340  |
+|  655 570 | 247 210  |
+|  655 620 | 247 220  |
+|  655 640 | 247 380  |
+|  655 470 | 247 930  |
+
+A terület súlyponti koordinátái az alábbiak:
+
+EOV Y: 655 350 EOV X: 247 500
+
+Jelen kiegészítő tényfeltárás során a munkálatokkal (mintavétel, vizsgálat) érintett ingatlanok – jelenlegi hatályos földhivatali nyilvántartás szerinti megnevezéssel a következők:
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+15/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**1.2 szövegközti táblázat.** A kiegészítő tényfeltárási munkálatokkal érintett területek adatai
+
+|  Helyrajzi szám | Cím (1151 Budapest/1046 Budapest) Tulajdonos / vagyonkezelő / egyéb jogosult | Hasznosítás | Terület [ha m²]  |
+| --- | --- | --- | --- |
+|  76334/7 | IV. kerület, Szilágyi utca 30. Bp., IV. ker. Újpest Önkormányzata | Kivett sporttelep | 5 4083  |
+|  88053 | XV. kerület, Géza fejedelem tér Bp., XV. ker. Önkormányzat | Kivett / üzemanyagtöltő- állomás | 0 3559  |
+|  (88081) | XV. kerület, Győztes utca Bp., XV. ker. Önkormányzat | Kivett közterület | 0 2976  |
+|  (88090) | XV. kerület, Győztes utca Bp., XV. ker. Önkormányzat | Kivett közterület | 0 1031  |
+|  (88131) | XV. kerület, Győztes utca Bp., XV. ker. Önkormányzat | Kivett közterület | 0 2150  |
+|  (88152) | XV. kerület, Ferenczy Sándor utca Bp., XV. ker. Önkormányzat | Kivett közterület | 0 2146  |
+|  (88173) | XV. kerület, Győzelem utca Bp., XV. ker. Önkormányzat | Kivett közterület | 0 2927  |
+|  88193/3 | XV. kerület, Kovácsi Kálmán tér Bp., XV. ker. Önkormányzat | Kivett közterület | 0 8096  |
+|  88266/1 | XV. kerület, Anyácska utca 3. Pocsainé Ölveczki Anita Ilona | Kivett beépítetlen terület | 0 381  |
+|  88276 | XV. kerület, Anyácska utca 19. Tóthné Németh Katalin, Tóth Réka | Kivett lakóház, udvar | 0 447  |
+|  88294 | XV. kerület, Énekes utca 16/a. Gerberné Juhász Andrea, Gerber Balázs | Kivett lakóház, udvar, gazdasági épület | 0 635  |
+|  (88309) | XV. kerület, Anyácska utca Bp., XV. ker. Önkormányzat | Kivett közterület | 0 3096  |
+|  88311 | XV. kerület, Pozsonyi utca 36. Tulajdonos: Magyar Állam Tulajdonosi jogokat gyakorló szervezet: Magyar Nemzeti Vagyonkezelő Zrt. Vagyonkezelő: Szociális és Gyermekvédelmi Főigazgatóság | Kivett nevelőintézet | 4 3193  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+16/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Helyrajzi szám | Cím (1151 Budapest/1046 Budapest) Tulajdonos / vagyonkezelő / egyéb jogosult | Hasznosítás | Terület [ha m²]  |
+| --- | --- | --- | --- |
+|  88321 | XV. kerület, Szövőgyár u. 5. Pásztor László, Kalmárné Pásztor Erzsébet | Kivett lakóház, udvar, gazdasági épület | 0 1276  |
+|  88322/1 | XV. kerület, Szövőgyár utca 7-9. Portál-Glass Kft., Mester Csaba EV., Liftgép Szervizszolgáltató Kft., Üvegcsoda Kft., Ideenwelt Kft., | Kivett ipartelep | 0 311  |
+|  88322/2 | XV. kerület, Szövőgyár utca-13. Labsystem Kft. | Kivett iparterület, udvar | 0 3469  |
+|  88323 | XV. kerület, Szövőgyár utca 15-21. Dinamo Invest 2020 Kft. | Kivett ipartelep | 0 6305  |
+|  88326 | XV. kerület, Szövőgyár utca 23. Hocza Orsolya, Hocza Ferenc, Ifj. Hocza Ferenc | Kivett lakóház, udvar, gazdasági épület | 0 714  |
+|  (88327) | XV. kerület, Szövőgyár utca Bp., XV. ker. Önkormányzat | Kivett közterület | 0 3171  |
+|  (88328/1) | XV. kerület, Énekes utca Bp., XV. ker. Önkormányzat | Kivett közterület | 0 6348  |
+|  88334 | XV. kerület, Szövőgyár utca 24. Bp., XV. ker. Önkormányzat | Kivett óvoda | 0 1752  |
+|  88352 | XV. kerület, Dal utca 6. Jász András, Szabó Orsolya | Kivett lakóház, udvar | 0 712  |
+|  88355 | XV. kerület, Dal utca 10. Tulajdonos: Magyar Állam Vagyonkezelő: Büntetés Végrehajtás Országos Parancsnoksága | Kivett óvoda | 0 3440  |
+|  (88422) | XV. kerület, Énekes utca Bp., XV. ker. Önkormányzat | Kivett közterület | 0 6716  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+17/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+### 1.4.2. A TERÜLET ELHELYEZKEDÉSE, MEGKÖZELÍTHETŐSÉGE
+
+A kiegészítő tényfeltárással érintett terület Budapest XV. kerültében, az egykori Rákospalota település történelmi magjához („Öregfalu”) kapcsolódóan az 1880-as években létesült, vegyesen lakó és ipari funkcióval rendelkező térségben helyezkedik el.
+
+Az egykori gyártelep megközelítése tömegközlekedéssel többféle módon is lehetséges. A Szövőgyár utca betorkollik a Pozsony utcába, ahol a 12-es villamos közlekedik, amelynek a telektömb két végénél (Károlyi Sándor út (Géza Fejedelem tér), Dal utca) megállója van. A Szövőgyár utca szűk mivoltára tekintettel tömegközlekedés az utcán nincs, ugyanakkor a környező utcákban a 96, 104, 124, 170, 225, 270 és 296 jelű buszok is elhaladnak, melyekkel szerteágazó pontokról is közvetlenül elérhető a terület. Gépjárművel a terület Budapest belvárosa felől elsősorban az M3-as autópálya bevezető szakaszán keresztül, a Szentmihályi úti, vagy a Városkapu utcai csomóponton keresztül érhető el. Utóbbi esetben már útdíj fizetése is kötelező. A terület vasúton is megközelíthető, kétféleképpen is. A Rákospalota-Kertváros megállóhelyen leszállva 1,2 km-t kell gyalog megtenni a Csomád utca – Töltés utca – Károlyi Sándor út – Anyácska utca – Pisztráng utca – Énekes utca – Szövőgyár utca vonalon. Ha Rákospalota-Újpest vasútállomáson szállunk le, akkor szintén 1,2 km-t kell gyalog megtennünk a vasúti állomás feletti gyalogos felüljárón Rákospalotára átjutva a Sín utca – Pozsony utca – Szövőgyár utca vonalon.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+18/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+#### 1.4.2.1. szövegközti ábra: A vizsgált terület megközelítése a Szentmihályi út felől
+
+![img-2.jpeg](img-2.jpeg)
+
+### 1.4.3. A VIZSGÁLT TERÜLET MÚLTJA
+
+A környék utcahálózata az I. és II. katonai felmérés közötti időszakban rögzült, a Szövőgyár utca nyomvonala az I. katonai felmérés térképén még (1785 körül), mint a beépítés határa, a másodikon viszont már, mint megnyitott utca figyelhető meg. A Szövőgyár utca jelenlegi páratlan oldalán a későbbi gyártelep területe, az Énekes utca 37-39. számokkal Rákospalota legrégebbről ismert temetője („Ó temető”) volt, használata a török hódoltságot követő időszakban már igazolt, 1843-ban zárták be és 1882-ben bontották le az itt állt (Nepomuki Szent János tiszteletére 1777-ben épített) kápolnát. Az alábbi térképrészlet 1820-ban készült, amelyen a mostani Növényolajgyár területén már áll a Posztógyár („Tuchfabrik”)¹.
+
+¹ Forrás: Rákospalotai Helytörténeti Blog, „Palota névadó épülete” (https://rakospalotaanno.hu/2023/11/12/palota-nevado-epulete/), írta: Horváth Csaba.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+19/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+# **1.4.3.1. szövegközti ábra:** A vizsgált terület állapota 1820-ban a Posztógyárral
+
+![img-3.jpeg](img-3.jpeg)
+
+A temető megszüntetése után kezdődött a telek feldarabolása és egyéb célú használatba vétele.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+20/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**1.4.3.2. szövegközti ábra:** A vizsgált terület állapota 1860-ban az Ó Temetővel és a már ekkor (és jelenleg is) álló nyaralóépülettel
+
+![img-4.jpeg](img-4.jpeg)
+
+A Szövőgyár utcától K-i irányban már az I. felmérés időszakában is lakóházak sorakoztak, falusias jelleggel. A Szövőgyár utca Ny-i oldalán túl található terület a mostani Leánynevelő Intézet ingatlana. A rendelkezésre álló adatok alapján a terület a Károlyi uradalom része lehetett egészen
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+21/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+a XIX. század közepéig, amikor a telken megépült a jelenlegi Pozsony utcára néző nyaraló épület. Az ingatlan több kézen keresztül jutott végül az állam birtokába és a mai Leánynevelő Intézet elődje létrejött és egyetlen egységben beépítésre került.²
+
+E beépítés ugyanakkor nem érintette az egykori telekkomplexum Szövőgyár utca felőli részét, amely a térképek alapján eredetileg lakó funkcióra lehetett tervezve és csak később, feltehetőleg a XX. század első harmadában fejlődött a lakóházak közé ékelődő ipari funkciójú egységgé. Ennek is köszönhetően az ingatlan közvetlen szomszédjai egyszerű lakóházak, valamint a későbbi intenzívebb beépítésre tekintettel soklakásos panelépület és modernebb közcélú intézmény (óvoda) is.
+
+A kiegészítő tényfeltárással érintett továbbá a gyártelep és a mellette elhelyezkedő Leánynevelő Intézet ingatlanától ÉNy-i irányban, a Károlyi Sándor utca, Géza fejedelem tér, Rákospalota-Újpest vasútállomás, és a Szilas-patak által határolt kertvárosi terület, melynek parcellázása 1928-ban kezdődött, jelenleg főképpen a két világháború között épített, egy rendeltetési egységgel rendelkező családiházak („kertesház”) állnak rajta.
+
+² Forrás: Rákospalotai Helytörténeti Blog, „A Püspök-villa 175 éve” (https://rakospalotaanno.hu/2022/09/21/a-puspok-villa-175-eve/), írta: Horváth Csaba.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+22/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 2. BEVEZETÉS
+
+### 2.1. A TERÜLETHASZNÁLAT TÖRTÉNETE
+
+#### 2.1.1. AZ EGYKORI BUDAPESTI FINOMKÖTÖTTÁRUGYÁR RÁKOSPALOTAI EGYSÉGE
+
+A Budapesti Finomkötöttárugyár egyik elődvállalata volt a Rákospalotai Kötöttárugyár, mely a 1151 Budapest, Szövőgyár utca 11-21. számok alatti területen működött (2.1.1.1. szövegközti ábra).
+
+2.1.1.1. szövegközti ábra. A szennyeződés keletkezési helye és környezetének légi fotója
+
+![img-5.jpeg](img-5.jpeg)
+
+A gyár eredetileg egy rákospalotai földszintes parasztházban és néhány hozzáépített fa barakképületben működött, amely 1921-ben teljességgel leégett. Az erről tudósító újságcikkek³ alapján már ekkor is 150 foglalkoztatottja volt az üzemnek. A leégett gyártelep helyén kezdetben földszintes, majd a géppark bővülésével többemeletes, toldaléképületekkel kiegészített gyárépületet emeltek. A pincében működött a kazánház és a harisnyaformázó üzem. 1923-24-ben a területen gyapjúfonodát létesítettek az alapanyag-szükséglet kielégítésére. Fontos céljuk
+
+³ Vö. pl. Uj Nemzedék, 3. évfolyam, 1921. december 4., 273. szám „Még ma is ég a rákospalotai szövőtelep”
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+23/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+volt a keletkező hulladék újrafeldolgozása. 1938-ban – a háborús készülődés jegyében – bővítették a fonodát. A háború alatt katonai parancsnokság alá került, a nyilas uralom idején kifosztották, így amikor 1945. január 8-án a szovjet csapatok elfoglalták, csak romokat és rozsdás gépeket találtak. 1948. március 28-án állami tulajdonba vették a 100-nál több foglalkoztatottal működő üzemeket, így a rákospalotai üzemet is. 1963-ban a textilgyárak és kötöttárugyárak összevonása és korszerűsítése keretében alakult meg a Budapesti Finomkötöttárugyár (BFK), a vállalat központját Zuglóban alakították ki. A gyár az ezt követő években nagyarányú fejlesztéseket és bővítést végzett.
+
+Ekkorra már a Finomkötöttárugyár számos tevékenységet folytatott a területen: volt harisnyaformázó üzemük, később saját fonalszükségletük ellátására gyapjúfonodát is létesítettek, svájcisapkák, gyapjúharisnyák, gyapjúpulóverek, mellények és az ún. berliner kendők gyártását folytatták. Még 1938-ban bővítették a fonodát és finomabb fésült fonalak gyártására tették alkalmassá és berendezkedtek fonalszínezésre is.
+
+A területen az 1950-70-es években folyó folyamatos bővítés átépítésnek számos tervdokumentáció eleme maradt meg, melyeket a Fővárosi Levéltárban történt kutatás során összegyűjtöttünk. Ezek közül fontos elem az 1971 decemberében készült áttekintő helyszínrajz, amely felsorolja az akkori üzem létesítményrészeit és bemutatja azok elhelyezkedését.⁴
+
+Az ábrán V. sz. „Tr1” [„torony”?] üzem létesítmény a víztorony, a VI. sz. „H” üzem funkciója tisztázatlan.
+
+Az 1970-es évek végén kezdődött meg a fejlesztés intenzív szakasza, mely magában foglalta a kiegészítő gépeket érintő fejlesztéseket. Ennek keretében olajfűtési technológiát vezettek be, ennek a részét képezte egy 1975-ben üzembe helyezett 25 m³-es olajtartály a rákospalotai üzemben. A területről készült 1963-as (2.1.1.3. szövegközti ábra) és 1978-as (2.1.1.4. szövegközi ábraHiba! A hivatkozási forrás nem található.) légifotókon látható a volt gyárterület és környezetének változása.
+
+1990-ben előbbi technológiát gáztüzeléssel cserélték fel, azonban az olajfűtés műtárgyai (tartály, vezetékek stb.) korábbi telepítési helyükön maradtak. Az 1980-as években a vállalat folyamatosan fejlődött, idővel erőteljesen növelni tudta piaci pozícióit nyugaton is.
+
+⁴ Ezzel kapcsolatban a Fővárosi Levéltárban tartott adatgyűjtésünk során szereztük be a 17074/1972 sz. határozattal jóváhagyott gyártelep elrendezési rajzot („Barak” raktár helyszínrajzi vázlat, rajzszám: 62-1525-862, készült 1971. december 1.).
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+24/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADÉP TERVÍRO KFT.
+
+Szekhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adepterviro@adepterviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRODOKUMENTÁCIÓ
+
+2.1.1.2. szövegközti ábra. A vizsgált terület épületeinek vázrajza az 1971-ben készült áttekintő helyszínrajzon
+
+![img-6.jpeg](img-6.jpeg)
+
+A tervlapon megjelölt épületrészek
+
+|  I. | Fonalraktár | VIII. | KISZ helység | XV. | Iroda épület | XXII. | Tálaló | XXXV. | Leánynevelő Intézet  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  II. | TMK műhelyek | IX. | Motringoló | XVI. | Porta | XXIII. | Irodák |  |   |
+|  III. | Orsózó | X. | Tanműhely | XVII. | Motorkötöde, varroda | XXIV. | Telefon központ |  |   |
+|  IV. | Trafóház, kapcsolóház | XI. | Export raktár | XVIII. | Régi kazánház | XXVI. | Raktár |  |   |
+|  V. | „Tr1” üzem | XII. | Műszaki raktár | XIX. | Motozó | XXVII. | Konyha |  |   |
+|  VI. | „H” üzem | XIII. | Nyitott raktár | XX. | Ebédlő, konyha | XXXII. | Bontásra kerülő épület |  |   |
+|  VII. | Kazánház | XIV. | Festöde | XXI. | Fürdők | XXXIII. | Magánterület, szomszéd |  |   |
+
+KÉSZÍTETTE: ADEPT ÉNVÍRO KFT.
+
+25/287
+
+Dokumentum azonosító: 0383/7/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Szinte nem volt olyan textilipari termék, amit ne gyártottak volna. 1978-tól a rákospalotai gyárnak saját festő-kikészítő üzeme is lett, amely később önálló szervezetként működött (COLORIT Rt.⁵) A rákospalotai gyárban saját felhasználásra akrilfonal-terjedelmesítő gépeket is működtettek.
+
+2.1.1.3. szövegközti ábra. A vizsgált terület (volt szövőgyár területe piros körvonallal) és környezete 1963-as légifotón (fentrol.hu)
+
+![img-7.jpeg](img-7.jpeg)
+
+⁵ A COLORIT „Gmk” (Gazdasági Munkaközösség) szervezeti formában kezdte pályafutását.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+26/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A műszaki, kereskedelmi és gazdasági fellendülésnek az 1988. évi APEH-revízió vetett véget. Az adósságokat törleszteni tudták, azonban a rugalmatlan termelői szerkezet és a növekvő bérmunkadíjak miatt végül felszámolás alá került a vállalat.
+
+2.1.1.4. szövegközti ábra. A vizsgált terület (volt szövőgyár területe piros körvonallal) és környezete 1978-as légifotón (fentrol.hu)
+
+![img-8.jpeg](img-8.jpeg)
+
+1995. június 26-án a Kvantum Bank Rt., mint felszámoló adta el a korábbi gyár üzemi területének egy részét a COLORTEX Kft.-nek (a következő fejezetben erről részletesebben írunk). Ennek keretében a COLORTEX Kft. tulajdonába került az 1464 m²-es, akkor 88324 hrsz-on azonosítható
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+27/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+terület, ahol a COLORTEX Kft. a területen meglévő, korszerűsített technológiával – gázüzemmel – folytatta a tevékenységet.
+
+Az ingatlan adás-vételi szerződés 7. pontja megfogalmazta:
+
+„Eladó szavatolja, hogy az ingatlan – a jelen szerződésbe foglaltakon túlmenően – per-, teher- és igénymentes, adó-közterhek végrehajtása azt nem terheli. Az ingatlanon lévő felépítmények rendeltetésszerű használatra alkalmasak, és a legjobb tudomása szerint az értékesítésre kiható környezetszennyezési probléma nincs.”
+
+A COLORTEX Kft. tehát – a szerződés szövegéből kiindulva teljesen jóhiszeműen – szennyeződésmentes állapotban vélte megvenni a területet. A terület átadásakor kapott helyszínrajzon olajtartály nem szerepelt. A COLORTEX Kft. a tevékenységet a korábbi olajtüzeléses technológiai helyett korszerűsített, gázüzemű eszközökkel folytatta, így a régebbi technológiai berendezések esetleges előfordulásáról információval nem rendelkezett. Több dokumentáció is hivatkozik arra, hogy a probléma feltárását követően a COLORTEX Kft. az olajtartály tekintetében nyomáspróbát is végeztetett, amely a tartályon sérülést nem tárt fel.
+
+A COLORTEX Kft. részéről történt területvásárlás időpontjára vonatkozó részletes és releváns további információkat a „TÁJÉKOZTATÓ a COLORIT Festő-Kikészítő Rt. Fa. használatában lévő vagyontárgyakról és az értékesítés feltételeiről” c. 1995. március 6-ra dátumozott, a Pénzügykutató Rt. valamint a COLORIT Rt. valamint a KVANTUM Bank, mint a BFK felszámolója által kiadott „Pályázati dokumentációból” ismerhetünk meg, amelyet a 8. mellékletként csatolunk.
+
+Ebből kiderül, hogy a Budapesti Finomkötöttárugyár 1988-ban alapította a COLORIT Rt-t, gyakorlatilag a „korábbi festő-kikészítő telephelyét alakítva társasággá”. Nem került be azonban a Társaságba a Szövőgyár u. 11-17. alatti ingatlan, és számos, a COLORIT Rt. által használt gép sem, amelyet a Társaság bérelt a BFK-tól. 1990-1991-ben a COLORIT jelentős technológiai rekonstrukciót hajtott végre, egy világszínvonalú festő-kikészítő üzemet hozva létre. A cég azonban tőkehiánnyal küzdött és 1992-ben csődöt jelentett, ill. 1993. december 29-től megindításra került a felszámolási eljárás. Tekintettel a szintén felszámolás alatt álló BFK-ra, ill. arra, hogy a kettő szervezet tulajdonában/használatában álló ingatlanok és ingóságok szerves egységet alkottak, a pályázat tárgyát képező ingatlanokat és teljes technológiai sort egyben hirdették meg a pályázat kiírói.
+
+A dokumentáció rögzíti, hogy „a pályázat első fordulójában kizárólag a meghirdetett vagyontárgyak egészére lehet pályázni”. A második fordulós felhívási dokumentáció sajnos nem áll rendelkezésünkre.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+28/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A 2023-as tényfeltárási dokumentáció készítés keretében a terepi munkákat végző Naturaqua Zrt. megkereste a még létező COLORTEX Kft. ügyvezetőjét, aki e-mail útján az épületekre vonatkozóan rövid funkcionális leírást adott. Ezt összevetettük az 1995-ben kelt értékesítési pályázati dokumentációban leírtakkal, melyet a 2.1.1. szövegközti táblázat részletez.
+
+A pályázati dokumentáció mellékletét képező helyszínrajz alapján az 1995-ös állapot a következő 2.1.2.1. szövegközti ábra szerint rekonstruálható, amely bemutatja az 1995-ös állapotokat a területen, a Colortex „tulajdonába és használatába” került területet a barna körvonal jelzi, illetve a lilával jelölt víztorony. A pályázati dokumentáció alapján azonosíthatóak az épületeknek az értékesítési pályázatot megelőző időszakban volt használatai, mely a 2.1.1. szövegközti táblázat szerint alakult, ill. ezt egészítettük ki a fent hivatkozott, COLORTEX Kft. ügyvezetője által adott információkkal, a következők szerint.
+
+2.1.1. szövegközti táblázat. Az egykori Finomkötöttárugyár gyártelepén található épületek és létesítményrészek rekonstruált funkciói
+
+|  Objektum azonosító jele | Építés éve | Állapot | Funkció az értékesítési pályázati dokumentáció közlése alapján (1995 előtti funkció) | Funkció a Colortex Kft. egykori ügyvezető közlése alapján (1995 utáni funkció)  |
+| --- | --- | --- | --- | --- |
+|  1.A. | 1972 | Lebontva | Festő kikészítő üzem (fszt.), irodák, szociális helységek, kondicionáló terem (emelet) | „I-II.III. hajó festőde, kikészítő, IV szociális blokkal együtt”  |
+|  2.B. | 1941 | Áll | Irodaépület |   |
+|  3.C. | 1922 | Lebontva | Régi üzemépület (4 szintes), műhelyek (fszt.), raktárok, konyha és étterem (I. em.), | „fszt. raktár, I. emelet raktár, illetve üresen állt, II. emelet varroda – szabászat”  |
+|  4.D. | 1973 | Lebontva | Kazánház és trafóház | „kazánház”  |
+|  5.E. | 1972 | Áll | Fonalraktár (gépterem) | „Raktárnak használtuk”  |
+|  6.F. | 1952 | Áll | Nyerskelmeraktár (földszintes) |   |
+|  7.G. | 1921 | Áll | Raktár (földszintes) |   |
+|  8.H. | 1920 | Áll | Műszaki raktár (TMK) |   |
+|  9.I. | 1920 | Lebontva | Nyerskelme raktár (részben kétszintes) | „műszaki raktár – gépraktár, illetve készáru raktár”  |
+|  10.J. | 1928 | Áll | Könyvtár és energiaraktár |   |
+|  11.K. | 1920 | Áll | Mintabolt |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+29/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Objektum azonosító jele | Építés éve | Állapot | Funkció az értékesítési pályázati dokumentáció közlése alapján (1995 előtti funkció) | Funkció a Colortex Kft. egykori ügyvezető közlése alapján (1995 utáni funkció)  |
+| --- | --- | --- | --- | --- |
+|  12.L. | 1972 | Lebontva | Bolyhozó-nyomó üzem | „textilanyagok festésére szolgáló festékek raktára, porfestékek”  |
+|  13.M. | 1920 | Lebontva | Készkelmeraktár és labor, műhely és laboratórium | „csomagoló”  |
+|  14.N. | 1940 | Áll | Iroda, kereskedelmi osztály volt itt | „iroda”  |
+|  15.O. | 1951 | Áll | Porta | „porta”  |
+|   |  | Áll | Nyitott tárolók (az ábrán „Raktár” néven) |   |
+|   |  | Áll | Víztorony (az ábrán lilával színezett létesítményrész) | „víztorony”  |
+|   |  | n. a. | Pincék (1 016 m²) |   |
+|   |  | Lebontva | Savsemlegesítő (az ábrán „S” betűvel jelöltük) |   |
+
+A 2.1.2.1. szövegközti ábrán a 7.G. jelű épület „7.6.” jelöléssel (feltehetőleg az 1995-ös pályázatot készítő elírása), a 15.O. épület pedig „15” jelöléssel szerepel.
+
+Fontos megemlíteni, hogy ha összevetjük ezt az elrendezési ábrát az 1972-ben létesült 1.A. csarnok használatba vétele előtt készült elrendezési ábrával (vö.: 2.1.1.2. szövegközti ábra), akkor kiderül, hogy az 1994-ben önálló 4.D., 9.I., 10.J. és víztorony épületek 1972-ben még egyetlen nagy építménytömböt alkottak. Az 1.A. csarnok építésekor az épületrészek közötti közlekedőket elbontották, az egyes épületrészek önállóvá váltak a későbbi 4.D., 9.I., 10.J. és víztorony épületekként. Szintén fontos a továbbiak szempontjából, hogy a 9.I. jelű építmény XIV. jelű része volt a „Festőde”, ahol – levéltári információk alapján - a triklór-etén alapú „tri-gépek”-et és azt követően pedig a tetraklór-etén alapú textil tisztítógépeket üzemeltették. Ez a térrész 1994-ben viszont már csak, mint raktár szerepelt a kimutatásban, tehát akkorra már nem voltak itt ezek a gépek használatban.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+30/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+2.1.2.1. szövegközti ábra. A vizsgált terület helyszínrajza az 1995-ös adás-vételi állapotok szerint (Colortex Kft.)
+
+![img-9.jpeg](img-9.jpeg)
+
+A pályázatban szereplő létesítményekként nyitott tárolók és pincék kerültek felsorolásra, amelyek pontos holléte se a közölt, se a pályázati kiíráshoz csatolt ábrán azonban nincs megjelölve. A nyitott tárolók beazonosítása kizárásos alapon történt meg. Az ügyvezető se volt benne biztos, hogy az mely létesítményrészt jelölhette, közlése alapján ugyanakkor a rajzon
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+31/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+egyetlen jelöletlen épület, a III. hajótól északi irányban, a telekhatárnál elhelyezkedő létesítményrész a Savsemlegesítő volt, így kizárásos alapon az ábrán a „Raktár” megnevezésű területen álló, valóban nyitott építményeket takarhatják. A raktárakat valamikor 1979 és 1990 között létesítették. Az 1978-ban készült ortofotón még a területen csak anyagtárolás, göngyölegek fedezhetők fel (lásd 2.1.2.2. szövegközti ábra), az 1979-ben készült ortofotó viszont már mutatja azt az objektumot, amelynek az alaprajza a jelenlegi hivatalos helyszínrajzokon is szerepel:
+
+2.1.2.2. szövegközti ábra. A „Nyitott tárolók” terület 1979-es állapota és jelenlegi helyszínrajzának összevetése
+
+![img-10.jpeg](img-10.jpeg)
+
+1979-0283-4919 (1979.08.24) ortofotó
+
+![img-11.jpeg](img-11.jpeg)
+
+ekozmu.e-epites.hu helyszínrajz (2026.01.16)
+
+Ez az objektum ugyanakkor már az 1990-ben készült ortofotón (2.1.2.3 szövegközti ábra) nincs jelen, helyette az ott azóta is megtalálható nyitott tárolók építményeit láthatjuk. Sajnos 1979 és 1990 között nem készült ortofotó a területről. Azt nem tudni, hogy a helyszínrajz nyilvántartásban miért nem lett átvezetve az átalakítás. Az 1979-ben feltűnt objektum funkciója nem tisztázott, ugyanakkor az alakja (félkörös keresztmetszet) alapján is láthatóan sátorszerű építmény volt, amiben feltehetőleg szintén raktározhattak. Az építmény az 1978-ban a Leánynevelő Intézet távhőellátását biztosító rendszer tervlapján6 szerepel „felfújt sátor” megnevezéssel.
+
+Fontos kiegészítés továbbá, hogy a területen történt tájékozódás, a dokumentumok áttekintése és az érintettekkel történt tisztázó egyeztetés alapján világossá vált, a „Raktár”-ként jelölt ingatlan a Leánynevelő Intézet kezelésében álló ingatlanon áll a valóságban. Ugyanakkor a korábbi és a jelenlegi információk szerint is használata régre nyúlóan elkülönül az Intézettől és a valamikori Finomkötöttárugyárhoz kapcsolódik. Az elkülönült használat kezdetére vonatkozóan nincs megbízható információ. Az 1963-ban és 1967-ben készült ortofotókon7 világosan láthatóan
+
+6 Készítette: Energiagazdálkodási Intézet, rajzszám: 3327-HO-100.
+
+7 Vö.: fentrol.hu adatbázis, 1963-0127-3544 sz. (1963.09.04-én készült) és 1967-0041-0014 sz. (1967.06.05-én készült) ortofotók
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+32/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+még a terület a Leánynevelőtől nem lett leválasztva. Ugyanekkor az is látható, hogy a gyártelep az egykori 88324 hrsz. (akkor: Szövőgyár utca 21.) és 88323 hrsz. (akkor: Szövőgyár utca 19.) ingatlanokat még nem kebelezte be, azok még önálló lakóházak voltak. Az akkoriban Szövőgyár utca 17. számozású lakóház már a gyárhoz tartozott, de akkor még csak a régi épületet használták raktározási céllal. Mindezt az alábbi ábrán mutatjuk be részletesen.
+
+2.1.2.3. szövegközti ábra. A „Nyitott tárolók” terület 1990-es állapota
+
+![img-12.jpeg](img-12.jpeg)
+
+A gyártelep fejlődésében fontos fordulópont volt 1972, amikor a modern épületegyüttes létesült (többhajós gyártócsarnok, festő-kikészítő, a gépterem, bolyhozó-nyomó épület és 1973-ban a gyártelepet energetikailag kiszolgáló kazánépület). Feltételezhető, hogy a Leánynevelőtől igénybe vett terület ekkoriban kerülhetett a gyáregység használatába. Ezzel egybevág a Leánynevelő Intézet idősebb korú gondnoka által elmondottak, aki úgy emlékszik, hogy az 1970-es évek elejétől került átadásra a terület, elsősorban az ingatlanhatáron végig kiépített masszív és magas kerítésfal megépítéséért cserébe.
+
+Szóbeli tájékoztatások szerint a területet először nyílt színi, később fedett raktárként használta a Finomkötöttárugyár, ill. később ez is autószerelő és fényező műhelyként is üzemelt, a későbbiekben részletesebben kifejtettek szerint.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+33/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+# 2.1.2.4. szövegközti ábra. A gyártelep kiterjedése 1967-ben
+
+![img-13.jpeg](img-13.jpeg)
+
+A Savsemlegesítőt a 2.1.2.1. szövegközti ábrán utólagosan megjelöltük „S” betűvel. Az ügyvezető közlése értelmében a gyártelepen keletkező mindennemű szennyvíz zárt csatornarendszerbe került, amely aztán ebbe a savsemlegesítőbe jutott, ahol a pH értéke került beállításra, onnan pedig a közcsatornába került a kibocsátott szennyvíz. Az, hogy a savsemlegesítőből hogyan jutott a közcsatornába a szennyvíz, nincs pontos információ. A jelenlegi közmű helyszínrajz alapján a gyártelepnek egyedül a Szövőgyár utca felől van csatornabekötése, a Savsemlegesítő erre tekintettel eléggé távoli, kedvezőtlen pozícióban van. Az elhelyezkedése alapján a szennyvíz kijuttatása a 88325 hrsz. (Énekes utca 33.) telken keresztül lenne életszerűbb, az Énekes utcában futó csatornaszakaszra, mivel az lényegesen rövidebb bekötési lehetőséget kínálna. Ráadásul az érintett ingatlanon is ipari tevékenység zajlott/zajlik (műanyagfeldolgozó üzem). Az Énekes utcában a műanyagfeldolgozó üzem előtt a közterületen kétfedlapos nagyobb csatorna töréspont található.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+34/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**2.1.2.5. szövegközti ábra.** A gyártelep Pisztráng utca – Énekes utca felőli bejárata és környezete 1978-ban
+
+![img-14.jpeg](img-14.jpeg)
+
+Az előző ábrán az 1978-ban készült ortofotó kinagyítása alapján vélelmezhető ráadásul, hogy e telek egy részét az üzem bérbe vehette az akkori tulajdonostól, mivel a fotó tanúsága szerint a 88325 hrsz. DNy-i végén a kerítés nincs meg, emellett a jármű keréknyomok alapján úgy tűnik, hogy a raktározó területhez ekkor a 88325 hrsz. telek ezen részén jutottak be. Ezt támasztja az is alá, hogy a Pisztráng utca felőli jelenlegi kapu még bizonyosan nem volt meg, nincs is oda jármű nyomvonal, azaz a raktárterületre onnan ekkor nem lehetett még bejutni. Mindezek alapján felvetődik a kérdés, hogy a Savsemlegesítőből ezen az üzem által használt területen keresztül volt a kivezetése a szennyvízcsatornának. A **2.1.2.3. szövegközti ábrán** jól láthatóan az 1978-ban igénybe vett telekdarab már kerítéssel elhatároltan visszakerült a 88325 hrsz. telek főrészéhez.
+
+A csatornarendszer egykori nyomvonalának felderítése mindezek alapján lényeges feladat az egykori területhasználat és a szennyeződés keletkezés és szétterjedés tisztázása szempontjából. Az elvégzett munkálatokat és eredményét a 6.11. fejezetben mutatjuk be.
+
+A „Pincék” megnevezésű objektum a mérete alapján a 3.C. épület alapterületével vág egybe, mivel a pályázati anyag alapján annak a három szintje összesen 3 075 m² területű, azaz egy szintje
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+35/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+átlagosan 1 025 m². Ez megmagyarázhatja azt is, hogy a pályázati kiírás szerint az épület négy szintes, ebben az esetben ugyanis pince, fszt. + 2 emelet alapján valóban négy szintes lehetett.
+
+A korábbi és jelenlegi tulajdonosok tájékoztatása alapján a „7.6. épületben” autószerelő és fényező műhely üzemelt, a későbbiekben kárpitos és üveges műhelyek működtek itt⁸. A rendelkezésünkre álló információkból az derül ki, hogy ezt a COLORTEX Kft. nem vásárolta meg, így akár valóban betölthette 1995-öt követően a megadott funkciót.
+
+A víztorony létesítési időpontja nem ismert, de az építmény már az 1963-ban készült ortofotón is jól kivehető. Az 1954-ben a Festő-, karbantartó és TMK műhely részére készült átépítési tervlapon a víztorony mai alaprajza szerint látható.⁹ Az 1921-es tűzvész során bekövetkezett teljes gyárleégés oka az volt, hogy a térségben nagyobb mennyiségű elérhető víz nem állt rendelkezésre és a tűzoltók Újpestről voltak kénytelenek tömlőkben vizet hozni. Ebből arra következtetünk, hogy a víztorony 1922 körül létesülhetett, a vízigényes gyár jó vízellátása és biztonsági okokra is tekintettel.
+
+A Cg.01-10-041170 cégjegyzékszámú COLORIT Festő-Kikészítő Részvénytársaság felszámolás alatt (1151 Budapest, Szövőgyár u. 11-17.) céget felszámolás alapján 2000.05.04-én törölték a cégjegyzékből, így ezt követően már bizonyosan nem folytatott semmilyen tevékenységet a területen.
+
+A COLORTEX Kft. a tevékenységet befejezte a területen 2006-ban, a gyárépületek 2006-2007 között elbontásra kerültek, azóta az ingatlanon tevékenységet nem folytatnak. A jelenlegi tulajdonos (Dinamo Invest Kft.) 2021-ben vásárolta meg a gyárterület ingatlanjait, melyek 2022-ben összevonásra kerültek.
+
+Az ipartelep Szövőgyár utca 11. sz. alatti emeletes egykori irodaépületében jelenleg a Labsystem Kft. található. A Labsystem Kft. laboratóriumi eszközök forgalmazásával, valamint az ügyfelek részére szerviz szolgáltatás biztosításával foglalkozik. A Labsystem Kft. képviselőjének elmondása alapján a beköltözésükkor a területen feltárt pincében autógumikat találtak felhalmozva, melyet akkor a Labsystem Kft. elszállíttatott a területről.
+
+## 2.1.2. LEÁNYNEVELŐ INTÉZET
+
+A volt finomkötöttárugyári ingatlannal szomszédos telken helyezkedik el a Rákospalotai Leánynevelő Intézet, melyet 1890-ben alapítottak. 1899. március 15-én került át az intézmény a jóval nagyobb területű mai, végleges helyére (2.1.2.6. szövegközti ábra). A költözést követően az
+
+⁸ Mint említettük, a „7.6” épület valójában a 7.G. jelű épület volt.
+
+⁹ 58-A-117 sz.-on 1954. augusztus 23.-án jóváhagyott tervezet.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+36/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+építkezés, új épületek emelése került a középpontba. A telek beépítése előtti első feladat az intézet köré felhúzott két és fél méter magas kerítés emelése volt.
+
+**2.1.2.6. szövegközti ábra.** A vizsgált területtel határos Rákospalotai Leánynevelő Intézet területe (lila körvonallal)
+
+![img-15.jpeg](img-15.jpeg)
+
+Az építkezések 1905-ben fejeződöttek be. A főkapu az egykori Vasút utcáról nyílt, de ettől jobbra is volt egy bejárat. A területen több, különálló épület létesült az egyes funkciók szerint: a kapus lakása, mellette egy olyan helyiséget alakítottak ki, ahol a növendékek felügyelet mellett találkozhattak hozzátartozóikkal. A területen épült egy kápolna, valamint kialakításra került az igazgatósági épület. A kápolna mögött voltak az egymással szimmetrikusan szemben álló egyemeletes pavilonok, amelyekből összesen négy épült meg. Ezek a harminc méter hosszú, s
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+37/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+csaknem húsz méter széles, rácsos ablakokkal ellátott épületek két 25-25 fős család befogadására voltak alkalmasak. Helyiségeik száma és elosztása teljesen megegyező volt: ezeken belül volt az iskolaterem, a munkaterem, az öltöző, a mosdószoba, a közös hálóterem, valamint a magánzárka. A két-két egymással szemben lévő növendék-házat, valamint a négy pavilon között fekvő, félig alápincézett, földszintes háztartási épületet egész fenyőből faragott ácsszerkezetű árkádsor kötötte össze kétoldalt tornyos, kupolás középrésszel.
+
+Az Intézet korábbi tevékenységéről az interneten a következő információk érhetőek el:
+
+„Az intézet első igazgatója, özvegy Jónás Józsefné, született Turcsányi Emília okleveles tanítónő volt az, aki nemcsak elindította, de 1899. március 15-én át is költöztette az intézményt a közeli, ám jóval nagyobb területű mai, végleges helyére. Az intézet új otthonának bejárata a palotai Nyaralótelep főutcájaként ismert, csatornázott, aszfaltozott Vasút utcából nyílt. Az 1923-tól már Pozsony utcaként ismert utca előtt már a költözés napján is villamoskocsik zötykölődtek. A 36-os szám alatti, öt hold kiterjedésű birtokon akkor még csak egyetlen szemet gyönyörködtető romantikus épület állt. A másik épület gazdasági célokat szolgált. Míg az egyik részében istállók, sertés, és liba ólak, illetve keltetők voltak, addig a másik oldalt a gazdasághoz szükséges szerszámok kaptak helyet. A legnagyobb élet a pavilonok közötti háztartási épületben volt. Itt fordult meg a legtöbb növendék. A földszinten a raktárak, mosókonyhák, öltözők mellett egy 25 fős fürdőmedence várta a lányokat.”
+
+A Budapest XV. kerületi Önkormányzata által működtetett Rákospalotai Múzeum szíves közlésének köszönhetően egy 1928-ban készült részletes térképen a terület elnevezése „Állami Javító Intézet”, ami mutatja, hogy az intézmény állami szerv volt.10
+
+A szintén interneten elérhető, „A RÁKOSPALOTAI JAVÍTÓINTÉZET ELSŐ ÉVEI” (írta: Rokob Tibor) cikkben a következő leírás olvasható:
+
+„A szigorú rendben zajló intézet életének középpontjában a háztartási munkák álltak. Bár a kertben is szorgalmasan dolgoztak a növendékek, a munkavezetők általában a takarítást, mosást, sütést, főzést, kötést, és horgolást részesítették előnyben.
+
+...
+
+A legnagyobb élet a pavilonok közötti háztartási épületben volt. Itt fordult meg a legtöbb növendék. A földszinten a raktárak, mosókonyhák, öltözők mellett egy 25 fős fürdőmedence várta a lányokat. Az emeleten többségében a dolgozók lakószobái voltak, de ide került a ruharaktár, a mángorló, vagy vasalóhelyiség, valamint a szárítókamrák. A pincében az intézet valamennyi vízszükségletét szolgáltató szivattyú dolgozott”.
+
+10 Vö.: 2.2.2.7. szövegközti ábra által mutatottak. A Jog c. periodika 1893. évi 10. száma (megjelent: 1893.03.05) a 76. oldalán közölt cikkében részletes statisztikával mutatja be az akkor már harmadik éve működő állami intézményt.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+38/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Ezek alapján logikus feltételezés, hogy a leány növendékek (akik maguk sem voltak kevesen: a legmagasabb létszám 1924-ben volt, amikor 348 növendéket fogadott be a négy pavilon) akár a saját igényeiket is meghaladó mosási-tisztítási tevékenységet végezhettek a múltban, de a tevékenység nagyságrendjéről, volumenéről, módjáról nem rendelkezünk tényadatokkal.
+
+A Leánynevelő Intézet ingatlanjához tartozó területen elhelyezkedő „Belső elkülönített részterület” hasznosítása
+
+A környező ingatlanok volt és jelenlegi tulajdonosai által elmondottak alapján a Rákospalotai Leánynevelde által használt ingatlan (88311 hrsz.) keleti részén, a volt szövőgyári ingatlannal határos hosszanti, elkülönített területrészt (2.2.3.1. szövegközti ábra) bérbe adták. Az elkülönített telekrészre a bejutást az Énekes utca Pisztráng utca torkolatában nyíló kapu biztosítja. A Leánynevelő Intézet, a szóbeli közlés szerint már több mint 40 éve bérbe adta a Szövőgyár és utána a Colortex Kft-nek is ezt a területet. (Az már nem deríthető ki, hogy a „COLORIT Rt.” és a „COLORTEX Kft.” a szomszédok ismeretében mennyiben vált el, vagy mosódott össze egymással.)
+
+### 2.1.3. RÁKOSPALOTAI KERTVÁROS
+
+Az illékony halogénezett alifás szénhidrogén szennyezettségnek a forrásterületről kiinduló csóvája érinti az eddig bemutatott térségen kívül a Leánynevelő Intézet ingatlanától ÉNy-i irányban, a Károlyi Sándor utca, Géza fejedelem tér, Rákospalota-Újpest vasútállomás, és a Szilas-patak által határolt kertvárosi területet, ezért e terület történetét is vázlatosan összefoglaljuk. A terület parcellázása a korabeli újságokban közölt hírek alapján 1928-ban indult meg, az értékesítés 1929-től folyt.
+
+A 2.1.3.1. szövegközti ábrán bemutatott, 1928-ban készült térképrészleten a parcella felosztás és az előirányzott épületek elhelyezése már szemlélhető. A térképről az is leolvasható, hogy a mostani kárhely magján működő termelőegység „Kötő Kötőszövő gyár” néven szerepel. A kertvárosi ingatlanok értékesítése mind önálló telkekre, mind beköltözhető házakra is kiterjedt¹¹. A parcellázás közepes méretű telkeket, jobbára szabadon álló épületeket, egylakásos családházak létesítését irányozta elő a területen, mely a területbejárás alapján jobbára meg is valósult. Mivel az utcák jelentős része nekifut a vasútállomásnak, ezért keresztirányú forgalom a kertvárosban minimális, ennek is köszönhető, hogy mostanra is megtartotta nyugodt, parkos, kertvárosias jellegét a városrész.
+
+¹¹ A kertváros ötlete Löffler Zsigmond szobafestő építési vállalkozótól származott, aki a telekfelosztást, közművesítést és az utak kiépítését is elvégezte a telekértékesítések és házépítések előtt.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+39/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**2.1.3.1. szövegközti ábra.** A volt szövőgyár, a Rákospalotai Leánynevelő Intézet és a Löffler Zsigmond által parcellázott „Rákospalotai kertváros” állapota 1928-ban készült térképen.
+
+![img-16.jpeg](img-16.jpeg)
+
+## 2.1.4. JELENLEGI TERÜLETHASZNÁLAT
+
+A korábbi szövőgyári területtől északra és keletre lakóingatlanok, társasházak és óvoda találhatók, déli irányba gazdasági épületek, valamint távolabb szintén lakóházak. Nyugati irányban a terület teljes hosszában a Szociális és Gyermekvédelmi Főigazgatóság által üzemeltetett Rákospalotai Leánynevelő Intézet helyezkedik el, mely több, mint 100 éve ugyanezen a területen működik.
+
+A volt gyárterületen az eredeti beépítés bontása 2005 és 2008 között következett be, mert a 2005. októberi ortofotón még érintetlen az infrastruktúra, a következő, 2008 augusztusi fotó tanúbizonysága alapján viszont már a mostani bontási állapotoknak megfelelő képet mutat a gyártelep. A Labsystem Kft. elmondása szerint a bontás 2006/7-ben zajlott. A bontással érintett objektumokat a 2.2.1. táblázatban felsoroltuk. A megmaradt épületek a 88323 hrsz. területen a terület portája és őrzése céljából maradtak fenn, valamint a korábbi épületek alapjai és maradványai. A 88322/1 és 88322/2 hrsz.-ek esetében a terület DNy-i végében található épületsor raktárfunkcióval, valamikori iroda és mintaüzlet épületek pedig a Labsystem Kft. irodaigényét elégítik ki.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+40/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**2.2.3.1. szövegközti ábra.** A volt szövőgyár területe (piros), a Rákospalotai Leánynevelő Intézet (lila) és az azon belül található, külön hasznosítású részterület (kékkel sraffozott) elhelyezkedése
+
+![img-17.jpeg](img-17.jpeg)
+
+A korábbi szövőgyári terület déli részén (88322/2 hrsz.) a Labsystem Kft. üzemel, ahol egy irodaépület, parkolók találhatók. A Labsystem Kft. ezen ingatlanján a bontásokat követően megindult a fejlesztés. Az ortofotók tanúbizonysága alapján az utcafronton álló egyemeletes
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+41/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+fejépületet (valamikori 2.B jelű épület¹²) 2014/15-ben felújították, míg a telek belső részére 2023/24-ben egy teljesen új raktárépület létesült a valamikori 9.I. és 4.D. jelű épületek helyén
+
+A 88323 hrsz. telken jelenleg fennálló szolgálati épület használaton kívül van. Az ingatlant jórészt már benőtte a növényzet, jelenleg semmilyen tevékenységet nem folytatnak, az ingatlanon társasház építését tervezik.
+
+A volt gyárterület északi oldalán (Énekes utca felé) a Hofor Kft. üzemel (88325 hrsz.), a cég elsősorban háztartási műanyag termékek gyártásával foglalkozik, fröccsöntéses technológiával.
+
+Pár éve a Leánynevelő Intézet az egykor a BFK részére bérbeadott területet jelenleg a Retrolimó Kft.-nek adja bérbe, mivel mai formában ez egy elzárt terület az Intézménytől. A bérbevevő cég az Intézmény tudomása szerint személyautók átalakításával (pl.: rendezvény autók, limuzinok stb.) foglalkozik. A kiegészítő tényfeltárás időszaka alatt, a terepi munkavégzés során nem észleltünk a területrészen ténylegesen végzett tevékenységet.
+
+### 2.1.5. POTENCIÁLIS SZENNYEZŐFORRÁSOK AZONOSÍTÁSA
+
+2022-re az addig elvégzett vizsgálatok és hatósági eljárások alapján már igazolást nyert, hogy az LNAPL¹³ jellegű **CH szennyezés** a volt Budapesti Finomkötöttárugyár területen feltárt **25 m³-es olajtartályra** vezethető vissza. Bár a sokáig kármentesítésre kötelezett COLORTEX Kft. többször rögzítette, hogy a tartály nyomáspróbája megfelelő volt, ezzel azt nem tudta kizárni, hogy a tartály (akár nem megfelelő) használat okozta a szennyezést. A fűtőolajtartály az 1975. évi telepítése után legfeljebb 1990-ig, a gázra való áttérés bevezetéséig üzemelhetett, a Budapesti Finomkötöttárugyár tulajdonlása és használata alatt. A COLORTEX Kft. a létesítményt már gázfűtéses rendszerrel vette át.
+
+Fontosnak tartjuk rögzíteni, hogy jelen munka keretében a volt fűtőolaj tartálytól viszonylag távolabb eső furatokban is mértünk jelentős CH szennyezést. Ezen furatok a **2. ábrán** kazánházként azonosított objektumhoz esnek közel. A jelen ismereteink szerint ugyanakkor a szennyezés – jelenleg már – nem tagolódik több önálló egységre. Ugyanakkor olajszármazékok tekintetében szennyezőforrásnak minősül az egykori **4.D. jelű Kazánépület** és mellette álló **10.J. jelű** könyvtár és **energiaraktár** épületek környezete is.
+
+¹² Ez az épület az 1944-ben készült, 1986-ig Nagy Budapest térképszelvényeként használt, Rákospalotát is mutató térképsorozaton az induló felvétel során rögzítésre került, azaz ekkor már létező épület volt. Vö.: https://maps.arcanum.com; „Budapest nagyméretarányú kerületi térképsorozata (1944-1986)”. Ez összeegyeztethető az 1995-ös pályázati kiírás szerinti 1941-es létesítési évvel.
+
+¹³ Light non-aqueous phase liquid, azaz a víznél kisebb sűrűségű („víznél könnyebb”), nem vízfázisú (azaz vízben kevéssé oldódó) folyékony anyag
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+42/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A VOCI (DNAPL¹⁴ jellegű) szennyezőanyagok tekintetében ismert, hogy a tetraklór-etén (tetraklóretilén, perklóretén, perklóretilén vagy PCE) – mint zsíroldó oldószer – a textiltisztításban (vegytisztítás), folttisztításban és textilfeldolgozási befejező anyagként rendszerint felhasználásra kerül. Ennek megfelelően potenciális szennyező forrásként azonosíthatók a volt Budapesti Finomkötöttárugyár raktár és üzemi épületei (saját és a bérelt területrészen lévő épületek egyaránt), ahol ezt az anyagot használták / tárolták / kezelték. A felsorolt tevékenységekhez kapcsolódóan a lehetőségekhez mérten tisztázni szükséges a gyártelep tekintetében a tényleges anyagfelhasználást, a felhasznált és keletkezett anyagmennyiségeket, az anyagok kezelése, tárolása tekintetében archivált igazoló dokumentumok, bizonylatok, leírások, ismertetők, tervek, stb. felkutatásával. Ennek érdekében szakirodalmi, Internetes és levéltári kutatást végeztünk, melyet a 6.10 fejezetben mutatunk be részletesen.
+
+A vizsgálatokat összegezve potenciális szennyező forrásként elsődlegesen az alábbi épületek azonosíthatók a gyártelepen:
+
+- 3.C jelű, 1922-ben épült régi, négyszintes üzemépület, amelynél alapozási problémákra és központi gőzhasználatú ipari fűtésre utal a pályázati dokumentáció, valamint az,
+- 1920-ban épült 13.M Készekelmeraktár és labor épület, amely a pályázati anyag szerint a pályázat időpontjában műhelyként és laborként funkcionált,
+- a szintén 1920-ban épület és többször átépített, hosszabb ideig a tri- és tetraklór-etén kezelő rendszert befogadó 9.I. Nyerskelme raktár épület, amely az 1994-es pályázat időpontjában, csak már, mint raktár funkcionált, de korábban bizonyítottan befogadta a tri- és tetraklór-eténes kezelő rendszert.
+
+Az eddig bemutatott szennyezőforrások döntően a gyártelep 1922-ben kialakult magjához kötődnek.
+
+Potenciális szennyező forrásként jelölhető meg továbbá a PCE anyag szakszerűtlen tárolása, kezelése, amely tevékenység elsődlegesen a raktárak, tároló terek környezetében eredményezhette szennyező góc kialakulását. Azzal kapcsolatban, hogy az alapanyag PCE-t és a termelés során keletkezett PCE tartalmú hulladékokat hol tárolták, ill. azt használatot követően a továbbiakban hogyan kezelték, pontos ismeret nincs.
+
+A későbbiekre tekintettel fontos továbbá kiemelni a pályázati dokumentációban rögzített következő információt:
+
+¹⁴ Dense non-aqueous phase liquid, azaz a víznél nagyobb sűrűségű („víznél nehezebb”), nem vízfázisú (azaz vízben kevéssé oldódó) folyékony anyag
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+43/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Környezetvédelmi terheltség: a vegyi anyagok használatából eredően a kimenő szennyvíz miatt időnkét bírságot fizet a cég. (1991-93 között évi 100.000 - 170.000 Ft közötti összegeket).
+
+A szennyező „vegyi anyagok” nem ismertek, de figyelmet érdemel a tény, hogy az akkori közcsatornába bocsátási határértéket a cég egyes komponensek tekintetében nem tudta tartani.
+
+A Colortex Kft. ügyvezetőjének elmondása alapján a szükséges „vegyianyagok” (ennél konkrétabb megnevezésről itt sincs információnk) egységesen a Leánynevelő Intézet ingatlanjához tartozó területen elhelyezkedő „Belső elkülönített részterület” (a 2.2.4. szövegközti ábrán „Raktár” megjelölésű építmény) épületében fogadták és tárolták. A vegyianyagok tehát a Pisztráng utca Énekes utca sarkánál található kapubejárón keresztül érkeztek a gyártelepre. Ezen raktározó zóna is tehát potenciális szennyezőforrásnak tekinthető.
+
+További potenciális szennyező forrásként azonosítottuk továbbá az elmondások szerint autószerelő és fényező tevékenységnek helyt adó épületeket (a rendelkezésre álló adatok alapján a 7.G jelű épület), valamint az azokhoz kapcsolódó raktározási tevékenységet (a Leánynevelő Intézettől bérelt területen található raktározó zóna).
+
+A korábbi tényfeltárás adatai alapján további potenciális szennyező forrásként merültek fel a Leánynevelő Intézet területén a korábban ott végzett mosási, tisztítási tevékenységekhez kapcsolódó épületrészek és a tevékenységből származó szennyezett víz elhelyezésére szolgáló létesítmény(ek) is.
+
+A kiegészítő tényfeltárás során ezen kiinduló információkra támaszkodva végeztük el a PCE vezérszennyező forrásterületének azonosításával összefüggő vizsgálatokat.
+
+# 2.1.6. HAVÁRIA ESEMÉNY
+
+A vizsgált területeken dokumentált havária eseményről nincs tudomásunk. Valószínűsíthető ugyanakkor, hogy a fűtőolaj tartályhoz köthető CH szennyezés – figyelemmel a többször hivatkozott megfelelő nyomáspróba eredményre - havária esemény(ek) során került a felszín alatti közegekbe, mint ahogy a VOCI szennyeződés egy részének felszín alatti közegbe jutása is szinte bizonyosan véletlenül bekövetkezett, és/vagy szándékosan okozott (anyag közvetlenül a földtani közeg felszínére, vagy csatornába juttatása) havária esemény során valósulhatott meg.
+
+# 2.1.7. A TERÜLETEN VÉGZETT MEGELŐZŐ KÁRMENTESÍTÉSI MUNKÁLATOK ISMERTETÉSE
+
+A Budapesti Finomkötöttárugyár (BFK) gyáregységének korábban szolgálati lakásként szolgáló, Szövőgyár utca 23. szám alatti területén volt található egy gyűrűs ásott kút, mely 2003. előtt
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+44/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+lezárt állapotban volt. 2003. november 8-án bejelentést tettek a lakosok, miszerint a kút kitárása során erős szagú, jelentős mennyiségű felúszó szénhidrogén – a határozat szerint „gázolaj” – szennyeződést találtak. Az ásott kutat az ingatlan tulajdonosa öntözésre használta, olajszármazék szennyezésre utaló jelet korábban nem tapasztalt. Ezek után bejelentést tettek mind a Polgármesteri Hivatal, mind a Közép-Duna-völgyi Környezetvédelmi Felügyelőség felé, mely jelentésben utaltak az olaj vélhető eredetére; a kúttól 10 méterre található, földbe helyezett olajtartályra.
+
+A Felügyelőség munkatársai 2003. november 10-én tartottak helyszíni szemlét a területen, amely során a szennyezés forrásául a szomszédos Finomkötöttáru gyár területét valószínűsítették, melyet ekkor a COLORTEX Kft., mint a terület tulajdonosa ipartelepként használt. A felszíni rendezés során tárták fel a süllyesztett, gázolajat tartalmazó tartályt.
+
+A Felügyelőség mind az ásott kutakból, mind a fűtőolaj tartályból mintát vett. A Felügyelőség környezetvédelmi laboratóriuma 4235/2003. számú vizsgálati jegyzőkönyve alapján a gázkromatográfiai mintában az eredmények azonos típusú gázolaj jellemző szennyezésre utaltak. A szénhidrogén komponenseket a nC₁₀ – nC₂₈ tartományban tartalmazta. Az elsőfokú hatóság az akkori terület tulajdonos Colortex Kft.-t a tartály kitisztítására és nyomáspróba elvégzésére kötelezte, mely során nem találtak meghibásodást.
+
+Ezt követően a hatóság munkatársai fúrással történő földtani közeg és felszín alatti vízmintavételezést végeztek a Kft. telephelyén. Ennek során megállapították, hogy a szennyezettség a kút és a tartály között a felszín alatt 4 és 5 méter közötti mélységben (kapilláris zóna?) jelentkezik. A betonkerítés és a tartály közé mélyített, 4,8 méteres mélységben vett földtani közeg mintában található összes alifás szénhidrogén (TPH) koncentráció értéke EPH 8 570 mg/kg volt, mely eredmény jelentősen meghaladta a felszín alatti víz és a földtani közeg minőségi védelméhez szükséges határértékekről szóló 10/2000. (VI. 2.) KöM-EüM-FVM-KHVM együttes rendeletben meghatározott intézkedési határértéket – vagyis C₂ 3 000 mg/kg-t.
+
+A COLORTEX Kft. további vizsgálatai során megerősítésre került, miszerint a tartályban lévő nem színezett ipari fűtőolaj biztosan 1989 előtti, mivel ezt követően mesterségesen színezték a fűtőolajokat.
+
+A Szövőgyár utca 23. alatt található ásott kútban lévő olaj kiszivattyúzását a másodfokú kárelhárítási készültségre tekintettel azonnal megkezdték. Az olajnak kútba való visszatöltődését naponta ellenőrizték, amennyiben szükséges volt, a felúszó olajat ismételten eltávolították. A kitermelt olajos vizet és olajat a Colortex Kft. a telephelyén elhelyezett műanyag hordókban gyűjtötte, majd engedéllyel rendelkező szállítónak adta át.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+45/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A Colortex Kft. mindezt önszántából és önerőből, a Környezetvédelmi Hatóság felszólítása nélkül tette meg. A kárenyhítési tevékenységet végül a szomszédos érintett terület tulajdonosának a Kft. álláspontja szerint a Kft.-t sértő állításai miatt szüntették be.
+
+A környezetvédelmi Hatóság KF:2316/2004. számú alap határozatában tényfeltárásra szólította fel a Colortex Kft.-t a felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet alapján.
+
+E-mailben történt megküldés útján rendelkezésre áll a Colortex Kft. Dr. Hajdú Mihály környezetvédelmi igazságügyi szakértő részére küldött levele, amelyből a következő lényegi információk nyerhetők ki.
+
+2004-ben a Gender Kft. készített tényfeltárást, amelyet azonban a Hatóság nem fogadott el. További határozatok alapján a Colortex Kft. szerződést kötött a KVI-Plusz Kft.-vel, ezt a megbízást azonban nemsokára visszavonták. Ezt követően a Weprot Kkt. részére adtak megbízást, aki – bár a szerződéskötéskor elvállalta –, de a közterületen nem végzett feltáró fúrásokat, kizárólag a Colortex Kft. tulajdonát képező telek előtt a közterület felé cca. 1 méterre. A Weprot Kkt. által elkészített és benyújtott tényfeltárást a Környezetvédelmi Hatóság szintén nem fogadta el. A további feltárási munkákat a Weprot Kkt. kapacitáshiányra való hivatkozással nem vállalta.
+
+Ezek a tényfeltárási anyagok nem állnak rendelkezésünkre. Ezt követően hosszú ideig nem történt érdemi vizsgálat.
+
+A SÖVIT Környezetvédelmi Kft. 2016. májusában kapott megbízást az előírás teljesítéséhez szükséges további vizsgálatok elvégzésére és a szakmai dokumentációk összeállítására. Ezen és ezt követő dokumentációkat a következő fejezetekben mutatjuk be.
+
+### 2.1.7.1. ELŐZETES TÉNYFELTÁRÁS (2017, SÖVIT KÖRNYEZETVÉDELMI KFT.)
+
+A 2017. júniusban végzett tényfeltárás során S1-S26-ig számozással létesítettek fúráspontokat a tárgyi területen (a Szövőgyár utca 21. szám alatt, illetve a szennyezéssel érintett környező területeken). A tervezett fúrások közül számos meghiúsult (S3, S4, S7, S12, S13, S15) a változó mélységben található – vélhetően inert – feltöltés miatt. Az S8, S19, S22 és S23-as pontok esetében a helyi viszonyok nem tették lehetővé a nagyobb mélységbe történő fúrást (9-10 m-nél mélyebbre), ebben a mélységben azonban még volt szennyeződés.
+
+A fúrásokat 90 mm átmérőjű kézi, majd gépi fúróval mélyítették le, 50 mm belső átmérőjű PVC-csövezéssel. A kutak szűrőzése a kúttalp feletti 2 méteres szakaszon történt. A mintákat TPH és BTEX szennyezőanyagokra vizsgálták. Az eredmények alapján a TPH szennyezettséget a talajban jellemzően 7-8 méter között mutatták ki a legmagasabb mértékben a terület középső részén:
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+46/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+28 900 mg/kg (7,5 m) – illetve az ÉK-i sarokban: 38 600 mg/kg (8 m). A magasabb értékek a szennyeződési gócponthoz (korábbi tartály környezete) (S0) közel jelentek meg. Szintén nagyon magas értékeket mértek a területen lévő régi irodaépület melletti S8 jelű pontban. (vö.: 2.1.7.1.1 szövegközti ábra).
+
+2.1.7.1.1 szövegközti ábra. A fúrási pontokból nyert talajmintákban mért legmagasabb értékek (2017, SÖVIT Környezetvédelmi Kft.)
+
+![img-18.jpeg](img-18.jpeg)
+
+A földtani közeg és felszín alatti víz szennyeződésének mértékét a földtani közeg és a felszín alatti víz szennyezéssel szembeni védelméhez szükséges határértékekről és a szennyezések méréséről szóló 6/2009. (IV. 14.) KvVM-EüM-FVM együttes rendelet 1.§-nak a) és b) bekezdése szerint meghatározott határértékek alapján elemezték. Az alábbiakban közölt ábrákon kiemeltük a dokumentációból (2.1.7.1.2. szövegközti ábra és 2.1.7.1.3. szövegközti ábra) a nagymértékű szennyeződést mutató és a lehatároló pontok eredményeit feltüntető táblázatokat, szerkesztési változtatás nélkül:
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+47/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**2.1.7.1.2. szövegközti ábra.** Fontosabb fúrási pontok TPH-GC vizsgálati eredményei, pirossal kiemelve a határérték feletti értékeket (mg/kg ill. µg/l – a cm-es értékek a felúszó fázis vastagságát jelölik)
+
+|  TPH-GC | S1 | S2 | S5 | S8 | S14 | S17 | S18 | S19 | S22 | S23 | S24* | S25 | S26  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Talaj (mélység m-ben) |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  2,5 |  |  |  |  |  |  | 9,5 |  |  |  |  |  |   |
+|  3,5 |  |  |  |  |  |  | 1 840 |  |  |  |  |  |   |
+|  4 | 3,9 |  |  |  |  |  |  |  |  |  |  |  |   |
+|  4,5 |  |  |  |  |  |  |  | 10,9 |  |  |  |  |   |
+|  5 |  | 3,4 |  | 4,8 |  |  |  |  | 7,1 | 48,1 |  |  |   |
+|  5,5 |  |  |  |  |  | 47,1 | 5 910 |  |  |  |  |  |   |
+|  6 | 2,2 |  | 3,3 |  | 5 |  |  | 30,6 |  |  | 20,4 |  | 8,2  |
+|  6,5 |  | 3,2 |  | 3 120 |  |  |  |  |  |  |  | 12,6 |   |
+|  7 |  |  |  |  |  | 44,5 | 29 400 |  |  |  | 48,4 |  |   |
+|  7,5 |  |  | 3 | 28 900 |  |  |  |  |  |  | 48,6 |  |   |
+|  8 |  |  |  |  | 3 140 |  |  | 5 700 |  | 36 600 |  |  | 11,3  |
+|  8,5 |  |  |  |  |  |  |  |  |  |  |  | 15,5 |   |
+|  9 |  |  |  |  |  |  |  |  | 13 200 |  |  |  |   |
+|  9,5 |  |  |  | 11 400 |  |  | 1 100 |  |  |  |  |  |   |
+|  10 |  |  |  |  | 54,4 |  |  | 1 355 |  | 27 200 |  |  |   |
+|  10,5 |  |  |  |  |  |  | 12 |  |  |  |  |  |   |
+|  Felszín alatti víz | 27,7 | 34,8 | 60,9 |  |  | 20,1 |  | 11 000 | 41cm | 25cm | 19,7 | 22,7 | 19  |
+
+A földtani közeg és felszín alatti víz vizsgálati eredmények azt mutatják, hogy ahol határértéket meghaladó szennyezettség fordult elő a földtani közegben, ott a felszín alatti víz is szennyezett volt, ahol viszont a földtani közeg tiszta volt, ott a felszín alatti vízben sem mutattak ki a vizsgálatok szennyeződést.
+
+A szennyezőanyag terjedése nem természetes földtani közegben történik, a területen számos föld alatti műtárgy található, melyek elhelyezkedése, méreteik nem ismertek. Ezért terjedési modell-számítások nem alkalmazhatóak, helyette empirikus módszert választottak.
+
+A térbeli és időbeli becslés kiinduló adataiként az alábbiakat feltételezték:
+
+- kiindulópont a jelenlegi S0 pont (melyet a 2.2.6.1.2.14. szövegközti ábrán mutatunk be), mivel ezen a területen legnagyobb a szennyezettség,
+- szennyezés kezdete: 1975 és 1995 közé tehető,
+- szennyezés iránya: ÉK-DNy (eltérő a talajvíz áramlási irányától).
+
+**További vizsgálatok során megerősítésre került, miszerint a tartályban lévő nem színezett ipari fűtőolaj biztosan 1989 előtti, mivel ezt követően mesterségesen színezték a fűtőolajat. Ezáltal igazolást nyert, hogy ezen szennyezés nem kötődhet a COLORTEX Kft. tevékenységéhez, ill. korábbi ismertség hiányában a kárfelelősséget nem is vállalhatta át, vagyis a feltárt szennyezés**
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+48/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+tekintetében a továbbiakban kármentesítési kötelezettség nem került a Kft. terhére megállapításra.
+
+A szennyezett terület méretét 4 516,6 m²-re becsülték, terjedése által veszélyeztetett területet pedig 739,5 m²-re.
+
+2.1.7.1.3. szövegközti ábra. Fontosabb fúrási pontok BTEX vizsgálati eredményei pirossal kiemelve a határérték feletti értékeket (mg/kg ill. µg/l)
+
+|  BTEX | S1 | S2 | S5 | S8 | S14 | S17 | S18 | S19 | S22 | S23 | S24' | S25 | S26  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Talaj (mélység m-ben) |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  2,5 |  |  |  |  |  |  | 0 |  |  |  |  |  |   |
+|  3,5 |  |  |  |  |  |  | 0 |  |  |  |  |  |   |
+|  4 | 0 |  |  |  |  |  |  |  |  |  |  |  |   |
+|  4,5 |  |  |  |  |  |  |  | 1,5 |  |  |  |  |   |
+|  5 |  | 0 |  | 0 |  |  |  |  | 0 | 16,7 |  |  |   |
+|  5,5 |  |  |  |  |  | 0 | 0 |  |  |  |  |  |   |
+|  6 | 0 |  | 0 |  | 0 |  |  | 18,6 |  |  | 0 |  | 0  |
+|  6,5 |  | 0 |  | 6,2 |  |  |  |  | 0,08 |  |  | 0 |   |
+|  7 |  |  |  |  |  | 0 | 230 |  |  |  | 0 |  |   |
+|  7,5 |  |  | 0 | 209 |  |  |  |  |  |  | 0 |  |   |
+|  8 |  |  |  |  | 10,2 |  |  | 23,9 |  | 275 |  |  | 0  |
+|  8,5 |  |  |  |  |  |  |  |  |  |  |  | 0 |   |
+|  9 |  |  |  |  |  |  |  |  | 53,8 |  |  |  |   |
+|  9,5 |  |  |  | 61,3 |  |  | 4,19 |  |  |  |  |  |   |
+|  10 |  |  |  |  | 0,03 |  |  | 21,3 |  | 167 |  |  |   |
+|  10,5 |  |  |  |  |  |  | 0 |  |  |  |  |  |   |
+|  Felszín alatti víz | 0 | 0 | 0 |  |  | 0 |  | 356 | n.u. | n.a. | 0 | 0 | 0  |
+
+A 2.1.7.1.1.-7. szövegközti ábrákon keresztül részletesen bemutatjuk a szennyezettség akkor megismert elterjedését, a (B) szennyezettségi határértékre történő lehatárolással a TPH és BTEX komponensekre mind a földtani közegben (2.1.7.1.4. szövegközti ábra és 2.1.7.1.5. szövegközti ábra), mind felszín alatti vízben (2.1.7.1.6. szövegközti ábra és 2.1.7.1.7. szövegközti ábra) mérve.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+49/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+# 2.1.7.1.4. szövegközti ábra. Földtani közeg TPH szennyezettsége (2017)
+
+![img-19.jpeg](img-19.jpeg)
+
+# Jelmagyarázat
+
+mintavételi fúráspontok
+
+szennyezett furaspond
+tisztufaraspond
+
+talajban mért TPH értéke (mg/kg)
+
+100
+1000
+5000
+10000
+15000
+20000
+25000
+30000
+35000
+40000
+telehatar
+
+1:710
+
+0 50 100 150 200 250 m
+
+TPH szennyeződés talajban
+
+Megbízó: Colortex Kft.
+
+Tervező: Sövit Környezetvédelmi Kft.
+
+Készítette: Naszály András
+
+Dátum: 2017. 11. 27.
+
+# 2.1.7.1.5. szövegközti ábra. Földtani közeg BTEX szennyezettsége (2017)
+
+![img-20.jpeg](img-20.jpeg)
+
+# Jelmagyarázat
+
+mintavételi fúráspontok
+
+szennyezett furaspond
+tisztufaraspond
+
+talajban mért BTEX értéke (mg/kg)
+
+0.2
+15
+25
+50
+100
+150
+200
+250
+300
+telehatar
+
+1:710
+
+0 50 100 150 200 250 m
+
+BTEX szennyeződés talajban
+
+Megbízó: Colortex Kft.
+
+Tervező: Sövit Környezetvédelmi Kft.
+
+Készítette: Naszály András
+
+Dátum: 2017. 11. 27.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+50/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+2.1.7.1.6. szövegközti ábra. Felszín alatti víz TPH szennyezettsége (2017)
+
+![img-21.jpeg](img-21.jpeg)
+
+# Jelmagyarázat
+
+mintavételi fúráspontok
+
+szennyezett furaspont
+tisztfuraspont
+szamitott ertek
+
+vízben mért TPH értéke (µg/l)
+
+100
+500
+1000
+1500
+3000
+6000
+12000
+telekhatar
+
+1:710
+
+0 50 100 150 200 250 m
+
+TPH szennyeződés vízben
+
+Megbízó: Colortex Kft.
+
+Tervező: Sövit Környezetvédelmi Kft.
+
+Készítette: Naszály András
+
+Dátum: 2017. 11. 27.
+
+2.1.7.1.7. szövegközti ábra. Felszín alatti víz BTEX szennyezettsége (2017)
+
+![img-22.jpeg](img-22.jpeg)
+
+# Jelmagyarázat
+
+mintavételi fúráspontok
+
+szennyezett furaspont
+tisztfuraspont
+szamitott ertek
+
+vízben mért BTEX értéke (µg/l)
+
+1
+50
+100
+150
+200
+300
+400
+valos lehatarolasi vonal
+telekhatar
+
+1:710
+
+0 50 100 150 200 250 m
+
+BTEX szennyeződés vízben
+
+Megbízó: Colortex Kft.
+
+Tervező: Sövit Környezetvédelmi Kft.
+
+Készítette: Naszály András
+
+Dátum: 2017. 11. 27.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+51/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+### 2.1.7.2. KÖRNYEZETVÉDELMI ÁLLAPOTFELMÉRÉS (2022)
+
+2022. januárjában a NOVUM Felület- és Környezetvédelmi Kkt. megbízást kapott a területet megvásárló Dinamo Invest 2020 Kft.-től 1 db 1F jelölésű fúrásból történő 2 db földtani közeg és 1 db felszín alatti víz mintavételre, a területen korábban feltárt szénhidrogén szennyezettség állapotának nyomon követésére. Az analitikai vizsgálat eredménye összehasonlításra került a 2017-ben vett mintákkal (2.1.7.2.1. szövegközti táblázat). Az ellenőrző vizsgálat során megállapítást nyert, hogy – a 8 m-es mintát kivéve – a földtani közeg, valamint a felszín alatti víz szennyezettsége is csökkent. A 2022-es mintavételi pont nagyjából 2 m távolságra van a 2017-es összehasonlított ponttól, így a 8 m-en mért szennyezés mértéke feltételezhetően már 2017-ben is ilyen mértékű volt.
+
+2.1.7.2.1. szövegközti táblázat. 2017 és 2022 évi mintavételezések összehasonlítása
+
+|  Szennyező komponensek és vizsgálati mélység | 2017-ben mért értékek S19 pontban | 2022.01.25.-én mért értékek 1F pontban | Mértékegység  |
+| --- | --- | --- | --- |
+|  TPH talaj 6,0 m | 30,6 | <10 | mg/kg sz.a.  |
+|  TPH talaj 8,0 m | 4 730 | 10 470 | mg/kg sz.a.  |
+|  TPH talajvíz | 11 600 | 9 040 | µg/l  |
+|  BTEX talaj 6,0 m | 18,6 | <0,1 | mg/kg sz.a.  |
+|  BTEX talaj 8,0 m | 24,9 | 0,1-2,24 | mg/kg sz.a  |
+|  BTEX talajvíz | 356 | 2-6,7 | µg/l  |
+
+Az előzetes anyagok alapján tehát bizonyos volt, hogy a terület mind a földtani közeg („talaj”), mind a felszín alatti vizek („talajvíz”) tekintetében (B) határérték felett szennyezett.
+
+### 2.1.7.3. RÉSZLETES TÉNYFELTÁRÁS (2023)
+
+Az Energiaügyi Minisztérium a „Kármentesítési tényfeltárási és beavatkozási tervek készítése olyan ismerten szennyezett területekre vonatkozóan, ahol a szennyezettség felmérése, lehatárolása és a lehetséges beavatkozások tervezése még nem történt meg” c. projekt keretében megrendelte a VOLT BUDAPESTI FINOMKÖTÖTTÁRUGYÁR (COLORTEX), BUDAPEST XV. tekintetében tényfeltárási záródokumentáció, beavatkozási terv és monitoring terv készítését, amelyet az Adept Enviro Kft. – Naturaqua Zrt. Konzorcium teljesített.
+
+A tényfeltárás tervezése során felhasználásra kerültek a jelen fejezetben bemutatott, korábbi dokumentációkból elérhető adatok. Ezek alapján, a vizsgálati pontok a korábban feltárt szennyezettségi adatok ismeretében kerültek kijelölésre, úgy, hogy a feltételezett korábbi
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+52/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+szennyezőforrás (kiemelt tartály) környezete volt a szennyezés feltételezett gócpontja (CLRT-01 jelű pont környezete).
+
+Mivel a korábbi vizsgálatok TPH és BTEX komponensekre terjedtek ki, és csak ezen szennyezőanyagok jelenlétére voltak adatok, a tényfeltárás elsődlegesen ezeknek a teljes körű feltárására és lehatárolására irányult. Emellett azonban a vizsgálatok kiterjesztésre kerültek széles körűen a PAH komponensekre, valamint szűrővizsgálattal a lehetséges további szennyezőanyagok körére is.
+
+A helyszíni bejárást és a tulajdonosokkal történő egyeztetést követően az összegyűjtött ismeretek és tapasztalatok alapján az eredetileg kijelölt pontok közül többet át kellett helyezni. Emellett a (B) szennyezettségi határértékre történő lehatároláshoz a terepi munkák előrehaladtával a már meglévő mintavételi pontokon a földtani közeg és felszín alatti vízszennyezettség ismeretében próbáltuk – a lehetőségekhez igazodva – az újabb mintavételi helyeket kijelölni, hogy azok a feltárt szennyezettség lehatárolására alkalmasak legyenek.
+
+A tényfeltárás során végül a 2.1.7.3.1. szövegközti ábrán feltüntetett pontokon került sor mintavételre.
+
+Az első körös mintavételek és vizsgálatok során:
+
+- Valamennyi vizsgálatra kerülő földtani közeg és felszín alatti víz mintában meghatározásra került az alifás- (TPH), az aromás- (BTEX) és a policiklikus aromás szénhidrogének (PAH), valamint a 6/2009. (IV. 14.) KVVM-EüM-FVM együttes r. szerinti toxikus fémek koncentrációja.
+- Valamennyi felszín alatti víz mintában meghatározásra került az általános vízkémiai paraméterek (ÁVK) koncentrációja.
+- Mind a földtani közeg, mind a felszín alatti víz esetében a korábbi feltárás során a szennyezettség forrásterületéről, valamint a korábbi gyárterület másik végén található fúrásból 1-1 mintában „a kármentesítési tényfeltárás szűrővizsgálatával kapcsolatos szabályokról” szóló 14/2005. (VI. 28.) KvVM rendelet szerinti szűrővizsgálatot végeztünk, ilyen módon kapva a legteljesebb képet az egyes szennyeződéstípusok, illetve ezeken keresztül az egész terület szennyezettségi állapotáról is.
+
+Az újonnan feltárt, eddig ismeretlen szennyezettség lehatárolása érdekében a szűrővizsgálatok eredményeinek ismeretében:
+
+- Az azt követően létesült fúrásokban, illetve egyes korábban létesített fúrások és mintavételi pontok közül további vízminták vizsgálatát végeztük el illékony halogénezett alifás- és aromás szénhidrogénekre.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+53/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A CLRT-24 – 32 jelű (6 db kiegészítő) lehatároló fúrásokban csak vízmintavétel történt, ezekben általános vízkémiai paraméterek (ÁVK) és illékony halogénezett alifás szénhidrogének vizsgálata történt.
+
+2.1.7.3.1. szövegközti ábra. Tényfeltárás során vizsgált mintavételi pontok (2023)
+
+![img-23.jpeg](img-23.jpeg)
+
+A tényfeltárás eredményeit és következtetéseit az alábbiak szerint foglalhatjuk össze.
+
+# Földtani közeg szennyezettség
+
+A tényfeltárás keretén belül összesen 19 ponton vettünk földtani közeg mintát, a nagyobb mélységű gépi fúrásokból 7-9 db-ot, a kézifúrások esetén 2 db-ot fúrásonként. A kiegészítő
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+54/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+fúrásokban (CLRT-24-32), melyek a felszín alatti vízben feltárt illékony halogénezett szénhidrogének lehatárolására mélyültek, csak vízminta vétel történt, a földtani közeg szennyezettségének lehatárolására a szűkebb területen belül mélyített fúrások vizsgálati eredményei is elégségesnek bizonyultak.
+
+A TPH koncentrációja az összes fúráspont közül csupán 4 helyen volt (B) határérték (100 mg/kg) feletti, a legmagasabb koncentráció – az előző feltárásokhoz hasonlóan – a korábbi olajtartály környezetében jelentkezett (CLRT-01), itt több nagyságrenddel szennyezettségi határértéket meghaladó koncentrációt mértünk (54 600 mg/kg) 6,0 méteres mélységben, de 4,6-12,0 méter közötti mélységben több ponton is jelentősen szennyezett volt a földtani közeg. Ezen felül a volt gyárterület központi részén – a 2.1.2.1. szövegközti ábrán 13.M.-mel jelölt épület, mely korábban a Készekelmeraktár, műhely és laboratórium épület volt – mértünk még jelentősebb koncentrációt (CLRT-11, 35 100 mg/kg) 7,8 méter mélyen, illetve nagyságrenddel kisebb koncentrációk jelentkeztek még a CLRT-08 (7,8 méteren 497 mg/kg) és CLRT-10 (7,5 méteren 7950 mg/kg) jelű pontokon, azonban ezen 3 ponton a sekélyebb mélységben nem jelentkezett szennyezettség, és alatta is csak a 10-12 méteres mintákban, a telített zónában.
+
+A TPH szennyezettség mélységi eloszlását a nyugalmi vízszintekkel és a becsült horizontális kiterjedést a 2.1.7.3.2. szövegközti ábra mutatja be. (Az egyes fúrásokban eltérő nagyságrendű koncentrációk miatt a grafikonok tengelyeinek beosztása is eltérő).
+
+A PAH szennyezettség a TPH-val teljesen azonos képet mutat, ugyanazokon a pontokon és mélységekben jelentkeztek a (B) határértéket meghaladó koncentrációk (2.1.7.3.3. szövegközti ábra), és a koncentrációk eloszlása is megegyezik a vizsgált minták alapján.
+
+A BTEX szennyezőcsoporton belül a benzol, toluol, etilbenzol és xilolok csak 2 ponton jelentkeztek (B) határérték feletti koncentrációban: a CLRT-01 és CLRT-11 jelű fúrásokban. A mélységi eloszlás szintén hasonló képet mutat a TPH és PAH szennyezettséggel, azonban ezen szennyezők esetében a CLRT-08 és CLRT-10 jelű fúrások földtani közeg mintái kimutatási határérték alatt maradtak. (2.1.7.3.4. szövegközti ábra).
+
+Az Egyéb Alkilbenzolok (EAB) szintén ezen a területen voltak kimutathatók a földtani közegben, a többi BTEX vegyülethez képest annyi különbséggel, hogy a CLRT-10 jelű ponton is volt (B) határértéket meghaladó koncentráció. (2.1.7.3.5. szövegközti ábra).
+
+Továbbá, a földtani közeg minták vizsgálata során egyetlen mintában volt kimutatható halogénezett alifás szénhidrogének jelenléte, a CLRT-22 jelű fúrásban 12,9 méter mélységben a vízadó aljában, itt (B) határértéket meghaladó koncentrációban jelentkezett a tetraklór-etén,
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+55/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+a többi VOCI komponens ebben a mintában is, és minden más vizsgált mintában kimutatási határérték alatt jelentkezett.
+
+2.1.7.3.2. szövegközti ábra. (B) határérték feletti TPH szennyezettség a földtani közegben (becsült horizontális kiterjedés piros körvonallal, (B)=100 mg/kg)
+
+![img-24.jpeg](img-24.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+56/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+2.1.7.3.3. szövegközti ábra. (B) határérték feletti PAH szennyezettség a földtani közegben (becsült horizontális kiterjedés piros körvonallal, (B)=1 mg/kg)
+
+![img-25.jpeg](img-25.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+57/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+2.1.7.3.4. szövegközti ábra. (B) határérték feletti BTEX szennyezettség a földtani közegben (becsült horizontális kiterjedés piros körvonallal, benzol(B)=0,2 mg/kg, toluol/etilbenzol/xilol(B)=0,5 mg/kg)
+
+![img-26.jpeg](img-26.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+58/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADÉPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+2.1.7.3.5. szövegközti ábra. (B) határérték feletti EAB szennyezettség a földtani közegben (becsült horizontális kiterjedés piros körvonallal, (B)=0,5 mg/kg)
+
+![img-27.jpeg](img-27.jpeg)
+
+# Felszín alatti víz szennyezettségi állapota
+
+A felszín alatti vízből minden fúrásponton történt mintavétel, továbbá a meghiúsult fúrások helyett meglévő kerti kutakból került sor vízminta vételre a volt szövőgyári területtől É-ÉK-re eső
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+59/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+lakóövezeti területen, illetve további sekély kézifúrások létesültek a Szilas-patak partján, ahova gépi fúrások hely hiányában nem voltak kivitelezhetők.
+
+**A feltárás folyamatában ismertté vált** VOCI szennyezettség miatt a vizsgálati terület kibővítésre került, a kiegészítő fúrásokban (CLRT-24-32) vett felszín alatti víz mintákon csak VOCI és ÁVK komponensek vizsgálata történt, mivel a többi komponensre vonatkozóan a már meglévő pontok vizsgálati eredményei alapján lehatárolható volt a felszín alatti víz szennyezettsége.
+
+A vizsgálatok során a TPH és BTEX komponensek tekintetében egyetlen minta sem mutatott (B) határértéket meghaladó koncentrációval jellemezhető szennyezettséget. Ez igaz volt az előzményesen ismert Olajszármazék gócterületen vett mintákra, sőt a gócpont közvetlen környezetében vett mintára is.
+
+**A PAH szennyezőkomponensek** közül a naftalinok, az acenaftén, a fluorén, a fenantrén és az antracén volt kimutatható (B) határértéket meghaladó koncentrációban a felszín alatti víz mintákban.
+
+A PAH-szennyezettség jelentős részben a volt szövőgyári ingatlanokat érinti és a szennyezőcsóva központi, forrásterülete is itt helyezkedik el, minden komponens a CLRT-11-es jelű fúrás vízmintájában volt a legmagasabb koncentrációban.
+
+Minden PAH szennyező határérték feletti volt a CLRT-01, -08, -10 és -11 jelű fúrásokban.
+
+A (B) határérték feletti koncentrációk horizontális kiterjedése a fluorén (**2.1.7.3.6. szövegközti ábra**) és a fenantrén (**2.1.7.3.7. szövegközti ábra**) esetében a legnagyobb, ezek a CLRT-12-es ponton is még határérték felett jelentkeztek (összesen 5 fúrásponton).
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+60/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+2.1.7.3.6. szövegközti ábra. (B) határérték feletti fluorén-szennyezettség a felszín alatti vízben ((B)=0,05 μg/l)
+
+2.1.7.3.7. szövegközti ábra. (B) határérték feletti fenantrén-szennyezettség a felszín alatti vízben ((B)=0,1 μg/l)
+
+![img-28.jpeg](img-28.jpeg)
+
+![img-29.jpeg](img-29.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+61/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A halogénezett aromás szénhidrogének csoporton belül egyedül a triklórbenzolok koncentrációja haladta meg a (B) szennyezettségi határértéket összesen 2 ponton.
+
+A klórozott alifás szénhidrogének azonban a felszín alatti vízben jelentős kiterjedésben és koncentrációban kerültek feltárásra mind a vizsgálattal érintett központi területen (volt szövőgyári terület), mind a szomszédos ingatlanokon.
+
+A VOCl komponensek közül a tetraklór-etén (PCE) igen magas koncentrációban (9 400 µg/l) jelentkezett a CLRT-12 jelű ponton végzett szűrővizsgálat során a felszín alatti vízben. Ezt követően a meglévő fúrásokból ismételt mintavétel történt, mely során kibővítésre került az eredeti vizsgálati kör a VOCl-ekre, valamint kiterjesztésre került a vizsgált területet és további lehatároló fúrások létesültek a külső területeken. Az eredmények alapján a (B) határértékre történő lehatárolás megtörtént, egy szélső pont (CLRT-27) kivételével kimutatási határérték alatt voltak a halogénezett alifás szénhidrogének koncentrációi, a CLRT-27 pontban pedig a (B) szennyezettségi határérték alatti, de kimutatási koncentráció feletti volt a PCE koncentráció. A legmagasabb, nagyságrendileg azonos koncentrációk a volt szövőgyár területén, valamint a szomszédos Leánynevelő Intézet területén létesített fúrásokban (CLRT-12, CLRT-14 és CLRT-22) jelentkeztek (2.1.7.3.8. szövegközti ábra).
+
+A halogénezett alifás szénhidrogének közül a PCE mellett nagyságrendekkel alacsonyabb koncentrációban ugyan, de (B) határérték felett volt kimutatható a triklór-etén (triklóretilén, TCE) a talajvízben a tetraklór-etén központi, kiugróan magas koncentrációkat jelentő csóvarészével közel azonos kiterjedésben.
+
+A triklór-eténnel teljesen hasonló szennyezettséget mutat a diklór-etén (DCE) szennyezettség, ugyanazon pontokon volt (B) határérték feletti a koncentrációjuk.
+
+A TCE és DCE koncentrációk kimutathatók voltak (B) határérték alatt egyéb olyan pontokon is, ahol a PCE koncentráció jóval (B) határérték fölött volt.
+
+Az összes többi VOCl komponens kimutatási határérték alatt volt a vízmintákban minden ponton, egyedül a vinil-klorid volt kimutatható, de jóval (B) határérték alatti koncentrációban a CLRT-22 jelű fúrás vízmintájában.
+
+Előbbiek alapján a szennyezés a 2023. évi tényfeltárás alapján a korábbitól jelentősen eltérő képet mutatott.
+
+A már ismert – és eredetileg a 2023. évben végzett tényfeltárás szükségességét eredményező - „Olajszármazék góc” területén az új vizsgálatok a földtani közegben hasonlóan kiterjedt olajszármazék szennyezettséget mutattak ki, mint az előzményes vizsgálatok.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+62/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A földtani közegben azonosított szennyezettségi koncentrációk maximális értékei TPH esetében jól összeegyeztethetők az ismert adatokkal, a gócpont (CLRT-01 jelű furat) környezetében igen magas értékekkel, attól távolabb pedig a gyártelep DK-i oldalát elfoglalva, részben pedig a Szövőgyár utca közterületi részére átterjedve mutatkoznak a (B) szennyezettségi határérték feletti értékek. A CLRT-11 pont közel esik a 2017-ben az irodaépület mellett létesített furat (S8) ponthoz, ahol akkor is és most is a környezetéhez képest lényegesen magasabb érték lett detektálva.
+
+A BTEX komponensek esetében is hasonlóságot vélhetünk felfedezni. A 2017-ben készült vizsgálathoz hasonlóan a gócpont környezetében vannak a legmagasabb értékek, valamint a már említett S8 pont környezetében (CLRT-11 jelű furat) is emelkedett a szennyezőanyag koncentrációja.
+
+Nem foglalkoztak a régebbi anyagok a PAH komponenssel, így annak eredményei újak.
+
+Az „Olajszármazék góc” területén az új vizsgálatok a felszín alatti víz tekintetében ugyanakkor lényeges eltérést mutattak az elmúlt időszakban detektált eredményekhez képest. Az egykori, 2017-ben létesített S19 pont, valamint annak közvetlen környezetében 2022-ben létesült 1F pontban a mérések igen magas, nagyságrendileg 10 000 µg/l körüli értékeket mutattak. Ugyanezen pont környezetében a 2023. évben végzett tényfeltárás keretében a CLRT-11 pont létesült. Ebben a vizsgálati pontban ugyanakkor 2023-ban a vizsgálatok nem mutattak ki (B) szennyezettségi határérték feletti koncentrációval jellemezhető TPH és BTEX értékeket. Egyes PAH komponensek tekintetében ugyanakkor a (B) szennyezettségi határérték feletti értékek mutatkoztak, de ezeket nem lehet összehasonlítani a régebbi vizsgálatokkal, mert régebben egyszer sem mértek az olajszármazékokra PAH komponenseket. A 2017-es vizsgálat során sajnos további vízszennyezettség laboratóriumi vizsgálat nem történt, mint ahogy 2022-ben sem, ezért további adatok összehasonlítása nem lehetséges. Fontos kiemelni ugyanakkor, hogy a 2017-es vizsgálat során két kútban (S22 és S23 jelű, amelyek a Szövőgyár utcában a közterületen létesültek) elkülönült szerves fázist detektáltak, amely nagy valószínűséggel azt jelenti, hogy azokban a kutakban is igen magas oldott fázisú TPH és BTEX szennyezettség lehetett.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+63/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**2.1.7.3.8. szövegközti ábra.** (B) határérték feletti tetraklór-etén (PCE) szennyezettség a felszín alatti vízben ((B)=10 µg/l)
+
+![img-30.jpeg](img-30.jpeg)
+
+A 2023. évi tényfeltárás **több feltételezést is rögzít** annak magyarázataként, hogy a korábbi vizsgálatokkal ellentétben a felszín alatti vízben nem került kimutatásra TPH és BTEX szennyezettség.
+
+**Egyrészt** ez lehet annak a következménye, hogy a felszín alatti vízbe bejutott szennyezettség már a természetes bomlási folyamatok, valamint a talajvízáramlás következtében jelentősen lecsökkent, felhígult, azaz mostanra már nincs oldatba vihető szennyezőanyag a szennyeződésben.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+64/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**Másrészt** nem ismeretlen jelenség, amikor a szennyeződés olyan módon van a telített zónába ágyazva, hogy annak egy része folyamatosan a telített zónában tartózkodik, egy része pedig csak akkor, amikor a felszín alatti víz szintje az ehhez szükséges mértékben megemelkedik. A folyamatosan víz alatt tartózkodó térrészben az oldódási folyamatok lényegesen hamarabb lezajlanak és befejeződnek, ebben a térrészben rövidebb idő után már nem lesz érdemben oldatba vihető fázis. Ugyanakkor a vízzel csak ritkán átjárt zónákban akár lényegesen hosszabb lehet ez a kioldódási időszak, így magas vízállásnál még jelentős oldatba vitt szennyezőanyag mennyiség detektálható a felszín alatti vízben, alacsonyabb vízállás mellett viszont akár teljesen el is tűnhet belőle. **Ebben az esetben az időlegesen eltűnő felszín alatti víz szennyezettség akár ismételten megjelenhet a területen, különösen, mivel a földtani közegben észlelt szennyezettség még mindig igen jelentős.**
+
+Erre tekintettel a tényfeltárási záródokumentáció az ún. „Olajszármazék góc”-ra is kiterjedően tényfeltárás kiegészítésre ill. monitoring tevékenység végzésére tett javaslatot, a felszín alatti víz szennyezettség további vizsgálata tekintetében.
+
+Emellett a 2023. évi tényfeltárás egy igen markáns, **halogénezett alifás szénhidrogénekből** álló gócterületet is felfedett, amely kisebb részben az egykori Finomkötöttárugyár területére, döntően a Leánynevelő Intézet területére esik. Habár a területen belül a szennyezettség valódi gócpontja a 2023. évi vizsgálatok során nem kerülhetett meghatározásra, a dokumentációban a térség „**Halogénes góc terület**”-ként került rögzítésre és elemzésre, az alábbi eredménnyel.
+
+A 2023. évi tényfeltárás során detektált góc a CLRT-12, -14 és -22 fúrások által határolt területen került azonosításra, ahol a tetraklór-etén mért koncentrációi alapján DNy-ÉK-i irányultságú csóva rajzolódott ki.
+
+A 2023. évi tényfeltárás során azonban – tekintettel arra, hogy volt Budapesti Finomkötöttárugyár ingatlanjain kívül eső területek kellő részletességű feltárására és megkutatására nem volt lehetőség – a szennyeződés pontos eredete nem volt megállapítható. Annyi azonban rögzítésre került, hogy a térségben a szivárgás uralkodó iránya DK-ÉNy-i, azonban a térségben két lokális talajvíz-anomália található, egy beszivárgási anomália, illetve egy valahol a volt BFK területének déli részén található megcsapolási anomália. Ez utóbbi a CLRT-15 és -16 fúrások környékén található hidraulikai mélypont a térségben a felszín alatti vizeket a 88311 hrsz. ingatlan (Rákospalotai Leánynevelő Intézet) felől a volt Finomkötöttárugyár telephelye felé mozgatja.
+
+A tényfeltárás rögzíti, hogy a halogénezett alifás szennyeződés pontos feltárására, annak eredetének meghatározására a 88311 hrsz.-ú ingatlan nagyobb felbontású feltárására van
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+65/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+szükség, illetve, szükség szerint a volt BKF területétől délre eső ingatlanok vizsgálata (88322/1, 88321, 88320 hrsz-ok) is elvégzendő. Erre azonban 2023. évben nem volt lehetőség.
+
+A tényfeltárási záródokumentáció a rendelkezésre álló adatok alapján elvégzett kockázati számítások alapján megállapítja, hogy a SZÖVŐGYÁR területén, illetve tőle nyugatra a Leánynevelő területén magas koncentrációban kimutatott, oldott fázisú halogénezett alifás szénhidrogén szennyezettség több expozíciós helyzetben, alapvetően a felszín alatti vízből történő kigőzölgés és beltéri belégzés kockázati szcenárióban az elfogadható szintet meghaladó emberi egészségkockázatot képvisel. Azzal, hogy a tervezett jövőbeli területhasználat (társasház kialakítása) esetében a számítás még magasabb kockázati szintet eredményezett.
+
+A TPH, BTEX és PAH esetében a földtani közeg esetében kockázati alapon D kármentesítési célállapot határértéknek a mért maximális koncentrációra adott javaslatot az alábbiak szerint.
+
+**2.1.7.3.1. szövegközti táblázat.** A 2023 évi dokumentációban javasolt D kármentesítési célállapot határértékek
+
+|  Vizsgált komponens(csoport) | (B) mg/kg | Javasolt (D) kármentesítési célállapot határérték mg/kg  |
+| --- | --- | --- |
+|  Benzol | 0,2 | 1,76  |
+|  Toluol | 0,5 | 8,8  |
+|  Etilbenzol | 0,5 | 25,2  |
+|  Xilolok összesen | 0,5 | 118  |
+|  Egyéb alkilbenzolok összesen | 0,5 | 582  |
+|  *Összes alifás szénhidrogén (TPH C5-C40)* | 100 | 54 600  |
+|  PAH | 1 | 840  |
+
+Felszín alatti vízre, ill. VOCl komponensekre a korábban kifejtett indokok miatt a 2023. évi tényfeltárási záródokumentáció nem tett (D) érték megállapítására javaslatot. A javasolt értékek a Hatóság által, a következő fejezetben kifejtettek szerint, elfogadásra kerültek.
+
+### 2.1.8. A SZENNYEZETT TERÜLET KÖRNYEZETÉBEN AZONOSÍTOTT MÁS SZENNYEZÉSSEL ÉRINTETT TERÜLETEK
+
+A Budapest XV. került, Szövőgyár utca környezetében két helyszínen azonosítottunk olyan területet, amelyen a területnek, a Budapesti Finomkötöttárugyár által okozott szennyezéstől eltérő kiindulási helyen és okból történt szennyezettsége folytán a 219/2004 (VII. 21.) Korm. rendelet értelmében kármentesítési tevékenységet kellett / kell folytatni:
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+66/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+- Budapest XV., Horváth Mihály utca 2. sz. alatti, több hrsz.-en elhelyezkedő egykori Növényolaj-ipari és Mosószergyártó Vállalat („Növényolajgyár”) területe.
+- Budapest IV., Fóti út 141. sz. alatti, egykori Vákuumtechnikai Gépgyár területe.
+
+### 2.1.8.1. AZ EGYKORI NÖVÉNYOLAJGYÁR TERÜLETÉRŐL KIINDULT SZENNYEZŐDÉS
+
+Az egykori Növényolaj-ipari és Mosószergyártó Vállalat területe, részletesen a Budapest XV., 88258/1 (10 458 m²), 88258/2 (62 651 m²), 88258/3 (2 559 m²) 88258/4 (2 183 m²) és 88258/7 (18 187 m²) hrsz-ú ingatlanok közül a környezetvédelmi hatóság tájékoztatása szerint a 88258/7 hrsz. alatti ingatlanon volt kármentesítés, ami 2016-ban lezárult.¹⁵
+
+Az egykori Növényolajgyár története röviden összefoglalva az alábbi. A területen 1818-tól posztógyár működött, majd 1840-ben növényolajgyár lett a posztógyár helyén. Az akkor 15-20 munkással dolgozó gyárat 1871-ben egy osztrák tőkéscsoport vette át, és megalakította az Olajipari Társaság Rt-t. Repceolajat, gépzsírt gyártottak és illóolajat finomítottak. A gyár fokozatosan terjeszkedett, 1910-ben két hektár területen, hat épülettel, 100 lóerős gőzgépekkel működött, és 100 szakmunkást alkalmazott. Termékeivel külföldön is megjelent: Ausztriában és több keleti országban is. 1920-ban egy új üzemrész épült, majd 1925-ben a telepeket átvette a Hutter-féle tőkés társaság, s a gyár a Hutter Szappangyár Olajipari Rt. nevet vette fel. 1932-ben újabb üzemrészekkel bővült a gyár, majd 1942-ben margaringyár is létesült. A gyár vezette be elsőként hazánkban a szappanalapú mosóporok, majd a súrolóporok gyártását. 1945-ben, a háború befejezésével az Olajgyár termelése szinte azonnal beindult. Első megrendelő a Vörös Hadsereg volt, aki fizetségként a dolgozókat élelmiszerrel és fűtőanyaggal látta el. 1946-ban fejeződött be a 13 emeletes, cellás rendszerű olajosmag-tároló siló, 500 vagon befogadóképességgel. Ekkor már az ország olaj és margarinszükségletének 63%-át a gyár állította elő. A margarin mellett keményítőt, gyertya alapanyagot, mosóport, étolajat gyártottak. 1948-ban államosították a gyárat, az első munkásigazgató Szente Ferenc volt, a dolgozók száma pedig 850 fő. 1958-tól új termékekkel álltak elő: Liga margarin, Lucullus étolaj, Rapid gyorsmosópor, Ideál finommosópor, Tip tisztítószer. 1964-ben a gyár neve Növényolajipari és Mosószergyártó Országos Vállalat lett. 1992-ben a gyár az olasz Cereol Rt.-hez került, pontosabban az olajmagfeldolgozó, étolajfinomító és palackozó üzem. 1996-ban vásárolta ki a Cereolból az Unilever a palotai termelés maradékát. 2006-ra az Unilevernek négy magyarországi gyára maradt, ezek között található a rákospalotai üzem, ahol margarin- és dresszinggyártás folyt, majd ezeket a tevékenységeket külföldre vitte a tulajdonos, ami a Rákospalotai Növényolajgyár
+
+¹⁵ A hatóság 2022-es tájékoztatása szerint a kármentesítés időszakában a 88258/7-10 hrsz.-ek voltak érintettek, utóbbi 3 ingatlan a Gubó utca 2-8. szám.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+67/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+végleges bezárását jelentette. Az üzem területe 2006 óta üresen áll a Horváth Mihály u. 2. sz. alatt, jelenleg biztonsági szolgálat vigyázza.¹⁶
+
+A gyártelepet, azon belül a szennyezettség kiindulási területét a 2.1.8.1. szövegközti ábra mutatja be.
+
+2.1.8.1. szövegközti ábra. A Bp. XV., Horváth Mihály utca 2. sz. alatti egykori Növényolajgyár és a Budapesti Finomkötöttárugyár Rákospalotai Gyáregységének elhelyezkedése, valamint környezetük
+
+![img-31.jpeg](img-31.jpeg)
+
+A területen tehát számos olyan tevékenységet folytattak a múltban, amelyből szennyezettség alakulhatott ki. A kármentesítést lezáró PE/KTF/2508-16/2016. sz. határozat szerint "2007-ben az Enviroclean Hungary Kereskedelmi és Szolgáltató Kft. által benyújtott „Összefoglaló tanulmány a Budapest, XV. kerület Horváth Mihály u. 2. volt Növényolajipari és Mosószergyártó Vállalat Rákospalotai Növényolajgyár környezetvédelmi monitoringjáról" című dokumentáció alapján az eltelt időszakban negyedévenként végeztek talajvíz minőség vizsgálatokat. A 10 db talajvíz megfigyelő kút vizsgálata során összes alifás szénhidrogén, BTEX, ammónia, nitrát és szulfát tartalom esetében mértek (B) szennyezettségi határértéket meghaladó koncentrációt. Az összes alifás szénhidrogén tartalom egy mintában (CBP-101 számú kút: 60 600 µg/l) haladta meg a
+
+¹⁶ Források: (1) Perczel Anna: A XV. kerület építészeti öröksége. 2012. (2) Tanulmányok Rákospalota-Pestújhely történetéből. Szerk.: dr. Czoma László. Budapest, 1974.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+68/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+korábban megállapított (D) kármentesítési célállapot határértéket.”. A kármentesítést lezáró határozat indokolási részében a talaj és felszín alatti víz szennyezés felszíni kiterjedése nem szerepel, de a határozat a következő mennyiségi adatokat tartalmazza, a 2004. évi tényfeltárás adatai alapján: (B) értéket meghaladó szennyezett talaj térfogata, TPH tekintetében: 2500 m³, benzol és toluol esetében pedig 150 m³. (B) értéket meghaladó szennyezett talajvíztest nagysága 55 000 m³, benzol esetén 5000 m³, toluol esetén 1600 m³.”.
+
+A területre vonatkozó szennyezettség elterjedési ábrával a fentiekben leírtak szerint nem rendelkezünk, ugyanakkor erre nincs is szükség, mert a felsorolt szennyező komponensek közül egyedül a BTEX komponensek fordulnak elő a Budapesti Finomkötöttárugyár Rákospalotai Gyáregysége által okozott szennyezettség komponensei között, továbbá amelyek a Növényolajgyár irányában néhány méterre a SZÖVŐGYÁR telekhatárához, nagy távolságra a Növényolajgyár legközelebbi telekhatárától lehatárolásra kerültek, így a két szennyezettségnek egymással áthatása nem valószínűsíthető.¹⁷
+
+### 2.1.8.2. AZ EGYKORI VÁKUUMTECHNIKAI GÉPGYÁR TERÜLETÉRŐL KIINDULT SZENNYEZŐDÉS
+
+Az elvégzett kutatások eredményeképpen a Budapest IV. került, Fóti út 141. ingatlanon és annak tágabb környezetében azonosítottunk egy az előzőekben bemutatottaktól eltérő kiindulási forrással rendelkező, a Budapesti Finomkötöttárugyár Rákospalotai Gyáregységéhez közel eső szennyezettséget. E területre 2021-ben készített a Naturaqua Zrt. tényfeltárási záródokumentációt és ezt követően került sor a területen kármentesítés megtervezésére és kivitelezésére, mely folyamat jelenleg ezen kivitelezési szakban jár. A szennyeződés kiindulási pontja a Budapest IV. kerület, 75100/6 hrsz., 18 ha kiterjedésű gyártelep. A gyártelepen a szennyezettséggel összefüggésben az egykori Vákuumtechnikai Gépgyár folytatott tevékenységet.
+
+A gyártelep története röviden összefoglalva az alábbi.¹⁸ Az Egyesült Izzólámpa és Villamossági Rt. Géposztálya, amely elsősorban a külföldi eredetű gyári berendezések javítását, átalakítását és karbantartását végezte és új gépeket csak a vállalatnak készített, 1951-ben vált szét gépgyártó és karbantartó-javító részlegekre. Míg az utóbbiból gyáregységet szerveztek, addig a gépgyártó részlegből még ugyanabban az évben alakult meg a Vákuumtechnikai Gépgyár. A Vákuumtechnikai Gépgyár helyigényének megoldására 1951-ben csatolták a vállalathoz a
+
+¹⁷ Amint a 2.2.7.1. szövegközti ábra is mutatja, a két telephely legkisebb távolsága 145 méter, a két egymáshoz legközelebb eső szennyezőforrás (az egykori Budapesti Finomkötöttárugyár Rákospalotai Gyáregységének telepén az Olajszármazék góc (88323 hrsz. ÉK-i sarka) és az egykori Növényolajgyár területén a 88258/7 hrsz. területe, azon belül feltehetőleg a körökkel jelzett egykori tartályok környezete) legkisebb távolsága pedig legkevesebb 350 méter.
+
+¹⁸ A következőkben leírtak a Naturaqua Zrt. Msz: 844/2021 sz. „Tungsram Real Estate Kft. Fóti út 141. alatti telephely (Vákuumtechnikai Gépgyár) Tényfeltárási Záródokumentáció” c. szakértői anyag közlése.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+69/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+mechanikai és üvegtechnikai gépek gyártásával foglalkozó, egykori Hattyár András és Társai közkereseti társaság újpesti telepét. Az új gyár, mint önálló gyáregység 1952-53-ban költözött át a rákospalotai Szilágyi utcai új telephelyére, ahol kizárólag az Egyesült Izzó részére készített üveggyártó és üvegfeldolgozó gépeket, berendezéseket. A Vákuumtechnikai Gépgyár feladata volt az 1951-ben megalakult Mintagépgyár gyáregységben tervezett vákuumtechnikai termelőberendezések prototípusainak elkészítése is. 1956-ban helyezték át a fénycsőszerelvény-gyártást, 1958-ban pedig a fejegyártást, majd ezután a sajtolóüzemet és a vitritkőgyártást a törzsgyárból a Vákuumtechnikai Gépgyárba, főként helyhiány miatt és a nehézkes kooperáció kiküszöbölésére. Az átköltözéssel valamennyi beolvadt a gépgyár szervezetébe. Az átköltözés során mód nyílt az üzemrészek korszerűsítésére is. A Vákuumtechnikai Gépgyár 1960-ban már jelentős termelési kapacitáshiánnyal küzdött. Feloldására kooperációs kapcsolatba lépett a famegmunkáló és asztalosipari gépeket gyártó Könnyűipari gépgyárral. 1961-ben a Gépgyár beolvasztotta magába kooperáló partnerét, gyártelepét leszerelte, berendezéseit és gépeit Rákospalotára szállította. A Vákuumtechnikai Gépgyár 1964-ben átköltözött a Mintagépgyár területére, részben a helyhiány, részben pedig a kísérleti – egyedi és sorozat – gyártás jobb megszervezése érdekében. Ekkor költözött tehát a szennyeződés kiindulási területének helyére a Vákuumtechnikai Gépgyár. 1967-ben szervezetileg is egyesítették a Vákuumtechnikai Gépgyárat és a Mintagépgyárat. A Vákuumtechnikai Gépgyárból 1972-ben került át a nagytömegű lámpafej gyártás Zalaegerszegre, ahol a beruházás befejeztével évi 500 millió darab lámpafej gyártására nyílt már lehetőség. Ettől kezdve a gyárban túlnyomórészt a világítástechnikai termékek és alkatrészek gyártását végző vákuumtechnikai gépek-, berendezések és gyártórendszerek tervezése és gyártása történt. 1974-ben a Fényforrásgyár vegyianyagait tároló területen tűz ütött ki, melynek következtében több savtartály megsérült, és jelentős mennyiségű sav folyt ki a területen. Az ezt követő kárelhárításról vagy remediációról nincsenek elérhető információk. A későbbiekben ezen a területen megszüntették a vegyianyag tárolást és a 2000-es évek elején aszfaltozott parkolót alakítottak ki rajta.
+
+1980 és 1984 között működött a gyárterület északnyugati részén egy veszélyes-hulladék égető, ahol folyékony hulladékokat (oldószereket, festékeket, olajat) égettek. Az égető működését lakossági panaszok miatt leállították, berendezéseit leszerelték.
+
+Az 1990-es évek végén a gyárban az alábbi technológiák (üzemek és üzemrészek) működtek:
+
+- Gépi és kézi forgácsolás
+- Hegesztés, forrasztás
+- Hőkezelések, nitridálás
+- Öntvénytisztítás
+- Festés, zsírtalanítás
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+70/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+- Galvanizálás
+- Egyéb speciális műveletek (pl. eloxálás, dekapírozás, elektropolírozás, salétromsavas pácolás, stb.)
+
+A gyárban a galvanizáló működése 2005-2006-ban szűnt meg. A galvanizáló műhely gépeit, berendezéseit leszerelték, a csatlakozó szennyvízvezetékeket és a galvános szennyvízkezelő berendezéseit eltávolították, a felhagyott műtárgyakat kiürítették és kitisztították.
+
+2006-ban kezdte meg működését a Kerámiaüzem a felújított 70-es épületben, majd 2009-ben kibővült és a szomszédos 77-es épület egy részét is használatba vette.
+
+A gépgyártási tevékenység a korábbi tulajdonos General Electric profiltisztítási törekvéseinek következményeként 2017-ben szűnt meg a gyárban.
+
+A gyár területén található épületek többsége 2021-ben használaton kívül volt, az akkor folytatott tevékenységek nem tartalmaztak a szennyezettség kialakulását okozó tevékenységekhez hasonló elemeket. A használatban volt épületekben tárolási, raktározási tevékenység, karbantartó és állagmegóvási tevékenység folyt. Termelő tevékenység a 70-es épületben és a 77-es épület egy részében történt (CHM kerámiaüzem), ahol világítástechnikai kerámia alkatrészeket állítottak elő alumínium-oxid és szilícium-dioxid tartalmú por alapanyagból préseléssel. A jelenlegi állapotról nincs pontos információ, de szemrevételezés alapján most sincs gyáriparszerű használatban az egykori gyártelep, a 2021-ben folytatott tevékenységek azonban jelenleg is részben, vagy egészében zajlanak.
+
+Összefoglalva a közölteket, a területen folytatott tevékenység több olyan részletet mutat, amelyhez hasonló (pl. kémiai tisztítás, zsírtalanítás) technológiai műveletek, más iparágban, de előfordultak a Budapesti Finomkötöttárugyár Rákospalotai Gyáregysége területén is.
+
+A Vákuumtechnikai Gépgyár területéről fentiek alapján kiindult szennyeződés vezérkomponensei között kimutatásra került a tetraklór-etén, akárcsak Budapesti Finomkötöttárugyár Rákospalotai Gyáregysége területén, emellett a gyártelepen folytatott tevékenységből következőleg jelentős mértékű széntetraklorid vezérszennyező komponensből kiinduló szennyezettség is kimutatásra került, amely a Budapesti Finomkötöttárugyár Rákospalotai Gyáregysége területén csak alárendelten van jelen.
+
+A Vákuumtechnikai Gépgyár területének a tulajdonosa a tényfeltárási záródokumentáció szerint a Tungsram Real Estate Kft., használója a Tungsram Operations Kft. (mindkettő székhelye: 1044 Budapest, Váci út 77.).
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+71/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**2.1.8.2.1. szövegközti ábra.** A Bp. IV., Fóti út 141. sz. alatti egykori Vákuumtechnikai Gépgyár és a Budapesti Finomkötöttárugyár Rákospalotai Gyáregységének elhelyezkedése, valamint környezetük
+
+![img-32.jpeg](img-32.jpeg)
+
+**2.1.8.2.2. szövegközti ábra.** A Bp. IV., Fóti út 141. sz. alatti egykori Vákuumtechnikai Gépgyár 2025. szeptemberi monitoring vizsgálatainak eredményei alapján megrajzolt összes VOCI szennyezettség elterjedési ábra (jelmagyarázatot lásd **2.2.7.2. szövegközti ábrán**)
+
+![img-33.jpeg](img-33.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+72/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A Vákuumtechnikai Gépgyár gyártelep és a Budapesti Finomkötöttárugyár Rákospalotai Gyáregységének elhelyezkedését a 2.1.8.2.1 szövegközti ábra mutatja be.
+
+A gyártelep tevékenysége által keletkezett szennyezettséget a gyártelepen folytatott kármentesítéshez kapcsolódóan 2025. szeptemberében készült monitoring vizsgálati eredmények alapján tudjuk bemutatni (2.1.8.2.2. szövegközti ábra).
+
+Mindezek alapján, ismerve a két szennyezett területről kiindult szennyeződés csóvát, annak kiterjedését és irányát, a továbbiakban vizsgálni szükséges a két szennyeződés egymáshoz viszonyított elhelyezkedését, esetleges áthatását (azon területet, amelyet mindkét szennyeződés csóvája elért).
+
+## 2.2. HATÓSÁGI HATÁROZATOK
+
+A Budapesti Finomkötöttárugyár egyik elődvállalata volt a Rákospalotai Kötöttárugyár, mely az 1151 Budapest, Szövőgyár utca 11-21. számok alatti területen működött. 1948. március 28-án állami tulajdonba vették az akkorra már 100-nál több foglalkoztatottal működő üzemet. 1963-ban a textilgyárak és kötöttárugyárak összevonása és korszerűsítése keretében alakult meg a Budapesti Finomkötöttárugyár (BFK), a vállalat központját Zuglóban alakították ki. A rákospalotai üzemben olajfűtési technológiát alakítottak ki, ennek a részét képezte egy 1975-ben üzembe helyezett 25 m3-es olajtartály. 1990-ben az előbbi technológiát gáztüzeléssel cserélték fel, azonban az olajfűtés műtárgyai (tartály, vezetékek stb.) korábbi telepítési helyükön maradtak.
+
+A Cg.01-01-002369 cégjegyzékszámú Budapesti Finomkötöttárugyár (1141 Budapest, Szugló u. 83-85.) a cégjegyzékbe – állami vállalatként – 1991-ben került bejegyzésre, ezt követően azonban rövid időn belül felszámolás alá került.
+
+Felszámolás alá került továbbá a Gyár által alapított COLORIT Rt. is, amely cég vagyonát a felszámolók együttesen kísérelték meg értékesíteni 1995-ben.
+
+1995. június 26-án a felszámolás keretében a korábbi gyár egy részét a COLORTEX Kft. szerezte meg. Mivel a már régen ismert „Olajszármazék góc” miatt ez az információ volt lényeges, azt több dokumentum is rögzíti, hogy 1995-ben az 1151 Budapest, Szövőgyár utca 21. szám alatti (hrsz.: 88324) terület a COLORTEX Kft. tulajdonába került. Hogy még pontosan mely épületeket és ingatlanokat vásárolta meg a cég, arra – tekintettel az ingatlanokat is érintő változásokra – a saját nyilatkozata áll rendelkezésre, amely területet a 2.2.4. szövegközti ábra rögzíti.
+
+A COLORTEX Kft által aláírt adás-vételi szerződésben foglaltak alapján a területet nem terhelte környezetszennyezési probléma. A Kft. korszerűsített technológiával – többek között gázüzemmel - folytatta a textiláru gyártást.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+73/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Hogy a Budapesti Finomkötöttárugyár rákospalotai üzemének teljes területe a felszámolás keretében (és/vagy azt megelőzően) pontosan milyen módon, ill. eljárások keretében, milyen tartalmú dokumentumok alapján került értékesítésre, nincsenek információink, ahogy arról sem, hogy az új tulajdonosok/használók a területeken pontosan milyen időszakokban, milyen tevékenységeket folytattak.
+
+Ahogy az már rögzítésre került, 2003. november 8-án tett telefonos bejelentés alapján derült fény arra, hogy a szomszédos ingatlan (volt szolgálati lakás) öntözésre használt ásott kútjában jelentős mennyiségű gázolaj jelent meg. Az értesített Közép-Duna- völgyi Környezetvédelmi és Természetvédelmi Felügyelőség munkatársai a helyszíni szemle alkalmával tárták fel a COLORTEX Kft. tulajdonában lévő telek ÉK-i sarkában elhelyezett süllyesztett olajtartályt. A nyomáspróba tanúsága szerint a tartály sérülésmentes volt, azonban az akkor a tartályból és az ásott kútból vételezett minták a gázolaj-szennyezés egyezését mutatták.
+
+A tartály mellett lemélyített fúrásban 4-5 m közötti mélységben a talaj erősen szennyezett (TPH = 8 570 mg/kg) volt. A Hatóság a szennyezés helyétől kb. 150 m-re lévő Szilas-patak védelme érdekében II. fokú kárelhárítási készültséget rendelt el. A II. fokú készültségre való tekintettel a kútban lévő olaj kiszivattyúzását, eltávolítását azonnal megkezdték.
+
+A Környezetvédelmi Hatóság KF: 2316/2004. számú határozatával a földtani közeg és a felszín alatti víz szennyezettségének részletes tényfeltárására kötelezte a terület tulajdonos COLORTEX Kft.-t, amely határozat ellen a COLORTEX Kft. fellebbezést terjesztett elő, amivel egy hosszadalmas eljárási-jogi procedúra vette kezdetét. Az első eljárás keretében mind a Főfelügyelőség, mind a bíróság helyben hagyta az elsőfokú határozatot. Ez alapján a COLORTEX Kft. megbízásából a Gender Kft. részletes tényfeltárási záródokumentációt készített 2004. évben, amelyet azonban a Hatóság környezetvédelmi szempontból, KTVF: 795-7/2005. számú határozatában nem fogadott el. Az ügy egészen a Legfelsőbb Bíróságig jutott, amelynek eredményeként a Legfelsőbb bíróság a Kfv.IV.37.008/2005/7. számú ítéletében kimondta, hogy a COLORTEX Kft.-t jogszerűen kötelezte a Hatóság a tárgyi telephelyére vonatkozó tényfeltárás elvégzésére, a tényfeltárás elvégzéséért fennálló felelősségi kör jogszerűen került meghatározásra.
+
+További fellebbezéseket, határidő módosításokat és jogi aktusokat követően 2007. február 27. napján kelt beadványában a COLORTEX Kft. benyújtotta a WEPROT Kkt. által 2007 februárjában készített részletes tényfeltárási záródokumentációt, majd 2007. március 6. napján kelt beadványához mellékelte annak bővített, véglegesített példányát. A Hatóság a tényfeltárási záródokumentációt nem fogadta el, és KTVF: 3959-17/2007. számú határozatában a COLORTEX
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+74/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Kft.-t a tárgyi terület vonatkozásában a tényfeltárás folytatására és kármentesítési monitoring végzésére kötelezte.
+
+A COLORTEX Kft. újra jogorvoslatokkal élt, ez alkalommal a Fővárosi Törvényszék utasította el az utolsó felülvizsgálati kérelmét. Tekintettel arra, hogy a sorozatos jogorvoslati eljárások nem vezettek az általa várt eredményre, a COLORTEX Kft. megbízásából eljáró SÖVIT Kft. 2017. november 6. napján benyújtotta a Pest Megyei Kormányhivatal Érdi Járási Hivatala Környezetvédelmi és Természetvédelmi Főosztály részére a „Tényfeltárási záródokumentáció - COLORTEX Textilkészítő Kft. 1033 Budapest, Bécsi út 129. a felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet alapján - telephely: 1151 Budapest, Szövőgyár utca 21. 88324 hrsz." című dokumentációt, melynek elbírálása iránt a Járási Hivatal előtt 2017. november 7. napján eljárás indult.
+
+A Záródokumentációban bemutatott, tényfeltárás során elvégzett vizsgálatok alapján megállapításra került, hogy jelenleg a szennyezéssel legnagyobb kiterjedésben érintett terület a COLORTEX Kft. tulajdonát képező, kerítéssel lehatárolt ingatlanán belül, a Budapest XV. kerület, Szövőgyár utca 21. szám alatti területen (88322/3, 88323 és 88324 hrsz.) található. További kis kiterjedésben érinti a Szövőgyár utca 23. alatti ingatlan területét (88326 hrsz.), illetve a közút területét (88327 hrsz.).
+
+A Záródokumentációban foglaltak szerint a szennyezés forrása a területen feltárt 25 m³-es olajtartályra vezethető vissza, külső forrásból származó potenciális szennyezést a tárgyi ingatlan környezetében készített fúrásokkal nem lehetett azonosítani.
+
+A tárgyi területen korábban az államosított Budapesti Finomkötöttárugyár rákospalotai gyáregysége működött, a jelen dokumentációban részletesen bemutatottak szerint. A COLORTEX Kft. nyilatkozata szerint az adásvételkor nem tudott a tartályról, továbbá sem a szerződés, sem az adásvételt követő birtokbavételi jegyzőkönyv (1995. június 30.) nem tartalmazott utalást a területen található tartályra, annak esetleges szennyezésére.
+
+Az elvégzett vizsgálatok és az Ásványolajtermék Minőségellenőrzési Rt. 2004-es szakvéleménye alapján megállapításra került, hogy a tartályban lévő nem színezett ipari fűtőolaj biztosan 1989 előtti, mivel ezt követően mesterségesen színezték a fűtőolajokat.
+
+A fentiek alapján a COLORTEX Kft. álláspontja szerint a fűtőolajtartály az 1975. évi telepítése után legfeljebb 1990-ig, a gázra való áttérés bevezetéséig üzemelhetett, a Budapesti Finomkötöttárugyár tulajdonlása és használata alatt. Ezt támasztja alá a szennyezéssel kapcsolatban feltárt azon körülmény is, miszerint a 2003. évben az ásott kútból és a tartályból vett minták vizsgálata alapján a Hatóság laboratóriuma megállapította, hogy azonos típusú
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+75/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+szénhidrogén komponenseket tartalmazó szennyezésről van szó és az elvégzett szakértői vizsgálat szerint a tartályban lévő nem színezett ipari fűtőolaj biztosan 1989 előtti, mert később a fűtőolajokat színezték.
+
+A Záródokumentáció tartalmazta a következőket:
+
+„Az állami tulajdon megszűnését követően nem ismert semmilyen dokumentált havária, mely következtében fűtőolaj elfolyás lett volna valószínűsíthető, sőt a gázra való áttérés és a tartályban talált, 1989 előtti olaj miatt a fűtőolaj használata kizárható a COLORTEX Kft. tulajdonlása alatt. A szennyezés minden kétséget kizáróan az 1975-1989. közötti időszakban, a jogutód nélkül megszűnt Budapesti Finomkötöttárugyár üzemeltetése során keletkezett.”
+
+PE-06/KTF/656-1/2018. számú határozatában a hatóság 2018. januárjában az eljárást megszüntette, mivel az indoklásban foglaltak szerint: "A fenti, szennyeződés kialakulásával kapcsolatos információk felvetik a szennyeződés kármentesítésének állami szerepkörben történő elvégzésének indokoltságát, ezért szükséges a Földművelésügyi Minisztérium megkeresése állásfoglalásának megkérése céljából.
+
+A Járási Hivatal a Földművelésügyi Minisztérium állásfoglalásának beérkezését követően hivatalból eljárást indít a tárgyi területen feltárt szennyezés kármentesítése vonatkozásában a további szükséges intézkedések megtétele érdekében."
+
+A Pest Megyei Kormányhivatal PE-06/KTF/20837-2/2019. sz. levelében a Miniszterelnökséghez fordult, kérve a címzett szervezet közbenjárását az Agrárminisztérium felé, a Budapest XV. kerület, Szövőgyár u. 21. szám alatti COLORTEX Textilkészítő Kft. telephelyén és annak környezetében feltárt szénhidrogén szennyezés kármentesítésében történő állami szerepvállalással kapcsolatban az Országos Környezeti Kármentesítési Program keretén belül.
+
+Ezt követően 2023-ig további érdemleges cselekmény nem történt.
+
+Az Energiaügyi Minisztérium 2023-ban a „Kármentesítési tényfeltárási és beavatkozási tervek készítése olyan ismerten szennyezett területekre vonatkozóan, ahol a szennyezettség felmérése, lehatárolása és a lehetséges beavatkozások tervezése még nem történt meg” tárgyú projekt keretében megrendelést adott ki tényfeltárás elvégzésére az ismert CH szennyezés tekintetében.
+
+A korábbi tényfeltárásoktól azonban jelentősen eltért ezen vizsgálatok során tapasztalt felszín alatti víz szennyezettségi állapota, a már bemutatottak szerint.
+
+Egyrészt, mivel még 2022-ben is közel tízezres µg/dm³ CH érték került detektálásra a felszín alatti vízben, nem volt kizárható, hogy a 2023-as eredmények nem jelentik a TPH-BTEX
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+76/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+komponensek „végleges” eltűnését a felszín alatti vízből és azok rövid időn belül újra megjelenhetnek. A 2023. évben elvégzett kockázatelemzési számítások alapján a COLORTEX területén a jelenlegi és főként a tervezett területhasználat esetén, illetve a Keleti lakóterületen a jelenlegi területhasználat esetén az oldott fázisú TPH, BTEX, PAH szennyezettség az elviselhető szintet meghaladó kockázatot jelenthet. Ezért a 2023-as tényfeltárás alapvető fontosságúnak ítélte tisztázni, hogy a területről csak átmenetileg, vagy véglegesen „tűntek el” az oldott fázisú TPH, BTEX komponensek, mert a kettő állapothoz teljesen más intézkedési forgatókönyv tartozik.
+
+A korábbi eljárások alapján rögzítésre került, hogy a felelősség (legalábbis a CH szennyezés tekintetében) másra, ill. konkrétan a COLORTEX Kft.-re nem hárítható, ezért a kárfelelősségért való helytállás kötelezettsége a Magyar Államot terheli (és a Magyar Állam a szükséges intézkedések első lépéseként elvégeztette a terület teljes körű, részletes tényfeltárását).
+
+Másrészt, egy földtani közeg mintában és egyebekben több felszín alatti víz mintában addig nem detektált halogénezett alifás szénhidrogén szennyezettség került kimutatásra a 2023-as vizsgálatok eredményeként. A felszín alatti vízben a szennyezés maximumai három ingatlanon kerültek észlelésre, nagyságrendileg azonos koncentrációban. A 88323 hrsz. és a 88322/2 hrsz. a volt „szövőgyári” ingatlanok területére esik. Azonban a 88311 hrsz. „Kivett nevelőintézet”, amely a Rákospalotai Leánynevelő Intézet területére esik. Ezen ingatlanon létesített furatban került észlelésre egyedül földtani közeg szennyezettség, bár nagyon alacsony mértékben.
+
+A szennyezettség mértékére és a helyszín területhasználatára tekintettel elvégzésre került a kockázatelemzés, amely alapján a záródokumentációban rögzítésre került, hogy a halogénezett szénhidrogén szennyezés tekintetében az eddig feltárt eredmények alapján a köz érdekében azonnali kármentesítési intézkedések elvégzése szükséges.
+
+Előbbiek alapján a Pest Megyei Kormányhivatal a Magyar Nemzeti Vagyonkezelő Zrt.-t a PE-06/KTF/60624-9/2023. sz. határozatában a tényfeltárás folytatására és a tényfeltárás alatti monitoring tevékenység végzésére kötelezte, mind az „Olajszármazék góc”, mind pedig a „Halogénes góc terület” vonatkozásában. A hatóság a határozatot a kötelezett kérelmére, PE/KTHF/01171-10/2024. ügyiratszámon, határidők tekintetében módosította.
+
+Jelen dokumentáció fenti kötelezéshez kapcsolódóan, az abban előírtak (kiegészítő tényfeltárás elvégzése) teljesítése céljából készült.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+77/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 3. A TERÜLET JELLEMZÉSE
+
+### 3.1. TÁJBESOROLÁS ÉS DOMBORZAT
+
+A vizsgált terület – Budapest XV. kerület – a Magyar Tudományos Akadémia által kiadott „Magyarország kistájainak katasztere” alapján tájegységileg a Budapest és Pest megye területén található Pesti-hordalékkúp-síksághoz tartozik. A felszín döntő hányada közepes magasságú, tagolt síkság. A kistáj 97,5 és 251 m közötti tengerszint feletti magasságok között alakul a domborzata. K felé lépcsőzetesen, a magasabb teraszok irányába emelkedik. Ezek nagyjából É-D-i irányú sávjait a Duna bal parti mellékvizeinek völgyei NY-K-i irányban szabdalták.
+
+A szennyezéssel érintett terület a Pesti-hordalékkúp-síkság nagyjából 113 mBf szintmagasságú teraszán helyezkedik el, a Szilas-patak közelében, melynek medre 103-105 m mBf szinten halad a telektől mintegy 140 méterre északi irányban. A telek végéhez közeli Énekes utcában még 112 mBf szintről az Anyácska utca két oldalára dőlő tömbökkel ereszkedik le a patak szintjéig. A patak túloldalán a térszín gyorsan 115-118 mBf szintre emelkedik vissza, tovább Mogyoród irányában lassan folytatva az emelkedést.
+
+### 3.2. ÉGHAJLATI JELLEMZŐK
+
+Mérsékelten meleg, száraz éghajlatú kistáj. Az évi csapadékösszeg kb. 550 mm, évente 35 hótakarós nap a valószínű, az átlagos maximális vastagsága 15-20 cm körüli Leggyakoribb szélirány az ÉNy-i, az átlagos szélsebesség 2,5-3 m/s közötti.
+
+### 3.3. FÖLDTANI ADOTTSÁGOK
+
+A terület alapját képező triász kori karbonátos képződmények (dolomit, mészkő) nagy mélységben vannak, tetőszintjük a felszín alatt 1300 m körül található. Ezek a képződmények egymással párhuzamosan futó ÉNy-DK-i irányú törésvonal rendszerrel tömbökre tagolódtak, s az Alföld felé haladva a pleisztocén folyamán egyre nagyobb mértékben süllyedtek meg. A mélybe süllyedt alapkőzetre települt medenceüledéket az egykori Duna pleisztocén időszakában képződött kavicsos, homokos hordalék felhalmozódása, a Dunai teraszkavics borítja. A kavicsterasz a Duna bal partján nagy kiterjedésben követi a folyó jelenlegi folyását. A pleisztocén legelejétől kezdődően a dunai hordalékkúp keletről nyugat felé haladva épült fel, a Duna folyásirányának fokozatosan délkeletről déli irányba fordulásával. A kavicsterasz legidősebb pleisztocén képződményei pannóniai üledékre települve találhatók, a Duna II/a. és II/b. terasza átmenő, felszíne gyakran parti buckákkal, futóhomokkal, lösz-szerű üledékekkel magasított. A IV. sz. gyakran édesvízi mészkővel takart, és az V. és idősebb teraszok csak foltokban jelennek meg.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+78/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A Káposztásmegyertől délre húzódó partvonalon a vízadó kavicsterasz feküjét oligocén agyag alkotja. A parttól távolabbi terület az újpleisztocénvégi teraszhoz tartozik. Itt is megtalálható a kvarter folyami durva kavics, mintegy 10-15, helyenként 20 m mélységig. Alatta pleisztocén aleuritos, homokos agyagos rétegek települnek változatos kifejlődésben és vastagságban, mintegy 90-100 m mélységig. Ez a vastag vízzáró, helyenként féligáteresztő összlet védelmet biztosít az alsóbb homokrétegek felé.
+
+3.3.1. szövegközti ábra. A SZÖVŐGYÁR és környezetének földtani felépítése
+
+![img-34.jpeg](img-34.jpeg)
+
+### 3.4. VÍZRAJZ
+
+A vizsgált területtől északra, attól kb. 140 méteres légvonalbeli távolságban található a Szilas-patak, mely a Gödöllői-dombságból ered és Budapest, Újpest északi részén torkollik a Dunába.
+
+### 3.5. VÍZFÖLDTANI VISZONYOK
+
+A térségben jellemző talajvíz áramlási irány DK-ÉNy-i, a Duna irányába mutató, azonban a vizsgált területen a hidraulikus gradiens nagyon alacsony, a talajvíz áramlás mértéke igen kicsi. A telítetlen zóna vastagsága a magasabb térszíneken 5-10 méter körüli, a völgytalpakon ez 2-3 méterre csökken.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+79/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+### 3.6. A VIZSGÁLT TERÜLET KÖRNYEZETÉBEN TALÁLHATÓ VÍZHASZNÁLATOK
+
+A szennyezett terület környezetében a kedvező vízföldtani adottságok miatt valószínűleg számos nem bejelentett, illetve illegális kút üzemel, melyeket a Duna kavicsteraszára szűrőztek. A kertvárosi jellegű területeken valószínűleg locsolási és egyéb magánhasználati céllal készültek kutak, ezeknek a vízkivétele valószínűleg kutanként az évi 500 m³-t nem haladja meg. Ilyen típusú kutak a tényfeltárás szakaszában igénybe is lettek véve, a CLRT-05, CLRT-17 és CLRT-18 jelű pontok magánkutak voltak, illetve további egy ponton vizsgáltuk a tulajdonos kérésére a kút vízminőségét az Énekes u. 16. sz. alatt.
+
+Fentiekben megadott kutakon túlmenően a területen érdemi vízhasználat az alábbi táblázat szerint foglalható össze.
+
+3.6.1. szövegközti táblázat. A volt „SZÖVŐGYÁR gyártelep” 1 km-es körzetében azonosított felszín alatti víz használattal összefüggő objektumok listája
+
+|  Megnevezés | EOVY | EOVX | Légvonalban mért távolság [m] | TSZ [mBf] | TALP [mfa] | Szűrő kezdet [mfa] | Szűrő vég [mfa] | Létesítés éve | Nyugalmi vízszint [mfa]  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Schiller Opel autószervíz 1.sz. autómosó | 654855,79 | 247283,29 | 698,2562 | 109,5 | 18,75 | 6,1 | 17,6 | 2003 | -3,34  |
+|  Rakospalota 88858/9 (Holcim) | 655800 | 248600 | 1012,423 | 109,5 | 12 | 5 | 9,5 | 2005 | -4,80  |
+|  VOLAN 22.sz. Vall. tuzivíz | 656100 | 248450 | 1030,776 | 112,27 | 16,5 | 9,5 | 13,5 | 1997 | -2,70  |
+|  VOLÁN 1.sz.Vall. Bogáncs u.1-3. | 656500 | 247350 | 1092,016 | 116,32 | 12 | 7 | 10 | 1976 | -4,90  |
+|  VOLAN Szabadido Kft.sporttelep | 655480 | 246430 | 1220,369 | 103,9 | 15 | 7 | 12,5 | 1980 | -3,80  |
+|  Ugró Gyula park, locsolókút | 654377 | 248290 | 1249,371 | 107,28 | 10 | 3 | 7 | 2016 | -1,00  |
+|  Káposztásmegyer Tulipánkert 1.sz.öntöző | 654841 | 248778 | 1281,899 | 108,8 | 10 | 5 | 9 | 2001 | -4,75  |
+|  FKFV Hulladékhasznosító mű 1.öntöző | 656394 | 248629 | 1359,992 | 113,94 | 51,5 | 26,5 | 43,5 | 1997 | -6,00  |
+|  FKF RT Hulladékhasznosító Mű 4.sz.figy. | 656262,04 | 248764,48 | 1378,94 | 113,57 | 14,5 | 9,5 | 12,5 | 2001 | -5,60  |
+|  LAFARGE telep ipari víz kútja Károlyi S. út 152. | 656163 | 248871 | 1413,934 | 113 | 10 | 8 | 10 | 2000 | -3,65  |
+|  Betonpartner Kft. (Wopfinger Készbeton) II.üzem ipari kút (Lafarge) | 656163,66 | 248871,76 | 1414,923 | 113,04 | 10 | 7,5 | 9,5 | 1999 | -3,65  |
+|  FKF RT Hulladékhasznosító Mű 3.sz.figy. | 656291,13 | 248842,5 | 1459,3 | 113,06 | 15 | 9,5 | 12,5 | 2001 | -4,30  |
+
+A szennyezés környezetében elhelyezkedő vízkivételeket a 3. ábra mutatja be.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+80/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+### 3.7. TERMÉSZETVÉDELMI ÉRINTETTSÉG
+
+A vizsgált terület nem része országos jelentőségű védett természeti területnek, helyi jelentőségű védett természeti területnek, vagy ex lege védett természeti területnek továbbá Natura 2000 hálózat területet (SPA - Különleges madárvédelmi területek; SAC - Különleges természetmegőrzési területek) és barlang felszíni védőövezetet sem érint. A közeli Szilas-patak partja mentén húzódó sáv a Nemzeti Ökológiai Hálózat részét képezi. Ott jelen körben vizsgálatokat nem folytattunk.
+
+### 3.8. A TERÜLET SZENNYEZŐDÉS ÉRZÉKENYSÉGI BESOROLÁSA
+
+A jelenleg hatályos, a felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet 2. melléklete alapján, a VITUKI által készített érzékenységi térkép szerint a terület besorolása: 2.a. Felszín alatti víz állapota szempontjából érzékeny terület: „Azok a területek, ahol a csapadékból származó utánpótlódás sokévi átlagos értéke meghaladja a 20 mm/évet.” (Hiba! A hivatkozási forrás nem található.)
+
+3.8.1. szövegközti ábra. A SZÖVŐGYÁR és környezetének földtani felépítése
+
+![img-35.jpeg](img-35.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+81/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 4. TÉNYFELTÁRÁSI STRATÉGIA
+
+A területen végzett kiegészítő tényfeltárás kiindulási alapja volt, hogy egyszerre van jelen egy jelentős koncentrációjú, földtani közegben, elkülönült szerves fázisban és felszín alatti vízben oldottan is kimutatott LNAPL (fűtőolaj eredetű) valamint kiterjedt, magas koncentrációjú oldott fázisú DNAPL (PCE vezérszennyező) típusú szennyeződés. Az előzményesen elkészített és jóváhagyott tényfeltárási záródokumentáció a szennyeződésekkel kapcsolatos kérdéseket jelentősrészt tisztázta, ugyanakkor az LNAPL szennyeződés esetében nem sikerült tisztázni annak oldott fázisban való jelenlétét, a DNAPL szennyeződés esetén nem tisztázott sem a kiterjedés, sem a forrásterület. Jelen tényfeltárás egyidejűleg több célra irányult. A két fő vizsgálati irány az alábbi volt
+
+- biztosítsa/elősegítse a korábban felfedezett halogénezett alifás szennyezőanyagok forrásterületének és az oldott fázisú szennyezettség kiterjedésének meghatározását,
+- tisztázza az olajszármazékok vízben való megjelenésével kapcsolatos kérdéseket
+
+A két cél együttes elérése a meglévő vizsgálati pontok komplex szempontok szerinti bővítését kívánta meg, mely az első lépésben végrehajtásra került. A rendelkezésre álló információk alapján kiértékelésre és tisztázásra került az olajszármazékok szennyezettségi állapota, valamint a megismert részletesebb VOCI szennyezettségi adatok alapján jelentős mértékben szűkítésre került a potenciális forrásterület.
+
+A megismert DNAPL szennyezettség feltételezett forrásterületének ismeretében széleskörű kutatást folytattunk e terület egykori használatának területi, funkcionális és időbeli jellemzőinek megismerése érdekében, valamint a megismert potenciális PCE anyagot használó funkcionalitásokban a szennyezőanyag szabadba jutását előidézni képes, normális és normálistól eltérő üzemmódokhoz kapcsolódó lehetőségek felderítése tárgyában.
+
+A rendelkezésre álló információk alapján végül a már megismert szennyezettségi állapot horizontális és vertikális koncentrációeloszlását vizsgáltuk és a rendelkezésre álló adatok alapján előzetesen értékeltük.
+
+Egyrészt a kettős feladat (oldott fázisú LNAPL és DNAPL szennyezettség vizsgálata) megoldása érdekében, másrészt, mivel a forrásterületek környezetében az érintett vízadó vastagsága jelentős (kb. 10 m) a felszín alatti víz tekintetében alapvetően két vizsgálati szint lett megcélozva. Alkalmazkodva a korábbi vizsgálatok során megismert földtani és vízföldtani körülményekhez a felső szint (LNAPL) a kapilláris zóna alatti 2-3 méteres tartomány, az alsó szint (DNAPL) pedig a kb. 7-14 méterrel a felszín alatti mélységben jelenlévő durva szemcsés, kavicsos teraszüledék alsó 2-3 méteres tartománya, amely alatt jó vízrekesztő képződmény található.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+82/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 5. TÉNYFELTÁRÁSI MÓDSZERTAN
+
+A tényfeltárást ütemekre bontva végeztük, elsősorban költségoptimalizálási célból. A tényfeltárás kitűzött céljait (forrásterület feltárása, oldott fázisú csóva lehatárolása, szennyezettség migrációs útvonalainak felderítése) egymással párhuzamosan történt, a kapott eredmények feldolgozását és értékelését folyamatosan végeztük, hogy a célok megvalósítására rendelkezésre álló erőforrásokat optimálisan tudjuk kihasználni, esetenként átcsoportosítani. Ezzel együtt, amikor szükségessé vált újabb erőforrások bevonására került sor.
+
+### 5.1. ADATGYŰJTÉS, ÉRTÉKELÉS, TEREPBEJÁRÁS, MINTAVÉTELI PONTOK KIJELÖLÉSE
+
+A mintavételi pontok térképi kijelölése a korábbi és aktualizált, valamint a kiegészítő tényfeltárás folyamatában nyert eredmények, az előzetes területhasználati ismeretek és a helyszínen tapasztaltak alapján történt. A mintavételi pontok kijelölése azok koordinátáinak meghatározása, azaz a tervezés, a georeferált, digitális helyszínrajzon történt, a terepen az előzetesen meghatározott koordinátákhoz a lehető legközelebb létesítettük a mintavételi pontokat a terepviszonyokat (jelentős mennyiségű sitt, lebontott épületek pincéi, közlekedési útvonalak) figyelembe véve.
+
+### 5.2. FÚRÁSOS FELTÁRÁS, FÖLDTANI KÖZEG MINTAVÉTELE
+
+A mintavételi pontok lemélyítéséhez és a földtani közeg mintavételéhez önjáró hidraulikus meghajtású fúróberendezést, száraz fúrási módszert és spirálszerszámzatot alkalmaztunk. A földtani közeg mintákat (zavart minták) a fúrásos feltáráshoz használt spirálszerszámzatról vettük le. A mintavétel során a fúrás előrehaladása az 1,5 méteres hosszúságú szerszámzathoz igazodva történt, minden előrehaladási ütem után kiépítve a szerszámzatot. A kiépített szerszámzat felszínét letisztítottuk egyrészt a keresztszennyeződés megakadályozása érdekében, másrészt, hogy a harántolt rétegsor leírása lehetővé váljon. A rétegsor leírását követően a mintákat a szerszámzatról közvetlenül vettük le, helyeztük a laboratórium által biztosított edényzetbe, lezártuk, az edényzeten feltüntettük a minták egyedi azonosítóját, a minta ezt követően hűtőtáskába került, és hűtve szállítottuk a vizsgáló laboratóriumba. A mintavételeket az Adept Enviro Kft végezte, NAH-7-0070/2022 sz. akkreditációja alapján.
+
+Az oldott fázisú szennyezettség vizsgálatára létesült pontokon a furatot a korábbi tényfeltárási fázisban megismert és azonosított vízadó feküjéig mélyítettük. A földtani közeg minták levételét és a rétegsor rögzítését követően a furatot HSA (üreges spirálszerszámzat) beépítésével biztosítottuk, majd a vízmintavételhez 63 mm átmérőjű, menetes toldású KGPVC béléscsővel, 2 m hosszan réselt szűrővel, a szűrőzött szakasz mentén kavicsolva építettük ki. Helyszínenként
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+83/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+egy-egy kútpár létesült, az „A” jelűek a feküképződményre ültetve, az „F” jelűek a kapilláris zónát is szűrőzve. A gyűrűstér szigetelését, tekintettel arra, hogy a két szintben vizsgált vízadó képződményt vízrekesztő réteg nem tagolja, a fúrás során nyert furadékkal végeztük el.
+
+### 5.3. FELSZÍN ALATTI VÍZ MINTAVÉTEL
+
+A felszín alatti vízből mintavétel előtt első lépésben megmértük a kútban mérhető folyadékszint mélységét és a kúttalpat. Az egyes pontokon az első mintavételt kútbeüzemelés előzte meg. Minden mintavétel során a minta levétele előtt tisztítószivattyúzás történt, a kútbeüzemelést néhány sekély kút esetében kompresszorral is kiegészítettük, egyébként a kútbeüzemelést és a tisztítószivattyúzást, valamint a mintavételt perisztaltikus szivattyúval és/vagy bailerrel végeztük az összes kútban. A tisztítószivattyúzást a kivett vízben folyamatosan regisztrált vízminőség paraméterek alapján meghatározott paraméterállandóságig (3 perces változatlanság) folytattuk. Egyes vízmintavételi pontokon a tisztítószivattyúzás folyamatossága a közeg rossz vízadó képessége miatt nem valósulhatott meg, ebben az esetben kétszeri leürítést követően, legalább 75%-os visszatöltődést követően történt meg a mintavétel. A mintákat a vizsgáló laboratórium által biztosított edényzetbe vettük meg, lezártuk, az edényzeten feltüntettük a minták egyedi azonosítóját, a minta ezt követően hűtőtáskába került, és hűtve szállítottuk a vizsgáló laboratóriumba. Azokon a pontokon ahol elkülönült szerves fázis volt mérhető, a mintavételt nem végeztük el, mert a terület adottságai miatt nem biztosítható az elkülönül szerves fázis és az oldott fázis elkülönítése a mintavétel során. A mintavételeket az Adept Enviro Kft végezte, NAH-7-0070/2022 sz. akkreditációja alapján.
+
+### 5.4. FELSZÍNI VÍZ MINTAVÉTEL
+
+A területen felszíni víz mintavételére nem került sor.
+
+### 5.5. MEDERÜLEDÉK MINTAVÉTEL
+
+A területen mederüledék mintavételére nem került sor.
+
+### 5.6. EGYÉB MINTAVÉTEL
+
+A 6.6. fejezetben részletesen bemutatott aknából kézi talajfúró segítségével vettünk üledékmintát, a mintát az 5.2. fejezetben leírtak szerint tároltuk és szállítottuk.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+84/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 5.7. LABORATÓRIUMI VIZSGÁLATOK
+
+A vett minták laboratóriumi vizsgálata akkreditált körülmények között zajlott, a NAH által NAH-1-1398/2019 számon akkreditált Eurofins Analytical Services Hungary Kft. vizsgálólaboratórium közreműködésével. Fontos feltétel volt, hogy a vizsgálatokat minden esetben ugyanazon szervezet végezze. Ez alól kivételt képez, ha egy vizsgálati eredmény olyan anomáliát mutat, amelynek az ismételt kivizsgálása indokolt (pl. indokolatlannak tűnő, kiugróan magas vizsgálati eredmény stb.). Jelen munkálatok során ilyen eset azonban nem merült fel.
+
+## 5.8. GEODÉZIA
+
+A geodéziai mérések kivitelezése az aktuális célnak megfelelően kézi GPS műszerrel, vagy indokolt esetben két lépésben, professzionális geodéziai műszer alkalmazásával történt. A bemérés során a fúrási pontok EOV X, EOV Y koordinátái és Z-magassági adatai (terepszint és kútperem szint) kerültek meghatározásra. A mintavételi pontok térbeli helyzete (horizontálisan EOV koordináták, vertikálisan szintadatok) a furat létesítése során a horizontális koordináták esetében méteres pontossággal, a vertikális koordináták esetében relatív szintezéssel, majd ezt követően a pontos bemérés során a horizontális koordináták esetében cm-es pontossággal, a vertikális koordináták esetében mBf szintre lett meghatározva.
+
+## 5.9. TARTÁLYVIZSGÁLATOK
+
+A területen tartályvizsgálatra nem került sor.
+
+## 5.10. AZ EREDMÉNYEK FELDOLGOZÁSA
+
+A terület földtani viszonyai a tapasztalt rétegsorok alapján szövegesen értékelve lettek. A laboratóriumi adatokat táblázatba foglalva mutatjuk be. A terület felszín alatti közegeinek szennyezettségi viszonyait térképesen is megjelenítettük. A térképek szerkesztéséhez a Surfer programot használtuk, míg a szükséges adatbázisok kezeléséhez, táblázatok szerkesztéséhez és a dokumentáció összeállításához a Microsoft Office programcsomagot alkalmaztuk.
+
+## 5.11. KOCKÁZATI SZÁMÍTÁSOK
+
+A mennyiségi kockázatfelmérést, amennyiben az indokolt, a Környezetvédelmi és Vízügyi Minisztérium vonatkozó kiadványa (Kármentesítési Útmutató 7. kötet) alapján, az abban hivatkozott amerikai (ASTM) és Európai Uniós (CONCAWE) szabványok szerint végezzük.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+85/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A kockázatbecslés során első lépésben számba vesszük a kockázat forrását jelentő, a vizsgált környezeti elemekben előforduló kockázatos anyagokat. Ezt követően azonosítjuk a szóba jöhető receptorokat, és meghatározzuk forrás és a receptor közti expozíciós viszonyokat. A megvalósuló expozíciók azonosítását követően az expozíciók számításához konzervatív megközelítést alkalmaztunk. A megvalósuló expozíciók közül, ahol lehet, az expozíciós koncentrációkat méréssel határoztuk meg. A kitettségi koncentrációk számításához a kitettségi területre az expozíció jellegéhez illeszkedő, jellemző koncentrációkat (maximum vagy átlag) határozunk meg.
+
+A különböző közegek közti szennyezőanyag transzportot a nemzetközileg elfogadott megoszlási egyenletek alkalmazásával számítjuk. A kockázatos anyagok referencia dózisait, meredekségi tényezőit stb. a kockázatbecslési számítást segítő szoftverek (Risc5, RBCAToolKit) adatbázisaiból vettük.
+
+Az elfogadható kumulatív kockázat mértékét, összhangban a hazai gyakorlattal, rákkeltő anyagok esetén 10⁻⁵-ben, az elfogadható kumulatív kockázati hányadost toxikus anyagok esetén 1-ben határozzuk meg.
+
+Jelen tényfeltárás esetében hatósági határozatban foglalt, hatályos „D” kármentesítési célállapot határérték van meghatározva számos komponensre (vö. 2.1.7.3.1. szövegközti táblázat adatait). Az elvégzett tényfeltárás a „D” kármentesítési célállapot határérték eléréséhez szükséges beavatkozás megtervezését célozta, az időközben birtokunkba jutott újabb tények alapján ugyanakkor a hatályos „D” érték felülvizsgálatára lesz szükség.
+
+## 5.12. A FELTÁRT OLDOTT FÁZISÚ SZENNYEZETTSÉG VISELKEDÉSÉNEK VIZSGÁLATA HIDRODINAMIKAI- ÉS TRANSZPORT MODELLEZÉSSEL
+
+Az elvégzett munkák alapján lehetővé, és az eredmények alapján szükségessé vált a 2023 évi szivárgáshidraulikai és transzportmodell felülvizsgálata. A modellezési munkarészről szóló szövegrész külön dokumentációként, az 1. függelékben található.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+86/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 6. AZ ELVÉGZETT MUNKÁLATOK BEMUTATÁSA
+
+A 2023 évi tényfeltárás adatait az illetékes hatóság részére 2023 szeptemberében benyújtott tényfeltárási záródokumentáció tartalmazza részletesen. Ezeket az adatokat külön itt nem tüntetjük fel. Az akkor elvégzett munkálatok közül azon furatok adatait, amelyeknek a további használata a kármentesítés előkészítési munkálatai során szükséges volt a 6.1. szövegközti táblázatban mutatjuk be.
+
+6.1. szövegközti táblázat: A kiegészítő tényfeltárás során felhasznált 2023-ban létesült fúráspontok
+
+|  Vizsgálati pont jele | Vizsgálati pont jele | Vizsgálati pont jele  |
+| --- | --- | --- |
+|  CLRT-01 | CLRT-04 | CLRT-07  |
+|  CLRT-10 | CLRT-14 | CLRT-16  |
+|  CLRT-22 | CLRT-23 | CLRT-24  |
+|  CLRT-25 |  |   |
+
+A 2024-2026 évi kiegészítő tényfeltárás deklarált céljainak teljesítése érdekében részben egymással párhuzamosan, részben egymásra épülve az alábbi munkarészek elvégzésére került sor.
+
+- LNAPL szennyezettség forrásterületének részletes feltárása.
+- Oldott fázisú halogénezett alifás szennyezettség lehatárolása.
+- Halogénezett alifás szennyezettség forrásterületének azonosítása, részletes feltárása.
+- Halogénezett alifás szennyezettség forrásterületének és a területen folytatott tevékenységek, anyaghasználatok összefüggésének feltárása.
+- A halogénezett alifás szennyezettség és a csatornahálózat kapcsolata.
+
+A kiegészítő tényfeltárással egyidejűleg a tényfeltárási szakaszhoz kötötten monitoring tevékenység is zajlott. A PE-06/KTF/60624-9/2023. sz. hatósági határozatban előírt monitoringot a tényfeltárás folyamatába integrálva hajtottuk végre. A továbbiakban az egyes elvégzett munkarészeket részletesen bemutatjuk. A kiegészítő tényfeltárás időben két nagy munkaszakaszra tagolódott, a 2024. június és december között és a 2025. május és 2026. január között elvégzett munkálatok. E bontást alkalmazzuk a következőkben.
+
+### 6.1. TÉNYFELTÁRÁS LÉTESÍTMÉNYEI
+
+A tényfeltárási munkálatok teljes ideje alatt elkészült / felhasznált összesen 210 db fúráspont adatait a 6.1.1. szövegközti táblázatban részletesen bemutatjuk a további tájékozódás megkönnyítése érdekében.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+87/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+6.1.1. szövegközti táblázat: A tényfeltárás teljes időszakában létesült létesítmények alapadatai
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Terep EOMA | Furat mélység | Talp-mélység | Év | Érintett gócterület | Talajmin-tavétel volt | Vízmin-tavétel volt | Olaj FK lehatá-roló | Olaj önálló fázis | Olaj FAV lehatá-roló | PCE FK lehatá-roló | PCE FAV lehatá-roló | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  1 | CLRT-01 | 655552,09 | 247334,26 | 112,42 | 17,00 | 17,00 | 2023 | Olaj | Igen | Igen |  |  |  |  |  |   |
+|  2 | CLRT-02 | 655526,99 | 247354,02 | 112,88 | 17,20 | 17,20 | 2023 | Olaj | Igen | Igen | Igen |  |  |  |  | 2023-ban megszüntetve  |
+|  3 | CLRT-03 | 655487,61 | 247361,82 | 113,68 | 16,00 | 16,00 | 2023 |  | Igen | Igen |  |  |  |  |  | 2023-ban megszüntetve  |
+|  4 | CLRT-04 | 655618,27 | 247327,34 | 112,27 | 16,73 | 16,73 | 2023 |  | Igen | Igen |  |  |  |  | Igen |   |
+|  5 | CLRT-05 | 655562,69 | 247413,75 | 110,24 |  | 8,20 | Régi |  |  | Igen |  |  |  |  |  | Meglévő ásott kút (800 mm)  |
+|  6 | CLRT-06 | 655599,74 | 247292,97 | 112,94 | 10,42 | 10,42 | 2023 |  | Igen | Igen |  |  |  |  |  | 2023-ban megszüntetve  |
+|  7 | CLRT-07 | 655565,59 | 247303,99 | 112,86 | 17,00 | 17,00 | 2023 | Olaj | Igen | Igen | Igen |  |  |  | Igen |   |
+|  8 | CLRT-08 | 655524,33 | 247316,78 | 113,42 | 17,80 | 17,80 | 2023 | Olaj | Igen | Igen |  |  |  |  |  | 2023-ban megszüntetve  |
+|  9 | CLRT-09 | 655493,14 | 247334,40 | 113,52 | 17,40 | 17,40 | 2023 |  | Igen | Igen |  |  |  |  |  | 2023-ban megszüntetve  |
+|  10 | CLRT-10 | 655535,22 | 247294,93 | 113,52 | 18,20 | 18,20 | 2023 | Olaj | Igen | Igen |  |  |  |  |  |   |
+|  11 | CLRT-11 | 655503,27 | 247288,34 | 113,52 | 17,20 | 17,20 | 2023 | Olaj + PCE | Igen | Igen |  |  |  |  |  | 2023-ban megszüntetve  |
+|  12 | CLRT-12 | 655487,35 | 247309,38 | 113,29 | 17,20 | 17,20 | 2023 | PCE | Igen | Igen |  |  |  |  |  | 2023-ban megszüntetve  |
+|  13 | CLRT-13 | 655475,40 | 247323,80 | 113,50 | 3,00 | 3,00 | 2023 |  |  |  |  |  |  |  |  | Fúrás elakadt, kiépítve nem lett  |
+|  14 | CLRT-14 | 655460,75 | 247302,05 | 113,53 | 15,56 | 15,56 | 2023 | PCE | Igen | Igen |  |  |  |  |  |   |
+|  15 | CLRT-15 | 655460,71 | 247261,56 | 113,20 | 15,61 | 15,61 | 2023 | PCE | Igen | Igen |  |  |  |  |  | 2023-ban megszüntetve  |
+|  16 | CLRT-16 | 655485,68 | 247247,30 | 113,23 | 17,00 | 17,00 | 2023 |  | Igen | Igen |  |  |  |  |  |   |
+|  17 | CLRT-17 | 655541,89 | 247429,07 | 110,58 |  | 8,30 | Régi |  |  | Igen |  |  |  |  |  | Meglévő ásott kút (800 mm)  |
+|  18 | CLRT-18 | 655605,02 | 247415,81 | 108,88 |  | 4,97 | Régi |  |  | Igen |  |  |  |  |  | Meglévő ásott kút (1000 mm)  |
+|  19 | CLRT-19 | 655608,36 | 247479,13 | 107,76 | 2,80 | 2,80 | 2023 |  | Igen | Igen |  |  |  |  |  | 2023-ban megszüntetve  |
+|  20 | CLRT-20 | 655602,94 | 247461,53 | 107,62 | 3,00 | 3,00 | 2023 |  | Igen | Igen |  |  |  |  |  | 2023-ban megszüntetve  |
+|  21 | CLRT-21 | 655545,53 | 247257,16 | 113,13 | 3,10 | 3,10 | 2023 |  | Igen | Igen |  |  |  |  |  | 2023-ban megszüntetve  |
+|  22 | CLRT-22 | 655426,84 | 247381,60 | 111,71 | 13,20 | 13,20 | 2023 |  | Igen | Igen |  |  |  |  |  |   |
+|  23 | CLRT-23 | 655484,30 | 247480,85 | 109,85 | 11,00 | 11,00 | 2023 |  | Igen | Igen |  |  |  |  |  |   |
+|  24 | CLRT-24 | 655338,07 | 247184,08 | 112,27 | 17,20 | 17,20 | 2023 |  |  | Igen |  |  |  |  | Igen |   |
+|  25 | CLRT-25 | 655682,68 | 247357,68 | 110,11 | 14,00 | 14,00 | 2023 |  |  | Igen |  |  |  |  | Igen |   |
+|  26 | CLRT-26 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Fúrasa elmaradt  |
+|  27 | CLRT-27 | 655173,75 | 247513,20 | 109,15 | 10,20 | 10,20 | 2023 |  |  | Igen |  |  |  |  |  | 2023-ban megszüntetve  |
+|  28 | CLRT-28 | 655461,48 | 247646,26 | 108,39 | 10,50 | 10,50 | 2023 |  |  | Igen |  |  |  |  |  | 2023-ban megszüntetve  |
+|  29 | CLRT-29 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Fúrasa elmaradt  |
+|  30 | CLRT-30 | 655625,76 | 247106,69 | 113,40 | 13,50 | 12,00 | 2023 |  |  | Igen |  |  |  |  |  | 2023-ban megszüntetve  |
+|  31 | CLRT-31 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Fúrasa elmaradt  |
+|  32 | CLRT-32 | 655475,31 | 247089,76 | 114,10 | 15,70 | 15,50 | 2023 |  |  | Igen |  |  |  |  |  | 2023-ban megszüntetve  |
+|  33 | CLRT-A102 | 655524,30 | 247316,07 | 113,67 | 18,00 | 18,00 | 2025. I. | Olaj | Igen | Igen |  |  |  | Igen |  |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+88/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Terep EOMA | Furat mélység | Talp-mélység | Év | Érintett gócterület | Talajmin-tavétel volt | Vízmin-tavétel volt | Olaj FK lehatá-roló | Olaj önálló fázis | Olaj FAV lehatá-roló | PCE FK lehatá-roló | PCE FAV lehatá-roló | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  34 | CLRT-A103 | 655526,58 | 247354,19 | 113,04 | 17,10 | 17,10 | 2024 | Olaj | Igen | Igen | Igen |  |  |  |  |   |
+|  35 | CLRT-A104 | 655554,29 | 247369,77 | 111,86 | 15,50 | 15,50 | 2025. II. | Olaj | Igen | Igen |  |  |  | Igen | Igen |   |
+|  36 | CLRT-A106 | 655577,99 | 247318,77 | 112,69 | 17,00 | 17,00 | 2024 | Olaj | Igen | Igen | Igen |  |  |  | Igen |   |
+|  37 | CLRT-A107 | 655542,72 | 247287,93 | 112,50 | 17,00 | 17,00 | 2025. II. | Olaj | Igen | Igen |  |  |  |  |  |   |
+|  38 | CLRT-A108 | 655524,70 | 247275,75 | 112,93 | 16,90 | 16,90 | 2025. I. | Olaj + PCE | Igen | Igen |  |  |  |  |  |   |
+|  39 | CLRT-A109 | 655522,02 | 247302,70 | 113,55 | 17,70 | 17,70 | 2024 | Olaj + PCE | Igen | Igen |  |  |  |  |  |   |
+|  40 | CLRT-A110 | 655485,40 | 247304,45 | 113,38 | 17,50 | 17,50 | 2024 | PCE | Igen | Igen |  |  |  |  |  |   |
+|  41 | CLRT-A111 | 655457,28 | 247288,59 | 113,28 | 16,50 | 16,50 | 2024 | PCE | Igen | Igen |  |  |  |  |  |   |
+|  42 | CLRT-A112 | 655424,52 | 247286,39 | 112,32 | 14,70 | 14,70 | 2024 | PCE | Igen | Igen |  |  |  |  |  |   |
+|  43 | CLRT-A113 | 655441,67 | 247325,38 | 111,90 | 14,50 | 14,50 | 2024 | PCE | Igen | Igen |  |  |  |  |  |   |
+|  44 | CLRT-A114 | 655406,97 | 247343,18 | 111,97 | 13,60 | 13,60 | 2024 |  | Igen | Igen |  |  |  |  |  |   |
+|  45 | CLRT-A115 | 655461,91 | 247349,80 | 112,19 | 14,20 | 14,20 | 2024 |  | Igen | Igen |  |  |  |  |  |   |
+|  46 | CLRT-A116 | 655482,18 | 247330,81 | 113,67 | 17,20 | 17,20 | 2024 | PCE | Igen | Igen |  |  |  |  |  |   |
+|  47 | CLRT-A117 | 655438,08 | 247371,82 | 111,89 | 13,50 | 13,50 | 2024 |  | Igen | Igen |  |  |  |  |  |   |
+|  48 | CLRT-A118 | 655329,64 | 247337,72 | 112,57 | 16,50 | 16,50 | 2024 |  | Igen | Igen |  |  |  | Igen |  |   |
+|  49 | CLRT-A119 | 655370,66 | 247407,02 | 111,68 | 14,20 | 14,20 | 2024 |  | Igen | Igen |  |  |  |  |  |   |
+|  50 | CLRT-A120 | 655408,29 | 247459,04 | 111,61 | 14,00 | 14,00 | 2024 |  | Igen | Igen |  |  |  | Igen |  |   |
+|  51 | CLRT-A121 | 655490,34 | 247557,05 | 109,31 | 10,50 | 10,50 | 2025. I. |  | Igen | Igen |  |  |  |  |  |   |
+|  52 | CLRT-A122 | 655598,33 | 247404,39 | 109,22 | 16,00 | 16,00 | 2024 |  | Igen | Igen |  |  |  |  | Igen |   |
+|  53 | CLRT-A123 | 655607,86 | 247280,67 | 113,16 | 16,00 | 16,00 | 2024 |  | Igen | Igen |  |  |  |  | Igen |   |
+|  54 | CLRT-A124 | 655487,95 | 247193,36 | 113,44 | 16,50 | 16,50 | 2024 |  | Igen | Igen |  |  |  |  | Igen |   |
+|  55 | CLRT-A201 | 655491,18 | 247290,79 | 113,22 | 17,50 | 17,50 | 2025. I. | PCE | Igen | Igen |  |  |  |  |  |   |
+|  56 | CLRT-A202 | 655490,43 | 247369,08 | 113,48 | 16,00 | 16,00 | 2025. I. |  | Igen | Igen |  |  |  | Igen |  |   |
+|  57 | CLRT-A203 | 655528,64 | 247255,98 | 112,73 | 17,00 | 17,00 | 2025. II. |  | Igen | Igen |  |  |  |  |  |   |
+|  58 | CLRT-A204 | 655523,11 | 247390,89 | 111,93 | 15,00 | 15,00 | 2025. II. |  | Igen | Igen |  |  |  |  |  |   |
+|  59 | CLRT-A205 | 655484,36 | 247395,03 | 112,80 | 15,00 | 15,00 | 2025. I. |  | Igen | Igen |  |  |  |  |  |   |
+|  60 | CLRT-A206 | 655454,53 | 247267,82 | 113,35 | 15,50 | 15,50 | 2025. I. | PCE | Igen | Igen |  |  |  | Igen |  |   |
+|  61 | CLRT-A207 | 655456,70 | 247252,91 | 113,39 | 15,80 | 15,80 | 2025. I. |  | Igen | Igen |  |  |  |  |  |   |
+|  62 | CLRT-A208 | 655516,26 | 247229,27 | 112,88 | 17,00 | 17,00 | 2025. II. |  | Igen | Igen |  |  |  |  |  |   |
+|  63 | CLRT-A209 | 655389,37 | 247236,64 | 112,98 | 16,50 | 16,50 | 2025. I. |  | Igen | Igen |  |  |  |  | Igen |   |
+|  64 | CLRT-A210 | 655365,17 | 247297,60 | 112,33 | 15,30 | 15,30 | 2025. I. |  | Igen | Igen |  |  |  |  | Igen |   |
+|  65 | CLRT-A211 | 655451,69 | 247428,94 | 111,86 | 13,50 | 13,50 | 2025. I. |  | Igen | Igen |  |  |  |  |  |   |
+|  66 | CLRT-A212 | 655508,17 | 247430,98 | 111,66 | 13,50 | 13,50 | 2025. I. |  | Igen | Igen |  |  |  |  |  |   |
+|  67 | CLRT-A213 | 655563,29 | 247432,27 | 109,84 | 13,30 | 13,30 | 2025. II. |  | Igen | Igen |  |  |  |  | Igen |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+89/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Terep EOMA | Furat mélység | Talp-mélység | Év | Érintett gócterület | Talajmin-tavétel volt | Vízmin-tavétel volt | Olaj FK lehatá-roló | Olaj önálló fázis | Olaj FAV lehatá-roló | PCE FK lehatá-roló | PCE FAV lehatá-roló | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  68 | CLRT-A215 | 655620,82 | 247219,13 | 113,70 | 16,50 | 16,50 | 2025. I. |  | Igen | Igen |  |  |  |  | Igen |   |
+|  69 | CLRT-A216 | 655568,44 | 247204,50 | 113,40 | 17,00 | 17,00 | 2025. I. |  | Igen | Igen |  |  |  |  | Igen |   |
+|  70 | CLRT-A217 | 655302,00 | 247281,75 | 113,34 | 16,80 | 16,80 | 2025. I. |  | Igen | Igen |  |  |  |  | Igen |   |
+|  71 | CLRT-A218 | 655258,03 | 247373,59 | 111,67 | 15,80 | 15,80 | 2025. II. |  | Igen | Igen |  |  |  |  |  |   |
+|  72 | CLRT-A219 | 655251,67 | 247479,12 | 108,93 | 12,30 | 12,30 | 2025. II. |  | Igen | Igen |  |  |  |  |  |   |
+|  73 | CLRT-A220 | 655334,84 | 247532,69 | 109,61 | 13,00 | 13,00 | 2025. II. |  | Igen | Igen |  |  |  |  |  |   |
+|  74 | CLRT-A221 | 655435,97 | 247514,14 | 109,53 | 10,80 | 10,80 | 2025. I. |  | Igen | Igen |  |  |  |  |  |   |
+|  75 | CLRT-A224 | 655569,57 | 247278,84 | 113,24 | 17,50 | 17,50 | 2025. I. | Olaj | Igen | Igen |  |  |  | Igen |  |   |
+|  76 | CLRT-A225 | 655542,80 | 247474,10 | 109,50 | 12,00 | 12,00 | 2025. I. |  | Igen | Igen |  |  |  |  |  |   |
+|  77 | CLRT-A226 | 655434,62 | 247293,20 | 112,27 | 15,00 | 15,00 | 2025. I. |  | Igen | Igen |  |  |  |  |  |   |
+|  78 | CLRT-A227 | 655460,96 | 247315,22 | 113,64 | 16,00 | 16,00 | 2025. I. | PCE | Igen | Igen |  |  |  |  |  |   |
+|  79 | CLRT-A228 | 655130,49 | 247340,77 | 112,58 | 16,50 | 16,50 | 2025. II. |  |  | Igen |  |  |  |  | Igen |   |
+|  80 | CLRT-A229 | 655099,64 | 247573,69 | 108,86 | 9,30 | 9,30 | 2025. II. |  |  | Igen |  |  |  |  |  |   |
+|  81 | CLRT-A230 | 655229,52 | 247701,05 | 108,08 | 7,50 | 7,50 | 2025. II. |  |  | Igen |  |  |  |  |  |   |
+|  82 | CLRT-A231 | 247919,71 | 654867,55 | 108,01 | 8,50 | 8,50 | 2025. II. |  |  | Igen |  |  |  |  |  |   |
+|  83 | CLRT-A232 | 247912,50 | 655190,67 | 108,22 | 9,00 | 9,00 | 2025. II. |  |  | Igen |  |  |  |  | Igen |   |
+|  84 | CLRT-A233 | 247582,50 | 654951,18 | 108,45 | 7,50 | 7,50 | 2025. II. |  |  | Igen |  |  |  |  |  |   |
+|  85 | CLRT-F01 | 655549,53 | 247335,16 | 112,44 | 9,00 | 9,00 | 2024 | Olaj | Igen | Igen |  | Igen |  |  |  |   |
+|  86 | CLRT-F04 | 655619,70 | 247326,25 | 112,28 | 9,00 | 9,00 | 2025. II. |  |  | Igen |  |  |  |  | Igen |   |
+|  87 | CLRT-F07 | 655566,57 | 247303,28 | 112,76 | 9,00 | 9,00 | 2025. I. | Olaj | Igen | Igen |  |  |  | Igen | Igen |   |
+|  88 | CLRT-F14 | 655461,92 | 247301,60 | 113,47 | 9,00 | 9,00 | 2025. I. | PCE | Igen | Igen |  |  |  |  |  |   |
+|  89 | CLRT-F16 | 655484,81 | 247247,68 | 113,27 | 9,00 | 9,00 | 2025. I. |  | Igen | Igen |  |  |  |  |  |   |
+|  90 | CLRT-F101 | 655543,46 | 247313,02 | 113,58 | 9,00 | 9,00 | 2024 | Olaj | Igen | Igen |  | Igen |  |  |  |   |
+|  91 | CLRT-F102 | 655523,32 | 247316,95 | 113,69 | 9,00 | 9,00 | 2024 | Olaj | Igen | Igen |  |  |  |  |  |   |
+|  92 | CLRT-F103 | 655527,79 | 247353,41 | 113,01 | 9,00 | 9,00 | 2024 |  |  | Igen | Igen |  |  |  |  |   |
+|  93 | CLRT-F104 | 655555,36 | 247368,79 | 111,87 | 9,00 | 9,00 | 2024 | Olaj | Igen | Igen | Igen |  |  |  |  |   |
+|  94 | CLRT-F105 | 655578,62 | 247343,94 | 112,30 | 9,00 | 9,00 | 2024 |  | Igen | Igen | Igen |  |  |  |  |   |
+|  95 | CLRT-F106 | 655579,36 | 247317,83 | 112,65 | 9,00 | 9,00 | 2024 |  |  | Igen |  |  |  |  | Igen |   |
+|  96 | CLRT-F107 | 655541,85 | 247286,19 | 112,50 | 9,00 | 9,00 | 2024 | Olaj | Igen | Igen |  |  |  |  |  |   |
+|  97 | CLRT-F108 | 655524,00 | 247275,97 | 112,89 | 9,00 | 9,00 | 2024 | Olaj + PCE | Igen | Igen | Igen |  |  |  |  |   |
+|  98 | CLRT-F109 | 655521,24 | 247302,81 | 113,51 | 9,40 | 9,40 | 2024 | Olaj |  | Igen |  | Igen |  |  |  |   |
+|  99 | CLRT-F110 | 655485,86 | 247303,41 | 113,38 | 9,30 | 9,30 | 2024 |  |  | Igen |  |  |  |  |  |   |
+|  100 | CLRT-F111 | 655457,61 | 247289,72 | 113,29 | 9,50 | 9,50 | 2024 |  |  | Igen |  |  |  |  |  |   |
+|  101 | CLRT-F112 | 655424,98 | 247287,43 | 112,26 | 9,00 | 9,00 | 2025. I. |  | Igen | Igen |  |  |  | Igen |  |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+90/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Terep EOMA | Furat mélység | Talp-mélység | Év | Érintett gócterület | Talajmin-tavétel volt | Vízmin-tavétel volt | Olaj FK lehatá-roló | Olaj önálló fázis | Olaj FAV lehatá-roló | PCE FK lehatá-roló | PCE FAV lehatá-roló | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  102 | CLRT-F113 | 655441,12 | 247324,14 | 111,85 | 9,50 | 9,50 | 2024 |  |  | Igen |  |  |  |  |  |   |
+|  103 | CLRT-F114 | 655407,61 | 247344,62 | 111,90 | 9,20 | 9,20 | 2025. I. |  | Igen | Igen |  |  |  |  |  |   |
+|  104 | CLRT-F115 | 655462,36 | 247351,03 | 112,22 | 9,50 | 9,50 | 2025. I. |  | Igen | Igen |  |  |  |  |  |   |
+|  105 | CLRT-F116 | 655482,88 | 247329,15 | 113,63 | 10,00 | 10,00 | 2025. I. | PCE | Igen | Igen |  |  |  |  |  |   |
+|  106 | CLRT-F117 | 655438,70 | 247372,71 | 111,85 | 8,50 | 8,50 | 2025. I. |  | Igen | Igen |  |  |  |  |  |   |
+|  107 | CLRT-F119 | 655371,06 | 247407,78 | 111,71 | 9,00 | 9,00 | 2025. II. |  |  | Igen |  |  |  |  |  |   |
+|  108 | CLRT-F122 | 655599,22 | 247403,61 | 109,22 | 7,00 | 7,00 | 2025. II. |  |  | Igen |  |  |  |  | Igen |   |
+|  109 | CLRT-F123 | 655621,60 | 247269,21 | 112,98 | 9,00 | 9,00 | 2025. I. |  |  | Igen |  |  |  |  | Igen |   |
+|  110 | CLRT-F201 | 655491,99 | 247289,72 | 113,24 | 9,00 | 9,00 | 2025. I. |  |  | Igen |  |  |  |  |  |   |
+|  111 | CLRT-F202 | 655490,43 | 247369,08 | 113,48 | 10,00 | 10,00 | 2025. I. |  |  | Igen |  |  |  |  |  |   |
+|  112 | CLRT-F203 | 655526,93 | 247252,56 | 112,75 | 9,50 | 9,50 | 2025. II. |  |  | Igen |  |  |  |  |  |   |
+|  113 | CLRT-F204 | 655521,90 | 247391,55 | 111,93 | 8,50 | 8,50 | 2025. II. |  |  | Igen |  |  |  |  |  |   |
+|  114 | CLRT-F205 | 655485,08 | 247394,54 | 112,87 | 8,80 | 8,80 | 2025. I. |  |  | Igen |  |  |  |  |  |   |
+|  115 | CLRT-F206 | 655454,14 | 247267,14 | 113,39 | 9,30 | 9,30 | 2025. I. |  |  | Igen |  |  |  |  |  |   |
+|  116 | CLRT-F207 | 655457,08 | 247253,54 | 113,40 | 9,00 | 9,00 | 2025. I. |  |  | Igen |  |  |  |  |  |   |
+|  117 | CLRT-F208 | 655515,67 | 247228,03 | 112,88 | 10,00 | 10,00 | 2025. II. |  |  | Igen |  |  |  |  |  |   |
+|  118 | CLRT-F210 | 655364,57 | 247298,03 | 112,36 | 9,70 | 9,70 | 2025. I. |  |  | Igen |  |  |  |  | Igen |   |
+|  119 | CLRT-F212 | 655507,76 | 247430,55 | 111,71 | 8,00 | 8,00 | 2025. I. |  |  | Igen |  |  |  |  |  |   |
+|  120 | CLRT-F213 | 655564,22 | 247431,51 | 109,82 | 7,00 | 7,00 | 2025. II. |  |  | Igen |  |  |  |  | Igen |   |
+|  121 | CLRT-F214 | 655643,90 | 247376,87 | 109,07 | 7,00 | 7,00 | 2025. II. |  |  | Igen |  |  |  |  | Igen |   |
+|  122 | CLRT-F215 | 655621,72 | 247218,52 | 113,73 | 9,00 | 9,00 | 2025. I. |  |  | Igen |  |  |  |  | Igen |   |
+|  123 | CLRT-F216 | 655569,21 | 247204,75 | 113,36 | 10,00 | 10,00 | 2025. I. |  |  | Igen |  |  |  |  | Igen |   |
+|  124 | CLRT-F221 | 655435,50 | 247513,01 | 109,56 | 7,00 | 7,00 | 2025. II. |  |  | Igen |  |  |  |  |  |   |
+|  125 | CLRT-F224 | 655569,98 | 247279,49 | 113,25 | 10,00 | 10,00 | 2025. I. |  |  | Igen |  |  |  |  |  |   |
+|  126 | CLRT-F226 | 655434,30 | 247292,39 | 112,27 | 8,70 | 8,70 | 2025. I. |  |  | Igen |  |  |  |  |  |   |
+|  127 | CLRT-F227 | 655460,07 | 247314,05 | 113,60 | 11,00 | 11,00 | 2025. I. |  |  | Igen |  |  |  |  |  |   |
+|  128 | CLRT-F228 | 655130,45 | 247340,76 | 112,53 | 9,00 | 9,00 | 2025. II. |  |  | Igen |  |  |  |  | Igen |   |
+|  129 | CLRT-F229 | 655100,50 | 247574,35 | 108,81 | 5,00 | 5,00 | 2025. II. |  |  | Igen |  |  |  |  |  |   |
+|  130 | CLRT-F230 | 655229,58 | 247701,06 | 108,06 | 4,50 | 4,50 | 2025. II. |  |  | Igen |  |  |  |  |  |   |
+|  131 | CLRT-GK-1-1 | 655489,15 | 247298,92 | 113,19 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  132 | CLRT-GK-1-2 | 655491,63 | 247296,99 | 113,13 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  133 | CLRT-GK-2-1 | 655487,63 | 247296,34 | 113,18 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  134 | CLRT-GK-2-2 | 655490,32 | 247294,78 | 113,13 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  135 | CLRT-GK-2-3 | 655492,78 | 247293,27 | 113,01 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+91/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Terep EOMA | Furat mélység | Talp-mélység | Év | Érintett gócterület | Talajmin-tavétel volt | Vízmin-tavétel volt | Olaj FK lehatá-roló | Olaj önálló fázis | Olaj FAV lehatá-roló | PCE FK lehatá-roló | PCE FAV lehatá-roló | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  136 | CLRT-GK-2-4 | 655495,32 | 247291,76 | 113,08 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  137 | CLRT-GK-2-10 | 655485,09 | 247297,93 | 113,17 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  138 | CLRT-GK-2-11 | 655482,54 | 247299,56 | 113,23 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  139 | CLRT-GK-3-1 | 655486,01 | 247293,81 | 113,23 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  140 | CLRT-GK-3-2 | 655488,58 | 247292,32 | 113,21 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  141 | CLRT-GK-3-4 | 655493,70 | 247289,24 | 113,11 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  142 | CLRT-GK-3-5 | 655496,49 | 247287,86 | 113,05 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  143 | CLRT-GK-3-10 | 655483,24 | 247295,36 | 113,21 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  144 | CLRT-GK-3-11 | 655480,84 | 247297,04 | 113,25 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  145 | CLRT-GK-3-12 | 655478,25 | 247298,54 | 113,26 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  146 | CLRT-GK-3-13 | 655475,76 | 247300,03 | 113,23 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  147 | CLRT-GK-4-1 | 655483,90 | 247291,60 | 113,26 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  148 | CLRT-GK-4-2 | 655486,39 | 247290,03 | 113,24 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  149 | CLRT-GK-4-3 | 655489,62 | 247288,23 | 113,23 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  150 | CLRT-GK-4-10 | 655480,83 | 247293,03 | 113,24 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  151 | CLRT-GK-4-11 | 655477,98 | 247294,28 | 113,24 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  152 | CLRT-GK-5-1 | 655482,96 | 247288,74 | 113,25 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  153 | CLRT-GK-5-2 | 655485,39 | 247287,11 | 113,27 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  154 | CLRT-GK-5-10 | 655480,13 | 247290,21 | 113,20 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  155 | CLRT-GK-5-11 | 655475,31 | 247293,22 | 113,27 | 8,00 | 8,00 | 2025. I. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  156 | CLRT-GKM-01 | 655479,60 | 247286,20 | 113,20 | 16,00 | 16,00 | 2025. II. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  157 | CLRT-GKM-02 | 655492,80 | 247282,80 | 113,20 | 16,70 | 16,70 | 2025. II. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  158 | CLRT-GKM-03 | 655501,20 | 247286,00 | 113,20 | 17,00 | 17,00 | 2025. II. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  159 | CLRT-GKM-04 | 655495,90 | 247296,40 | 113,20 | 16,40 | 16,40 | 2025. II. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  160 | CLRT-GKM-05 | 655481,70 | 247302,30 | 113,20 | 16,40 | 16,40 | 2025. II. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  161 | CLRT-GKM-06 | 655473,20 | 247291,70 | 113,20 | 15,70 | 15,70 | 2025. II. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  162 | CLRT-GKM-07 | 655487,30 | 247293,10 | 113,20 | 16,40 | 16,40 | 2025. II. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  163 | CLRT-GKM-08 | 655483,30 | 247295,30 | 113,20 | 16,20 | 16,20 | 2025. II. | PCE | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  164 | CLRT-OG-01 | 655542,40 | 247346,30 | 112,58 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  165 | CLRT-OG-02 | 655549,30 | 247341,88 | 112,44 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  166 | CLRT-OG-03 | 655553,19 | 247339,33 | 112,39 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  167 | CLRT-OG-04 | 655558,11 | 247336,01 | 112,41 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  168 | CLRT-OG-05 | 655558,91 | 247332,58 | 112,49 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  169 | CLRT-OG-06 | 655556,43 | 247327,16 | 112,68 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+92/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Terep EOMA | Furat mélység | Talp-mélység | Év | Érintett gócterület | Talajmin-tavétel volt | Vízmin-tavétel volt | Olaj FK lehatá-roló | Olaj önálló fázis | Olaj FAV lehatá-roló | PCE FK lehatá-roló | PCE FAV lehatá-roló | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  170 | CLRT-OG-07 | 655554,29 | 247322,48 | 112,89 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  171 | CLRT-OG-08 | 655551,62 | 247316,85 | 113,12 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  172 | CLRT-OG-09 | 655548,76 | 247311,13 | 113,33 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  173 | CLRT-OG-10 | 655545,85 | 247305,26 | 113,37 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  174 | CLRT-OG-11 | 655542,58 | 247299,41 | 113,30 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  | Igen |  |  |  |  | Eltömedékelve mintavétel után  |
+|  175 | CLRT-OG-12 | 655539,52 | 247293,60 | 113,16 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  | Igen |  |  |  |  | Eltömedékelve mintavétel után  |
+|  176 | CLRT-OG-13 | 655537,82 | 247290,84 | 113,07 | 9,00 | 9,00 | 2025. II. | Olaj + PCE | Igen |  | Igen |  |  |  |  | Eltömedékelve mintavétel után  |
+|  177 | CLRT-OG-14 | 655532,60 | 247289,57 | 113,15 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  | Igen |  |  |  |  | Eltömedékelve mintavétel után  |
+|  178 | CLRT-OG-15 | 655515,46 | 247287,02 | 113,39 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  179 | CLRT-OG-16 | 655507,57 | 247288,57 | 113,15 | 17,20 | 17,20 | 2025. II. | Olaj + PCE | Igen | Igen |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  180 | CLRT-OG-17 | 655502,40 | 247295,00 | 113,18 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  | Igen |  |  |  |  | Eltömedékelve mintavétel után  |
+|  181 | CLRT-OG-18 | 655502,60 | 247301,60 | 113,27 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  | Igen |  |  |  |  | Eltömedékelve mintavétel után  |
+|  182 | CLRT-OG-19 | 655504,38 | 247309,55 | 113,42 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  | Igen |  |  |  |  | Eltömedékelve mintavétel után  |
+|  183 | CLRT-OG-20 | 655509,67 | 247320,30 | 113,55 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  184 | CLRT-OG-21 | 655519,22 | 247328,76 | 113,44 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  | Igen |  |  |  |  | Eltömedékelve mintavétel után  |
+|  185 | CLRT-OG-22 | 655527,68 | 247334,68 | 113,20 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  186 | CLRT-OG-23 | 655535,15 | 247340,78 | 112,88 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  187 | CLRT-OG-24 | 655528,54 | 247325,77 | 113,33 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  188 | CLRT-OG-25 | 655519,16 | 247318,06 | 113,62 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  | Igen |  |  |  |  | Eltömedékelve mintavétel után  |
+|  189 | CLRT-OG-26 | 655515,54 | 247309,20 | 113,56 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  190 | CLRT-OG-27 | 655539,93 | 247332,26 | 112,93 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  191 | CLRT-OG-28 | 655536,60 | 247322,89 | 113,30 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  192 | CLRT-OG-29 | 655533,82 | 247310,41 | 113,58 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  193 | CLRT-OG-30 | 655524,13 | 247311,54 | 113,66 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  194 | CLRT-OG-31 | 655521,72 | 247295,38 | 113,45 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  195 | CLRT-OG-32 | 655532,54 | 247302,97 | 113,57 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  196 | CLRT-OG-33 | 655530,36 | 247295,23 | 113,46 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  197 | CLRT-OG-34 | 655547,20 | 247328,40 | 112,83 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  198 | CLRT-OG-35 | 655544,30 | 247321,50 | 113,20 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  199 | CLRT-OG-36 | 655512,79 | 247298,68 | 113,36 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  200 | CLRT-OG-37 | 655563,12 | 247333,61 | 112,47 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  201 | CLRT-OG-38 | 655561,30 | 247328,20 | 112,61 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  202 | CLRT-OG-39 | 655559,03 | 247323,41 | 112,76 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  203 | CLRT-OG-40 | 655556,54 | 247318,14 | 112,95 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+93/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Terep EOMA | Furat mélység | Talp-mélység | Év | Érintett gócterület | Talajmin-tavétel volt | Vízmin-tavétel volt | Olaj FK lehatá-roló | Olaj önálló fázis | Olaj FAV lehatá-roló | PCE FK lehatá-roló | PCE FAV lehatá-roló | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  204 | CLRT-OG-41 | 655553,54 | 247312,52 | 113,13 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  205 | CLRT-OG-42 | 655551,27 | 247306,70 | 113,21 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  | Igen |  |  |  |  | Eltömedékelve mintavétel után  |
+|  206 | CLRT-OG-43 | 655547,83 | 247300,72 | 113,19 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  | Igen |  |  |  |  | Eltömedékelve mintavétel után  |
+|  207 | CLRT-OG-44 | 655565,30 | 247339,30 | 112,35 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  208 | CLRT-OG-45 | 655558,40 | 247341,20 | 112,34 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  209 | CLRT-OG-46 | 655553,50 | 247344,30 | 112,33 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+|  210 | CLRT-OG-47 | 655547,10 | 247346,40 | 112,47 | 9,00 | 9,00 | 2025. II. | Olaj | Igen |  |  |  |  |  |  | Eltömedékelve mintavétel után  |
+
+# Jelmagyarázat
+
+EOV: Egységes Országos Vetület
+
+EOMA: Egységes Országos Magassági Alaphálózat
+
+FK: Földtani Közeg
+
+FAV: Felszín Alatti Víz
+
+Olaj: Olajszármazék (TPH, BTEX, PAH) szennyezettség
+
+PCE: Perklór-etén (tetraklór-etén) szennyezettség
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+94/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 6.2. KÖZMŰEGYEZTETÉSEK
+
+A 2023 évi vizsgálatok során nyert tapasztalatok alapján számítani lehetett arra, hogy a Szövőgyár utca környezete a szűk utcák és a számos közmű miatt hosszadalmas közműegyeztetésre szükséges készülni. Ezért a 2024 és 2025 évi munkálatok úgy lettek megtervezve, hogy a közterületi munkálatok előkészítésével párhuzamosan a belső ingatlanokon (volt gyártelep, Leánynevelő Intézet, lakosság, intézmények) szükséges munkálatokat is lefolytattuk.
+
+A 2024 évi közterületi munkálatokhoz kapcsolódó engedélyezési munkálatokat 2024. július 14. és 2024. október 2. napok között folytattuk le, ugyanez 2025-ben 2025. június 17. és 2025. szeptember 2. között zajlott első körben. Utóbbi munkaszakasz során szükséges volt többször kiegészítő engedélyt is kérni 2025. október-december hónapokban, végső lehatároló furatok létesítése érdekében.
+
+A területen jelenlévő közműhálózatokat az alábbi szervezetek üzemeltetik, feltüntetve, hogy az engedélyeket mikor adták meg:
+
+6.2.1. szövegközti táblázat: A tényfeltárás során igénybe vett közterületeken található közművek üzemeltetői
+
+|  # | Közműhálózat megnevezése | Közműhálózat üzemeltetője | Engedély megadása 2024-ben | Engedély megadása 2025-ben  |
+| --- | --- | --- | --- | --- |
+|  1 | Földgáz | MVM Főgáz Földgázhálózati Kft. | 2024.09.20 | 2025.08.22 2025.10.16 2025.12.05  |
+|  2 | Csatorna | Fővárosi Csatornázási Művek ZRt. | 2024.09.17 | 2025.08.28 2025.10.04 2025.12.08  |
+|  3 | Csapvíz | Fővárosi Vízművek Zrt. | 2024.09.23 | 2025.08.26 2025.10.10 2025.12.08  |
+|  4 | Telefon / Internet | Magyar Telekom Távközlési NyRt. | 2024.09.17 | - 2025.10.06 2025.12.02  |
+|  5 | Villany | ELMŰ Hálózati Kft. | 2024.10.02 | 2025.09.02 2025.10.07 2025.12.02  |
+|  6 | Közút | Budapest Közút Zrt. | 2024.09.19 | 2025.08.21 - -  |
+|  7 | Közvilágítás | BDK Budapesti Dísz- és Közvilágítási Kft. | 2024.09.17 | 2025.08.18 2025.10.06 -  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+95/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Közműhálózat megnevezése | Közműhálózat üzemeltetője | Engedély megadása 2024-ben | Engedély megadása 2025-ben  |
+| --- | --- | --- | --- | --- |
+|  8 | Telefon / Internet | D-Infrastruktúra Távközlési Kft. | - | 2025.09.01 - -  |
+|  9 | Telefon / Internet | 2Connect Távközlési Infrastruktúra és Hálózati Szolgáltatások Kft. | - | - - 2025.12.08  |
+|  10 | Vasút | Magyar Államvasutak Zrt. | - | - - 2025.12.02  |
+
+A közművek egyeztetése során a Csatornázási Művek részére jeleztük, hogy az utcai hálózat részletesebb vizsgálatára lenne szükség, melyhez az infrastruktúra üzemeltető jelentős műszaki segítséget biztosított. Az ezzel kapcsolatos részleteket a 6.12. fejezetben mutatjuk be.
+
+### 6.3. FÚRÁSI MUNKÁK
+
+A kiegészítő tényfeltárás során a terepi munkálatokat a lehatárolás megalapozottságának biztosítása érdekében több ütemre osztva hajtottuk végre. A 2024. évi fúrási munkálatok és talajmintavételek 2024. augusztus 7. és szeptember 11., majd október 17-28. között történtek. A 2024-es évben összesen 30 db furat létesült 385,4 fm hosszban.
+
+2025-2026 évben az oldott fázisú csóva lehatárolása négy ütemben 2025. május 15.-2026. január 21.-ig (2025. május 15- augusztus 05; 2025. szeptember 23.- október 09; 2025. december 03- 18 és 2026. január 19-21), az LNAPL forrásterület részletes megkutatása 2025.október 30.-tól, november 27.-ig, a DNAPL gócterület részletes vizsgálata két ütemben 2025. augusztus 13-augusztus 25.-ig, majd 2025. november 26 december 2-ig történt.
+
+A tényfeltárás 2025-2026 közötti időszakában végül összesen 148 db furat létesült 1558,0 fm hosszban.
+
+A kiegészítő tényfeltárás teljes időszakában 2024 augusztusától 2026 januárjáig végül összesen 178 furat létesült 1943,40 fm hosszban.
+
+#### 6.3.1. FÖLDTANI KÖZEG MINTAVÉTELE
+
+A tényfeltárás során a földtani közeg mintavétele minden létesített furatból alapértelmezésben méterenként történt. Ezen felül mintavétel történt a vízadó és a fekü határáról, valamint mindazon mélységekből, ahol a terep észlelés ezt indokolta. Az oldott fázisú szennyezettség
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+96/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+vizsgálatára létesített objektumokból elvégzett földtani közeg mintavételi helyek a 2.2 ábrán láthatók. Ebben a feladatban mindösszesen 947 db minta lett vételezve, melyből 600 db került vizsgálatra.
+
+Különálló feladatként történt meg a halogénezett alifás szénhidrogén szennyezettség forrásterületének vizsgálata. A halogénezett alifás forrásterület részletes vizsgálatára szolgáló pontok a 2.3 ábrán láthatóak. Ebben a feladatban mindösszesen 325 db minta lett vételezve, melyből 320 db került vizsgálatra.
+
+Az LNAPL gócterületek a korábban elvégzett tényfeltárási szakaszokban is ismertek voltak. Az egykori szövőgyári ingatlanon ugyanakkor lakóingatlan funkciót létrehozó ingatlanfejlesztés tervezett, ezért a kockázati viszonyok tisztázása érdekében a forrásterület részletes vizsgálata vált indokolttá. Az LNAPL forrásterület részletes vizsgálatára szolgáló pontok a 2.4 ábrán láthatóak. Ebben a feladatrészben mindösszesen 452 db minta lett vételezve, melyből 443 db került vizsgálatra.
+
+A földtani közeg mintavételi jegyzőkönyveket és a fúrási jegyzőkönyveket a 3. melléklet tartalmazza.
+
+### 6.3.2. VÍZMINTAVÉTELI PONTOK LÉTESÍTÉSE
+
+A munkaszakaszok során létesült mintavételi objektumok közül az oldott fázisú szennyezettség vizsgálatára szolgáló objektumok kialakítása ideiglenes jelleggel, de többszöri mintavételre alkalmas módon történt, oly módon, hogy a későbbiek során a megfelelő furatok monitoring kúttá legyenek alakíthatók. Az egykori szövőgyári ingatlanon kívül (más ingatlanon, közterületen) létesült furatok felszíni védelmét kútfejjel, vagy terepszintbe süllyesztett kútfejaknával oldottuk meg. Néhány pont esetében a kútfej beépítése az időjárási körülmények miatt csak 2026. I. félév folyamán tudott megvalósulni. Az egyes ütemekhez tartozó furatokat 6.1.1. szövegközti táblázatban jelöltük, pl. a 2024 évi munkálatok során létesítetteket „2024” jelöléssel ellátva mutatjuk be.
+
+A jelen munkaszakaszban a mintavételek helyét a 2.5. ábra mutatja be és az alábbi táblázatban bemutatott ingatlanokon helyezkednek el.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+97/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**6.3.2.1. szövegközi táblázat.** Azon ingatlanok azonosítása, amelyeken a tényfeltárási munkálatok során furat létesült és a rajta elhelyezkedő furatból mintavétel is történt.
+
+|  Helyrajzi szám | Cím (1151 Budapest/1046 Budapest) Tulajdonos / vagyonkezelő / egyéb jogosult | Kapcsolódó furatok azonosító jele  |
+| --- | --- | --- |
+|  76334/7 | *IV. kerület, Szilágyi utca 30.* Bp., IV. ker. Újpest Önkormányzata | CLRT-A231, CLRT-A233  |
+|  88053 | *XV. kerület, Géza fejedelem tér* Bp., XV. ker. Önkormányzat | CLRT-F228, CLRT-A228  |
+|  (88081) | *XV. kerület, Győztes utca* Bp., XV. ker. Önkormányzat | CLRT-A218  |
+|  (88090) | *XV. kerület, Győztes utca* Bp., XV. ker. Önkormányzat | CLRT-F229, CLRT-A229  |
+|  (88131) | *XV. kerület, Győztes utca* Bp., XV. ker. Önkormányzat | CLRT-A219  |
+|  (88152) | *XV. kerület, Ferenczy Sándor utca* Bp., XV. ker. Önkormányzat | CLRT-A220  |
+|  (88173) | *XV. kerület, Győzelem utca* Bp., XV. ker. Önkormányzat | CLRT-F230, CLRT-A230  |
+|  88193/3 | *XV. kerület, Kovácsi Kálmán tér* Bp., XV. ker. Önkormányzat | CLRT-A232  |
+|  88266/1 | *XV. kerület, Anyácska utca 3.* Pocsainé Ölveczki Anita Ilona | CLRT-A121  |
+|  88276 | *XV. kerület, Anyácska utca 19.* Tóthné Németh Katalin, Tóth Réka | CLRT-A225  |
+|  88294 | *XV. kerület, Énekes utca 16/a.* Gerberné Juhász Andrea, Gerber Balázs | CLRT-25  |
+|  (88309) | *XV. kerület, Anyácska utca* Bp., XV. ker. Önkormányzat | CLRT-F122, CLRT-A122, CLRT-F213, CLRT-A213, CLRT-F214  |
+|  88311 | *XV. kerület, Pozsonyi utca 36.* Tulajdonos: Magyar Állam Tulajdonosi jogokat gyakorló szervezet: Magyar Nemzeti Vagyonkezelő Zrt.; Vagyonkezelő: Szociális és Gyermekvédelmi Főigazgatóság | CLRT-22, CLRT-23, CLRT-24, CLRT-F-A112, CLRT-F-A113, CLRT-F-A113, CLRT-F-A114, CLRT-F-A115, CLRT-F-A117, CLRT-A118, CLRT-F-A119, CLRT-A120, CLRT-F-A205, CLRT-A209, CLRT-F-A210, CLRT-A211, CLRT-F-A212, CLRT-A217, CLRT-F-A221, CLRT-F-A226  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+98/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Helyrajzi szám | Cím (1151 Budapest/1046 Budapest) Tulajdonos / vagyonkezelő / egyéb jogosult | Kapcsolódó furatok azonosító jele  |
+| --- | --- | --- |
+|  88321 | XV. kerület, Szövőgyár u. 5. Pásztor László, Kalmárné Pásztor Erzsébet | CLRT-A124  |
+|  88322/1 | XV. kerület, Szövőgyár utca 7-9. Portál-Glass Kft., Mester Csaba EV., Liftgép Szervizszolgáltató Kft., Üvegcsoda Kft., Ideenwelt Kft., | CLRT-F207, CLRT-A207  |
+|  88322/2 | XV. kerület, Szövőgyár utca 11-13. Labsystem Kft. | CLRT-F14, CLRT-14, CLRT-F16, CLRT-16, CLRT-F111, CLRT-A111, CLRT-F206, CLRT-A206  |
+|  88323 | XV. kerület, Szövőgyár utca 15-21. Dinamo Invest 2020 Kft. | CLRT-01, CLRT-F01, CLRT-10, CLRT-F101, CLRT-F-A102, CLRT-F-A103, CLRT-F-A108, CLRT-F-A109, CLRT-F-A110, CLRT-F-A116, CLRT-F-A201, CLRT-F-A202, CLRT-F-A227  |
+|  (88327) | XV. kerület, Szövőgyár utca Bp., XV. ker. Önkormányzat | CLRT-F107, CLRT-A107, CLRT-F203, CLRT-A203, CLRT-F208, CLRT-A208  |
+|  (88328/1) | XV. kerület, Énekes utca Bp., XV. ker. Önkormányzat | CLRT-F07, CLRT-07, CLRT-F04, CLRT-04, CLRT-F105, CLRT-F106, CLRT-A106, CLRT-A123  |
+|  88334 | XV. kerület, Szövőgyár utca 24. Bp., XV. ker. Önkormányzat | CLRT-F224, CLRT-A224  |
+|  88352 | XV. kerület, Dal utca 6. Jász András, Szabó Orsolya | CLRT-F216, CLRT-A216  |
+|  88355 | XV. kerület, Dal utca 10. Tulajdonos: Magyar Állam Vagyonkezelő: Büntetés Végrehajtás Országos Parancsnoksága | CLRT-F123, CLRT-F215, CLRT-A215  |
+|  (88422) | XV. kerület, Énekes utca Bp., XV. ker. Önkormányzat | CLRT-F104, CLRT-A104, CLRT-F204, CLRT-A204  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+99/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 6.4. HIDRAULIKAI VIZSGÁLATOK
+
+A területen létrehozott mintavételi furatokban detektálható felszín alatti víz egyidőben történő szintmérése első körben 2024. november 26.-án történt meg.
+
+A tényfeltárási záródokumentáció részét képező furatokban mérhető felszín alatt víz egyidőben történő szintmérése négyszer zajlott le: először 2025. november 13.-án, majd a november után elkészült plusz furatokkal kiegészülve 2026. január 8.-án. Ezt követően a további kiegészítő, lehatároló, szennyezettség anatómia tisztázó furatok létesítése okán 2026. február 23.-án és április 09.-én történt végül vízszintmérés.
+
+6.4.2. szövegközti táblázat. 2025-2026 közti munkálatok során végrehajtott FAV szintmérések eredményei
+
+|  Fúráspont jele | EOV Y | EOV X | Az egyidejű vízszintmérés adatai [mfa]  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  1. | 2. | 3. | 4.  |
+|  CLRT-F01 | 655 549,53 | 247 335,16 | 8,82* | 6,98* |  | 8,05  |
+|  CLRT-F04 | 655 619,70 | 247 326,25 | 7,28 | 7,14 | 7,085 | 7,085  |
+|  CLRT-F07 | 655 566,57 | 247 303,28 | 7,70 |  | 7,51 | 7,50  |
+|  CLRT-F14 | 655 461,92 | 247 301,60 | 7,60 | 7,49 |  | 7,425  |
+|  CLRT-F16 | 655 484,81 | 247 247,68 | 7,465 | 7,34 |  | 7,27  |
+|  CLRT-F101 | 655 543,46 | 247 313,02 |  | 8,11* |  | 8,05  |
+|  CLRT-F102 | 655 523,24 | 247 316,88 | 8,49 | 8,36 | 8,28 | 8,28  |
+|  CLRT-F103 | 655 527,79 | 247 353,41 | 8,155 | 8,03 | 7,955 | 7,94  |
+|  CLRT-F104 | 655 555,36 | 247 368,79 | 5,945 | 5,84 | 5,755 | 5,75  |
+|  CLRT-F105 | 655 578,62 | 247 343,94 | 6,42 |  | 6,225 | 6,22  |
+|  CLRT-F106 | 655 579,36 | 247 317,83 | 6,74 | 6,615 | 6,545 | 6,54  |
+|  CLRT-F107 | 655 541,85 | 247 286,19 | 6,60 |  | 5,97 | 6,40  |
+|  CLRT-F108 | 655 524,06 | 247 275,97 | 5,48 | 7,36 |  | megsemmisült  |
+|  CLRT-F109 | 655 522,04 | 247 302,78 | 9,64* | 8,14* |  | 8,06  |
+|  CLRT-F110 | 655 485,86 | 247 303,41 | 8,30 | 8,195 | 8,11 | 8,10  |
+|  CLRT-F111 | 655 457,57 | 247 289,71 | 7,40 | 7,29 | 7,21 | 7,23  |
+|  CLRT-F112 | 655 424,98 | 247 287,43 | 7,34 | 7,22 | 7,165 | 7,15  |
+|  CLRT-F113 | 655 441,12 | 247 324,14 | 7,015 | 6,90 | 6,835 | 6,83  |
+|  CLRT-F114 | 655 407,61 | 247 344,62 | 7,01 | 6,89 | 6,83 | 6,89  |
+|  CLRT-F115 | 655 462,36 | 247 351,03 | 6,43 |  | 6,25 | 6,24  |
+|  CLRT-F116 | 655 482,88 | 247 329,15 | 7,83 | 7,74 | 7,65 | 7,64  |
+|  CLRT-F117 | 655 438,70 | 247 372,71 | 6,41 | 6,29 | 6,21 |   |
+|  CLRT-F119 | 655 371,06 | 247 407,78 |  | 6,285 | 6,21 | 6,22  |
+|  CLRT-F122 | 655 599,22 | 247 403,61 | 3,32 |  | 3,12 | 3,13  |
+|  CLRT-F123 | 655 621,60 | 247 269,21 | 7,93 |  | 7,735 | 7,715  |
+|  CLRT-F201 | 655 491,99 | 247 289,72 | 7,71 | 7,60 |  | 7,505  |
+|  CLRT-F202 | 655 490,93 | 247 370,39 | 7,75 | 7,65 |  | 7,56  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+100/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.  
+ Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713  
+ adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVÓGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Fúráspont jele | EOV Y | EOV X | Az egyidejű vízszintmérés adatai [mfa]  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  1. | 2. | 3. | 4.  |
+|  CLRT-F203 | 655 526,93 | 247 252,56 | 6,75 |  |  | 6,54  |
+|  CLRT-F204 | 655 521,90 | 247 391,55 | 6,03 | 5,92 |  | 5,84  |
+|  CLRT-F205 | 655 485,08 | 247 394,54 | 7,68 | 7,565 | 7,49 | 7,50  |
+|  CLRT-F206 | 655 454,53 | 247 267,82 | 7,48 | 7,36 |  | 7,30  |
+|  CLRT-F207 | 655 456,70 | 247 252,91 | 7,52 | 7,405 |  | 7,32  |
+|  CLRT-F208 | 655 515,67 | 247 228,03 | 6,95 |  |  | 6,745  |
+|  CLRT-F210 | 655 364,57 | 247 298,03 | 6,93 | 6,82 | 6,74 | 6,74  |
+|  CLRT-F212 | 655 507,76 | 247 430,55 | 6,23 | 6,12 | 6,04 | 6,06  |
+|  CLRT-F213 | 655 564,22 | 247 431,51 | 3,91 |  | 3,71 | 3,71  |
+|  CLRT-F214 | 655 643,90 | 247 376,87 | 3,08 |  |  | 2,89  |
+|  CLRT-F215 | 655 621,72 | 247 218,52 | 7,85 | 7,735 | 7,65 | 7,64  |
+|  CLRT-F216 | 655 569,21 | 247 204,75 | 7,47 | 7,36 |  | 7,27  |
+|  CLRT-F221 | 655 435,50 | 247 513,01 |  | 4,77 | 4,69 | 4,70  |
+|  CLRT-F224 | 655 569,98 | 247 279,49 | 7,36 | 7,245 |  | 7,155  |
+|  CLRT-F226 | 655 434,30 | 247 292,39 | 6,83 | 6,71 | 6,65 | 7,64  |
+|  CLRT-F227 | 655 460,07 | 247 314,05 | 8,14 | 8,03 |  | 7,935  |
+|  CLRT-F228 | 655 130,49 | 247 340,77 |  | 7,87 | 7,68 | 7,66  |
+|  CLRT-F229 | 655 099,64 | 247 573,69 |  | 3,31 | 3,23 | 3,22  |
+|  CLRT-F230 | 655 229,52 | 247 701,05 |  | 2,53 | 2,44 | 2,46  |
+|  CLRT-01 | 655 552,09 | 247 334,26 | 6,545 |  |  |   |
+|  CLRT-04 | 655 618,27 | 247 327,34 | 7,37 | 7,26 | 7,14 | 7,18  |
+|  CLRT-07 | 655 565,59 | 247 303,99 |  | 7,765 | 7,69 | 7,68  |
+|  CLRT-10 | 655 535,22 | 247 294,93 | 7,61 | 7,51 | 7,42 | 7,405  |
+|  CLRT-14 | 655 460,75 | 247 302,05 | 7,59 | 7,47 | 7,40 | 7,40  |
+|  CLRT-16 | 655 485,68 | 247 247,30 | 7,32 | 7,20 | 7,14 | 7,125  |
+|  CLRT-22 | 655 426,84 | 247 381,60 | 5,85 |  | 5,45 | 5,665  |
+|  CLRT-23 | 655 484,30 | 247 480,85 | 4,01 |  | 3,82 | 3,84  |
+|  CLRT-24 | 655 338,07 | 247 184,08 | 6,35 | 6,24 | 6,17 | 6,17  |
+|  CLRT-25 | 655 682,68 | 247 357,68 | 4,10 |  |  | 3,91  |
+|  CLRT-A102 | 655 524,30 | 247 316,07 | 8,24 | 8,13 |  | 8,05  |
+|  CLRT-A103 | 655 526,58 | 247 354,19 | 8,00 | 7,89 | 7,82 | 7,80  |
+|  CLRT-A104 | 655 554,29 | 247 369,77 | 5,96 | 5,855 |  | 5,75  |
+|  CLRT-A106 | 655 577,99 | 247 318,77 | 6,78 | 6,66 | 6,59 | 6,575  |
+|  CLRT-A107 | 655 542,72 | 247 287,93 | 6,60 |  | 6,39 | 6,39  |
+|  CLRT-A108 | 655 524,70 | 247 275,75 | 7,41 | 7,295 |  | megsemmisült  |
+|  CLRT-A109 | 655 521,21 | 247 302,86 | 8,11 | 7,985 | 7,9 | 7,90  |
+|  CLRT-A110 | 655 485,40 | 247 304,45 | 7,70 | 7,595 | 7,39 | 7,50  |
+|  CLRT-A111 | 655 457,24 | 247 288,58 | 7,37 | 7,26 | 7,18 | 7,19  |
+|  CLRT-A112 | 655 424,52 | 247 286,39 | 7,10 | 6,99 | 6,92 | 6,915  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+101/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.  
+ Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Fúráspont jele | EOV Y | EOV X | Az egyidejű vízszintmérés adatai [mfa]  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  1. | 2. | 3. | 4.  |
+|  CLRT-A113 | 655 441,67 | 247 325,38 | 7,18 | 7,06 | 7 | 6,99  |
+|  CLRT-A114 | 655 406,97 | 247 343,18 | 6,57 | 6,46 | 6,4 | 6,39  |
+|  CLRT-A115 | 655 462,36 | 247 351,03 | 6,47 |  | 6,29 | 6,29  |
+|  CLRT-A116 | 655 482,18 | 247 330,81 | 8,70 | 8,59 | 8,51 | 8,50  |
+|  CLRT-A117 | 655 438,08 | 247 371,82 | 6,18 | 6,065 | 5,98 | 5,99  |
+|  CLRT-A118 | 655 329,64 | 247 337,72 | 7,82 | 7,71 | 6,64 | 7,64  |
+|  CLRT-A119 | 655 370,66 | 247 407,02 | 6,28 | 6,175 | 6,095 | 6,10  |
+|  CLRT-A120 | 655 408,29 | 247 459,04 | 6,25 | 6,16 | 6,07 | 6,08  |
+|  CLRT-A121 | 655 490,34 | 247 557,05 | 3,56 | 3,47 |  | 3,40  |
+|  CLRT-A122 | 655 598,33 | 247 404,39 | 3,31 |  | 3,115 | 3,12  |
+|  CLRT-A123 | 655 620,55 | 247 269,94 |  |  | 7,84 | 7,835  |
+|  CLRT-A124 | 655 487,95 | 247 193,36 | 8,23 |  |  | 8,03  |
+|  CLRT-A201 | 655 491,18 | 247 290,79 | 7,605 | 7,50 |  | 7,405  |
+|  CLRT-A202 | 655 490,43 | 247 369,08 | 8,165 | 8,06 |  | 7,97  |
+|  CLRT-A203 | 655 528,64 | 247 255,98 | 6,83 | 6,71 |  | 6,63  |
+|  CLRT-A204 | 655 523,11 | 247 390,89 | 6,01 | 5,905 |  | 5,84  |
+|  CLRT-A205 | 655 484,36 | 247 395,03 | 7,46 | 7,35 | 7,27 | 7,28  |
+|  CLRT-A206 | 655 454,14 | 247 267,14 | 7,56 | 7,44 |  | 7,37  |
+|  CLRT-A207 | 655 457,08 | 247 253,54 | 7,515 | 7,40 |  | 7,31  |
+|  CLRT-A208 | 655 516,26 | 247 229,27 | 6,98 |  |  | 6,77  |
+|  CLRT-A209 | 655 389,37 | 247 236,64 | 7,76 | 7,65 | 7,575 | 7,57  |
+|  CLRT-A210 | 655 365,17 | 247 297,60 | 6,59 | 6,48 | 6,41 | 6,41  |
+|  CLRT-A211 | 655 451,69 | 247 428,94 | 6,93 | 6,825 | 6,74 | 6,75  |
+|  CLRT-A212 | 655 508,17 | 247 430,98 | 6,41 | 6,30 | 6,22 | 6,23  |
+|  CLRT-A213 | 655 563,29 | 247 432,27 | 3,92 |  |  | 3,74  |
+|  CLRT-A215 | 655 620,82 | 247 219,13 | 7,80 | 7,685 | 7,61 | 7,595  |
+|  CLRT-A216 | 655 568,44 | 247 204,50 | 7,52 | 7,41 |  | 7,32  |
+|  CLRT-A217 | 655 302,00 | 247 281,75 | 7,75 |  | 7,57 | 7,57  |
+|  CLRT-A218 | 655 258,03 | 247 373,59 | 5,90 |  |  | 5,72  |
+|  CLRT-A219 | 655 251,67 | 247 479,12 | 3,21 |  |  | 3,05  |
+|  CLRT-A220 | 655 334,84 | 247 532,69 | 3,905 |  |  | 3,75  |
+|  CLRT-A221 | 655 435,97 | 247 514,14 | 4,09 | 4,00 | 3,91 | 3,92  |
+|  CLRT-A224 | 655 569,57 | 247 278,84 | 7,35 | 7,23 |  | 7,15  |
+|  CLRT-A225 | 655 542,80 | 247 474,10 |  |  |  | nem lehetett bejutni  |
+|  CLRT-A226 | 655 434,62 | 247 293,20 | 7,01 | 6,89 | 6,83 | 6,82  |
+|  CLRT-A227 | 655 460,96 | 247 315,22 | 8,255 | 8,145 |  | 8,06  |
+|  CLRT-A228 | 655 129,74 | 247 341,27 |  | 7,09 | 7,63 | 7,63  |
+|  CLRT-A229 | 655 100,43 | 247 574,36 |  | 3,33 | 3,25 | 3,25  |
+|  CLRT-A230 | 655 230,08 | 247 701,66 |  | 2,525 | 2,44 | 2,45  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+102/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Fúráspont jele | EOV Y | EOV X | Az egyidejű vízszintmérés adatai [mfa]  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  1. | 2. | 3. | 4.  |
+|  CLRT-OG-16 | 655 507,57 | 247 288,57 | 7,69 | 7,58 |  | 7,49  |
+|  CLRT-A231 | 654 867,57 | 247 919,70 |  |  | 4,04 | 4,255  |
+|  CLRT-A232 | 655 190,85 | 247 912,38 |  |  | 3,32 | 3,39  |
+|  CLRT-A233 | 654 951,31 | 247 582,59 |  |  | 3,34 | 3,33  |
+
+*önálló fázisú CH jellemző
+
+Ezekhez a mérésekhez kapcsolódó mérési jegyzőkönyveket a 6. melléklet tartalmazza.
+
+## 6.5. FELSZÍN ALATTI VÍZ MINTAVÉTELEK
+
+2024 évben az I. ütem mintavételei (felszín alatti víz monitoring vizsgálatok) 2024. július 15-18. közt, valamint 2024. október 28. és november 7. között történtek meg. A tényfeltárás kiegészítésének 2024-évi munkálatai során az I. ütemben 10 db felszín alatti víz mintavétel volt, a II. ütem során 40 mintát vettünk, így összesen 50 mintavételre került sor.
+
+A 2025 évi vizsgálatok során több alkalommal is történt részleges vízminta vétel. A tényfeltárási záródokumentáció céljára a 8. sz. vízmintavételi sorozat adatai szolgáltatták a kiindulási információkat, ezért ezen mintavétel adatait közöljük az alábbi táblázatban.
+
+6.5.1. szövegközti táblázat. A 8. számú vízmintavételi sorozathoz kapcsolódó alapadatok.
+
+|  Vizsgálati pont jele | EOV Y | EOV X | Kútperem magasság (mBf) | Talpmélység kútperemtől [m] | Béléscső átmérő | Szűrőzés hossza (m) | Mintavétel időpontja  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  CLRT-F01 | 655549,3 | 247335,2 | 113,2 | 9,48 | 50/60 | 3 | felúszó miatt nem lett mintázva  |
+|  CLRT-F04 | 655619,7 | 247326,3 | 113,1 | 9,43 | 50/60 | 3 | 2025.11.04  |
+|  CLRT-F07 | 655566,6 | 247303,3 | 113,53 | 9,32 | 50/60 | 3 | 2025.11.05  |
+|  CLRT-F14 | 655461,9 | 247301,6 | 113,42 | 8,40 | 50/60 | 3 | 2025.09.24  |
+|  CLRT-F16 | 655484,8 | 247247,7 | 113,29 | 8,81 | 50/60 | 3 | 2025.09.23  |
+|  CLRT-F101 | 655543,5 | 247313,0 | 114,28 | 10,09 | 50/60 | 3 | felúszó miatt nem lett mintázva  |
+|  CLRT-F102 | 655523,2 | 247316,9 | 114,3 | 11,09 | 50/60 | 3 | 2025.10.15  |
+|  CLRT-F103 | 655527,8 | 247353,4 | 113,9 | 10,08 | 50/60 | 3 | 2025.10.13  |
+|  CLRT-F104 | 655555,4 | 247368,8 | 111,78 | 9,08 | 50/60 | 3 | 2025.10.13  |
+|  CLRT-F105 | 655578,6 | 247343,9 | 112,27 | 9,09 | 50/60 | 3 | 2025.10.02  |
+|  CLRT-F106 | 655579,4 | 247317,8 | 112,59 | 8,94 | 50/60 | 3 | 2025.11.04  |
+|  CLRT-F107 | 655541,9 | 247286,2 | 112,45 | 9,07 | 50/60 | 3 | 2025.10.14  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+103/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Vizsgálati pont jele | EOV Y | EOV X | Kútperem magasság (mBf) | Talpmélység kútperemtől [m] | Béléscső átmérő | Szűrőzés hossza (m) | Mintavétel időpontja  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  CLRT-F108 | 655524,1 | 247275,9 | 113,60 | 9,83 | 50/60 | 3 | 2025.10.15  |
+|  CLRT-F109 | 655522,0 | 247302,8 | 114,30 | 9,82 | 50/60 | 3 | felúszó miatt nem lett mintázva  |
+|  CLRT-F110 | 655485,9 | 247303,4 | 114,13 | 10,09 | 50/60 | 3 | 2025.10.14  |
+|  CLRT-F111 | 655457,7 | 247289,7 | 113,66 | 9,65 | 50/60 | 3 | 2025.10.15  |
+|  CLRT-F112 | 655425,0 | 247287,4 | 113,14 | 8,96 | 50/60 | 3 | 2025.09.26  |
+|  CLRT-F113 | 655441,1 | 247324,1 | 112,80 | 10,10 | 50/60 | 3 | 2025.10.13  |
+|  CLRT-F114 | 655407,6 | 247344,6 | 112,76 | 9,47 | 50/60 | 3 | 2025.09.26  |
+|  CLRT-F115 | 655462,4 | 247351,0 | 112,23 | 8,93 | 50/60 | 3 | 2025.09.25  |
+|  CLRT-F116 | 655482,9 | 247329,2 | 113,63 | 9,25 | 50/60 | 3 | 2025.09.23  |
+|  CLRT-F117 | 655438,7 | 247372,7 | 112,19 | 8,83 | 50/60 | 3 | 2025.09.26  |
+|  CLRT-F119 | 655371,1 | 247407,8 | 111,88 | 8,97 | 50/60 | 3 | 2025.12.08  |
+|  CLRT-F122 | 655599,2 | 247403,6 | 109,18 | 7,09 | 50/60 | 3 | 2025.11.04  |
+|  CLRT-F123 | 655621,6 | 247269,2 | 113,77 | 9,74 | 50/60 | 3 | 2025.11.03  |
+|  CLRT-F201 | 655492,0 | 247289,7 | 113,24 | 8,62 | 50/60 | 3 | 2025.09.24  |
+|  CLRT-F202 | 655490,9 | 247370,4 | 113,56 | 9,58 | 50/60 | 3 | 2025.09.24  |
+|  CLRT-F203 | 655526,9 | 247252,6 | 112,59 | 8,87 | 50/60 | 3 | 2025.10.15  |
+|  CLRT-F204 | 655521,9 | 247391,6 | 111,86 | 8,04 | 50/60 | 3 | 2025.10.01  |
+|  CLRT-F205 | 655485,1 | 247394,5 | 113,49 | 8,83 | 50/60 | 3 | 2025.09.26  |
+|  CLRT-F206 | 655454,5 | 247267,8 | 113,31 | 8,65 | 50/60 | 3 | 2025.09.23  |
+|  CLRT-F207 | 655456,7 | 247252,9 | 113,34 | 8,80 | 50/60 | 3 | 2025.10.01  |
+|  CLRT-F208 | 655515,7 | 247228,0 | 112,79 | 8,37 | 50/60 | 3 | 2025.10.10  |
+|  CLRT-F210 | 655364,6 | 247298,0 | 112,36 | 8,22 | 50/60 | 3 | 202.09.25  |
+|  CLRT-F212 | 655507,8 | 247430,6 | 112,05 | 6,26 | 50/60 | 3 | 2025.11.05  |
+|  CLRT-F213 | 655564,2 | 247431,5 | 109,74 | 7,06 | 50/60 | 3 | 2025.11.04  |
+|  CLRT-F214 | 655643,9 | 247376,9 | 108,95 | 7,10 | 50/60 | 3 | 2025.11.04  |
+|  CLRT-F215 | 655621,7 | 247218,5 | 113,71 | 9,02 | 50/60 | 3 | 2025.11.03  |
+|  CLRT-F216 | 655569,2 | 247204,8 | 113,31 | 10,07 | 50/60 | 3 | 2025.11.03  |
+|  CLRT-F221 | 655435,5 | 247513,0 | 110,55 | 6,97 | 50/60 | 3 | 2025.12.08  |
+|  CLRT-F224 | 655570,0 | 247279,5 | 113,2 | 10,03 | 50/60 | 3 | 2025.10.03  |
+|  CLRT-F226 | 655434,3 | 247292,4 | 112,62 | 8,88 | 50/60 | 3 | 2025.09.29  |
+|  CLRT-F227 | 655460,1 | 247314,1 | 113,95 | 9,52 | 50/60 | 3 | 2025.09.23  |
+|  CLRT-F228 | 655130,5 | 247340,8 | 112,56 | 9,02 | 50/60 | 3 | 2026.01.06  |
+|  CLRT-F229 | 655371,1 | 247407,8 | 111,88 | 5,08 | 50/60 | 3 | 2026.01.06  |
+|  CLRT-F230 | 655229,5 | 247701,1 | 108,03 | 4,60 | 50/60 | 3 | 2026.01.06  |
+|  CLRT-01 | 655552,1 | 247334,3 | 112,36 | 17,02 | 125/113 | 2 | 2025.10.13  |
+|  CLRT-04 | 655618,3 | 247327,3 | 113,22 | 17,69 | 125/113 | 2 | 2025.11.04  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+104/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Vizsgálati pont jele | EOV Y | EOV X | Kútperem magasság (mBf) | Talpmélység kútperemtől [m] | Béléscső átmérő | Szűrőzés hossza (m) | Mintavétel időpontja  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  CLRT-07 | 655565,6 | 247304,0 | 113,71 | 18,05 | 125/113 | 2 | 2025.11.04  |
+|  CLRT-10 | 655535,2 | 247294,9 | 113,44 | 18,24 | 125/113 | 2 | 2025.10.14  |
+|  CLRT-14 | 655460,8 | 247302,1 | 113,40 | 15,40 | 125/113 | 2 | 2025.10.14  |
+|  CLRT-16 | 655485,7 | 247247,3 | 113,15 | 16,95 | 125/113 | 2 | 2025.10.13  |
+|  CLRT-22 | 655426,8 | 247381,6 | 111,61 | 12,98 | 50/60 | 2 | 2025.10.13  |
+|  CLRT-23 | 655484,3 | 247480,9 | 109,78 | 10,74 | 50/60 | 2 | 2025.11.05  |
+|  CLRT-24 | 655338,1 | 247184,1 | 112,15 | 16,89 | 50/60 | 2 | 2025.11.04  |
+|  CLRT-25 | 655682,7 | 247357,7 | 109,98 | 13,93 | 50/60 | 2 | 2025.11.03  |
+|  CLRT-A102 | 655524,3 | 247316,1 | 114,05 | 18,01 | 50/60 | 2 | 2025.09.23  |
+|  CLRT-A103 | 655526,6 | 247354,2 | 113,81 | 18,11 | 50/60 | 2 | 2025.10.13  |
+|  CLRT-A104 | 655554,3 | 247369,8 | 111,8 | 15,50 | 50/60 | 2 | 2025.11.05  |
+|  CLRT-A106 | 655578,0 | 247318,8 | 112,61 | 16,84 | 50/60 | 2 | 2025.11.04  |
+|  CLRT-A107 | 655542,7 | 247287,9 | 112,43 | 16,48 | 50/60 | 2 | 2025.09.24  |
+|  CLRT-A108 | 655524,7 | 247275,8 | 113,25 | 17,03 | 50/60 | 2 | 2025.09.24  |
+|  CLRT-A109 | 655521,2 | 247302,9 | 113,92 | 18,09 | 50/60 | 2 | 2025.10.13  |
+|  CLRT-A110 | 655485,4 | 247304,5 | 113,53 | 17,10 | 50/60 | 2 | 2025.10.14  |
+|  CLRT-A111 | 655457,2 | 247288,6 | 113,19 | 15,72 | 50/60 | 2 | 2025.10.14  |
+|  CLRT-A112 | 655424,5 | 247286,4 | 112,89 | 15,10 | 50/60 | 2 | 2025.10.06  |
+|  CLRT-A113 | 655441,7 | 247325,4 | 112,97 | 15,12 | 50/60 | 2 | 2026.10.09  |
+|  CLRT-A114 | 655407,0 | 247343,2 | 112,33 | 14,07 | 50/60 | 2 | 2025.10.09  |
+|  CLRT-A115 | 655461,9 | 247349,8 | 112,27 | 15,08 | 50/60 | 2 | 2025.10.09  |
+|  CLRT-A116 | 655482,2 | 247330,8 | 114,51 | 18,01 | 50/60 | 2 | 2025.10.14  |
+|  CLRT-A117 | 655438,1 | 247371,8 | 111,95 | 13,08 | 50/60 | 2 | 2025.10.09  |
+|  CLRT-A118 | 655329,6 | 247337,7 | 113,54 | 17,07 | 50/60 | 2 | 2025.10.06  |
+|  CLRT-A119 | 655370,7 | 247407,0 | 111,99 | 14,10 | 50/60 | 2 | 2025.10.09  |
+|  CLRT-A120 | 655408,3 | 247459,0 | 111,96 | 14,12 | 50/60 | 2 | 2025.10.06  |
+|  CLRT-A121 | 655490,3 | 247557,1 | 109,26 | 10,08 | 50/60 | 2 | 2025.11.05  |
+|  CLRT-A122 | 655598,3 | 247404,4 | 109,17 | 14,82 | 50/60 | 2 | 2025.11.04  |
+|  CLRT-A123 | 655620,6 | 247269,9 | 113,87 | 17,29 | 50/60 | 2 | 2025.11.03  |
+|  CLRT-A124 | 655488,0 | 247193,4 | 114,07 | 17,165 | 50/60 | 2 | 2025.11.03  |
+|  CLRT-A201 | 655491,2 | 247290,8 | 113,43 | 17,04 | 50/60 | 2 | 2025.09.24  |
+|  CLRT-A202 | 655490,4 | 247369,1 | 113,98 | 14,23 | 50/60 | 2 | 2025.09.24  |
+|  CLRT-A203 | 655528,6 | 247256,0 | 112,68 | 16,82 | 50/60 | 2 | 2025.10.15  |
+|  CLRT-A204 | 655523,1 | 247390,9 | 111,84 | 14,89 | 50/60 | 2 | 2025.11.05  |
+|  CLRT-A205 | 655484,4 | 247395,0 | 113,26 | 14,10 | 50/60 | 2 | 2025.09.26  |
+|  CLRT-A206 | 655454,1 | 247267,1 | 113,38 | 15,52 | 50/60 | 2 | 2025.09.23  |
+|  CLRT-A207 | 655457,1 | 247253,5 | 113,38 | 15,59 | 50/60 | 2 | 2025.10.01  |
+|  CLRT-A208 | 655516,3 | 247229,3 | 112,82 | 16,47 | 50/60 | 2 | 2025.10.10  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+105/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+![Logo of ADEPT ENVIRO KFT]()
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.  
+ Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713  
+ adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVÓGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Vizsgálati pont jele | EOV Y | EOV X | Kútperem magasság (mBf) | Talpmélység kútperemtől [m] | Béléscső átmérő | Szűrőzés hossza (m) | Mintavétel időpontja  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  CLRT-A209 | 655389,4 | 247236,6 | 113,55 | 16,06 | 50/60 | 2 | 2025.09.25  |
+|  CLRT-A210 | 655365,2 | 247297,6 | 112,35 | 15,08 | 50/60 | 2 | 2025.09.25  |
+|  CLRT-A211 | 655451,7 | 247428,9 | 111,86 | 13,07 | 50/60 | 2 | 2025.09.26  |
+|  CLRT-A212 | 655508,2 | 247431,0 | 112,23 | 13,04 | 50/60 | 2 | 2025.09.25  |
+|  CLRT-A213 | 655563,3 | 247432,3 | 109,78 | 13,49 | 50/60 | 2 | 2025.11.04  |
+|  CLRT-A215 | 655620,8 | 247219,1 | 113,64 | 16,13 | 50/60 | 2 | 2025.11.03  |
+|  CLRT-A216 | 655568,4 | 247204,5 | 113,37 | 17,04 | 50/60 | 2 | 2025.11.03  |
+|  CLRT-A217 | 655302,0 | 247281,8 | 113,47 | 17,10 | 50/60 | 2 | 2025.09.25  |
+|  CLRT-A218 | 655258,0 | 247373,6 | 111,57 | 15,29 | 50/60 | 2 | 2025.10.10  |
+|  CLRT-A219 | 655251,7 | 247479,1 | 108,83 | 11,32 | 50/60 | 2 | 2025.10.10  |
+|  CLRT-A220 | 655334,8 | 247532,7 | 109,54 | 12,69 | 50/60 | 2 | 2025.11.05  |
+|  CLRT-A221 | 655436,0 | 247514,1 | 109,79 | 11,08 | 50/60 | 2 | 2025.11.05  |
+|  CLRT-A224 | 655569,6 | 247278,8 | 113,19 | 17,63 | 50/60 | 2 | 2025.10.03  |
+|  CLRT-A225 | 655 542,8 | 247 474,1 | 108,83 | 11,19 | 50/60 | 2 | 2025.10.15  |
+|  CLRT-A226 | 655434,6 | 247293,2 | 112,8 | 15,09 | 50/60 | 2 | 2025.09.29  |
+|  CLRT-A227 | 655461,0 | 247315,2 | 114,05 | 15,66 | 50/60 | 2 | 2025.09.23  |
+|  CLRT-A228 | 655129,7 | 247341,3 | 112,77 | 15,80 | 50/60 | 2 | 2026.01.06  |
+|  CLRT-A229 | 655100,4 | 247574,4 | 108,75 | 7,04 | 50/60 | 2 | 2026.01.06  |
+|  CLRT-A230 | 655230,1 | 247701,7 | 108,02 | 6,50 | 50/60 | 2 | 2026.01.06  |
+|  CLRT-A231 | 247919,7 | 654867,6 | 107,93 | 5,06 | 50/60 | 2 | 2026.01.22  |
+|  CLRT-A232 | 247912,5 | 655190,7 | 108,73 | 5,89 | 50/60 | 2 | 2026.01.20  |
+|  CLRT-A233 | 247582,5 | 654951,2 | 108,9 | 7,06 | 50/60 | 2 | 2026.01.22  |
+|  CLRT-OG-16 | 655507,6 | 247288,6 | 113,15 | 17,13 | 50/60 | 2 | 2025.11.05  |
+
+A felszín alatti víz mintavételi jegyzőkönyveket a **4. melléklet** tartalmazza.
+
+## 6.6. EGYÉB KÖRNYEZETI ELEMEK MINTAVÉTELE
+
+A Leánynevelő Intézet területén végzett munkálatok során, a terepbejárás eredményeképpen azonosításra került egy feltehetőleg az intézmény létesítése időszakában (XX. sz. eleje) megépített egyesített rendszerű esővíz és kommunális szennyvíz gyűjtő-derítő hálózat megléte. A hálózat kommunális szennyvíz gyűjtő funkciót jelenleg már nem lát el, azt nem tudni, hogy mióta. Az ingatlanon keletkező kommunális szennyvíz hulladék közcsatornára juttatása e rendszertől független hálózaton történik jelenleg. A hálózat a telek jelentős részére kiterjed, az épületekből érkező vezetékeket törésponti csatornaszemekbe gyűjti és onnan a telek középső részén, a CLRT-114 jelű furat mellett elhelyezkedő nagyméretű, téglaboltozott derítőaknába
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+106/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+juttatja egyenes vonalú vezetékszakaszokon. A hálózat vezetékei is téglából készült csőalakzatok. Megismerve a vizsgált terület ezen tulajdonságát döntés született arról, hogy a CLRT-114 jelű furat a derítőakna mellett kerül elhelyezésre, valamint az aknában található üledékből is mintavétel történik.
+
+Az akna fenékszintje a felszíntől 3 méteres mélységben kezdődött, az üledék vastagsága meghaladta a 0,5 métert. A megvett 1 db minta jele CLRT-LNA lett.
+
+2025-ben a Leánynevelő Intézet és a SZÖVŐGYÁR csatornarendszerének felmérése során a Szövőgyár területén, a csatornarendszerhez kapcsolódó aknák közül kettőből szintén történt mintavétel (CLRT-GK-akna, CLRT – AKNA- 2). Az egyik az LNAP jellegű góc kutató fúrások során a feltételezhető forráshoz legközelebb elhelyezkedő aknából kb. 1,13 méter mélységből, míg a másik a forrásterületnek számító ingatlan (88323 hrsz) határán elhelyezkedő csatornaszemből kb. 4,5 méter mélységből származik. Mindkettőt kézifúró segítségével vettük meg.
+
+A mintavételi jegyzőkönyveket a 3. melléklet tartalmazza.
+
+## 6.7. LABORATÓRIUMI VIZSGÁLATOK
+
+### 6.7.1. KÉMIAI LABORATÓRIUMI VIZSGÁLATOK
+
+#### 6.7.1.1. SZŰRŐVIZSGÁLATOK
+
+Tekintettel arra, hogy a 2023-as tényfeltárási szakaszban kellő számú szűrővizsgálatra került sor, jelen munkálatok során szűrővizsgálatokat nem végeztünk.
+
+#### 6.7.1.2. CÉLKOMPONENSEK VIZSGÁLATA
+
+A 2023-ban elkészült tényfeltárási záródokumentáció eredményei alapján előzetesen részletes programot állítottunk össze a kémiai analitikai vizsgálatok tekintetében. Az elvégzett kiegészítő tényfeltárási munkálatok során ezen előzetesen megtervezett lépésekhez igazítottuk a vizsgálatok körét és mennyiségét.
+
+A 2024 évi vizsgálatokat egyetlen munkaszakaszban, azon belül két ütemben végeztük. Az I. ütemben a meglévő felszín alatti víz mintavételi pontokból vételeztünk mintákat, amelyekben a szennyezőkomponensek közül a tényfeltárási terv szerinti programnak megfelelően halogénezett alifás szénhidrogének, halogénezett aromás szénhidrogének, TPH, BTEX és PAH, valamint minden esetben ÁVK vizsgálatokat végeztünk. Ezt követően a II. ütemben egyrészt a furatok mélyítése során földtani közeg mintákat vételeztünk (kútpárok esetén csak a mélyebb tagból), amelyekben a szennyezőkomponensek közül szintén a tényfeltárási terv szerinti programnak megfelelően
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+107/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+halogénezett alifás szénhidrogének (minden rétegből), halogénezett aromás szénhidrogének (a feküről, valamint az előzményes vizsgálatok során magas halogénezett alifás szénhidrogén szennyezettséget mutató felszín alatti vizet produkáló furatok környezetében néhány további rétegből, elosztva azokat a furat teljes mélységében), TPH, BTEX és PAH vizsgálatokat (elsősorban a kapilláris zóna környezetében) végeztünk. A munkálatok harmadik ütemében a már teljes körűen kiegészült vízmintavételi furatokból újabb vízmintát vételeztünk, amelyekben specifikusan a furat elhelyezkedése és a már ismert szennyezettségi adatok alapján döntöttünk a vizsgálandó komponensek köréről oly módon, hogy az olajszármazék gócterülethez közeli pontok esetén TPH, BTEX és PAH vizsgálatok, a vizsgált terület egészén pedig halogénezett alifás és halogénezett aromás szénhidrogén vizsgálatok legyen elvégezve.
+
+A 2025 évi vizsgálatok során az eredeti munkaterv a begyűjtött pontosabb információk ismeretében több alkalommal kibővítésre került. Ebben az évben a munkálatokat két munkaszakaszban végeztük.
+
+Az első munkaszakasz szintén 2 ütemre tagolódott, mint 2024-ben. Az I. ütemben folytattuk az oldott fázisú DNAPL szennyezettség lehatárolását és a gócörnyezet felkutatását, melynek során vízmintákat vételeztünk és azokat jellemzően halogénezett alifás szénhidrogének tekintetében vizsgáltuk. A gócörnyezet meglelése szempontjából kijelölt furatokból földtani közeg mintákat vételeztünk és szintén halogénezett alifás szénhidrogének tekintetében vizsgáltuk be őket. Egyes furatokat a már ismert csóvakontúrok által határolt nagykiterjedésű területen a csóva belső szerkezetének pontosítása érdekében létesítettük (csóvabelső anatómiai vizsgálatok), szintén halogénezett alifás szénhidrogén. Ott, ahol az LNAPL szennyezettség pontosabb megismerése igényelte, TPH, BTEX és PAH vizsgálatok is történtek. ÁVK vizsgálat minden vízminta esetében történt. A II. ütemben a DNAPL szennyezettség forrásterületén belül részletes belső feltáró vizsgálatok történtek, amelyek során földtani közeg mintákat vételeztünk és azokat halogénezett alifás szénhidrogén komponensekre vizsgáltuk. Emellett az LNAPL szennyezettség nagykiterjedésű forrásterületének a pontosító lehatárolása során a vételezett földtani közeg minták tekintetében TPH, BTEX és PAH komponensekre történt a bevizsgálás.
+
+A második munkaszakasz egyetlen üteme két részfeladat együttes elvégzését igényelte. Egyrészt tovább kellett haladni az oldott fázisú DNAPL szennyezettség teljes körű lehatárolása érdekében, másrészt az egyidejű vízminták biztosítása érdekében a már meglévő vízmintavételi helyekből is új mintát kellett vételezni. A megvett vízmintákból halogénezett alifás szénhidrogén komponensekre, valamint ÁVK komponensekre történt vizsgálat.
+
+A földtani közeg és felszín alatti víz laboratóriumi vizsgálati jegyzőkönyveit az 5. melléklet tartalmazza.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+108/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 6.7.2. TALAJMECHANIKAI VIZSGÁLATOK
+
+Jelen kiegészítő tényfeltárási munkálatok során talajmechanikai vizsgálatokat nem végeztünk.
+
+## 6.8. GEODÉZIAI MÉRÉSEK
+
+A tényfeltárási létesítmények elkészülését követően, 2024-ben 2024. október 31.-én, 2025-ben pedig 2025. szeptember 4., 2025. november 17., 2026. január 8. és 2026. január 11.-én történt meg a fúráspontok bemérése. A fúráspontok koordinátáit Leica TS11 műszerrel geodéta mérte be. A mérési jegyzőkönyveket a 7. mellékletben közöljük.
+
+## 6.9. GEOFIZIKAI VIZSGÁLATOK
+
+Jelen kiegészítő tényfeltárási munkálatok során geofizikai vizsgálatokat nem végeztünk.
+
+## 6.10. OLDOTT FÁZISÚ HALOGÉNEZETT ALIFÁS SZENNYEZETTSÉG FORRÁSTERÜLETÉNEK AZONOSÍTÁSA, RÉSZLETES FELTÁRÁSA
+
+Ahhoz, hogy a VOCl szennyező komponensek forrásterületét megleljük, egyrészt olyan pontot szükséges találni, ahol a lehatároló furatokból nyert földtani közeg mintákban a felszínig (vagy közel a felszínig) megjelenik a szennyezőanyag. Ennek érdekében lett a VOCl komponensek tekintetében minden földtani közeg mintavétel céljából mélyített furat esetében minden mintában megvizsgálva a szennyezettség állapota. Egy további eszköz a gócterület meghatározása érdekében a felszín alatti víz szennyezettségének vizsgálata, kihasználva, hogy kútpárok is létesültek a területen. A kútpárokban detektálható szennyezettségi állapot információt nyújt számunkra az adott pont környezetét jellemző vertikális VOCl eloszlásról. Ha a szennyezettség elegendően hosszú ideje jutott be a földtani közegbe és a felszín alatti vízbe, azaz volt elegendő idő a transzport folyamatok lezajlására, akkor az elvileg elvárható vertikális eloszlás az, ha a forrásterületen kívül a mélyebb furatban van magasabb érték. Ennek alapvető oka, hogy az illékony halogénezett alfiás szénhidrogének szennyezőanyag komponensek egyrészt korlátozottan oldódnak a vízben, másrészt jellemzően nehezebbek a víznél, azaz a telített zónában mozgó, önálló fázisban lévő szennyezettség folyamatosan lefelé törekszik.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+109/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**6.3.1.1. szövegközti ábra.** A földtani közeg és felszín alatti víz VOCI szennyezettség elterjedését mutató 6.3.1.2. szövegközti ábra információs adattábláinak értelmezése
+
+![img-0.jpeg](img-0.jpeg)
+
+Ez alól kivétel a forrásterület, ahol a felszín közeléből lefelé mozgó szennyezőanyag miatti folyamatos beoldódás (utánpótlódás) folytán a sekélyebb vízminta koncentrációja jellemzően magasabb a mélyebb mintánál. Ezért a már rendelkezésre álló kútpárok arányát megfigyelve igyekeztünk közelebb jutni a forrásterülethez. Ennek érdekében feldolgoztuk a szennyezett területen készült vízmintavételi furatokból nyert eredményeket és elkészítettünk ezek alapján egy áttekintő ábrát (**6.3.1.2. szövegközti ábra**).
+
+Az eredményeket áttekintve jól láthatóan a felszín alatti víz telített zóna felső részében, ahol vizsgálat folyt, gyakorlatilag minden esetben detektáltuk a halogénezett alifás szénhidrogének jelenlétét. A mért értékekben – amint azt az olajszármazék gócok esetében tárgyaltuk – jelentős csökkenés tapasztalható az olajszármazék gócterületen, főleg annak gócpontjaiban.
+
+A kapott eredmények a CLRT-A111 és CLRT-F111, valamint a CLRT-A113 és CLRT-F113 páros esetén mutattak jelentősen magasabb szennyezettséget a felső szűrőzésű furatokban, mint az alsó szűrőzésű furatokban. Emellett ugyanakkor a CLRT-F108 jelű, elsősorban az olajszármazék góc lehatárolására létesített pontban megmért PCE koncentráció a telítési koncentrációhoz igen közeli, 133 052 µg/l értéket mutatott. Itt ugyan nem létesült még mély furatpár, de az ebből bizonyosan megállapítható volt, hogy a sekély furatban észlelhető érték semmiképpen sem lesz alacsonyabb, mint a mély párjában (legfeljebb ugyanakkora).
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+110/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+6.3.1.2. szövegközti ábra. A földtani közeg és felszín alatti víz VOCl szennyezettség elterjedését mutató információs ábra (2024. novemberi állapot)
+
+![img-1.jpeg](img-1.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+111/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A vizsgálati eredmények összességében arra utaltak, hogy a CLRT-111 jelű furatpártól egészen a CLRT-F108 jelű furatig terjedő térségben keresendő a gócterület, azaz a potenciális forrásterület az egykori 3.C jelű gyártócsarnoktól egészen a 14.N jelű egykori Kereskedelmi épületig terjed tehát (ábrán pirossal megjelölt zóna).
+
+Az így leszűkített térségben több kutató furatpár létesült (CLRT-107, CLRT-110, CLRT-116, CLRT-201, CLRT-226, CLRT-227, stb.). A CLRT-A201 jelű furat létesítésekor 7 méteres mélységtől kezdődően egészen a feküig (16,5 m mélység) rendkívül intenzív, a PCE-nek megfelelő csípős szaggal rendelkező földtani közeg került megvételezésre. A 7 méterről nyert minta nagyjából a felszín alatti víz telített zónájának kezdeténél volt. Az elvégzett vizsgálat megmutatta, hogy a furatból nyert minták közül már a 7 méterről nyert minta is 1720 mg/kg, a 8 méterről vett minta pedig 11800 mg/kg szennyezettséget mutatott. Fontos megjegyezni, hogy eddig a pontig 8 mg/kg értéknél nagyobb szennyezettséget egyik minta sem mutatott, miközben a vízben már nyertünk 133 052 µg/l, azaz 133 mg/l szennyezettséggel rendelkező mintát is (CLRT-F108). Mivel a többi vizsgálati furatból még 10 mg/kg mértéket meghaladó szintű szennyezettséget mutató mintát sem tudtunk nyeri, világossá vált, hogy a VOCI szennyezettség forrásterülete a CLRT-F201 jelű furat környezetében van.
+
+Noha a CLRT-A201 jelű furatból nyert minták rendkívül magas szennyezettséget és perklóreténnel gyakorlatilag emulziószerűen átitatott állagot mutattak, az, hogy az 1 és 7 méter között megvett minták alig mutattak szennyezettséget, arra utalt, hogy bár igen közel vagyunk a tényleges forrásterülethez, de nem vagyunk pont rajta, hiszen nem sikerült metszenünk a szennyező forrásból leáramló, szűk kürtőszerű képződményt, ahol a szennyezettség már sekély mélységekben is igen magas értékekkel mutatkozik.
+
+Ezért a gócpont pontos beazonosítása érdekében 2025 augusztusában 3x3 méteres rácsháló szerinti szennyezettség anatómia feltáró kutatást indítottunk. Amint a rácsháló mentén létesített furatokkal ÉNy-i irányban haladtunk a kiindulási CLRT-A201 furattól, a 3-3 méteres lépésközben soron következő újabb furatokban egyre sekélyebb zónában észleltük az egyre erősödő szennyezettséget¹⁹.
+
+¹⁹ Megjegyezzük, hogy a tapasztalatok szerint emberi érzékszervvel (szaglással) a perklóretén a földtani közegben 10-30 mg/kg érték felett már észlelhető egyesek számára, de igazán jól érzékelni 50-100 mg/kg koncentráció felett lehetséges, 5000 mg/kg feletti koncentráció esetén pedig rendkívül szűrös, nehezen elviselhető szaga van. Fontos, hogy ezzel szemben a vízben oldott PCE szagát nehéz terepen organoleptikusan érezni még telítési koncentráció környékén is, ami a textilipari mosás / tisztítás szempontjából kedvező, de a humán expozíciós kockázatok szempontjából (lenyelés, bőrrel érintkezés kockázata amiatt is, hogy nem lehet érzékelni a veszélyt) hátrányos.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+112/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**6.3.1.3. szövegközti ábra.** Illusztráció: A földtani közeg VOCI szennyezettsége 7 méteres mélységben, a gócterület környezetében
+
+![img-2.jpeg](img-2.jpeg)
+
+Végül a CLRT-F201 jelű furattól 3 lépésközre eső (9 méter távolságra) GK-3-10 jelű furatban már az első 1,5 méteres fúrószár kiemelésekor érezni lehetett a perklóretén jellegzetes szagát, amit a vizsgálati eredmények alá is támasztottak, már az 1 méter mélységből nyert minta is 187 mg/kg szennyezettséget mutatott (csak emlékeztetésképp a „B” szennyezettségi határérték 0,1 mg/kg, tehát ez egy 1870-szeres határértéktúllépés). A megtalált gócpont 50 cm-re helyezkedik el egy csatornaszemtől, ami a valamikori 9.l. jelű (Nyerskelme raktár) épület ÉK-i oldala menti, egykor lebetonozott udvari térségen állt. A DNAPL gócterület lehatárolása során létesített furatokat a **6.1.1. szövegközti táblázat** tartalmazza (GK és GKM kiegészítő jelű furatok).
+
+## 6.11. SZAK-, ÉS LEVÉLTÁRI IRODALOMKUTATÁS
+
+Az elérhető irodalmi és Internetes forrásokat, valamint saját és szakértő partnereinek adatbázisait áttekintve, ezt kiegészítve levéltári kutatásokkal az alábbi kérdések tisztázását tűztük ki célul:
+
+- A nemzetközi és hazai textiliparban a vizsgált időszakban (1920 és 1995 között) alkalmazott technológiai folyamatok áttekintése, azon technológiai elemek azonosítása,
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+113/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+amelyekben rendszerint üzemszerűen alkalmaztak halogénezett alifás szénhidrogéneket, e technológiák hazai gyakorlatával kapcsolatos ismeretbővítés, különös tekintettel a Budapesti Finomkötöttárgyárban alkalmazott eljárásokra, technológiákra.
+
+- A hazai textilipari tevékenységekhez köthető káreseményekkel, kármentesítésekkel kapcsolatos ismeretek bővítése.
+- A kárhely tevékenységéhez kapcsolódó olyan iratok, bizonylatok, kimutatások, beszámolók, stb. felkutatása, amelyek az üzem perklóretén vagy más halogéntartalmú alifás oldószerek használatához, ilyen célú üzemrészek létesítéséhez, üzemeltetéséhez, anyagbeszerzéséhez, anyagforgalmához, hulladékgazdálkodásához, a tevékenységek elszámolásához, esetleges havária eseményekhez kapcsolódnak részben, vagy egészében.
+
+A vizsgálataink során két alkalommal, 2024. december 5-én és 2025. november 25.-én a Fővárosi Levéltárban célirányos kutatást folytattunk, a levéltári szakértőkkel történt előzetes konzultációban kialakított kutatási programmal. Emellett több alkalommal történt konzultáció a Rákospalotai Levéltárral.20
+
+### 6.11.1. A PERKLÓRETÉN TEXTILIPARI ALKALMAZÁSA
+
+Tekintettel arra, hogy a vizsgálatok során számos olyan szakismeretet gyűjtöttünk össze, amelyek közvetetten a SZÖVŐGYÁR területén keletkezett szennyezettség megítélésével kapcsolatba hozhatók, a vizsgálatok elvégzését és a közben nyert, a későbbi következtetéseket megalapozó ismereteket jelen fejezetben együttesen mutatjuk be.
+
+A textilipar illékony halogéntartalmú alifás oldószereket, triklór-etént, tetraklór-etént, széntetrakloridot már mintegy 100 éve használ. A textilipar tulajdonképpen a vegytisztítási technológiai lépések során veszi igénybe kizárólag ezen anyagokat. Régebben a textil anyagok gyártásához szükséges tisztaságot, valamint a használt, szennyezett textilanyagok tisztítását is egyszerű vizes mosótechnológiával biztosították, különféle adalékok, szódás szappan, stb. adagolásával. Ezt követően a XIX. sz. végén terjedt el a benzinnel történő tisztítás, amelynek előnye a vízmentes eljárás, valamint a benzin jó zsírok, szerves anyagokkal kapcsolatos oldóképessége, hátránya a benzin kellemetlen illata, ami sokáig megmarad az anyagon.
+
+Az 1920-as években kezdték szélesebb körben hazánkban is alkalmazni a triklór-etént (az akkori szóhasználatban triklóretilén és „tri” néven is nevezve). A technológia lényege a triklór-etén tisztító hatása, mely a zsíroldási képességén alapszik. A folyamat során a vegyszer egy része ugyan „elfogy”, de zöme a technológiai folyamat során visszanyerhető21. A művelet során a tisztítandó
+
+20 Köszönet mind a Fővárosi Levéltár, mind a Rákospalotai Levéltár munkatársainak a kapott segítségért!
+
+21 A technológiai összefoglalót a Műszaki Élet 1974. évi 18. számában (1974. augusztus 30.) közölt „Aktívszenes visszanyerő” cikk felhasználásával készítettük.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+114/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+textilt/szennyes ruhát gépbe helyezik, ezt lezárják, és minden további folyamatot programvezérlésű automata irányít. Így kerül sor egy technológiai folyamaton belül az oldószeres tisztításra, centrifugálásra, majd a ruha szárítására. Ez utóbbi művelet közben az elpárologtatott oldószert hűtéssel, illetve desztillálással visszanyerik. Az eljárás rövid időt vesz igénybe, alkalmazásának mellékterméke az anyagok színeinek felélénkülése, ami mellett a különféle textilanyagok esetében megfigyelhető kíméletes, a rugalmasságot és a tartást megőrző tulajdonságai is kiemelték a benzines és a hagyományos vizes mosásokkal szemben. A triklór-eténes mosás a benzines mosással szemben a megtisztított textilek szagtalansága miatt is jelentős előnyben volt.
+
+A mosófolyadék a triklór-etén és víz elegye, melynek forráspontja 90 °C környékén van. Az eljárás során a víz és triklór-etén folyadék, valamint gőz fázisa vesz részt. A mosási eljárás során biztosított hőmérsékleten az oldószer víz folyadék elegy párolog, így képződik a triklór-etén-víz gőz elegy, amely a két komponens eltérő tulajdonsága folytán a szennyezőanyagok döntő hányadát oldani képes²². Az így feloldott szennyezőanyagok a vizes triklór-eténes fürdőbe kerülnek. A munkafolyamat végeztével a szennyeződésekkel terhelt oldatból a triklór-etént visszanyerték, desztillációval, egyéb technológiával.
+
+Az 1920-as években kidolgozott eljárás kulcseleme, a triklór-etén illékonyságánál fogva, a felhasznált oldószer veszteségi tényezője. A kezdetben létrehozott berendezések igen magas veszteséggel dolgoztak. Hazánkban 1935-ben mutattak be olyan berendezést, amelynek már „csak” 10-12 %-os volt a sarzsonkénti vesztesége²³.
+
+Fontos megállapítani, hogy a technológia kezdetektől fogva bizonyos fokig zárt rendszerben működött, a munkálatok során a keletkező vizes oldószeres elegyet visszanyerték, a párolgási veszteséget pedig igyekeztek minimalizálni.
+
+Az alaptechnológia fejlődése során az 1960-as években kezdtek áttérni a perklóreténre (PCE), mivel magasabb a forráspontja²⁴, és a mosóhatása jobb, mint a triklór-eténnek. Az 1980-as évektől kezdve mostanáig a perklóretén a legelterjedtebb vegytisztító szer a textilanyagok tisztítása terén²⁵. Jelentős fejlődésen ment keresztül az oldószer regenerálási technológiája is,
+
+²² A víz poláris, a triklór-etén apoláris tulajdonságú, így a víz a poláris anyagokat (pl. cukor, szervetlen sók), a triklór-etén az apoláris anyagokat (pl. zsírok, olajok, viaszok) oldja fel.
+
+²³ Vö.: Mosó- és Tisztítótechnika, 1935. évi 7. szám (1935. július 1.), 5. oldal, „10-12 % triveszteséggel dolgozik az első újrendszerű magyar tritisztítótelep
+
+²⁴ Amíg a triklór-eténnek a forráspontja normál körülmények között 87,2 °C, a PCE esetében ugyanez 121,1 °C. Az arcanum.hu elérhető hazai periodika adattárában 1961-es az első olyan cikk, amely a perklóretént, mint a vegytisztítás alapanyagát említi. Forrás: Képes Világhiradó, 1961. év, 4. évfolyam, 3. szám (1961. március 1.), 55. oldal, „Arcrúzs és egyéb kozmetikai cikkektől eredő folt.”
+
+²⁵ Az 5. megjegyzésben említett cikk bemutatja, hogy hazánkban 1973-ban még tri- és perklóretént is használtak, összesen kb. 5000 t mennyiségben, melyből 10 % volt az összesített átlagos veszteség.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+115/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+amely az oldószer visszanyert arányának és minőségének a javulásához vezetett. A mosás végén a vizes oldószeres oldatba vitt szennyeződések eltávolítása az alkalmazott egyre fejlettebb technológiai lépéseknek (desztilláció, centrifugálás, szűrés) köszönhetően javult, az itt keletkező veszteségeket minimalizálta. A regenerálás során, a desztilláció 150 °C-t meghaladó forrpontú frakcióit (tulajdonképpen a ruhákon volt szennyeződések maradványait) kovaföldben felitatva keletkezik a „persár”. A persár viszkózus, folyós anyag, veszélyes hulladék26. A technológia további fejlődése során előtérbe helyeződött a PCE ruhákban és a munkatér légterében maradt gőzfázisú frakciójának a munkatér ajtajának megnyitásával bekövetkező elillanásával keletkező veszteség csökkentése. Emellett a technológiában alkalmazott PCE kedvezőtlen élettani tulajdonságai az 1960-as években egyre nyilvánvalóbbá vált27, ezért a veszteségcsökkentés iránya a teljesen zárt rendszerű munkafolyamat kialakítása lett, azaz a munkatérben a műveletek végén még jelenlévő gőzök zárt rendszerű visszanyerése. Ehhez aktívszenes technológiát alkalmaztak, amelyben az aktívszénén átvezetett levegő – gőz elegyben található oldószer a szén falán megkötődött. A telített aktívszenet vízgőzzel regenerálták, amely során a szénből visszanyert vizes – oldószeres elegy keletkezett, amit vissza lehetett táplálni a vizes oldószeres puffertartályba.
+
+A technológia tekintetében a PCE-vel történő mosás során a PCE vizet tartalmazó vizes oldatát28 tároló puffertartályt (tartályokat) tekinthetjük az elsődleges potenciális szennyezőforrásnak. Ezek földbe telepítése, a tápvezetékek (esetleg csak egy részének) földalatti vezetése esetén könnyen keletkezhetett olyan sérülés benne, amely észrevétlen maradt akár hosszabb ideig is és amelynek során a vegyszeroldat lassan elszivárgott a földtani közegbe. Ehhez kapcsolódóan a használat után visszamaradt folyékony desztillációs maradék tárolására szolgáló rendszer is lehetett az okozó, amennyiben azt nem tárolták közvetlenül vissza a technológiai fő puffertartályba.
+
+Általában káresemény alapja lehetett a PCE anyagtárolása, ill. kapcsolódó tárolási, kitárolási hibák, haváriák, stb. Ez a kevésbé valószínű, mivel a felhasználandó anyag minden bizonnyal eredeti gyártói csomagolásban érkezhetett és az abban való további tárolása nem jelenthetett különös kockázatot. Továbbá a 1970-es 80-as években vegyipari kereskedelmi forgalmazással
+
+26 A persárban kb. 5% PCE van még jelen (50 000 mg/kg koncentráció), ami miatt pusztán a PCE tartalomra tekintettel is veszélyes hulladéknak minősül. A persár HAK kódja 16 05 08*. Ha megnézzük az azonosított szennyezőgócban észlelt maximális koncentrációt (32 000 mg/kg), megállapítható, hogy az éppen megfelel a persár koncentrációjának.
+
+27 A hazai gyakorlatban már 1961-ben érvénybe lépett a PCE tartalmú vegytisztítás során érvényes óvórendszabály („OR 024” jelű óvórendszabály, 126/ 1961. Mű M—Kip M ut.): „Vegytisztító üzemekben tricloretilénnel és perkloretilénnel dolgozók OR”
+
+28 A rendelkezésre álló források széles skálán (0,2%-16%) mozognak, hogy a PCE mellett mennyi víz van rendszerint az oldatban. Forrás pl. Élet és Tudomány, 1975. év, 30. évfolyam, 25. szám (1975. június 20.), 1180.-1183. oldal, „A vegytisztítás” c. cikke.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+116/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+foglalkozó kiadványok cikkeiből megállapítható, hogy a PCE magas értékű vegyianyag volt²⁹, így az érzékelhető mértékű fogyása nyilván intézkedési kötelezettséget vont (volna) maga után.
+
+Káresemény okozója lehetett továbbá a persár kijutása / kijuttatása a földtani közegbe. Ez az anyag veszélyes hulladéknak minősül és elszállíttatásuk nyilván jelentős költség igénnyel bírt. Ez jelen kárhelyre vonatkoztatva, különösen a Finomkötöttárugyár csődközeli helyzetében jelenthetett problémát. Ilyen hulladékok nagyobb mennyiségű keletkezése a Finomkötöttárugyár tevékenysége során is szinte bizonyossággal kijelenthető. E forgatókönyvnek ellentmond, hogy a persár nem folyós anyag, azt a csatornába öntve a magas szilárdanyag tartalma miatt a csatornaszem hamar megtelne és eldugulna.
+
+Megjegyezzük, hogy a textilipari mosóberendezések rendszerint földfeletti telepítésűek voltak, ezért ezek kisebb eséllyel lehettek szennyezés okozói, ugyanakkor összességében célszerű az elhelyezést és telepítés körülményeit tisztázni.
+
+Az előzetben bemutatottak alapján rögzíthető, hogy a textilgyártáshoz kapcsolódó tisztítási folyamatok keretében használt PCE sem a korábbi, sem a már modern, zárt rendszerű alkalmazás keretében nem juthatott ki a felszín alatti vízbe megfelelő üzemszerű működés mellett. A zárt rendszerek felhasználását megelőzően is a levegőbe történt a kijutás és elsődlegesen munkaegészségügyi problémákat okozott, jelentős mértékű felszín alatti víz és földtani közeg szennyezés egyértelműen nem lehet légszennyezésből történt kiülepedés eredménye.
+
+Áttekintve a XX. század folyamán alkalmazott technológiai megoldásokat tehát megállapítható, hogy a technológia során normál üzemben a zárt rendszerből kijutó PCE csakis gőzhalmazállapotban fordulhatott elő a levegőben, a technológia fejlődésével egyre kisebb mennyiségben. Abnormális üzemmódban ugyanakkor számos módja lehetett az anyagnak folyadék/szilárd viszkózus fázisú frakcióinak szabadba, a felszín alatti közegbe történő bejutásának.
+
+A rendelkezésre álló adatok és információk alapján vélelmezhető ténylegesen megvalósult forgatókönyvet az eredmények értékelésénél mutatjuk be.
+
+²⁹ A PCE világpiaci ára 1973-ban 23 Ft/kg volt, az 1979-es olajárrobbanást követően – mivel a PCE csak dollár alapú importból volt beszerezhető – felszökött az ára 36,3 Ft/kg-ra. Források: Műszaki Élet 1974. évi 18. számában (1974. augusztus 30.) közölt „Aktívszenes visszanyerő” cikk és Népszava, 107. évfolyam, 173. szám (1979. július 26.) 12. oldal, „Új Patyolat-árak” c. cikk. Ugyanekkor a hazai kiskereskedelemben az alapanyag ára ennek sokszorosa volt, egy 1972-ben kelt hirdetés 179 Ft/kg áron kínálja a terméket. Forrás: Tolna Megyei Népújság, 1972. év, 22. évfolyam, 305. szám (1972. december 29.), 7. oldal, „Perklorethylen” néven.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+117/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 6.11.2. HAZAI VEGYTISZTÍTÁSHOZ KAPCSOLÓDÓ PERKLÓRETÉN SZENNYEZÉS KÁRMENTESÍTÉSI TAPASZTALATAI
+
+A rendszerváltást megelőző időszak jelentős hazai nagyvállalata volt a Patyolat Vállalat, mely többek közt lakossági ruhaneműk és textíliák vegytisztításával foglalkozott és erre szakosodott szalonokat üzemeltetett országszerte. A vállalatok működéséhez az előzőek alapján hozzátartozott a PCE (kisebb mértékben triklór-etén és egyéb oldószer) tartalmú vegyszerrel dolgozó berendezések üzemeltetése, melyhez az ország több pontján is az anyag szabálytalan tárolásából, felhasználásából keletkezett káresemények kapcsolódnak. Mindezek közül is kiemelkedett a Békéscsabán működött egyik egység története.
+
+A Békés Megyei Patyolat Vállalat 1973-ban kezdte meg a tevékenységét Békéscsaba belterületén a Vandházi út 1. szám alatt. A Patyolat néven ismert állami vállalatcsoport kirendeltségeinek jelentős részét ebben az időszakban, 1965-1975 között létesítették, korszerűsítették országszerte. E hullámban létesült ez a kirendeltség is. A rendelkezésre álló adatok alapján a szalon évente 200 liter, azaz kb. 320 kg friss PCE-t vásárolt, vagyis ennyi volt a rendszer éves vesztesége³⁰. A szalon éves 320 kg PCE vesztesége 1973 és 1991, azaz a működés 18 éve alatt összesen 5,7 tonna PCE igényt jelentett, ezzel összemérhető mennyiségű persár képződéssel.
+
+Az előbbi adatok furcsasága, hogy a szakirodalom szerint 1 kg textil PCE oldószeres technológiával, vegyi úton történő megtisztításához 0,05-0,1 kg PCE szükséges, valamint a PCE veszteség áltagosan és összesen 10%-ra tehető, így a 320 kg PCE évente mindössze 3200-6400 kg textil vegytisztítását jelentette. Ez évi 250 üzemnappal számolva napi 12-25 kg ruha mosását jelenti. A Patyolat Vállalat egy-egy kirendeltségen egy-egy vegytisztító gépet üzemeltetett (leszámítva néhány egészen nagy kirendeltséget), az alkalmazott gépek 13-18 kg töltettel rendelkeztek, egy mosási menet 40 percig tartott³¹, azaz, ha az előbb közölt éves felhasználási adatok helytállóak lennének, akkor a szalonban a gép napi egyetlen, vagy maximum két töltettel működött volna, napi 40, vagy maximum 80 perc üzemidővel, amit gyakorlatilag kizárhatunk. Ha reálisan becsülve napi 18 töltettel (12 órai üzemelés) számolunk, töltetenként átlagosan 15 kg-mal, akkor a tényleges friss PCE igénye egy-egy ilyen szalonnak éves szinten 67,5 tonna, ami 18 év alatt 1 200 tonnát tesz ki.
+
+Ugyanakkor az előzményes információk alapján az üzem területén 1985 és 1991 között 1 180 tonna persár került elhelyezésre³², amelyet a kirendeltség regenerálás címén fogadott a többi
+
+³⁰ Ezt az adatot közlik a források, pl. a Békés Megyei Hírportál „Szennyezve tisztított a patyolat Békéscsabán” c. cikke (megjelent: 2011. április 1.), forrás: https://www.beol.hu/kozelet-bekes/2011/04/szennyezve-tisztitott-a-patyolat-bekescsaban
+
+³¹ Vö.: Műszaki Élet 1974. évi 18. számában (1974. augusztus 30.) között „Aktívszenes visszanyerő” cikkben közölt adatokkal.
+
+³² Lásd pl. Békés Megyei Hírlap, 2011., 15. évfolyam, 77. szám (2011. április 2.), 1. oldal, „Mérget rejt a föld” c. cikk
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+118/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Patyolattól, az évek alatt összesen mintegy 1 500 tonnát. Az így befogadott mennyiség regenerálása során maradt vissza az 1180 tonna anyag.
+
+Nem világos, hogy az elhelyezett persár akkor végül is a szalonban képződött, vagy beszállították, vagy esetleg, ami talán a hazai viszonyokat ismerve a legvalószínűbb, nem 1180 tonna persár volt a telepen jelen, hanem sokkal több.
+
+A nem megfelelően tárolt anyag a talajba jutott. A Patyolat 1991 végéig fogadott beszállított anyagokat, majd megkezdődött a cég felszámolása, amely 1995-ig tartott.
+
+A terület kármentesítésének első lépése 1996. évben kezdődött. Először gyorsintézkedés keretében 1119 tonna persár, 19 tonna göngyöleg, 28 tonna kitermelt szennyezett talaj és 18 m³ szennyezett mosóvíz elszállítására került sor.
+
+Második ütemében tényfeltárást, majd 1997 és 2001 között talajvíztisztítás is végeztek. Az üzemi tapasztalatok ismeretében megállapították, hogy indokolt a műszaki beavatkozás folytatása.
+
+A terület végleges kármentesítése 2013 és 2015 között valósult meg. A veszélyes hulladékkal elszennyezett földtani közeg mentesítési technológiája teljes talajcsere volt, a kitermelt szennyezett földtani közeget nanovas reagens hozzákeverésével sikerült mentesíteni. A szennyezett felszín alatti vizet elemi vas oldattal kezelték³³. A kármentesítés ezen szakasza akkori áron mindösszesen 3,1 milliárd Ft-ba került.
+
+A PCE kármentesítésére alkalmas technológiák tekintetében a tapasztalatokat a Kármentesítési kézikönyv 5. foglalja össze³⁴. Eszerint a PCE és a klóretilének általában mikrobiológiai úton elvileg lebonthatók. A klóretilének lebontásához anaerob (oxigénmentes) körülmények szükségesek, ugyanis a PCE nem alakítható át aerob módon. Az anaerob eljárás során deklorinációs lépések történnek, mely során etilenné, majd etánná redukálódik.
+
+### 6.11.3. A PERKLÓRETÉN ALKALMAZÁSA AZ EGYKORI SZÖVŐGYÁR TERÜLETÉN
+
+Ezen információk Internetes, illetve szakirodalmi forrásokból nem voltak elérhetők, így ezekkel kapcsolatban kizárólag a levéltári kutatások során nyertünk érdemi információkat. A végrehajtott kutatás megkezdésekor kiderült, hogy a gyárhoz kapcsolódó mérleg-beszámolók 1963-69 között rendelkezésre állnak, melyek áttekintésre kerültek. A levéltáros elmondása szerint ezek nem közvetlenül a részükre leadott szervezeti iratok, hanem a Nemzeti Bank részére benyújtott és a Bank által a Levéltárnak leadott iratok. A 70 es évektől azonban a „Gazdasági Banknak” (?) (talán
+
+³³ Lásd pl. Csabai Mérleg, 2015., 25. évfolyam, 7. szám (2015. április 9.), 3. oldal, „Volt Patyolat: tájékoztató a kármentesítésről”
+³⁴ Kármentesítési Kézikönyv 5.; Bioremediáció: Mikrobiológiai kármentesítési eljárások; Környezetvédelmi és Vízügyi Minisztérium 2010.; Fordította: Pálos Endre, lektorálta és kiegészítette: Anton Attila
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+119/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Magyar Általános Hitelbank, amely az 1867-ben kezdte működését és elsősorban vállalatok alapításával, hitelezési és beruházási tevékenységgel foglalkozott) kellett leadni a mérleg-beszámolókat és cégiratokat és ezek sokszor nem kerültek át a Levéltárba. A Fővárosi Levéltárban 1970-től már nincsenek meg a szervezet mérleg-beszámolói.
+
+Ezen kívül a cégiratokat a felszámolóknak kellett megőrizni, azonban, ha a felszámolót (Kvantum Bank, ami valójában Kvantum Bank Rt. volt) is felszámolták, ez gyakorlati problémákba ütközött és nem tudni, jelenleg hol őrizhetik az iratokat, ha még őrzik egyáltalán (valószínűleg már nem).
+
+A Fővárosi Levéltárban nincsenek az áttekintett dokumentumokon kívül őrzött iratok. Az 1970-95 közötti mérleg-beszámolók valószínűleg több érdemi részletet tartalmazhattak volna még a keresett témában.
+
+Érdemi információ volt nyerhető a következő dokumentumokból:
+
+- BFK 1963 – 1966 mérlegbeszámolók,
+- BFK 1967 – 1969 mérlegbeszámolók.
+
+1.) BFK 1963-66. évi mérlegbeszámoló
+
+Vizsgálatot igénylő vegyszer fogyás nem volt. Pénzbüntetéseknél, bírságoknál nincs szó környezetvédelmi jellegű, eredetű fizetési kötelezettségről. A beruházások és gépjavítások leírása során vegytisztító gépek nem szerepelnek.
+
+2.) BFK 1967-69. évi mérlegbeszámolók
+
+Eszerint a Budapesti Finomkötöttárugyárnak 4 gyáregysége volt:
+
+- Zuglói,
+- Rákospalotai (II. számú gyáregység),
+- Balassagyarmati,
+- Debreceni.
+
+Rákospalotánál rögzítésre került, hogy romlik a termelési minőség:
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+120/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+# Rákospalotai gyárközség
+
+Az I. félévi készáru minőség elmaradt a mult évi átlagtól.
+Ennek okai elsősorban a kötés, színeltérés és szennyeződés
+miatti osztályos áruk emelkedésében keresendők. A fonal-hiba
+miatti leosztályozás csökkent, ez azonban nem jelenti azt,
+hogy ezen a területen minden rendben volt. A nyers 28/2
+70/30% gyapjufonalak minősége még mindig nem olyan, amilyen-
+re szükségünk lenne. A szokásos egyenlőtlenségi hibákon ki-
+vül, újabb,- számunkra súlyos hiba,- a táblásság, jelentkezett.
+A fonalak egy részénél már nyers állapotban, más részénél pe-
+dig csak fehérített, vagy festett állapotban észlelhető a hi-
+ba. Így a színhiba emelkedésében ez a tényező is jelentős
+
+A kötésével közösen végzett vizsgálat alapján megállapítottuk
+a hibák okait, s a javasolt intézkedéseket elfogadva, a kötő-
+de jelentős mértékben javította munkáját. Juniusban e hiba
+miatti osztályos áruk a termelés 0,55%-ra csökkentek.
+A harmadik igen jelentős hiba a szennyeződés volt. A szennye-
+ződések, különösen a pár és olaj keverékéből származtak, me-
+lyeket a tri-gópi tisztítás nem távolított el, többszöri tisz-
+títás esetén sem. A hiba nagyrészt a gyapju áruknál jelentkezett,
+melyek helyi tisztítást, mosást nem bírtak el. Az ilyen árukat
+tégül le kellett osztályozni. Az I. félévben emiatt a termelés
+
+jusban a 2,2%-át. A további leosztályozás megakadályozása cél-
+jából már áprilisban, de nagyobb mértékben májusban sok árut
+adtunk vissza a kötődének, hogy a szennyeződést távolítsa el
+az árujából. Sikerült elérnünk, hogy a már így is magas osztá-
+lyos áruk mennyisége nem emelkedett tovább. Jelentős változást
+azonban csak az hozott, hogy sikerült egy tri-erősítő vegyszert
+szerezni a Patyolat Vállalattól. A MEO saját létszámán belül
+megoldotta a vegyszeres utánkezelést. A munka eredménye már
+csak juniusban jelentkezett, amikor a szennyeződés miatti osz-
+tályos áru a termelés 1.-%-ára csökkent. Egy hónap alatt
+2.000 db olyan áru lett I.osztályu, melyek eddig csak osztá-
+lyosak lehettek volna. Ezen kívül a tisztításra kerülő áruk
+tudási ideje is csökkent, mert az eddigi 3-4 kézbevétel he-
+yett,/többszöri tisztítás, szállítás,stb./ legfeljebb kétszer
+erülnek kézbe. Az első tisztítás után a MEO kiválasztja azokat
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+121/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Előbbiekből egyrészt rögzíthető, hogy a telephelyen a gyártáshoz-festéshez kapcsolódóan tisztítási tevékenységet is végeztek, amelyekhez „tri-gépeket” használtak. Ezekben nevükből következően még triklór-etilén kerülhetett felhasználásra. Viszont a felmerülő szennyeződés-eltávolítási problémák megoldást igényeltek, amelyek érdekében 1967-ben először „tri-erősítő vegyszert” (ezt a dokumentumban nem nevezik meg) szereztek a Patyolattól.
+
+**1967-ben „új vegyszeres eljárás”** került bevezetésre a szennyes áru tisztítására. Az „új vegyszer” a dokumentumokban nem kerül megjelölésre, de az általános gyakorlat szerint **a triklór-etént a tetraklór-etén (perklór-etén) váltotta fel.**
+
+A „tri-gépek” használatba vétele időpontjának kiderítése érdekében végzett levéltári kutatás eredményeképpen azonosításra került egy 15064/3-959 sz. „Tri-tisztítógép gépfelállítási engedély” (kiadva: 1959. február 23.), melyhez csatolt műszaki leírás 1958. december 30.-i dátummal készült. Eszerint 1 db 16 kg kapacitású tri-gép felállítása történt a gyártelep 747 hrsz. telkén álló „Festőde” épületben. Fontos visszautalni arra, hogy **ez a terület az 1994-ben készült kataszter szerinti 9.1. jelű épületnek a K-i vége volt.**
+
+**6.10.3.1. szövegközi ábra.** A Budapesti Finomkötöttárugyár gyártelep egy részének 1978-ban készült ortofotó nagyítása, az udvaron, védelem nélkül tárolt anyagok elhelyezkedése a gyártelepen
+
+![img-3.jpeg](img-3.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+122/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+![img-4.jpeg](img-4.jpeg)
+
+Az, hogy az előzőekben meghatározott potenciális szennyezőforrásokból jelen vizsgált helyszínen pontosan mely elemek voltak jelen, milyen konfigurációban, a tárolt alapanyagok, oldatok, hulladékok pontosan hogyan, meddig és hol kerülhettek tárolásra, hogy lettek az anyagok a technológiában felhasználva, milyen technológiai rendszerek álltak rendelkezésre, mi volt az anyagok végleges kezelési folyamata, továbbá a gyár működésének a PCE-hez kapcsolódó alrendszerében, továbbá az anyagforgalomra vonatkozó bármely további releváns információ az intenzív kutatási munkálatok ellenére sem sikerült érdemben azonosítani. Igyekeztünk ezért további forrásokat áttekinteni.
+
+A fentrol.hu oldalon elérhető 1978-as felvételen jól látható, hogy a Leánynevelő intézet tulajdonában álló, elmondások szerint azonban a finomkötöttárugyári tevékenység végzés céljából bérelt területen a nyílt színen jelentős tárolási tevékenység folyt, amelyről már a 2.1 fejezetben részletesen írtunk.
+
+Ezt követően azonban a terület előbb sátorral, majd tetőszerkezettel fedésre került, amelyek alatt a tárolt anyagok, azok mennyisége, a tárolás módja már nem beazonosítható. Az 1978-as állapotokat a 6.10.3.1. szövegközti ábrán mutatjuk be. Az ábra bal felső eleme a telep érintett részét mutatja, jobbra tőle és alatta pedig egy-egy nagyítást mutatunk. Kék nyíllal jelöltünk meg pár pontot a nagyításokon, ahol jól láthatóan göngyölegek helyezkednek el, hol rendezett, hol rendezetlennek tűnő állapotban.
+
+A további munkálatok során e kérdések tisztázására jelentős hangsúlyt fektettünk, melyet az eredmények értékelésénél mutatunk be.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+123/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 6.12. A SZENNYEZETT TERÜLETEN JELENLÉVŐ CSATORNAHÁLÓZAT RÉSZLETES VIZSGÁLATA
+
+A 2023-ban nyert eredmények azt mutatták, hogy az illékony halogéntartalmú alifás szénhidrogén szennyezettség három potenciális helyszínen is keletkezhetett (vö.: 2.2.3.1. szövegközti ábrán bemutatottak):
+
+- Az egykori Budapesti Finomkötöttárugyár Rákospalotai Gyáregysége területén (jelenlegi 88323 és 88322/2 hrsz-ek valamelyike / mindegyike).
+- A Leánynevelő Intézetnek az alaptevékenységet kiszolgáló részterületén (88311 hrsz).
+- A Leánynevelő Intézetnek az alaptevékenységhez közvetlenül nem kapcsolódó, bérbeadás útján hasznosított területén (szintén 88311 hrsz, a 2.2.3.1. szövegközti ábrán sraffozással jelzett hosszúkás alakú terület).
+
+Magyarán a kapott eredmények alapján nem volt eldönthető, hogy a szennyezettség a 88323 (SZÖVŐGYÁR) telkén keletkezett és onnan terjedt át a Leánynevelő Intézet területére, vagy fordítva történt, a 88311 hrsz. Leánynevelő Intézet által használt, vagy esetleg ugyanennek a teleknek a bérbeadott részén keletkezett és onnan jutott vissza a SZÖVŐGYÁR területére.
+
+Az időközben lefolytatott tényfeltárási lehatárolási vizsgálatok fényt derítettek arra, hogy a szennyezettség igen nagy területen terjedt szét, mindhárom előbb felsorolt területen súlyos szennyezettséget idézve elő. Ugyanakkor az is kiderült, hogy a földtani közeg szennyezettség a sekély zónában olyan mintázatot mutat, mintha a terjedését valamilyen felszín alatti jó vezetőképességű közeg segítette volna. Kézenfekvő gondolat volt, hogy a már előzőekben említett csatornahálózat segíthette a szennyezőanyag terjedését.
+
+E csatornahálózat magja, a jelenlegi Leánynevelő Intézet egykori jogelődjének (Rákospalotai Állami Javító Intézet) építésekor, feltehetőleg már 1900 és 1905 között kiépülhetett. Ez ugyanakkor minden bizonnyal csak az intézmény területére korlátozódó belső gyűjtő- derítő rendszer lehetett, mivel a környező utcák csatornázása 1929/30-tól kezdődő tervezés és előkészítést követően 1938-ban indult meg.35 Az 1934-ben készült tervezetet, köszönhetően annak, hogy a Rákospalotai Múzeum a terveket megőrizte és betekintés biztosított számunkra, a
+
+35 Az előkészítés nehézségeivel kapcsolatos újságcikkek pl. (1) Népszava, 1929. június (57. évfolyam), 140. szám (megjelent: 1929.06.23), 20. oldal, „Küzdelem Rákospalota város vízvezetéke és csatornázása körül.” c. cikk.; (2) Városi Szemle, 20. évfolyam, 1934., 282. oldal, I. Tanulmányok / Linhardt József: „Városaink csatornázása és szennyvízkezelése” c. cikk, „Rákospalota megyei város.” c. fejezet, amely írja, hogy 1934-ig Rákospalota területén szennyvízelvezetésről egyáltalán nem gondoskodtak, valamint, hogy a részletes tervek elkészültek. (3) Palota-Ujpest, 1936 (16. évfolyam), 37. szám (megjelent: 1936.09.12), 3. oldal, „Rákospalota vízvezetéke, vize és csatornázása mennyibe került volna a régi tervek szerint.” c. cikk.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+124/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**6.7.5.1. szövegközti ábra** szerint rekonstruáltuk (két egymástól elszakadt, némileg eldeformálódott lapon van a kérdéses terület).
+
+**6.7.5.1. szövegközti ábra.** A Rákospalota csatornázására vonatkozó 1934-ben készült terv SZÖVŐGYÁR környezetére vonatkozó részlete
+
+![img-5.jpeg](img-5.jpeg)
+
+A térképet áttekintve az alábbiak állapíthatók meg.
+
+- A csatornarendszer terv „Leszálló aknát” tervezett a Grófi úton (jelenleg: Károlyi Sándor út), Árpád utca-Andrássy utca (jelenleg: Énekes utca, Szövőgyár utca) sarkán, és az eredetileg Temető, majd Andrássy (jelenleg: Szövőgyár) utcában.
+- A csatornarendszer terv „Öblítő aknát” tervezett az Árpád (jelenleg Énekes) utca és ekkor még névtelen (később 1938-ban már „Szilas”, jelenleg Pisztráng) utca sarkánál és a Pacsirta (jelenleg: Dal) utca végén.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+125/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+- A tervezet szerint a későbbi Finomkötöttárugyár területe és a Leánynevelő Intézet területe között a vízválasztó a két ingatlan közti belső telekhatáron futott. Ezt a geodéziai bemérés nagyjából vissza is igazolta.
+- A tervezet szerint a későbbi Finomkötöttárugyár telkeiről a mostani Szövőgyár utca irányába kell a szennyvizeket elvezetni a csatornarendszerbe, míg a Leánynevelő Intézet területéről részben a Károlyi Sándor út, részben a Vasút utca (jelenleg: Pozsony utca) felé.
+- Az Énekes utca – Pisztráng utca irányába elvezetés nincs előirányozva.
+- A csatorna lejtése alapján a teljes telektömbből érkező szennyvizek gyűjtési útvonala a Pisztráng utca -> Énekes utca -> Szövőgyár utca -> Pozsony utca -> Károlyi Sándor út irányát követi, azaz a telekkomplexum körül az óramutató járásnak megfelelő irányban „körbe halad” a szennyvíz.
+
+**6.7.5.2. szövegközti ábra.** A SZÖVŐGYÁR telkének csatornázására vonatkozó 1949 körül készült tervlapja, kiegészítve az épületek 1995-ös azonosításakor adott számozásával és az 1934-ben készült csatornázási tervben megjelölt Andrássy (mostani Szövőgyár) utcai leszálló ponttal
+
+![img-6.jpeg](img-6.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+126/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A leszálló akna olyan nagyméretű akna, amelyen keresztül a csatornarendszerbe az ember általi leszállás biztosított. Az öblítő akna elsősorban dugulás, vagy egyéb szükségletek esetén használható kisebb aknák. Az Énekes utca, Pisztráng utca sarkán a leszálló akna a Csatornázási Művekkel tartott közös bejárás során fellelhető volt.
+
+A csatornahálózat 1940-es évek során történt kiépültét közvetetten bizonyítja a Fővárosi Levéltárban őrzött, F.4-05-OB-137-1 csoportjelű tervlap, amely a gyártelep akkori állapota szerinti csatornázottságának vázlatrajzát tartalmazza. A tervlap dátumot nem tartalmaz, felirata alapján, mely még Rákospalota helyen jelöli a gyártelepet, nem sokkal 1950 előtt kellett, hogy készüljön, mert az 1953-ban ugyanazon készítő és ellenjegyző gárda által készített („Festőde átalakítás” c.) tervlapon már Budapest XIII. kerület (nyilván elírás XV. helyett) alatti a gyártelep (lásd 6.7.5.2. szövegközti ábra).
+
+A tervlapról leolvasható, hogy két helyen lépett ki a gyártelepről a szennyvíz, mégpedig egy a most is létező 2.B. és 14.N. épületek közötti főbejáratnál, egy másik pedig a jelenlegi 88322/1 hrsz. ingatlanról közvetlenül az 1934-es csatornázási terv szerinti Szövőgyár (akkor „Andrássy”) utcai leszálló aknába.
+
+A főbejárathoz eső főgyűjtő gerincvezetéket sikeresen azonosítottuk, ahhoz egy kiegészítő ág létesült hegyes szögben a 2.B. épület irányába ágazva ki. Míg előbbi tégla boltozattal készült, utóbbi eternit rendszerű. A gerincvezeték kb. 400 mm átmérőjű, megbontása alapján táglából épült. A gerincvezeték nyomvonala egészen az egykori 9.I. jelű épületig sikeres volt, a 14.N. és az egykori 13.M. jelű épületek felé történő kiágazásokkal, valamint az egykori 9.I. épület előtt fellelésre került az egykori 9.I., 13.M. és 3.C. épületek közötti hármas elosztópont is (helyét mutatja a 6.7.5.2. szövegközti ábra). Utóbbi pontról mind a három épületbe közvetlen belépés is mutatkozott.
+
+Innentől kezdve a jelenlegi terepszint nagyjából 30 cm-t emelkedik és az egykori térszínre, utakra és föld színéig lebontott épületekre friss föld lett ráhordva, feltehetőleg a bontásokat követően. A ráhordott földön mostanra gyér növényzet, elsősorban fűtársulások fejlődtek és csenevész bokrok. Utóbbi a vékony rétegek alatt minduntalan felfedezhető aszfaltutak és épületmaradványok miatt érthető is, rendes gyökérzetnek nincs elegendő hely. A földet munkagépekkel elkotottuk, a területet átkutattuk és megleltük az egykori 13.M. és 3.C. épületek közötti udvarrészre beforduló csatornaszakaszt, amely a 3.C. épület mellett folytatódik és annak végében ismét befordul a 3.C. épület mellé. Azonosítható volt az egykori 3.C. épület túloldalán, a Leánynevelő Intézet felőli oldalon, a telekhatárral párhuzamosan futó gerincvezeték, amelynek kiágazása van nem csak a 3.C. épület irányába, de több ponton a Leánynevelő Intézet felé is. A két vezetékszakasz (főgerincvezeték a Szövőgyár utcától a 3.C. épületig és gerincvezeték
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+127/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+a 3.C. jelű épület mögött, a telekhatár mentén) a 3.C. épület és a 12.L. épületek között került összekötésre még a 12.L. jelű épület megépítése (1972) előtt. Más pont szóba se jöhetett, mert a Leánynevelő felőli telekrész teljes egészében el volt zárva az innenső részektől a beépítettség miatt.
+
+Ezzel mindent egybevetve megtaláltuk a gyártelep főbejáratán érkező csatornarendszer átvezetését egészen a Leánynevelő Intézet telekhatáráig. Innen sajnos nem sikerült a Leánynevelő Intézet felé menő ágak egyikének a tovább haladását sem azonosítani, mert útját állja ennek a 2.2.2.1. szövegközti ábra szerinti „Raktár” megnevezésű épület, amely a Leánynevelő Intézet által bérbeadott telekdarabon helyezkedik el. Mivel a Raktárépület már a Leánynevelő Intézet telkén áll és emiatt a csatornázás szempontjából elvileg annak a vízgyűjtő bázisához kell, hogy kapcsolódjon, az általunk fellelt kapcsolata a SZÖVŐGYÁR területének csatornahálózatához azt jelzi, hogy ezen Raktár épületnek a csatornarendszere mindkét (Leánynevelő Intézet és SZÖVŐGYÁR saját csatornarendszere) irányban kommunikálhat.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+128/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 7. A VIZSGÁLATI EREDMÉNYEK ISMERTETÉSE
+
+### 7.1. SEKÉLYFÖLDTANI FELÉPÍTÉS
+
+A vizsgált terület felszínén helyenként változó (0,0-1,0 m) vastagságban homokos-építési törmelékes feltöltés volt megtalálható. Ettől eltérően az egykori Szövőgyár területén feltételezhetően a 3.C. jelű épület lebontásából keletkezett nagyméretű tégla-, beton- és vastörmelék akár 4 méter mélységben is jelen volt, amely alatt az egykori pince vastag beton alapját is azonosítottuk, azaz a pincezintre történhetett az épületek bontása során keletkezett bontási anyag egy részének (egészének) elhelyezése. A terület jelentős részét hasonló lebontott gyárépületek helyezkednek el, amelyek esetén a 3.C. épülethez hasonló állapotok feltételezhetők a felszín alatt közvetlenül.
+
+A gyártelep környezetében az altalajt a felső kb. 10-12 méterben homok, finomhomok és iszapos rétegek építik fel. Az alsóbb rétegekben (kb. 14-17 méterig) a rosszul osztályozott kavics és durvahomokos réteg jellemző, melyet olykor egy-egy keskenyebb agyagos betelepülés, lencse tör meg. A durva szemű, feltehetően teraszüledék alatt jó vízrekesztőképességű agyagos üledék (fekü) található, amely a terep felszíne alatt 5-17 m körül jelenik meg, a vizsgált terület Ny-ÉNy-i vége felé haladva egyre sekélyebben. A fekü az egykori gyáringatlan térségében, valamint attól K-i irányban 16-17 méteres terepszint alatti mélységben jelenik meg, míg a vasútállomásnál, valamint a Szilas-patak túloldalán létesített furatokban már mindössze 5-6 méteres mélységben elérjük. A vizsgált területen több furattal igyekeztünk azt igazolni, hogy ez a jó vízrekesztő képességű réteg összefüggő rendszert alkot, ami megerősítést nyert. A térség Ny-i végén elhelyezkedő CLRT-A231 jelű furatban 5,2 méter mélységben harántolt agyagos képződménybe 3 méter mélyen belefúrtunk a réteg vastagságának tesztelése céljából. A réteg vízrekesztő jellege a 3 méteren keresztül változatlanul (sőt, lefelé egyre csekélyebb áteresztőképességgel) mutatkozott.
+
+#### 7.1.1. FEKÜMORFOLÓGIA
+
+A fúrási vizsgálatok során megállapítható volt, hogy a térségben elhelyezkedő földtani közegben egy igen rossz vízvezetőképességű, a környezetéhez viszonyítottan markáns permeábilis kontrasztot jelentő, az egész térségben összefüggően jelenlévő képződmény mutatható ki. E képződmény rossz vízvetőképességét agyagos jellege okozza. Az ilyen képződmények szakterminológia szerint szokásos megnevezése a „fekü”, utalva arra, hogy egy ilyen réteg felszíne felett a vízzel együtt megülnek az abban található oldott és önálló fázisú szennyezőanyagok is. Ez adja különös jelentőségét, mivel a víznél nehezebb (DNAPL jellegű)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+129/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+szennyeződéseknek ez tehát egyszerre a „gyűjtő helye” és vertikális terjedését akadályozó képződménye. A fúrások során gyűjtött adatsorokat összegezve elkészítettük a szennyeződés térségében ezen rossz vízvezetőképességű „fekü” elhelyezkedését a felszínhez viszonyítva, melyet a 7.1.1.1. szövegközti ábra mutat be.
+
+7.1.1.1. szövegközti ábra. A SZÖVŐGYÁR környezetében észlelt fekümorfológia [mBf szint]
+
+![img-7.jpeg](img-7.jpeg)
+
+## 7.2. VÍZFÖLDTANI VISZONYOK
+
+A telített zóna a terepszint alatt kb. 6 méter mélységben, 106 mBf szinten jelent meg a 2024. év nyári-őszi és 2025. év őszi-téli időszakában. A vizsgálatok alapján megállapítható, hogy mindkét vizsgálati szintben a horizontális áramlási irány alapvetően ÉNy-i, alacsony gradienssel. A mérések alapján egyes pontokon időnként anomáliák mutatkoznak, melyek nem zárható ki, hogy lakossági vízkivételhez (is) köthetők. Ezen anomáliák elsősorban a kertvárosi részen, kertes házas térségekben jelentkeznek. A lakossági vízkivétel közvetetten abból feltételezhető, hogy az érintett térségben nincsenek ipari fogyasztók. Fontos ugyanakkor, hogy lakossági vízkivétel lévén, időszakosak, kisléptékűek, hatásuk korlátozott és ez a korlátozott hatások nem befolyásolják a vizsgálatok szerint a csóva tényleges terjedését.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+130/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A Szilas-patak medrében végzett geodéziai bemérés szerint a patakmeder legmélyebb pontja a vizsgált területre belépési pontjánál (Növényolajgyár területe alatt mesterséges alagútban vezetett meder gyárból kilépő pontja) nagyjából 106 mBf szinten helyezkedik el, míg a vizsgált területről kilépésnél (IV. került Tarzan park mellett) 104 mBf szint detektálható. Ez megfelel a Duna felé áramló vízfolyás egykori természetes medrében volt esési viszonyoknak, csak a meder lett áthelyezve a Növényolaj gyár bővülése miatti területigényre tekintettel 1970 körül. A vizsgálati pontokon észlelt felszín alatti vízszinteket a patakmederben folyó víz szintjével összevetve megállapítható, hogy a SZÖVŐGYÁR térségében a telített zóna vonala folyamatosan süllyed a patak irányában. A nyugalmi vízszint a SZÖVŐGYÁR telkén 1,1 – 1,4 m-rel magasabban van, mint a patakban folyó víz felszínének szintje. A patakhoz közeledve a szintek egyre közelednek egymáshoz. A 7.2.1. szövegközti ábra a felszín, a fekü és a felszín alatti víz nyugalmi vízszintjének alakulását mutatja a SZÖVŐGYÁR és a Szilas-patak környezetében.
+
+7.2.1. szövegközti ábra. A SZÖVŐGYÁR környezetében észlelt felszíni, fekü és felszín alatti víz nyugalmi szintek alakulása
+
+![img-8.jpeg](img-8.jpeg)
+
+Látható, hogy a felszín alatti víznek a telített zóna és a fekü közötti vastagsága folyamatosan csökken. Emiatt a CLRT-F230 jelű furattól Ny-i, ÉNy-i és É-i irányban oly mértékben elvékonyodik a víztest, hogy a vízminőségét elegendő egyetlen vizsgálati réteggel jellemezni. Ennek megfelelően a CLRT-F230 környezetében, a gócponttól távolodó (Ny – ÉNy – É-i) irányokban kijelölt furatokból már csak 1-1 darab létesült, amelyek mindegyike „A” jelzéssel lett ellátva (CLRT-A231, CLRT-A232, CLRT-A233, CLRT-A234, CLRT-A235, CLRT-A237, CLRT-240,
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+131/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+CLRT-241, CLRT-242 jelű furatok). E furatokból nyert minták vizsgálati eredményeit a sekély és mély réteghez egyaránt társítottuk és így készültek az oldott fázisú elterjedési ábrák.
+
+### 7.2.1. VÍZJÁRÁS
+
+A területen végzett hidraulikai vizsgálatok adatai alapján a 2025 november és 2026 április közötti időszakban a felszín alatti víz felszínhez legközelebbi („sekély”) rétegében a vízszint egységesen változott, mintegy 20 cm-t emelkedett.
+
+#### 7.2.1.1. TELÍTETT ZÓNA VASTAGSÁGA
+
+A vizsgálatok során megállapítást nyert, hogy a felszín alatti víz telített zónájának vastagsága az LNAPL csóva környezetében viszonylag állandónak mondható, ugyanakkor a nagykiterjedésű és hosszan (>540 m) elnyúlt DNAPL csóva környezetében a hely függvényében jelentős mértékben változik. A gócterület környezetében a vastagság meghaladja a 10 métert, amelyhez felső és alsó vizsgálati zónát párosítottunk, fent 3, lent 2 méter vastag szűrőzéssel. Ugyanakkor a DNAPL csóva frontterülete környezetében a zónavastagság már a 3 métert se éri el. Itt már nem is lehet két önálló zónát definiálni. Emiatt az egyes zónák érvényességi területe korlátozott. Ott, ahol nincs legalább 5 méter vastag felszín alatti vízzel telített zóna, ott számításainkban ezt figyelembe szükséges venni.
+
+Annak érdekében, hogy a csóva alakzatban jelenlévő szennyezett felszín alatti víz és szennyezőanyag mennyiség ilyen körülmények mellett is pontosan kalkulálható legyen, szükséges volt a telített zóna vastagságának eloszlástérképét elkészíteni. Ennek segítségével meghatározható volt, hogy mely térrészekben érvényes a felső és mely térrészekben az alsó szűrőzésű furatokból nyerhető minta által mutatott szennyezettség, valamint a kettő között hol helyezkedik el és milyen vastag a felső és alsó térrész közötti „középső” víztest. A zónavastagságot a 7.2.1.1.1. szövegközti ábra mutatja be.
+
+### 7.2.2. HORIZONTÁLIS HIDRAULIKA
+
+A horizontális hidraulikai viszonyokat az 1. függelék (szivárgáshidraulikai és transzportmodell) mutatja be részletesen.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+132/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+7.2.1.1.1. szövegközti ábra. A SZÖVŐGYÁR környezetében észlelt telített zóna vastagsága [méterben]
+
+![img-9.jpeg](img-9.jpeg)
+
+### 7.2.3. VERTIKÁLIS HIDRAULIKA
+
+Tekintettel arra, hogy a területen – összhangban jelen munkafázis fő céljával – az oldott fázisú szennyezettség vertikális kiterjedésének vizsgálatára is sor került, a vizsgálati pontok adatai alapján a terület legfelső vízadó rétegének vertikális hidraulikai viszonyai is vizsgálhatóvá váltak. A vizsgálati eredmények alapján a két rétegben észlelhető nyomásszintek megegyeznek egymással.
+
+A vertikális hidraulikai viszonyokkal kapcsolatos további információkat az 1. függelék (szivárgáshidraulikai és transzportmodell) mutatja be részletesen.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+133/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+### 7.3. TEREPI SZENNYEZETTSÉG ÉSZLELÉSEK
+
+A földtani közeg szennyezettségének organoleptikusan tapasztalható jele az Olajszármazék gócterületen és a Tetraklór-etén gócterületen is volt.
+
+A tényfeltárás során mélyített furatok esetében a gócterületeken a furatok általában a már megismert szennyezettségnek megfelelő szaghatást mutatták, különösen az olajszármazék gócterület térségében. Ahol önálló fázis is mutatkozott, ott a földtani közeg tekintetében már a telítetlen zóna 5-6 méteres rétegeiben is olajszármazékokkal erősen átitatott állapotokat észleltünk.
+
+A perklóretén gócterület térségében elsősorban a telített zóna határterületén, 7-8 méteres mélységközben jelent meg a perklóretén jellegzetes erős szaga.
+
+A tényfeltárás során mélyített CLRT-16, CLRT-22, CLRT-F103, CLRT-A109, CLRT-F113, CLRT-F115, CLRT-F117 jelű furatokból vett minták esetén a perklóretén szagától eltérőnek érződő, közelebbről meg nem határozható vegyszerszag/oldószerszag volt érezhető. A CLRT-22, CLRT-F113, CLRT-F115, CLRT-F117 jelű furatok a Leánynevelő Intézetben helyezkednek el és igen magas VOCI szennyezettséget mutatnak döntő PCE dominanciával, így az észlelt szaghatás ebben az esetben feltehetőleg mégis inkább ennek tudható be. A CLRT-A109 jelű furat esetében mindkét típusú (olaj, perklóretén) szaghatás észlelhető volt, ez okozhatta az organoleptikusan érzékelhető szaghatás értelmezésének zavarát. A CLRT-F103 furat a legrégebben felfedezett, olajos tartály okozta gócterület területén helyezkedik el, távol a perklóretén góctól. Az észlelt furcsa szaghatásnak megfelelően VOCI vizsgálatot végeztettünk, ami csak enyhe szennyezettséget mutatott. Jelentősebb vegyszerszagot mutatott a CLRT-16 jelű furatból vett minta is, amit szintén nem lehetett érdemi VOCI szennyezettséghez kötni.
+
+### 7.4. KÖRNYEZETI ELEMEK VIZSGÁLATI EREDMÉNYEI
+
+#### 7.4.1. SZŰRŐVIZSGÁLATOK
+
+Szűrővizsgálatot a kiegészítő tényfeltárás során nem végeztünk.
+
+#### 7.4.2. FÖLDTANI KÖZEG SZENNYEZETTSÉGE
+
+A szennyezettséggel kapcsolatos információkat a szennyezőanyagok típusa (LNAPL, DNAPL) szerint megbontva mutatjuk be.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+134/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+### 7.4.2.1. LNAPL SZENNYEZETTSÉG
+
+A földtani közeg TPH, BETX és PAH szennyezettségi adatait a 1. táblázat fogalja össze. Olajszármazék szennyezettséget a CLRT-F01, CLRT-F101, CLRT-F102, CLRT-A109, CLRT-A111 furatokban, valamint a CLRT-OG prefix jelű furatok jelentős hányadában azonosítottunk. Kivételt képeznek utóbbiak közül a CLRT-OG-12–13, CLRT-OG-17–21, CLRT-OG-42–43 furatok, amelyek lehatároló pozícióban helyezkednek el.
+
+Az Olajszármazék gócterület kiterjedt részén erős szénhidrogénszag, olajos tapintás jellemezte a földtani közeg mintákat, továbbá a fúrás során a fúróspirálról lepergő, a szennyezőanyaggal erősen átitatott szakaszokon emulziószerűen folyó állagra tekintettel a furatból kiemelt anyag gyakorlatilag lefolyt, és így számos helyen olajfoltot hagyott a munkaterületen, amit feltakarítottunk.
+
+Az Olajszármazék gócterületen a szennyezettség általánosan a kapilláris zóna felett, 107 mBf-en jelenik meg, majd a vártnak megfelelően a kapilláris zónában (105-106 mBf) mutatja a legnagyobb elterjedést, a legmagasabb koncentrációk is itt, elsősorban 106 mBf-en mutathatók ki. Egyes sekély fúrások 9 m-es alsó mintavételi pontjaiból vett minta esetében (CLRT-F01, CLRT-F101, CLRT-F102, CLRT-A109, CLRT-A111) kimutatható volt a szennyezőanyag jelenléte, amelyeket azokon a pontokon (CLRT-A109, CLRT-A111) vertikálisan is lehatároltunk, ahol a kútpárok megléte miatt volt alkalmunk a mélyebb fúrások mintáiból is vizsgálatokat végezni. Az LNAPL gócterület szerkezetének pontos feltárását célzó OG jelű furatok ezen tapasztalatok alapján mélyületek egészen 101 mBf szintig, amely a lehatároltságot minden komponensre és minden mélységre biztosította.
+
+A TPH komponensek már a felszínhez egészen közel is – pontszerűen – megjelennek, de kiterjedtebben 109-103 mBf között figyelhetők meg. A szennyezettség alakja az egyéb alkilbenzolok szennyezettségéhez hasonló.
+
+A BTEX-ek elterjedése tekintetében a benzol 106-104 mBf-en mutatható ki, jelentősebb (de még így is alacsony) koncentrációban a CLRT-F01, CLRT-OG-06, CLRT-OG-31 és CLRT-F101 pontok környezetében, csekélyebb koncentrációban a CLRT-F109, CLRT-OG-01, -04, -06, -07, -08, -27, -28, -29, -32, -33 és -39 ponton is. A toluol szintén csak 106-104 mBf szinteken mutatható ki a CLRT-01, CLRT-F01 és CLRT-F109 pontokon. Kisebb koncentrációval kimutatható még a CLRT-OG-04, -05, -06, -08, -27, -32, -36, -38, -39, -44, valamint a CLRT-11 pontokon is. Etilbenzol 109-103 mBf-en jelenik meg a CLRT-01 – CLRT-F101 – CLRT-F109 pontok íve mentén, kissé elnyúlva, a CLRT-F109 pontnál mélyebbre bukva. A szennyezettség súlypontja a CLRT-01-CLRT-OG-36-CLRT-OG-06-CLRT-OG-38 pontok közötti térrész, amely a TPH szennyezettség tartályos gócponti térségének belső részén helyezkedik el. A xilolok az etilbenzol megjelenéséhez hasonlóan
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+135/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+jelennek meg, azonban a jelenlétük egy méterrel magasabbtól (108-102 mBf) kimutatható és a csóva kiterjedése is valamivel nagyobb. Az egyéb alkilbenzolok szennyezettség 109-102 mBf-en kimutatható, a xilolok csóvához hasonló, ám méretében nagyobb kiterjedésű, a TPH gócterület alakjához jól illeszkedő. Utóbbi két komponens esetén a szennyezettséggel érintett furatok köre a TPH szennyezettségnél jelzett furatokéval gyakorlatilag azonos.
+
+A PAH a TPH-hoz hasonlóan már a legfelső zónában (113-112 mBf szint) is megjelenik, az itteni diffúz elterjedése alapján a felszínre a bontás végeztével hordott feltöltés a forrása. Ez alatt 112-109 mBf szintek között nem észlelhető érdemi PAH szennyezettség. A komponens általi kiterjedtebb szennyezettség 109-102 mBf-ek közötti. A kialakult csóvának a többi csóvához hasonló az alakja, azonban a CLRT-A111-es mintákban is kimutatható (B) szennyezettségi határérték feletti koncentrációban 107-104 mBf között.
+
+#### 7.4.2.2. DNAPL SZENNYEZETTSÉG
+
+A halogéntartalmú alifás szénhidrogén szennyezettséggel kapcsolatos eredményeket a 2. táblázat mutatja be. Halogéntartalmú alifás szénhidrogén szennyezettséget 2024-ben a CLRT-A109, CLRT-A110, CLRT-A111, CLRT-A113, CLRT-A114, CLRT-A115, CLRT-A116, CLRT-A117, CLRT-A119, CLRT-A120 furatokban lévő mintákból mutattunk ki. A 2025. évi vizsgálatok közül a CLRT-GK és CLRT-GKM prefix jelű gócfeltáró furatok mindegyike mutatott halogéntartalmú alifás szénhidrogén szennyezettséget. Ezek mellett a CLRT-OG-13, CLRT-OG-16, CLRT-OG-17 jelű, LNAPL szennyezettség feltáró furatok is mutattak egyes mélységekben földtani közeg szennyezettséget (közel lévén a DNAPL gócterülethez). Szennyezettséget mutattak végül a 2025 évi első munkaszakaszban létesített gócelhelyezkedés kutató furatokból a CLRT-A102, CLRT-A104, CLRT-A107, CLRT-A108, CLRT-A201-207, CLRT-A219-221, CLRT-A226, CLRT-A227, CLRT-F14, CLRT-F112, CLRT-F114-116 jelű furatok is.
+
+A Tetraklór-etén gócterület magjának néhány méteres környezetéből kitermelt, erősen szennyezett minták jellegzetes szaggal rendelkeztek, amely segítette a gócterület szűk lehatolási kürtőjének megtalálását. Az erősen szennyezett mintákon olyan vöröses elszíneződést, mint más tetraklór-etén szennyezettséggel jellemezhető kárhelyeken nem észleltünk. A kitermelt anyag szaghatása igen hamar (pár percen belül) elenyészett a szabadlevegőn, a tetraklór-etén gyorsan elillant a minták felszínéről, ezért a minták akkreditált csomagolását nagyon gyorsan kellett végrehajtani.
+
+#### 7.4.2.3. ARZÉN SZENNYEZETTSÉG
+
+A földtani közeg arzén szennyezettségi eredményeit az 5. táblázat tartalmazza. Vizsgálatokat 2024-ben végeztünk. Arzén szennyezettséget a CLRT-A110, CLRT-A111, CLRT-A116, CLRT-F102,
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+136/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+CLRT-F107 furatokban találtunk, alárendelt mértékben, ezért s továbbiakban a vizsgálatot mellőztük.
+
+### 7.4.3. FELSZÍN ALATTI VÍZ SZENNYEZETTSÉGE
+
+A felszín alatti víz ÁVK eredményeit a **7. táblázat** összegzi.
+
+#### 7.4.3.1. LNAPL SZENNYEZETTSÉG
+
+A sekély kutak felszín alatti víz TPH, BTEX, PAH analitikai eredményeit a **6. táblázat** mutatja be. A mintavétel során a CLRT-F01, CLRT-F101, CLRT-F109 kutakban elkülönült szerves fázis jelenlétét azonosítottuk, mely folyadékszintmérő műszerrel nem volt mérhető, azonban a szivattyúzáskor kifolyó vízben, illetve a baileres merítés során határozottan megfigyelhető volt az olajos réteg elkülönülése. A CLRT-F01 és CLRT-F101 kútban ez körülbelül néhány cm – 1 dm-es vastagságú lehetett, a CLRT-F109 kút esetében minimum 40-50 cm. A vízmintákban (B) szennyezettségi határértéket meghaladó koncentrációkat a CLRT-F01, CLRT-F101, CLRT-F102, CLRT-F108, CLRT-F109, CLRT-F110, CLRT-F111 kutakban mutattunk ki.
+
+A 2024-ben végzett mintavételezés során szénhidrogénre utaló szaghatás a CLRT-01, CLRT-F01, CLRT-F101, CLRT-F102, CLRT-F104, CLRT-F105, CLRT-F108, CLRT-F109, CLRT-F111 pontokon volt észlelhető. Ezekhez csatlakoztak a 2025-ben létesített furatokból ugyanazon CLRT-OG prefix jelű furatok, amelyeket a *7.3.2 pontban* jelöltünk meg, és amelyekben erős olajos szaghatás kísérte a földtani közeg mintákat is.
+
+#### 7.4.3.2. DNAPL SZENNYEZETTSÉG
+
+A felszín alatti vízminták klórozott szénhidrogén eredményeit a **8. táblázatban** foglaljuk össze. A halogénezett alifás szénhidrogének koncentrációi az elvégzett vizsgálatok alapján a vizsgált 123 db mintavételi pont közül 94 esetében (76,4%) meghaladják a (B) szennyezettségi határértéket.
+
+A vizsgálatok alapján magas (10 000 µg/l mértéke meghaladó) szennyezettséget mutató minták organoleptikusan észlelhető szaghatását az alábbi táblázatban mutatjuk be.
+
+7.4.3.1. szövegközti táblázat. Magas VOCI szennyezettséget mutató FAV minták organoleptikusan észlelt szaga
+
+|  Vizsgálati pont jele | Összes VOCI szennyezettség mértéke [µg/l] | Organoleptikusan észlelt szaghatás  |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   |   |  Nincs | Enyhe | Közepes | Erős  |
+|  CLRT-22 | 10 345,6 | X |  |  |   |
+|  CLRT-F14 | 13 232,6 |  | X |  |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+137/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Vizsgálati pont jele | Összes VOCI szennyezettség mértéke [µg/l] | Organoleptikusan észlelt szaghatás  |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   |   |  Nincs | Enyhe | Közepes | Erős  |
+|  CLRT-F107 | 15 433,9 | X |  |  |   |
+|  CLRT-F108 | 27 941,5 | X |  |  |   |
+|  CLRT-F111 | 33 997,6 |  | X |  |   |
+|  CLRT-F113 | 37 521,1 | X |  |  |   |
+|  CLRT-F114 | 41 699,6 |  |  |  | X  |
+|  CLRT-F115 | 22 679,7 |  |  | X |   |
+|  CLRT-F119 | 10 336,4 | X |  |  |   |
+|  CLRT-F201 | 125 318,8 |  |  | X |   |
+|  CLRT-A201 | 16 602,3 | X |  |  |   |
+|  CLRT-F226 | 39 982,2 |  | X |  |   |
+|  CLRT-F227 | 109 414,4 |  |  | X |   |
+
+Megjegyezzük, hogy a vizsgálati jegyzőkönyv tanúsága szerint a CLRT-F116 jelű furatból vett vízminta esetében perklóretén szag enyhén érezhető volt, noha a benne észlelt szennyezettség mértéke csak kb. a fele volt a 10 000 µg/l szintnek.
+
+Halogénezett aromás szénhidrogént (triklórbenzol) már a 2023-as vizsgálat is észlelt a területen. A 2024. évi vizsgálatok ezt a komponens kört szintén kimutatták, ugyanakkor triklórbenzolok mellett diklórbenzolt is detektáltunk, a TPH-BTEX-PAH, mind a VOCI komponensekhez képes ugyanakkor sporadikus elterjedéssel és alárendelt koncentrációban. Emiatt ezen komponensek további vizsgálata nem volt szükséges.
+
+#### 7.4.4. ÁLTALÁNOS VÍZKÉMIAI VISZONYOK
+
+A kárhelyen jelenlévő szennyezettségre tekintettel különös figyelmet fordítottunk arra, hogy a felszín alatti víznek az abban oldott szennyezőanyagok bomlását jelentős mértékben befolyásoló jellemzőit megismerjük.
+
+##### 7.4.4.1. REDOX POTENCIÁL
+
+A felszín alatti víz sekély és mély rétegében részletes adatgyűjtéssel meghatároztuk az uralkodó redox potenciál viszonyokat. Az alábbi 7.4.4.1. szövegközti ábra a sekély szinten, a 7.4.4.2. szövegközti ábra a mély szinten észlelhető viszonyokat mutatja be.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+138/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**7.4.4.1. szövegközti ábra.** A SZÖVŐGYÁR környezetében a sekély zónában észlelhető redox potenciál viszonyok
+
+![img-10.jpeg](img-10.jpeg)
+
+**7.4.4.2. szövegközti ábra.** A SZÖVŐGYÁR környezetében a mély zónában észlelhető redox potenciál viszonyok
+
+![img-11.jpeg](img-11.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+139/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A két szint környezetében észlelhető értékek nagyjából azonosnak voltak mondhatók, mindkét zónában előfordulnak erősen negatív és pozitív zónák.
+
+#### 7.4.4.2. ASSZIMILÁCIÓS KAPACITÁST BEFOLYÁSOLÓ PARAMÉTEREK
+
+A felszín alatti vízben lezajló mikrobiológiai folyamatok természetét jelentős mértékben befolyásolja néhány általános vízkémiai paraméter, elsősorban a vízben jelenlévő oldott oxigén, nitrát, mangán, vas, szulfát és széndioxid tartalom. Az egyes elektron-akceptorokhoz kapcsolódó lebomlási folyamatok egymást követően zajlanak le („redox-lépcső”). Fontos ezért ezen ÁVK paraméterek megfigyelése a szennyezettség környezetében. A következő ábrasor a sekély (baloldal) és mély furatokból nyert specifikus ÁVK paraméterek eloszlását mutatja. Az ábrákon a mért értékeket is feltüntettük a jobb áttekinthetőség érdekében.
+
+A metán jelenlétében zajló metanogenezis folyamata a mélyebb rétegek oxigénhiányos környezetében nem mutatható ki, ezért ilyen adatokat nem gyűjtöttünk a mély zónába szűrőzött kutakból.
+
+#### 7.4.5. EGYÉB KÖRNYEZETI ELEMEK SZENNYEZETTSÉGE
+
+A derítőaknából és csatornaszemből származó minták TPH-BTEX-PAH szennyezettséggel kapcsolatos vizsgálati eredményeit a **3. táblázatban** mutatjuk be.
+
+A Leánynevelő Intézet régi derítőaknájából származó CLRT-LNA jelű, valamint a DNAPL szennyezettség gócpontjában elhelyezkedő csatornaszemből származó CLRT-GK-akna jelű minta halogéntartalmú alifás szénhidrogén szennyezettséggel kapcsolatos eredményeit a **4. táblázatban** mutatjuk be.
+
+A CLRT-AKNAK_2 jelű minta a gyártelep É-i végén, az egykori Savsemlegesítő létesítményrész mellett kialakított csatornaszemből származik. Az üledék olajszármazékokkal erősen szennyezett. Ugyanakkor a csatornaszem környezetében érdemi szennyezettséget nem észleltünk a földtani közeg és felszín alatti víz mintákban.
+
+A CLRT-LNA jelű minta enyhe, a CLRT-GK-akna jelű minta közepes VOCI szennyezettséget mutat, azaz a szennyezettség mindkét telken (Szövőgyár, Leánynevelő Intézet) üzemelő csatornahálózatban jelen van.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+140/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+7.4.4.2.1. szövegközti ábra. A SZÖVŐGYÁR környezetében észlelhető egyes ÁVK komponensek területi eloszlása
+
+![img-12.jpeg](img-12.jpeg)
+
+![img-13.jpeg](img-13.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+141/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+![img-14.jpeg](img-14.jpeg)
+
+![img-15.jpeg](img-15.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+142/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+![img-16.jpeg](img-16.jpeg)
+
+![img-17.jpeg](img-17.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+143/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+![img-18.jpeg](img-18.jpeg)
+
+![img-19.jpeg](img-19.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+144/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+![img-20.jpeg](img-20.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+145/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 8. VIZSGÁLATI EREDMÉNYEK ÉRTÉKELÉSE
+
+### 8.1. FÖLDTANI ÉS VÍZFÖLDTANI VISZONYOK
+
+A feltárt földtani viszonyok megfelelnek a korábbi fúrási adatok alapján vártaknak. A felső iszapos-homokos réteg, melyben a kapilláris zóna, és így az „F” jelű, sekélyebb kutak szűrője találhatók, gyengébb vízvezető képességű, mint az alatta fellelhető durvahomokos-kavicsos réteg, melyben az „A” jelű, mélyebben szűrőzött kutakat építettük ki. Az agyagos fekü felszíne a vizsgált területen a Leánynevelő Intézet területén magasabb mBf-en található, keleti irányba haladva egy lejtés tapasztalható, a legmélyebb pontok a vizsgálatokkal feltárt terület keleti szélén (Szövőgyár utca vonalában) találhatók. A vizsgálatok szerint a SZÖVŐGYÁR-tól É-i irányban, a Pisztráng utca és a Szilas-patak itteni szakaszának környezetében a fekü emelkedése lényegesen enyhébb, mint Ny-i és ÉNy-i irányban.
+
+A felmérés alapján megállapítást nyert, hogy a szennyezettség keletkezése környezetében észlelhető felszín alatti víz a feküréteg Ny-ÉNy felé folyamatos emelkedése folytán egyre szűkebb tartományra szorítkozik és így a mélyebb rétegekbe jutó szennyezőanyag mozgását a fekü lehatárolja nagyjából a vasút és a Szilas-patak nyomvonalában. Ennél távolabbra a szennyeződés csak a telített zóna legfelső, 105-107 mBf szintek közötti sávjában juthat. A szennyeződés haladását jelentős mértékben befolyásolja a Szilas-patak is, melynek „völgye” kb. 8-9 méterrel vágódik be a SZÖVŐGYÁR térségét jellemző terasz (113 mBf körüli) szintjébe (vö.: 7.2.1. szövegközti ábra). Így a patakmeder környezetében a felszín alatti víz szintje ezen 104-106 mBf szintnél nem tud magasabbra emelkedni, csak a patak magas vízállásakor rövid időre.
+
+Fontos tapasztalat, hogy az egész terület alatt meglévő feküréteg a DNAPL típusú szennyezőanyagok terjedését jelentősen lassító tulajdonsága és vastagsága révén kellő biztonsággal megakadályozza a DNAPL típusú szennyezőanyagok mélyebb rétegekbe jutását.
+
+Ahogy a patak balpartján a teraszban tározódó víztömeg mozgásának a patak irányába mutató komponense van, úgy a patakmeder túloldalán (jobbpart, Kovácsi Kálmán tér, Töltés utca térsége) szintén a patak felé mutató mozgásvektor komponenssel rendelkező áramlás figyelhető meg, mivel ott is a völgynél lényegesen magasabb térszín és emiatt a patakmedernél lényegesen magasabb nyugalmi vízszintek figyelhetők meg. Magyarán a patak két oldalán a víztesteknek egymással szembe haladó mozgásvektora is van, ami alapján a patak egyik oldaláról érkező szennyezettség a patakon túlra csak igen korlátozottan juthat a túloldali víztest ellennyomása folytán. Magyarán a völgy két oldalán elhelyezkedő víztestek egymástól gyakorlatilag
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+146/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+függetlenek. Ezt a CLRT-A232 jelű furat vizsgálati eredménye is alátámasztja, amely a tőle 230 méterre elhelyezkedő CLRT-F230 jelű furatban észlelt 4756,4 µg/l szennyezettséghez képest mindössze 21,9 µg/l szintet mutat. Eszerint ugyanakkor a két víztest a völgytalp környezetében nem teljesen független, kis távolságban némi átkeveredés megfigyelhető.
+
+Előbbiek alapján a szennyezett felszín alatti víz a Szilas-patak balpartján maradva, a patak drénhatásának köszönhetően a patak áramlásának megfelelő irányban mozdul el a Duna irányába. Megjegyezzük, hogy a patak betonozott, mesterséges mederben halad a vizsgált társégben, ezért mederüledék vételezése itt nem lehetséges és a patak vizébe se tud közvetlenül bejutni a szennyezés. A patak medre alatti esetleges szennyezőanyag akkumuláció a drénhatás miatt nem kizárt, de ezt a mesterséges meder betonszerkezetének megbontása nélkül vizsgálni nem lehetett és nem is tartjuk lényegesnek.
+
+## 8.2. FÖLDTANI KÖZEG SZENNYEZETTSÉGE
+
+Az olajszármazékok és az illékony halogénezett alifás szénhidrogén szennyezőanyagok által okozott földtani közeg szennyezettség csak kisrészben fedi át egymást, a két szennyezettség együttes kiterjedése megközelíti a 10 ha méretet. A továbbiakban a két esetet külön tárgyaljuk, a kapcsolatok kifejtésével.
+
+### 8.2.1. LNAPL SZENNYEZETTSÉG
+
+A földtani közeg szennyezettségét a **4. ábra** sorozat mutatja be.
+
+A (B) szennyezettségi határértéket meghaladó mértékben szennyezett terület horizontális kiterjedése a kapilláris zónában található, a számítások alapján a legnagyobb kiterjedése 6 454 m². Az egyes mélységekhez tartozó kiterjedést a **8.2.1.1. szövegközti táblázat** mutatja be.
+
+8.2.1.1. szövegközti táblázat. Földtani közeg olajszármazék szennyezettség térbeli kiterjedtsége
+
+|  Mélység | Benzol | Tolul | Etilbenzol | Xilolok | Egyéb alkilbenzolok | TPH | PAH  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  mBf | Csóva számított kiterjedése [m²]  |   |   |   |   |   |   |
+|  113-112 | 0 | 0 | 0 | 0 | 0 | 1 547 | 2 203  |
+|  112-111 | 0 | 0 | 0 | 0 | 0 | 870 | 367  |
+|  111-110 | 0 | 0 | 0 | 0 | 0 | 38 | 93  |
+|  110-109 | 0 | 0 | 0 | 0 | 0 | 316 | 7  |
+|  109-108 | 0 | 0 | 25 | 58 | 636 | 551 | 257  |
+|  108-107 | 0 | 0 | 89 | 273 | 2 678 | 2 628 | 1 238  |
+|  107-106 | 717 | 310 | 1 181 | 1 803 | 4 585 | 4 538 | 2 940  |
+|  106-105 | 697 | 228 | 1 277 | 1 784 | 4 088 | 3 730 | 2 581  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+147/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Mélység | Benzol | Tolul | Etilbenzol | Xilolok | Egyéb alkilbenzolok | TPH | PAH  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  mBf | Csóva számított kiterjedése [m²]  |   |   |   |   |   |   |
+|  105-104 | 109 | 23 | 467 | 960 | 2 101 | 2 280 | 1 681  |
+|  104-103 | 0 | 0 | 52 | 316 | 2 238 | 1 755 | 624  |
+|  103-102 | 0 | 0 | 0 | 0 | 2 069 | 1 189 | 673  |
+|  102-101 | 0 | 0 | 0 | 0 | 0 | 763 | 0  |
+
+A szennyezőanyagok elterjedését a 4.1.-4.7. ábrák mutatják be. Az alábbi ábra az összes LNAPL típusú, „B” szennyezettségi határértéket meghaladó mértékű szennyeződést együttesen mutatja, a burkoló test felszíni vetületével (kék színnel).
+
+8.2.1.1. szövegközti ábra. A földtani közeg LNAPL szennyezettségének maximális kiterjedés felszíni vetülete
+
+![img-21.jpeg](img-21.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+148/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+![ADAPT ENVIRO KFT logo]()
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Láthatóan a szennyezettség három darabra esik szét. Az egyes darabok jellemző adatai az alábbiak:
+
+**8.2.1.2. szövegközti táblázat.** Földtani közeg LNAPL szennyezettséggel érintett térrészek adatai
+
+|  8.2.1.1. szövegközti ábra szerinti azonosító sorszám | Felszíni vetület kerülete | Felszíni vetület területe | Jelenlévő LNAPL típusú szennyezettség  |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   |  [m] | [m²] | TPH | BTEX | PAH  |
+|  I. | 271,771 | 6 139,203 | Igen | Igen | Igen  |
+|  II. | 59,693 | 299,809 |  |  | Igen  |
+|  III. | 13,064 | 15,291 | Igen |  |   |
+|  **Összesen** | **344,528** | **6454,303** |  |  |   |
+
+Az egyes mélységekhez tartozó szennyezett földtani közeg mennyiségi adatait a **8.2.1.4. szövegközti táblázat** mutatja be.
+
+**8.2.1.4. szövegközti táblázat.** Olajszármazékkal szennyezett földtan közeg mennyiségi adatai
+
+|  Mélység | Benzol | Tolul | Etilbenzol | Xilolok | Egyéb alkilbenzolok | TPH | PAH  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  mBf | Szennyezett talaj tömeg [tonna]  |   |   |   |   |   |   |
+|  **113-112** | 0 | 0 | 0 | 0 | 0 | 2 707 | 3 856  |
+|  **112-111** | 0 | 0 | 0 | 0 | 0 | 1 523 | 642  |
+|  **111-110** | 0 | 0 | 0 | 0 | 0 | 67 | 162  |
+|  **110-109** | 0 | 0 | 0 | 0 | 0 | 553 | 12  |
+|  **109-108** | 0 | 0 | 43 | 102 | 1 113 | 964 | 449  |
+|  **108-107** | 0 | 0 | 155 | 479 | 4 686 | 4 598 | 2 167  |
+|  **107-106** | 1 254 | 542 | 2 066 | 3 156 | 8 023 | 7 941 | 5 146  |
+|  **106-105** | 1 220 | 399 | 2 234 | 3 122 | 7 153 | 6 528 | 4 517  |
+|  **105-104** | 191 | 41 | 817 | 1 681 | 3 678 | 3 990 | 2 941  |
+|  **104-103** | 0 | 0 | 90 | 554 | 3 917 | 2 941 | 1 092  |
+|  **103-102** | 0 | 0 | 0 | 0 | 3 620 | 1 092 | 1 179  |
+|  **102-101** | 0 | 0 | 0 | 0 | 0 | 1 179 | 0  |
+
+Az egyes mélységekben jelenlévő szennyezőanyagok mennyiségi adatait a **8.2.1.5. szövegközti táblázat** mutatja be.
+
+**8.2.1.5. szövegközti táblázat.** Földtani közegben tárolt olajszármazék szennyezettség mennyiségi adatai
+
+|  Mélység | Benzol | Tolul | Etilbenzol | Xilolok | Egyéb alkilbenzolok | TPH | PAH  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  mBf | Szennyezőanyag mennyisége [t]  |   |   |   |   |   |   |
+|  **113-112** | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,369 | 0,034  |
+|  **112-111** | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,191 | 0,001  |
+|  **111-110** | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,008 | 0,000  |
+|  **110-109** | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,156 | 0,000  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+149/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Mélység | Benzol | Tolul | Etilbenzol | Xilolok | Egyéb alkilbenzolok | TPH | PAH  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  **mBf** | **Szennyezőanyag mennyisége [t]**  |   |   |   |   |   |   |
+|  **109-108** | 0,000 | 0,000 | 0,000 | 0,000 | 0,004 | 0,753 | 0,002  |
+|  **108-107** | 0,000 | 0,000 | 0,000 | 0,000 | 0,017 | 7,099 | 0,030  |
+|  **107-106** | 0,000 | 0,000 | 0,006 | 0,033 | 0,236 | 75,939 | 0,711  |
+|  **106-105** | 0,001 | 0,001 | 0,006 | 0,028 | 0,178 | 52,151 | 0,383  |
+|  **105-104** | 0,000 | 0,000 | 0,001 | 0,005 | 0,041 | 9,177 | 0,063  |
+|  **104-103** | 0,000 | 0,000 | 0,000 | 0,000 | 0,006 | 0,677 | 0,003  |
+|  **103-102** | 0,000 | 0,000 | 0,000 | 0,000 | 0,004 | 0,543 | 0,001  |
+|  **102-101** | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,036 | 0,000  |
+|  **Összes** | **0,001** | **0,001** | **0,013** | **0,066** | **0,485** | **147,100** | **1,227**  |
+
+A földtani közegben tárolt LNAPL típusú szennyezőanyag összesített mennyisége 151,702 t, az ilyen komponensekkel elszennyezett földtani közeg összesített tömege 43 047,55 t.
+
+A földtani közeg szennyezettsége az előzőekben bemutatott 4 gócterület környezetére terjed ki. A 6/2009. (IV. 14.) KVVM-EüM-FVM együttes rendelet szerinti szennyezettségi határérték feletti szennyezettség gyakorlatilag 1 és 12 méter között végig előfordul a területen. A jelentős mértékű szennyezettség döntően a gyártelep 88323 hrsz ingatlanján mutatkozik. Magas szennyezettség figyelhető meg a Szövőgyár utca 26. sz. ingatlan telkén (88326 hrsz.), valamint a Szövőgyár utca (88327) hrsz. ingatlanján a 21-23. és 26. számok előtti térségben előbbiekről kinyúlva ide. E szennyezettség a Szövőgyár utca páros oldalán az útburkolat szegélyének a magasságáig ér egy ponton. A magas koncentrációval jellemezhető szennyezettség jellemzően 5 méteres mélységben kezdődik, legnagyobb kiterjedését 7 méteres mélységben éri el, 10 méteres mélységre pedig gyakorlatilag megszűnik.
+
+A 88323 hrsz. foglalja magába a 3 lényegi gócterületet, melyek egyetlen összefüggő egységet alkotnak és amelyek mindegyikének kármentesítésbe vonása szükséges. A 88323 hrsz.-en mindössze az amúgy is bontásra szánt 14.N. jelű, egykori irodaépület és a 15.O. jelű, egykori porta épület áll felszín felett útban a mentesítés megvalósításának. Útban állnak ugyanakkor a felszín felett már lebontott 1.A. és 14.M. jelű épületek felszín alatt bennhagyott alépítményei is.
+
+A 88326 hrsz. ingatlanon álló, utcafronti, közepes állapotú, kb. 1940-ben épült, részben alápincézett kétlakásos lakóház D-DK-i sarka a jelentősen szennyezett földtani közeg egy csekélyebb része felett helyezkedik el. Az épület alatt elhelyezkedő jelentősen szennyezett földtani közeg a felszín alatt 5-7 méteres mélységben található, a becsült összesített mennyisége kb. 60 tm³. Az ingatlan udvarának kb. 90 m²-es részén szintén jelen van az LNAPL szennyezettség.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+150/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Az itt jelenlévő szennyezett földtani közeg mennyisége kb. 300 tm³. Előbbiek alapján az ingatlan területének és közvetlen környezetének mentesítésbe történő bevonása elkerülhetetlen.
+
+A (88327) hrsz. közterület (Szövőgyár utca) területén mintegy 340 m²-es területen van jelen az LNAPL szennyezettség jelentős mértékben, ezért az utca ingatlan érintett részének a kármentesítésbe vonása szintén elkerülhetetlen. A szennyezettség mentesítéséhez jelentős mértékű közműkiváltás és a beavatkozás idejére az utca lezárása lesz szükséges.
+
+A 88322/2 hrsz. ingatlanon jelenlévő LNAPL szennyezettség lényegesen alacsonyabb koncentrációkkal jellemezhető, mint a 88323, 88326 és (88327) jelű ingatlanokon észlelhető LNAPL típusú szennyezettség. Az ingatlant ebből a szempontból a kármentesítésbe nem szükséges bevonni.
+
+### 8.2.1.1. LNAPL SZENNYEZETTSÉG FORRÁSAI, KIALAKULÁSA
+
+Az olajszármazékok tekintetében a már 2003 óta ismert földalatti tartály környezete mellett az alábbi 8.2.1.1.1. szövegközti ábrán és 8.2.1.1.2. szövegközti ábrán bemutatottak szerint újabb gócterületek rajzolódtak ki.
+
+Az első ábrát áttekintve (TPH komponensek szennyezettség elterjedése a földtani közegben, 106-107 mBf szint mélységköz) az egyik az egykori 13.M. jelű laborépület és az egykori 1.A. jelű gyártócsarnok Szociális blokkja között mutatkozik. A 2023-ban létesített CLRT-11 jelű furattal kiegészítve a kapott szennyezettségi képet, a szennyezés inkább a laboratórium épület valamikori ÉK-i sarkához esik közelebb. A gócterület központja egyértelműen a CLRT-A109 jelű furat, amely az egykori épületek melletti udvarra esik. Az udvarszakasz itt az ortofotók alapján az 1.A. épület megépültét (1972) követően szilárd burkolattal volt ellátva, műtárgyakat, szerelvényeket, csomagolt árut a fotókon felfedezni nem lehet. A hely elég szűkös lett volna itt anyagtárolás céljára és szemben a gyártelep más területeivel, ahol az anyagokat széles körben a szabadban tárolták, itt ilyennek a fotókon nyoma nincs. Kivehető viszont, hogy az 1972-t közvetlenül megelőző időkben a már megvásárolt Szövőgyár utca 17. sz. lakóház az 1.A. épület létesítéséig még megvolt, azt a gyár intenzíven használta, az udvarán nagymennyiségben fedezhetők fel letárolt anyagok és az udvar nem volt burkolva (vö.: 8.3.3.1. és 8.3.3.2. szövegközti ábra). Ez arra enged következtetni, hogy az itteni szennyezettség ebben az időszakban (1965 és 1972 között) keletkezhetett, talán az itt tárolt fűtőanyag sérülése (havária esemény), talán átmenetileg létesített, rosszul telepített / meghibásodott tartály(ok) által.
+
+E két egymástól független nagyobb gócterület meglétét az oldott fázisú szennyezettség felszín alatti víz áramlási irányára merőleges irányban megfigyelhető megnyúlása is alátámasztja.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+151/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Egy harmadik kisebb gócterület a 4.D. jelű Kazánház mellett rajzolódik ki, attól szintén ÉK-i irányban. Ez utóbbi gócterület az előzőeknél kisebb intenzitású. Mivel a 4.D. jelű kazánépület előtt is egy régebbi és kisebb kazánépület volt itt, az itteni szennyezettség egyértelműen valamelyik kazán tevékenységéhez köthető. A szennyezettség viszonylagos korlátozottságára tekintettel a szennyezés kialakulásának az oka kisebb üzemzavar / havária lehetett.
+
+8.2.1.1.1. szövegközti ábra. A földtani közeg TPH szennyezettsége 106-107 mBf szinten
+
+![img-22.jpeg](img-22.jpeg)
+
+A három TPH komponensekből kialakult gócterület (tartály, labor épület sarka, kazánház sarka) csóvája az elterjedési ábrák áttekintése alapján megállapítható, hogy teljességgel összeért, a három forrás és csóva egyetlen nagyobb, valamivel több, mint 6 000 m² kiterjedésű gócterületet alkot. A kármentesítési tervek elkészítése során célszerű abból kiindulni, hogy a három gócterület egyetlen beavatkozással egyszerre kerüljön kármentesítésre, ugyanakkor a méretének fogva a beavatkozás során a teljes szennyezett területen egyszerre történő beavatkozás a rendelkezésre álló szűk terület miatt jelentős műszaki és környezetvédelmi nehézséget okoz.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+152/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A további LNAPL típusú szennyező komponensek elterjedését áttekintve megállapítható, hogy azok gyakorlatilag a TPH komponensek esetén megismert mintázathoz illeszkedő elterjedést mutatnak. Ez alól egy csekély terület kivétel, a LabSystem Kft. által 2024-ben épített raktárcsarnok Ny-i (Leánynevelő Intézet felőli) oldalán fellelt PAH szennyező komponensekből álló szennyezettség, melyet a 8.2.1.1.2. szövegközti ábra mutat be.
+
+8.2.1.1.2. szövegközti ábra. A földtani közeg PAH szennyezettsége 107-108 mBf szinten
+
+![img-23.jpeg](img-23.jpeg)
+
+A szennyezettség mérete és az ott észlelhető maximális koncentrációk tekintetében alárendelt az előzőekben bemutatott gócterületekhez viszonyítva. Kiterjedése kb. 50 m². Az itteni szennyezettség kialakulása feltételezhetően vagy a 4.D. jelű Kazánépülethez, vagy a 3.C. jelű Gyárépület tevékenységéhez kapcsolódhat. A gócterület utóbbi egykori belső részében helyezkedik el. a szennyezettség lehet esetleg feltöltésből eredő is, mivel a 3.C. épület felszín feletti részeinek bontásakor jelentős mennyiségű feltöltés került erre a pontra is. További kármentesítési feladat ezzel a gócterülettel nincs.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+153/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 8.2.2. DNAPL SZENNYEZETTSÉG
+
+Az összes illékony halogénezett alifás szénhidrogén szennyezettséget az elvégzett vizsgálatok a felszín alatt 1 méteres mélységtől kezdődően kimutatták. A szennyezettség a legmélyebbről származó mintákban is kimutatható volt. A szennyezettséget alapvetően a tetraklór-etén komponens dominálja, de számos ponton volt kimutatható olyan konfiguráció, ahol a bomlástermékek is megjelentek kisebb—nagyobb arányban. A különféle megfigyelt konfigurációk számosságát az alábbi táblázatban foglaltuk össze.
+
+8.2.2.1. szövegközti táblázat. Földtani közeg DNAPL szennyezettség szennyező komponensek szerinti megoszlása
+
+|  Szennyező komponensek | Előfordulás [db] | Részarány az egészből [%] | Részarány a szennyezettekből [%]  |
+| --- | --- | --- | --- |
+|  DCE | 3 | 0,34% | 0,60%  |
+|  PCE | 348 | 39,23% | 69,18%  |
+|  DCP* | 1 | 0,11% | 0,20%  |
+|  DCE+PCE | 29 | 3,27% | 5,77%  |
+|  TCE+PCE | 55 | 6,20% | 10,93%  |
+|  DCE+TCE+PCE | 53 | 5,98% | 10,54%  |
+|  DCE+TCE+PCE+CCL4 | 14 | 1,58% | 2,78%  |
+|  Tiszta | 384 | 43,29% | -  |
+|  Szennyezett | 503 | 56,71% | **100,00%**  |
+|  **Összesen** | **887** | **100,00%** | **-**  |
+
+* DCP: diklór-propén
+
+Az összesen 887 db megvizsgált földtani közeg mintából 503 db (56,71%) mutatott VOCI szennyezettséget. A szennyezett minták 69,18%-a csak PCE szennyezettséget mutat. Olyan minta, amely mutat szennyezettséget, de PCE-t nem tartalmaz mindössze 4 db (0,80%) található, mind a 4 esetben egészen kis koncentrációk vannak csak a mintákban. A perklóretén, mint vezérszennyezőhöz nem fér kétség ez alapján sem.
+
+Széntetraklorid kizárólag olyan mintákban van jelen, amelyekben a PCE koncentrációja nagyon magas (2-30 ezer mg/kg). Ez azt mutatja, hogy ez a komponens a textiltisztítás során felhasznált PCE alapanyag marginális szennyezője volt, önállóan nincs jelen a területen, ezért külön vizsgálata nem szükséges.
+
+Azoknak a mintáknak a száma, amelyekben jelen vannak a PCE bomlástermékei 154 db. E minták közt a két bomlástermék összesített aránya nem éri el a 10%-ot 121 esetben (78,57%). A maradék 33 db közül 3 db (CLRT-A226/4,0 CLRT-A226/13,0 CLRT-A226/14,0 minták) esetén tisztán DCE van jelen a mintában. Ezek a minták egyetlen furatból (CLRT-A226) keletkeztek, jellemzőjük a nagyon
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+154/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+alacsony koncentráció. További 12 mintában magasabb a bomlástermékek összesített aránya, mint a vezérszennyezőé. Ezeknek a mintáknak is jellemzője, hogy a VOCI komponensek összesített koncentrációja igen alacsony, egyedül a CLRT-A226/9,0 minta lépi át az 5 mg/kg (alacsony) értéket.
+
+Ahol kizárólag PCE van jelen a mintában szintén alacsony koncentrációk mutatkoznak jellemzően. Ez alól kivétel a gócpont, amelynek a környezetében előfordul 12 db 100-1720 mg/kg közötti, tisztán PCE szennyezettséget mutató minta is. Az igazán nagy koncentrációkhoz ugyanakkor mindig társul DCE és/vagy TCE itt is. A bomlástermékek közül a vegyes mintákban nagyjából fele arányban vannak azok, ahol a DCE mennyisége a nagyobb, illetve ahol a TCE mennyisége a nagyobb. Ahol széntetraklorid van jelen, ott mindig a TCE koncentrációja dominál a DCE-vel szemben. Ezek mind a már előzőekben jelzett nagyon magas koncentrációval jellemezhető minták. Mindezek alapján feltételezhető, hogy a jelenlévő DCE és TCE részben bomlástermék, részben (a DCE) a széntetrakloridhoz hasonlóan a PCE szennyezője.
+
+A szennyezettséget mutató minták közül a telítetlen zónában (1-5 méterrel a felszín alatt) megvett minták száma 142 db. A legsekélyebben, 1-2 méteres mélységben elhelyezkedő DNAPL komponensekkel szennyezett minták száma 63 db. A telítetlen zónában fellelt szennyezett minták közül az azonosított gócpontba esik 127 db (89,44%), 9 db a gyártelep egyéb részén szétszórva, 5 db a Leánynevelő Intézet területére és 1 db a Szövőgyár utcára. Utóbbi 15 db minta azt a látszatot kelti, mintha több helyen is lenne gócterület és nem is csak a gyártelepen.
+
+Ezen mintákat átvizsgálva ugyanakkor megállapítható, hogy 7 db minta (CLRT-A227/1,0; CLRT-A102/1,0; CLRT-A207/1,0; CLRT-F116/1,0; CLRT-F115/1,0; CLRT-A226/1,0; CLRT-F14/1,0) 1,0 m mélységből származik és a szennyezettsége az 1 mg/kg értéket se éri el a CLRT-14 kivételével, de abban is csak 1,26 mg/kg a szennyezettség mértéke. A maradék 8 db minta közül 4 db (CLRT-A102/3,0; CLRT-A226/4,0; CLRT-A226/5,0; CLRT-A227/2,0) előbbi 1,0 méterről vett minták alatti mélyebb párok, szintén egészen kis koncentrációkkal. Ez a 11 db minta a gyártelep és a Leánynevelő Intézet kerítése közötti területről származik. E mintákban észlelt szennyezettséget feltehetőleg helyi, kisebb mennyiség kiömlése / kiömlése okozhatta. Talán itt locsolhattak szét időként a fák, bokrok tövében a feleslegessé vált maradékokat (nyilvánvalóan szabálytalanul). A fennmaradó 4 db minta az alábbi:
+
+- CLRT-A113/5,0
+- CLRT-A108/4,0
+- CLRT-A108/5,0
+- CLRT-A107/2,0
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+155/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Ezek a minták a mélységük és elhelyezkedésük alapján jól illeszkednek a csatornarendszerben feltárt olyan részelemekhez, amelyekbe a topológia alapján eljuthatott a szennyezőanyag önálló fázisban. A CLRT-A108/5,0 m (6,3 mg/kg) és a CLRT-A107/2,0 m (5,66 mg/kg) minták – utóbbi a Szövőgyár utca aszfaltja alatt, ahol pozíciójánál fogva kizárt, hogy primer forrásterület legyen – ráadásul magasabb koncentrációt is mutatnak. Feltételezhető, hogy ezeket a szennyezettségeket a csatorna által szállított önálló fázisú tetraklór-etén helyi kiülepedése okozhatta.
+
+Összesítve a tapasztalatokat, a vizsgálataink alapján megállapítható, hogy a kárhely környezetében észlelt számos sekélyebb elhelyezkedésű szennyezettség ellenére egyetlen tényleges DNAPL szennyezettség forrásterület és gócpont azonosítható a CLRT-GK-3-10 jelű furat és szűk környezete.
+
+Az elvégzett vizsgálatok keretében, az agyagos feküből származó mintákban több esetben kimutatható volt a DNAPL szennyezőanyag (CLRT-A109, CLRT-A110, CLRT-A115, CLRT-A116, CLRT-A117, CLRT-A119, CLRT-A120). A koncentráció eloszlások súlypontja a mélységgel kelet felé helyeződik át, ahogy az a kelet felé lejtő feküfelszín alapján várható.
+
+Az agyagos feküben a mélységgel gyorsan csökkenő koncentrációt feltételezünk, illetve tapasztalunk is, így az agyagos fekü réteg lehetővé teszi a vertikális lehatárolást.
+
+A (B) szennyezettségi határértéket meghaladó mértékben szennyezett terület legnagyobb horizontális kiterjedése a feküzónában található, a számítások alapján az összesített kiterjedése 97 823 m². A csóva mélység szerinti kiterjedését a 8.2.2.2. szövegközti táblázatban ismertetjük.
+
+8.2.2.2. szövegközti táblázat. Földtani közeg összes illékony halogénezett alifás szénhidrogén szennyezettség térbeli kiterjedtsége
+
+|  Mélység mBf | Összes illékony halogénezett alifás szénhidrogén  |   |   |
+| --- | --- | --- | --- |
+|   |  Csóva számított kiterjedése [m²] | Szennyezett talaj tömeg [tonna] | Szennyezőanyag mennyisége [tonna]  |
+|  96-97 | 7 518 | 13 156 | 0,017  |
+|  97-98 | 9 953 | 17 418 | 0,011  |
+|  98-99 | 49 052 | 85 840 | 0,039  |
+|  99-100 | 22 468 | 39 318 | 0,017  |
+|  100-101 | 29 679 | 51 939 | 0,032  |
+|  101-102 | 28 029 | 49 050 | 0,072  |
+|  102-103 | 20 870 | 36 522 | 0,091  |
+|  103-104 | 23 277 | 40 735 | 0,121  |
+|  104-105 | 17 254 | 30 195 | 0,288  |
+|  105-106 | 6 901 | 12 076 | 0,097  |
+|  106-107 | 4 940 | 8 646 | 0,777  |
+|  107-108 | 4 275 | 7 482 | 0,915  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+156/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Mélység | Összes illékony halogénezett alifás szénhidrogén  |   |   |
+| --- | --- | --- | --- |
+|  mBf | Csóva számított kiterjedése [m²] | Szennyezett talaj tömeg [tonna] | Szennyezőanyag mennyisége [tonna]  |
+|  108-109 | 2 864 | 5 012 | 0,254  |
+|  109-110 | 1 824 | 3 192 | 0,040  |
+|  110-111 | 3 290 | 5 757 | 0,004  |
+|  111-112 | 5 520 | 9 659 | 0,007  |
+|  112-113 | 4 750 | 8 313 | 0,028  |
+
+A DNAPL típusú szennyezőanyag összesített mennyisége 2,809 t, az ilyen komponensekkel elszennyezett földtani közeg összesített tömege 424 311 t. A szennyezőanyagok elterjedését a 4.1.-4.7. ábrák mutatják be. Az alábbi ábra az összes DNAPL típusú, „B” szennyezettségi határértéket meghaladó mértékű szennyeződést együttesen mutatja, a burkoló test felszíni vetületével (kék színnel).
+
+8.2.2.1. szövegközti ábra. A földtani közeg DNAPL szennyezettségének maximális kiterjedése, felszíni vetülete
+
+![img-24.jpeg](img-24.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+157/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Az összesítetten szennyezettséggel érintett földtani közeg kiterjedésének felszíni vetülete a számítás szerint gyakorlatilag 10 ha.
+
+A szennyezett földtani közeg ily mértékű elterjedésének az okát nehéz tisztázni. Annyi bizonyosan megállapítható, hogy ehhez arra van szükség, hogy a szennyezőanyag önálló fázisú frakciója nagy távolságra juthasson el a forrásterületről. Ez a felszín alatti közegben akkor tud megvalósulni, ha az anyagnak viszonylagos szabad mozgását biztosítja valamely természetes képződmény, vagy mesterséges létesítmény. Mivel a földtani közegben ilyen természetes képződményt nem azonosítottunk, ezért feltételezhetjük, hogy utóbbi az okozó, amelyre viszont az egyetlen potenciális lehetőség a környéken kialakított csatornarendszer. Mindez egybevág a 6.12 fejezetben leírtakkal, miszerint a szennyeződés mind a SZÖVŐGYÁR, mint a Leánynevelő Intézet csatornarendszeréből kinyert üledékben kimutatásra került, valamint, hogy a két rendszer nagy valószínűséggel összeköttetésben áll, akárcsak a Szövőgyár utcai csatornagerinccel.
+
+Amennyiben a DNAPL szennyezettség földtani közegben detektált eloszlását mutató rajzlapokat részletesen áttekintjük, számos példa azonosítható, ahol a földtani közegben pontszerűen detektált szennyezettség van jelen teljesen váratlan pontokon. Ilyen furcsa hely például az Énekes utca és Szövőgyár utcai közterületen, a Leánynevelő Intézetnek a Károlyi Sándor úthoz eső térségében, stb. detektálható. Ezeknek a pontoknak két fontos jellemzője, hogy messze esnek a forrásterülettől, oda advektív transzporttal, diffúzió segítségével, vagy egyéb, a felszín alatti közegben a szennyeződés elmozdulását biztosítani képes erőhatás révén nem juthattak, továbbá az ezeken a pontokon mérhető koncentráció olyan magas, hogy szorpciós folyamatok révén se reális az ottani ilyen mértékű jelenlét. Ebben az esetben a csóvának az odajutással kapcsolatos szakaszából legalább valamit fel kellett volna tudnunk deríteni, hiszen az anyag folytonos mozgással jut el egy adott pontból egy másikba. Ilyen összeköttetést a szennyezőcsóva ismert és összefüggő darabjaihoz azonban egyetlen ilyen távoli szennyezett pont esetében sem sikerült találnunk. Másik közös tulajdonságuk ezeknek a távoli pontoknak, hogy mindig éppen a csatornarendszer egy-egy ottani vezetékdarabja mellett helyezkednek el. Logikus következtetni arra, hogy a szennyeződés a csatornarendszerbe jutva, abban elfolyva, akadálymentesen haladhatott nagyobb távolságra is, miközben egy-egy ponton, a csatorna sérülése, repedése, apró, vagy nagyobb folytonossági hiánya mentén kisebb-nagyobb mennyiségben kijuthatott a vezetékrendszerből, közvetlenül a földtani közeg kijutási pontja közelében található szegmensébe. Magyarán a térségben a csatornahálózat mentén kisebb további gócterületek keletkeztek, miközben a szennyezőanyag a csatornában haladt. Összességében tehát a térségben észlelt nagykiterjedésű földtani közeg szennyezettség a szennyezőanyagnak a csatornába juttatása és a csatornarendszer folytonossági hibáinak kombinációja által keletkezhetett. Feltételezhető, hogy a szennyezőanyagnak a csatornába juttatása nem volt szabályos
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+158/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+tevékenység. Az, hogy a csatornarendszer áteresztette a szennyezőanyagot, nem róható fel a rendszer tervezői és kivitelezőinek, egy kommunális csatornarendszert nem kell, nem is lehet felkészíteni ilyen agresszív anyagok ellen. A kísérletek tapasztalatai alapján a tetraklór-etén a téglából épült falon percek alatt átjut³⁶.
+
+Fontos megjegyezni ugyanakkor, hogy a gócterület és közvetlen környezete, ahol a szennyezettség mértéke meghaladja a 10 mg/kg értéket a legnagyobb kiterjedésénél (103-104 mBf szint) is csak 976 m² méretű.
+
+### 8.2.2.1. DNAPL JELLEGŰ SZENNYEZŐANYAGOK ÖNÁLLÓ FÁZISÚ JELENLÉTE
+
+A vizsgálati eredmények alapján megállapítható, hogy a DNAPL típusú szennyezőanyagok, elsősorban a tetraklór-etén szabad fázis jelenléte, mozgása és akkumulációja viszonylag korlátozott módon valósult meg. A földtani közeg vizsgálati eredmények tartalmazzák a szemcsevázhoz kötött és az önálló fázisban jelenlévő mennyiségeket. Figyelembe véve a DNAPL típusú szennyezőanyagok rendszerinti feküre való irányítottságát, fekü környezetében minden esetben legalább 2, néhol 3 mintát is vettünk a szennyezettség ezen részének bemutatása, jellemzése érdekében. Világosan megállapítható a vizsgálati eredményekből, hogy a fő akkumuláció a Szövőgyár DNAPL góc esetében a kapilláris zónához köthető. Ebből következőleg önálló fázisban, nagymennyiségben felhalmozódás a fekü felszínén nem került kimutatásra, kimondható, hogy ez a forgatókönyv nem következett be. Ebben valószínűleg sok tényező játszik közre, többek közt az, hogy a PCE a víznél csak kevéssel nehezebb, és a felszín alatti viszonyok miatti bomlása marginális, leszámítva azokat a nem természetes körülményeket, ahol a redox viszonyok erősen negatív irányba fordulnak.
+
+A fekümorfológiai viszonyokat áttekintve megállapítható, hogy a DNAPL gócterület környezetében a fekü a jellemző felszín alatti víz áramlási irányával éppen ellentétes irányban lejt. Emiatt a feküre lejutó önálló fázisú anyagmennyiség a fekülejtés irányában, azaz a vízáramlási iránnyal ellentétesen haladhat lefelé a lejtőn és a Szövőgyár utca környékén található mélypont (95 mBf szinten) környezetébe jutva, ott felhalmozódhat. Tény, hogy ez a folyamat valóban zajlik, a mélypont környezetében kissé magasabb koncentrációkat lehet észlelni, mint a magasabban elhelyezkedő feküpontok környezetében. De mivel a szennyezőanyagnak csak nagyon kis része jut le a fekü környezetébe, az ebből származó fekün megülő anyagmennyiség csekély, hatása korlátozott, a fekün „DNAPL tó” nem tudott és nem is fog kialakulni emiatt. Ez azért jó hír, mert az ilyen fekün megülő tavak évezredekig képesek utánpótolni az oldott fázisú
+
+³⁶ A tetraklór-etén ugyan nehezebb a víznél, de sokkal alacsonyabb a felületi feszültsége és alacsony a viszkozitása is. Emiatt a tégla porózus kerámia kapillárisain, a habarcs még porózusabb anyagán a PCE molekulái sokkal könnyebben és gyorsabban hatolnak át, mint a víz.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+159/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+csóvát. Összességében tehát nagyságrendekkel nagyobb a kapilláris zónában megrekedt DNAPL típusú szennyezőanyag anyagmennyiség, ami lassan beoldódva alakítja a már ismert hatalmas oldott fázisú csóvát.
+
+### 8.2.2.2. DNAPL SZENNYEZETTSÉG FORRÁSA, KIALAKULÁSA
+
+A 2023-ban felfedezett illékony halogéntartalmú alifás szénhidrogén szennyezettség forrása és kialakulása a kezdetben rendelkezésre álló információk alapján nem volt egyértelműen meghatározható. Ennek érdekében hosszas vizsgálatok és kutatás, valamint részletes vizsgálati program végrehajtására volt szükség, melyet a 6. fejezetben mutattunk be részletesen. A kapott eredmények alapján a szennyezettség okozója a már előzőekben megállapítottak szerint egyértelműen az egykori Budapesti Finomkötöttárugyár állami nagyvállalat volt, a szennyezettség keletkezése és elterjedése tekintetében az alábbiakban leírtak tekinthetők a legvalószínűbb forgatókönyvnek.
+
+Azt már a 2024. évben tisztázásra került, hogy a VOCI (DNAPL jellegű) szennyezés tekintetében potenciális szennyező forrásként azonosíthatók a volt Budapesti Finomkötöttárugyár (BFK) raktár és üzemi épületei (saját és a bérelt területrészen lévő épületek egyaránt), tekintettel arra, hogy a tetraklór-etén felhasználása ismert - mint zsíroldó oldószer - a textiltisztításban (vegytisztítás), folttisztításban és textilfeldolgozási befejező anyagként. A felsorolt tevékenységekhez kapcsolódóan a felhasználására a BFK-ban is kétséget kizáróan sor került, bár a tényleges anyagfelhasználásról, mennyiségekről, azok kezeléséről, tárolásáról stb. csak közvetett jellegű igazoló dokumentumok állnak rendelkezésre.
+
+Általánosságban rögzíthető, hogy PCE-vel történő mosás/tisztítás során a PCE vizet tartalmazó vizes oldatát tároló puffertartályt (tartályokat) tekinthetjük az elsődleges potenciális szennyezőforrásnak. Ezek vagy föld alatti, vagy részben vagy egészben föld feletti tartályként kerültek jellemzően telepítésre. Továbbá a tisztítási folyamathoz szükséges a használat után visszamaradt folyékony desztillációs maradék tárolósára szolgáló rendszer kialakítása is, amely szintén kell, hogy tartalmazzon tároló egységet.
+
+Az feltételezhető, hogy a felhasználandó anyag minden bizonnyal eredeti gyártói csomagolásban érkezhetett a felhasználási területekre és az abban való további tárolása nem jelenthetett különös kockázatot. Továbbá a 1970-es 80-as években vegyipari kereskedelmi forgalmazással foglalkozó kiadványok cikkeiből megállapítható, hogy a PCE magas értékű vegyianyag volt, így a műveleti használatra alkalmas anyag érzékelhető mértékű fogyása nyilván intézkedési kötelezettséget vont (volna) maga után.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+160/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Az előzekben bemutatottak alapján valószínűsíthető, hogy a PCE textilipari/tisztítási felhasználásához köthető szennyezések okozása legnagyobb valószínűséggel a visszanyert, további felhasználásra már nem alkalmas „fáradt” anyaghoz kapcsolható.
+
+A „góc anatómiai vizsgálati” furatokból nyert minták elemzése egyértelmű tendenciát mutat: a múltban valamikor bekövetkezett szennyezőanyag kiszabadulás és felszín alatti közegbe jutás a CLRT-F201 jelű furattól ÉK-i irányban, kb. 10 méteres távolságra elhelyezkedő csatornaszem környezetében történhetett (vö.: 8.5.-8.7. ábrák), a szennyezés szétterjedése nagy valószínűséggel a csatornaszem közvetítő jellegével következett be (oda önthették szándékosan, vagy oda folyt havária esemény(ek) során).
+
+Levéltári kutatások alapján elmondható, hogy a Finomkötöttárugyár rákospalotai telephelyén a gyártáshoz-festéshez kapcsolódóan tisztítási tevékenységet is végeztek, amelyekhez „tri-gépeket” használtak. Az is tisztázásra került, hogy a festés ebben az időszakban igazoltan a 9.I. jelű épületben zajlott. A tisztítási tevékenységhez – nevükből következően – még triklór-etilén kerülhetett felhasználásra. Viszont a szennyeződés-eltávolítási problémák megoldást igényeltek, amelyek érdekében 1967-ben először „tri-erősítő vegyszert” (ezt a dokumentumban nem nevezik meg, hogy mi) szereztek a Patyolattól. Majd 1967-ben „új vegyszeres eljárás” került bevezetésre a „szennyes áru tisztítására”. Az „új vegyszer” a dokumentumokban nem kerül megjelölésre, de az általános gyakorlat szerint a triklór-etént a tetraklór(perklór)-etén váltotta fel. (A Patyolatokban és más ipari felhasználási helyeken is ez került felhasználásra).
+
+1963-ban a 9.I. jelű épület É-i végén elhelyezkedő kékkel jelölt udvari részen nem azonosítható semmilyen konkrét tevékenység a 8.2.2.2.1. szövegközti ábrán.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+161/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**8.2.2.2.1. szövegközti ábra.** A Budapesti Finomkötöttárugyár gyártelep egy részének 1963-ban készült ortofotó nagyítása
+
+![img-25.jpeg](img-25.jpeg)
+
+A fentrol.hu oldalon rendelkezésre állnak fotók a gyárterületről, annak 1963-as, 1968-as, és 1979-es, valamint 1992-es állapotáról is.
+
+1968-ban, vagyis az új vegyszeres eljárás bevezetésének időpontjában már látszanak a kazánból eredő fűtéscsövek, valamint az is, hogy a kérdéses területen csatornázási munkák folynak. Az átjárás biztosítása érdekében a nyomvonal átjárókkal megszakított. Ugyanakkor az építés alatt lévő nyomvonal jól megfeleltethető a csatorna felméréssel feltárt régi csatorna nyomvonalnak.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+162/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**8.2.2.2. szövegközti ábra.** A Budapesti Finomkötöttárugyár gyártelep egy részének 1968-ban készült ortofotó nagyítása, az új kazánvezeték csövekkel
+
+![img-26.jpeg](img-26.jpeg)
+
+Majd 1979-ben egyértelműen kivehető egy kazánépület mellé telepített felszín feletti tartály.
+
+A tartály használatáról semmilyen információ nem áll rendelkezésre. Bár a fotón kivehető, hogy a tartály kapcsolódik a kazánház épülethez, az nem egyértelmű, hogy az csőkapcsolat, vagy csak támaszték, stabilizálásra szolgál. A tüzelőanyag tárolási használat ellen szól, hogy a fűtéscsövek már 1968-ban teljes körűen kiépültek, de tartály nem látszik, tehát az, vagy azok a kazán épületben kerülhettek elhelyezésre. Kevésbé életszerű, hogy egy később létesülő (de ugyanahhoz a rendszerhez tartozó) tartály viszont az épületen kívül legyen elhelyezve. Továbbá a PCE gócterületen nem találtunk olajszármazék ottlétére utaló nyomokat.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+163/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+8.2.2.2.3. szövegközti ábra. A Budapesti Finomkötöttárugyár gyártelep egy részének 1979-ben készült ortofotó nagyítása, új telepítésű tartállyal a 4.D jelű épület (Kazán) mellett
+
+![img-27.jpeg](img-27.jpeg)
+
+![img-28.jpeg](img-28.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+164/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Ugyanakkor, a területhasználati ismeretek szerint PCE-vel bizonyossággal a 9.I (Festöde) jelű épületet kellett ellátni, emellett feltehetőleg a 13.M (Labor) épületet és/vagy a 3.C. jelű gyárcsarnokot is. Az erre szolgáló technológiai csőhálózat jól kapcsolható – adott esetben – a fűtési célú csőcsordához.
+
+Az 1992-es képen a tartálynak már nyoma sincs, ugyanakkor a területen – a feltárt gócterület központjában – azonosítható csatornaszem jól látható.
+
+Az áttekintett BFK mérlegbeszámolók felsorolják a szervezet által igénybe vett főbb külső szolgáltatásokat (szövetkezeti és magán). Hulladék kezelés, elszállítás nincs ezek között, így PCE tartalmú hulladék elszállítás sincs.
+
+8.2.2.2.4. szövegközti ábra. A Budapesti Finomkötöttárugyár gyártelep egy részének 1991-ben készült ortofotó nagyítása
+
+![img-29.jpeg](img-29.jpeg)
+
+A BFK-Colorit Rt. felszámolási-pályázati dokumentációjában, a környezetvédelmi kötelezettségek között szerepel a következő információ:
+
+Környezetvédelmi terheltség: a vegyi anyagok használatából eredően a kimenő szennyvíz miatt időnkét bírságot fizet a cég. (1991-93 között évi 100.000 - 170.000 Ft közötti összegeket).
+
+A szennyező „vegyi anyagok” közelebbről nem ismertek, de figyelmet érdemel a tény, hogy az akkori közcsatornába bocsátási határértéket a cég egyes komponensek tekintetében nem tudta
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+165/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+tartani. Az 1991-1993 közötti összegek relatív nem magasak, de nem tudni, hogy az „időnként” egyebekben milyen időszakra és bírságösszegre vonatkozott.
+
+Összefoglalóan a következők állapíthatók meg:
+
+- A BFK-nál 1967 III. negyedévében új vegyszeres eljárás bevezetésére került sor, textil szennyeződések eltávolítása érdekében, amikor feltehetőleg bevezették a perklóretén alkalmazását a technológiai folyamatba.
+- 1968-ban a mérések alapján gócterületként azonosítható területen jelentős csatornázási munkák folytak. Későbbi képen azonosítható a jelenleg gócpontként feltételezett csatornaszem.
+- A 9.I. jelű épület (Festöde) területén biztosan üzemeltettek triklór-eténes és tetraklór-eténes mosást, a mosórendszer az 1958-as telepítési ábrák szerint az épületen belül volt.
+- Ugyancsak a gócterület – és a kiépített belső csatornaág – közelébe telepítésre került egy felszín feletti tartály.
+- 1992-ben e tartály már nincs meg.
+- A rendelkezésre álló iratanyagban nem lelhető fel információ a visszanyert, PCE tartalmú hulladék további kezelésével kapcsolatban, noha az nagy mennyiségben kellett, hogy képződjön.
+- Az üzem vegyi anyag szennyezés miatt 1993-at megelőzően csatorna bírságot fizetett.
+- A valamikori 9.I jelű épület É-i oldalán, a 8.2.2.1.4. szövegközti ábra szerinti ortofotón azonosított csatornaszem a jelenlegi szennyezettség gócpontja.
+- A vizsgált területen egyértelműen a vezérszennyező anyag a PCE, mivel triklór-etén, diklór-etén csak alárendelten fordul elő, ezért feltételezhető, hogy a szennyezés az 1960-as éveket követően keletkezhetett, amikor már nem tri- hanem perklór-etilént használtak.
+
+Mindezen vizsgálatok (irodalomkutatás, terepi mérések) alapján igazolást nyert, hogy az egykori Budapesti Finomkötöttárugyár Rákospalotai gyáregysége környezetében azonosított VOCI szennyezettség kiindulási pontja a gyár valamikori 9.I. jelű épülete mellett volt, mely az egykori gyártelepnek a szomszédos ingatlanoktól legtávolabb eső középső térsége. A szennyező tevékenység a fentiek alapján nagy valószínűséggel a Finomkötöttárugyár által végzett textil tisztítási, azon belül is PCE használatával történt szennyeződés eltávolítási (vegytisztítási) tevékenységhez köthető. (Ahogy korábban kifejtésre került, 1995. után ezen épületben már kizárólag gép- és készáru raktározási tevékenység folyt, textil tisztítás és vegyianyag tárolás nem). A konkrét tevékenység a további használatra nem alkalmas anyag belső (technológiai) csatornahálózatba történő bejuttatása (is) lehetett. A rendelkezésre álló információk alapján a fentiek szerint levezetett tevékenységre 1968 és 1992 közötti időszakban kerülhetett sor.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+166/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Előbbiekből adódó kézenfekvő feltételezés, hogy a PCE visszanyerésére szolgáló puffertartályból a kiépített csatornahálózati ág csatornaszemébe „fáradt” anyag került ürítésre, esetleg (de kevés eséllyel) az üzemszerű működés keretében.
+
+Valószínűsíthető, hogy az anyag egy része nem került be a közcsatorna hálózatba. Ennek számos oka lehetett, pl. az 1968-ban (és ez előtt) kiépült hálózat még nem a közcsatornára, hanem egy derítőbe, vagy végül a Szilas-patakba jutó hálózat részeként épült ki (és valószínűleg csak később kötötték rá a közcsatornára) és/vagy a beengedésre szolgáló csatornaszem közelében a hálózatban akna került kialakításra, és/vagy a szennyező anyag a csatorna anyagát gyorsan megrongálta és ezt követően a csatornaszembe engedett szennyező anyag gyakorlatilag a közelben a földtani közegbe ürült. Utóbbit támasztja alá az is, hogy jelenleg a tárgyi csatornafedelet felnyitva viszonylag újnak mondható beton látható az akna alján, ami talán a fent leírt „használat” megszüntetése után, a használat nyomainak eltüntetése érdekében készülhetett.
+
+A földtani közegben és felszín alatti vízben jelenleg jelenlévő PCE összesített mennyisége jócskán meghaladja a 3 tonnát, ami alapján feltételezhető, hogy
+
+- talán (kisebb valószínűséggel) egyszeri alkalommal, tudatos cselekmény részeként, a feleslegesen megmaradt és költségesen ártalmatlanítható teljes jelenlévő anyagmennyiség került a csatornába öntésre, amelynek a vélelmezhető időpontja 1988 és 1992 évek közé tehető,
+- vagy (nagyobb valószínűséggel) több alkalommal bekövetkezett havária események, feltehetőleg gondatlanság miatt, vagy ismert és megtűrt „költséghatékony” hulladékkezelési gyakorlat részeként több fázisban került az anyag a csatornaszembe, mely esetben a kikerülés időpontjai 1968 és 1992 közé tehetők.
+
+Nem dönthető el a rendelkezésre álló információk alapján, hogy a két potenciális forgatókönyv közül melyik valósult meg (esetleg mindkettő, előbbi, egyszeri kijuttatás talán a fizetésképteléség időszakában, akár az eredményes értékesítési pályázat „érdekében”).
+
+**Akárhogy is került a csatornába a PCE, ezt követően a szennyezés a csatornahálózaton keresztül széles területen szétközvetítésre került.** Az elkészült csatornahálózat felmérés eredményként megállapítható, hogy a gócponti csatornaszemből közvetlen összeköttetés van a Leánynevelő Intézet mellett futó egykori gyártelepi gerincvezetékhez, amelyből 3 db, a Leánynevelő Intézet felé menő ág is azonosításra került, amely alapján valószínűsíthető, hogy közvetlen összeköttetés van a Leánynevelő Intézet csatornahálózatával, az utcai rendszerrel az összeköttetés pedig nem csak közvetetten, de közvetlenül is feltárt. Ez magyarázza, hogy mind a Szövőgyár és Énekes utcákban, mind a Leánynevelő Intézetben a csatornahálózat mellett létesített furatokban a
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+167/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+csatornához közeli mélységekben rendszeresen megjelenik a PCE még a földtani közegben is, ami a vonalasan vezetett folyadékból a csatorna (tégla) falán (könnyedén) átjutva, a földtani közegben található felszín alatti vízben oldva, valamint ahhoz önálló fázisként is csatlakozva megjelent.
+
+Fentieket a kapott eredmények is visszaigazolják, mivel a Leánynevelő Intézet csatornarendszerének központi derítőjében, az üledékben PCE szennyezettség került feltárásra.
+
+Előbbiek alapján kijelenthető, hogy a Leánynevelő Intézet területén feltárt súlyos szennyezettség az egykori Budapesti Finomkötöttárugyár Szövőgyár utcai telkén működő csatornahálózaton keresztül odajutott szennyezőanyaggal terhelt szennyvíz hatására alakult ki, a gyártelepről kiinduló szennyeződésnek a csatornarendszeren keresztül történő odajutásával.
+
+Fontos megállapítás, hogy a szennyezőanyag különösen nagy területre történő szétterjedésében jelentős szerepet játszhatott az a tényező, hogy a szennyezőanyag korlátosan elegyedik a vízzel és így a csatornában áramló szennyvízben jelentős mennyiségű önálló fázis is lehetett. Ennek tudható be pl. az is, hogy a csatorna Leánynevelő Intézet területén található szakaszába jutott szennyezőanyag, a rövid megtett útra tekintettel teljességgel nem tudván beoldódni, a Leánynevelő Intézet régi derítőaknájáig eljutva részben a derítő üledékében rekedt és így később a mintavizsgálat során kimutatásra került.
+
+## 8.3. FELSZÍN ALATTI VÍZ SZENNYEZETTSÉGE
+
+### 8.3.1. FÉMEK
+
+A 2023-ban elvégzett vizsgálatok igazolták, hogy a térségben érdemi fémszennyezettség nincs jelen. A szennyezettség adatsorát az 9. táblázat közli, amiből egyértelműen kiolvasható, hogy a szennyezettség az LNAPL szennyezettség zónájához kötött, alárendelt koncentrációk jellemzik (a „B” szennyezettségi határérték kétszerese alatti értékek). Szennyezettséggel érintett mintaszám a vizsgált mintaszámokhoz képest 10% alatti. Ezért e szennyezőanyag komponensekkel kapcsolatban további teendő nincs.
+
+### 8.3.2. LNAPL SZENNYEZETTSÉG
+
+Az elvégzett vizsgálatok a felszín alatti víz olajszármazékkal való jelentős szennyezettségét igazolták. Az olajszármazékok szaturációja a kapilláris zónában helyenként lehetővé teszi a vizsgálati pontokban az elkülönült szerves fázis („felúszó”) meglétét.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+168/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A felszín alatti víz olajszármazék csóva alakja és elhelyezkedése a talajban lévő olajszármazék csóvákhoz hasonló, azonban mérete összességében kissé eltérő. Az olajszármazék csóva alakja a felszín alatti víz áramlási irányára merőlegesen kissé megnyúlt, ami vagy további szennyező gócokra, vagy lokálisan és időlegesen módosult hidraulikai rezsimre utalhat.
+
+Az általános vízkémiai paramétereket vizsgálva látható, hogy az olajgóc területén elsősorban a felső zónában a mikrobiális lebontásra jellemző alacsony nitrát- és szulfátkoncentráció, illetve a magasabb koncentrációjú oldott vas, mangán és metán is megjelenik.
+
+A (B) szennyezettségi határértéket meghaladó mértékben szennyezett terület horizontális kiterjedése a kapilláris zónában található, a számítások alapján az egyes komponensek csóvájának összesítése alapján számolható legnagyobb kiterjedése 11 781 m². Az egyes LNAPL komponensekhez tartozó jellemző adatokat a 8.3.1.1. szövegközti táblázat mutatja be.
+
+8.3.1.1. szövegközti táblázat. Felszín alatti víz közeg olajszármazék szennyezettség térbeli kiterjedtsége
+
+|  Komponens | Szennyezettséggel érintett terület felszíni vetülete | Szennyezettséggel érintett FAV mennyisége | FAV-ban oldott szennyezőanyag mennyisége  |
+| --- | --- | --- | --- |
+|   |  m² | m³ | kg  |
+|  benzol | 2 757,2 | 3 377,6 | 0,028704  |
+|  toluol | 95,2 | 116,6 | 0,000760  |
+|  etil benzol | 149,5 | 183,1 | 0,001134  |
+|  xilolok | 1 331,0 | 1 630,5 | 0,054243  |
+|  alkil benzolok | 1 499,2 | 1 836,5 | 0,142214  |
+|  TPH | 4 272,3 | 5 233,5 | 25,870489  |
+|  naftalinok | 12 037,8 | 14 746,3 | 0,340797  |
+|  Acenaftilén | 2 167,7 | 2 655,4 | 0,003253  |
+|  Acenaftén | 4 817,3 | 5 901,2 | 0,006995  |
+|  Fluorén | 7 831,2 | 9 593,3 | 0,020076  |
+|  Fenantrén | 6 593,9 | 8 077,6 | 0,047123  |
+|  Antracén | 4 936,3 | 6 047,0 | 0,003501  |
+|  Fluorantén | 2 165,8 | 2 653,2 | 0,001106  |
+|  Pirén | 2 654,4 | 3 251,7 | 0,003023  |
+|  Benzo[a]antracén | 2 705,5 | 3 314,3 | 0,000222  |
+|  Krizén | 3 233,3 | 3 960,8 | 0,000682  |
+|  Benzo[b]fluorantén | 1 649,1 | 2 020,1 | 0,000077  |
+|  Benzo[k]fluorantén | 758,6 | 929,2 | 0,000017  |
+|  Benzo[e]pirén | 2 948,6 | 3 612,1 | 0,000169  |
+|  Benzo[a]pirén | 1 036,6 | 1 269,9 | 0,000022  |
+|  Indeno[1,2,3-cd]pirén | 696,7 | 853,4 | 0,000012  |
+|  Dibenzo[a,h]antracén | 37,0 | 45,3 | 0,000000  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+169/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+A DEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Komponens | Szennyezettséggel érintett terület felszíni vetülete | Szennyezettséggel érintett FAV mennyisége | FAV-ban oldott szennyezőanyag mennyisége  |
+| --- | --- | --- | --- |
+|   |  m^{2} | m^{3} | kg  |
+|  Benzo[g,h,i]perilén | 302,7 | 370,8 | 0,000007  |
+|  **Összesen** | **12 319,9** | **15 091,9** | **26,53**  |
+
+A szennyezőanyagok elterjedését a 5.1.-5.58. ábrák mutatják be. Az eredmények alapján megállapítható, hogy az LNAPL szennyezettség vízben oldódó frakciója már rendkívül csekély, ami egyértelműen arra utal, hogy a szennyezettség mozgékonyabb, könnyebben oldódó és illékonyabb frakcióinak volt elegendő ideje, hogy mobilizálódjon. Ebből viszont kiolvasható, hogy a szennyeződés kora jelentős.
+
+Az LNAPL típusú felszín alatti víz szennyezettség elterjedésének felszíni vetülete gyakorlatilag azonos a TPH szennyezőkomponensek elterjedési területével, a többi komponens a TPH elterjedési területén belül marad.
+
+### 8.3.3. DNAPL SZENNYEZETTSÉG
+
+A halogénezett alifás szénhidrogének elterjedésében szerepet játszik egyrészt a keleti irányban megdőlt agyagos fekü réteg, melyen a víznél nehezebb szennyezőanyagok feldúsulhatnak és a lejtés irányában önálló fázisban is elmozdulhatnak, amely az oldott fázisú csóva felvízi peremén okoz koncentráció növekedést, tekintettel arra, hogy a fekü lejtésiránya és a felszín alatti víz áramlási iránya egymással nagyjából ellentétes. Az oldott csóva terjedését a hidraulikai viszonyok határozzák meg, az áramlás délkeleti irány felől északnyugati irányba mutat. Tekintettel az alacsony gradiensre, a diffúzív hatása terjedés is számottevő.
+
+A fekütérképet áttekintve a mélyebb zónák egy vonalas alakzatot, feltehetőleg egy, a jelenlegi Szilas-patak medrére majdnem merőlegesen haladó ősi vízfolyás mederszakaszát rajzolják ki$^{37}$. Az egykori meder legmélyebb zónája nagyjából a Szövőgyár utca vonalán halad végig. A szennyeződés szempontjából ennek mindössze annyi jelentősége van, hogy bár a szennyezőgóc a legmélyebb sávtól mintegy 40 méterre Ny-i irányban helyezkedik el és a felszín alatti víz áramlási iránya éppen ellentétes irányba mutat, a DNAPL típusú szennyezőanyag a feküig lejutva, azon a vízáramlási iránnyal ellentétes irányban „vándorol” a mélypont irányába. Emiatt a földtani közeghez tapadó és az oldott fázisú csóvának is van valamennyi kiterjedése K-i, a vízáramlással ellentétes irányban is.
+
+$^{37}$ A szélessége meghaladja a 300 métert, ami miatt nem kizárt, hogy ez egy valamikor Duna ág lehetett.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+170/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A halogénezett aromások esetében megállapítható, hogy koncentrációjuk a teljes vizsgált területen alacsony, forrásuk valószínűsíthetően a vizsgált területen kívül (feltehetőleg K-i irányban és jelentős távolságra) található. A vizsgált területen belüli horizontális eloszlás képe jól követi a halogénezett alifás szénhidrogének koncentráció eloszlását, főként abban a tekintetben, hogy az olajszármazék szennyezettséggel érintett térrészben koncentrációjuk lecsökken.
+
+A DNAPL típusú szennyezőkomponensek által okozott szennyezettség mennyiségi adatait az alábbi táblázat mutatja be.
+
+8.3.2.1. szövegközti táblázat. Felszín alatti víz közeg illékony halogénezett alifás szénhidrogén szennyezettség térbeli kiterjedtsége
+
+|  Komponens | Szennyezettséggel érintett terület felszíni vetülete | Szennyezettséggel érintett FAV mennyisége | FAV-ban oldott szennyezőanyag mennyisége  |
+| --- | --- | --- | --- |
+|   |  m² | m³ ≅ tonna | kg  |
+|  Perklóretén (PCE) | 473 010 | 948 622 | 608,8  |
+|  Triklór-etén (TCE) | 146 463 | 336 792 | 7,7  |
+|  Diklór-etén (DCE) | 136 213 | 301 302 | 48,3  |
+|  Vinil-klorid (VC) | 85 676 | 202 110 | 0,4  |
+|  **Összesen** | **475 138** | **957 441** | **665,2**  |
+
+## 8.4. LNAPL ÉS DNAPL SZENNYEZETTSÉGEK ÖSSZESÍTETT MENNYISÉGEI
+
+Az előzőekben bemutatottak alapján a földtani közeg és a felszín alatti víz tekintetében az összesített mennyiségeket az alábbi táblázat mutatja be.
+
+8.4.1. szövegközti táblázat. Összesített szennyezettségre vonatkozó mennyiségi kimutatás
+
+|  Komponenscsoport | Földtani közeg  |   |   |   |
+| --- | --- | --- | --- | --- |
+|   |  Szennyezettséggel érintett terület felszíni vetülete | Szennyezettséggel érintett földtani közeg mennyisége |   | Jelenlévő szennyezőanyag mennyisége  |
+|   |  m² | m³ | tonna | kg  |
+|  LNAPL (olajszármazék) szennyező komponensek együttesen | 6 454,3 | 24 598,63 | 43 047,6 | 151 702  |
+|  DNAPL (tetraklór-etén és bomlástermékei) szennyező komponensek együttesen | 97 822,5 | 242 463,8 | 424 311 | 2 809  |
+|  **Összesen, átfedéseket levonva** | **99 268,0** | **267 062,1** | **467 358,6** | **154 511**  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+171/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Komponenscsoport | Felszín alatti víz  |   |   |
+| --- | --- | --- | --- |
+|   |  Szennyezettséggel érintett terület felszíni vetülete | Szennyezettséggel érintett felszín alatti víz mennyisége | Jelenlévő szennyezőanyag mennyisége  |
+|   |  m^{2} | m^{3} = tonna | kg  |
+|  LNAPL (olajszármazék) szennyező komponensek együttesen | 12 319,9 | 15 091,9 | 26,53  |
+|  DNAPL (tetraklór-etén és bomlástermékei) szennyező komponensek együttesen | 475 138 | 957 441 | 665,2  |
+|  **Összesen, átfedéseket levonva** | **475 254** | **957 788** | **691,72**  |
+
+|  Komponenscsoport | Földtani közeg és felszín alatti víz együttesen  |   |   |   |
+| --- | --- | --- | --- | --- |
+|   |  Szennyezettséggel érintett terület felszíni vetülete | Szennyezettséggel érintett közegek mennyisége |   | Jelenlévő szennyezőanyag mennyisége  |
+|   |  m^{2} | m^{3} | tonna | kg  |
+|  LNAPL (olajszármazék) szennyező komponensek együttesen | 11 958,7 | 32 845,26 | 57 479,2 | 151 755  |
+|  DNAPL (tetraklór-etén és bomlástermékei) szennyező komponensek együttesen | 475 301 | 1 200 252 | 1 382 751 | 3 474  |
+|  **Összesen, átfedéseket levonva** | **475 479** | **1 233 097** | **1 425 147** | **155 229**  |
+
+A táblázatban jeleztük, hogy a két szennyezettség részben átfedésben van egymással. A földtani közeg tekintetében 8.4.1. szövegközti ábra mutatja be az átfedéseket. A földtani közeg tekintetében jól látható, hogy az LNAPL gócot a DNAPL góc gyakorlatilag magába foglalja, annak csak egy kis, 1445,48 m² kiterjedésű részterülete különíthető el tőle. A felszín alatti víz esetében hasonló a helyzet, de ott még ennél is kisebb az LNAPL gócterület önálló része, mindössze 115,73 m².
+
+A földtani közeg és felszín alatti víz szennyezettséggel érintett ingatlanok kimutatását az előzőekben bemutattuk. A földtani közeg tekintetében 8 db-ot érint LNAPL, 103 db-ot DNAPL szennyezettség, az átfedéseket figyelembe véve ez összesen 105 db ingatlan. A felszín alatti víz tekintetében 12 db-ot érint LNAPL, 406 db-ot DNAPL szennyezettség, mind a 12 LNAPL FAV szennyezettséggel érintett ingatlan DNAPL szennyezettséggel is érintett, ezért ez összesen 406
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+172/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+db ingatlan. Mindösszesen 407 db ingatlan. Az egyetlen ingatlan, ahol nincs DNAPL FAV szennyezettség, de van egyéb (DNAPL FK) szennyezettség az Anyácska utca 14. sz. lakóház.
+
+**8.4.1. szövegközti ábra.** Az LNAPL (piros színnel) és DNAPL (kék színnel) jellegű, földtani közeg szennyezettségek felszíni vetületeinek viszonya
+
+![img-30.jpeg](img-30.jpeg)
+
+Az alábbi táblázatban összesítettük a különféle szennyezettségekkel érintett ingatlanokat. A hrsz.-ek közül a 7-tel kezdődőek Budapest IV. kerület, a 8-cal kezdődőek Budapest XV. kerület közigazgatásához tartoznak.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+173/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+8.4.2. szövegközti táblázat. Szennyezettséggel érintett ingatlanok azonosítása
+
+|  Ssz. | Szennyezettséggel érintett ingatlan hrsz. | Azonosítás | Szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  1. | (76331/228) | Szilas-patak meder, közterület | Nem | Nem | Nem | Igen  |
+|  2. | (76334/4) | Erdősor utca, közterület | Nem | Nem | Nem | Igen  |
+|  3. | (76334/6) | Szilas-patak meder, közterület | Nem | Nem | Nem | Igen  |
+|  4. | 76334/7 | Szilágyi utca 30., UTE atlétikai stadion | Nem | Nem | Nem | Igen  |
+|  5. | 76334/9 | Szilágyi utca, hsz. nélkül, bekerítetlen, erdős terület | Nem | Nem | Nem | Igen  |
+|  6. | 76334/10 | Szilágyi utca, hsz. nélkül, bekerítetlen terület | Nem | Nem | Nem | Igen  |
+|  7. | (76370/1) | Szilágyi utca, közterület | Nem | Nem | Nem | Igen  |
+|  8. | (76555/3) | Szilágyi utca, közterület | Nem | Nem | Nem | Igen  |
+|  9. | 76555/4 | Szilas-patak meder, nem közterület | Nem | Nem | Nem | Igen  |
+|  10. | 76555/5 | Szilágyi utca, villamospálya | Nem | Nem | Nem | Igen  |
+|  11. | 76555/6 | Szilágyi utca, villamospálya | Nem | Nem | Nem | Igen  |
+|  12. | 76555/7 | Szilágyi utca, villamospálya | Nem | Nem | Nem | Igen  |
+|  13. | 88053 | Géza Fejedelem tér, bekerítetlen, de nem közterület | Nem | Nem | Nem | Igen  |
+|  14. | (88054) | Géza Fejedelem tér, közterület | Nem | Nem | Nem | Igen  |
+|  15. | 88055 | Károlyi Sándor utca 2., gyógyszertár | Nem | Nem | Nem | Igen  |
+|  16. | 88056 | Károlyi Sándor utca 4. | Nem | Nem | Nem | Igen  |
+|  17. | 88057 | Károlyi Sándor utca 6. | Nem | Nem | Nem | Igen  |
+|  18. | 88058 | Csákó utca 2. | Nem | Nem | Nem | Igen  |
+|  19. | 88059 | Csákó utca 4. | Nem | Nem | Nem | Igen  |
+|  20. | 88060 | Géza Fejedelem tér 2. | Nem | Nem | Nem | Igen  |
+|  21. | 88061 | Géza Fejedelem tér 3. | Nem | Nem | Nem | Igen  |
+|  22. | 88062 | Csákó utca 6. | Nem | Nem | Nem | Igen  |
+|  23. | 88063 | Csákó utca 8. | Nem | Nem | Nem | Igen  |
+|  24. | 88064 | Géza Fejedelem tér 4. | Nem | Nem | Nem | Igen  |
+|  25. | 88065 | Géza Fejedelem tér 5. | Nem | Nem | Nem | Igen  |
+|  26. | 88066 | Csákó utca 10. | Nem | Nem | Nem | Igen  |
+|  27. | 88067 | Csákó utca 12. | Nem | Nem | Nem | Igen  |
+|  28. | 88068 | Géza Fejedelem tér 6. | Nem | Nem | Nem | Igen  |
+|  29. | 88069 | Géza Fejedelem tér 7. | Nem | Nem | Nem | Igen  |
+|  30. | 88070 | Csákó utca 14. | Nem | Nem | Nem | Igen  |
+|  31. | 88071 | Platán utca 7. | Nem | Nem | Nem | Igen  |
+|  32. | 88072 | Platán utca 5. | Nem | Nem | Nem | Igen  |
+|  33. | 88073 | Platán utca 3. | Nem | Nem | Nem | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+174/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Ssz. | Szennyezett-séggel érintett ingatlan hrsz. | Azonosítás | Szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  34. | 88074 | Géza Fejedelem tér 8. | Nem | Nem | Nem | Igen  |
+|  35. | (88075) | Platán utca, közterület | Nem | Nem | Nem | Igen  |
+|  36. | 88076/2 | Platán utca 2. | Nem | Nem | Nem | Igen  |
+|  37. | 88077 | Platán utca 4. | Nem | Nem | Nem | Igen  |
+|  38. | 88078 | Platán utca 6. | Nem | Nem | Nem | Igen  |
+|  39. | 88079 | Csákó utca 18. | Nem | Nem | Nem | Igen  |
+|  40. | 88080 | Csákó utca 20. | Nem | Nem | Nem | Igen  |
+|  41. | (88081) | Csákó utca, közterület | Nem | Nem | Igen | Igen  |
+|  42. | 88082 | Csákó utca 19. | Nem | Nem | Nem | Igen  |
+|  43. | 88083 | Csákó utca 17. | Nem | Nem | Nem | Igen  |
+|  44. | 88084 | Platán utca 12. | Nem | Nem | Nem | Igen  |
+|  45. | 88085 | Platán utca 14a-14b. | Nem | Nem | Igen | Igen  |
+|  46. | 88086 | Platán utca 16., Győztes utca 18. | Nem | Nem | Igen | Igen  |
+|  47. | 88087 | Győztes utca 20. | Nem | Nem | Nem | Igen  |
+|  48. | 88088 | Győztes utca 22. | Nem | Nem | Nem | Igen  |
+|  49. | 88089 | Győztes utca 24. | Nem | Nem | Nem | Igen  |
+|  50. | (88090) | Győztes utca, közterület | Nem | Nem | Igen | Igen  |
+|  51. | 88091 | Győztes utca 23. | Nem | Nem | Nem | Igen  |
+|  52. | 88092 | Ferenczy Sándor utca 24. | Nem | Nem | Nem | Igen  |
+|  53. | 88093 | Ferenczy Sándor utca 22. | Nem | Nem | Nem | Igen  |
+|  54. | 88094 | Győztes utca 21. | Nem | Nem | Nem | Igen  |
+|  55. | 88095 | Győztes utca 19. | Nem | Nem | Nem | Igen  |
+|  56. | 88096 | Platán utca 18., Győztes utca 17. | Nem | Nem | Igen | Igen  |
+|  57. | 88097 | Platán utca 20. | Nem | Nem | Igen | Igen  |
+|  58. | 88098 | Platán utca 22. | Nem | Nem | Igen | Igen  |
+|  59. | 88099 | Ferenczy Sándor utca 20. | Nem | Nem | Nem | Igen  |
+|  60. | 88100 | Platán utca 24. | Nem | Nem | Nem | Igen  |
+|  61. | (88101) | Ferenczy Sándor utca, közterület | Nem | Nem | Nem | Igen  |
+|  62. | 88102 | Ferenczy Sándor utca 23. | Nem | Nem | Nem | Igen  |
+|  63. | 88103 | Ferenczy Sándor utca 21. | Nem | Nem | Nem | Igen  |
+|  64. | 88104 | Ferenczy Sándor utca 19. | Nem | Nem | Nem | Igen  |
+|  65. | 88105 | Ferenczy Sándor utca 17. | Nem | Nem | Nem | Igen  |
+|  66. | 88106 | Platán utca 28. | Nem | Nem | Nem | Igen  |
+|  67. | 88107 | Platán utca 30. | Nem | Nem | Nem | Igen  |
+|  68. | 88108 | Győzelem utca 20. | Nem | Nem | Nem | Igen  |
+|  69. | 88109 | Platán utca 32. | Nem | Nem | Nem | Igen  |
+|  70. | (88110) | Platán utca, közterület | Nem | Nem | Nem | Igen  |
+|  71. | 88111 | Platán utca 9. | Nem | Nem | Nem | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+175/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.  
+ Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713  
+ adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVÓGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Ssz. | Szennyezett-séggel érintett ingatlan hrsz. | Azonosítás | Szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  72. | 88112 | Platán utca 11a-11b. | Nem | Nem | Igen | Igen  |
+|  73. | 88113 | Csákó utca 13. | Nem | Nem | Igen | Igen  |
+|  74. | 88114 | Csákó utca 11. | Nem | Nem | Igen | Igen  |
+|  75. | 88115 | Csákó utca 9. | Nem | Nem | Igen | Igen  |
+|  76. | 88116 | Csákó utca 7. | Nem | Nem | Igen | Igen  |
+|  77. | 88117 | Csákó utca 5. | Nem | Nem | Igen | Igen  |
+|  78. | 88118 | Csákó utca 3. | Nem | Nem | Igen | Igen  |
+|  79. | 88119 | Csákó utca 1., Károlyi Sándor út 10. | Nem | Nem | Igen | Igen  |
+|  80. | 88120 | Károlyi Sándor út 12. | Nem | Nem | Igen | Igen  |
+|  81. | 88121 | Károlyi Sándor út 14. | Nem | Nem | Igen | Igen  |
+|  82. | 88122 | Károlyi Sándor út 16., Győztes utca 2. | Nem | Nem | Igen | Igen  |
+|  83. | 88123 | Győztes utca 4. | Nem | Nem | Igen | Igen  |
+|  84. | 88124 | Győztes utca 6. | Nem | Nem | Igen | Igen  |
+|  85. | 88125 | Győztes utca 8a-8. | Nem | Nem | Igen | Igen  |
+|  86. | 88126 | Győztes utca 10a-10. | Nem | Nem | Igen | Igen  |
+|  87. | 88127 | Győztes utca 12. | Nem | Nem | Igen | Igen  |
+|  88. | 88128 | Győztes utca 14. | Nem | Nem | Igen | Igen  |
+|  89. | 88129 | Platán utca 13. | Nem | Nem | Igen | Igen  |
+|  90. | 88130 | Platán utca 15., Győztes utca 16. | Nem | Nem | Igen | Igen  |
+|  91. | (88131) | Győztes utca, közterület | Nem | Nem | Igen | Igen  |
+|  92. | 88132 | Platán utca 17. | Nem | Nem | Igen | Igen  |
+|  93. | 88133 | Platán utca 19. | Nem | Nem | Igen | Igen  |
+|  94. | 88134 | Győztes utca 13. | Nem | Nem | Igen | Igen  |
+|  95. | 88135 | Győztes utca 11. | Nem | Nem | Igen | Igen  |
+|  96. | 88136 | Győztes utca 9. | Nem | Nem | Igen | Igen  |
+|  97. | 88137 | Győztes utca 7a-7. | Nem | Nem | Igen | Igen  |
+|  98. | 88138 | Győztes utca 5. | Nem | Nem | Igen | Igen  |
+|  99. | 88139 | Győztes utca 3. | Nem | Nem | Igen | Igen  |
+|  100. | 88140 | Győztes utca 1., Károlyi Sándor út 18. | Nem | Nem | Igen | Igen  |
+|  101. | 88141 | Károlyi Sándor út 20. | Nem | Nem | Igen | Igen  |
+|  102. | 88142 | Károlyi Sándor út 22. | Nem | Nem | Igen | Igen  |
+|  103. | 88143 | Károlyi Sándor út 24., Ferenczy Sándor utca 2. | Nem | Nem | Igen | Igen  |
+|  104. | 88144 | Ferenczy Sándor utca 4. | Nem | Nem | Igen | Igen  |
+|  105. | 88145 | Ferenczy Sándor utca 6. | Nem | Nem | Igen | Igen  |
+|  106. | 88146 | Ferenczy Sándor utca 8. | Nem | Nem | Igen | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+176/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Ssz. | Szennyezett-séggel érintett ingatlan hrsz. | Azonosítás | Szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  107. | 88147 | Ferenczy Sándor utca 10. | Nem | Nem | Igen | Igen  |
+|  108. | 88148 | Ferenczy Sándor utca 12. | Nem | Nem | Igen | Igen  |
+|  109. | 88149 | Ferenczy Sándor utca 14. | Nem | Nem | Igen | Igen  |
+|  110. | 88150 | Platán utca 21. | Nem | Nem | Igen | Igen  |
+|  111. | 88151 | Platán utca 23. | Nem | Nem | Igen | Igen  |
+|  112. | (88152) | Ferenczy Sándor utca, közterület | Nem | Nem | Igen | Igen  |
+|  113. | 88153 | Platán utca 25., Ferenczy Sándor utca 15. | Nem | Nem | Igen | Igen  |
+|  114. | 88154 | Platán utca 27. | Nem | Nem | Nem | Igen  |
+|  115. | 88155 | Ferenczy Sándor utca 13. | Nem | Nem | Igen | Igen  |
+|  116. | 88156 | Ferenczy Sándor utca 11. | Nem | Nem | Igen | Igen  |
+|  117. | 88157 | Ferenczy Sándor utca 9. | Nem | Nem | Igen | Igen  |
+|  118. | 88158 | Ferenczy Sándor utca 7. | Nem | Nem | Igen | Igen  |
+|  119. | 88159 | Ferenczy Sándor utca 5. | Nem | Nem | Igen | Igen  |
+|  120. | 88160 | Ferenczy Sándor utca 3. | Nem | Nem | Igen | Igen  |
+|  121. | 88161 | Ferenczy Sándor utca 1., Károlyi Sándor út 26. | Nem | Nem | Igen | Igen  |
+|  122. | 88162 | Károlyi Sándor út 28. | Nem | Nem | Igen | Igen  |
+|  123. | 88163 | Károlyi Sándor út 30. | Nem | Nem | Igen | Igen  |
+|  124. | 88164 | Károlyi Sándor út 32., Győzelem utca 2. | Nem | Nem | Igen | Igen  |
+|  125. | 88165 | Győzelem utca 4. | Nem | Nem | Igen | Igen  |
+|  126. | 88166 | Győzelem utca 6. | Nem | Nem | Igen | Igen  |
+|  127. | 88167 | Győzelem utca 8. | Nem | Nem | Igen | Igen  |
+|  128. | 88168 | Győzelem utca 10. | Nem | Nem | Igen | Igen  |
+|  129. | 88169 | Győzelem utca 12. | Nem | Nem | Nem | Igen  |
+|  130. | 88170 | Győzelem utca 14. | Nem | Nem | Nem | Igen  |
+|  131. | 88171 | Platán utca 29. | Nem | Nem | Nem | Igen  |
+|  132. | 88172 | Platán utca 31. | Nem | Nem | Nem | Igen  |
+|  133. | (88173) | Győzelem utca, közterület | Nem | Nem | Igen | Igen  |
+|  134. | 88174 | Győzelem utca 23. | Nem | Nem | Nem | Igen  |
+|  135. | 88175 | Győzelem utca 21. | Nem | Nem | Nem | Igen  |
+|  136. | 88176 | Győzelem utca 19. | Nem | Nem | Nem | Igen  |
+|  137. | 88177 | Győzelem utca 17. | Nem | Nem | Nem | Igen  |
+|  138. | 88178 | Győzelem utca 15. | Nem | Nem | Nem | Igen  |
+|  139. | 88179 | Győzelem utca 13. | Nem | Nem | Nem | Igen  |
+|  140. | 88180 | Győzelem utca 11. | Nem | Nem | Nem | Igen  |
+|  141. | 88181 | Győzelem utca 9. | Nem | Nem | Nem | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+177/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Ssz. | Szennyezett-séggel érintett ingatlan hrsz. | Azonosítás | Szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  142. | 88182 | Győzelem utca 7. | Nem | Nem | Igen | Igen  |
+|  143. | 88183 | Győzelem utca 5. | Nem | Nem | Igen | Igen  |
+|  144. | 88184 | Győzelem utca 3. | Nem | Nem | Igen | Igen  |
+|  145. | 88185 | Győzelem utca 1., Károlyi Sándor út 34. | Nem | Nem | Igen | Igen  |
+|  146. | 88186 | Károlyi Sándor út 36. | Nem | Nem | Igen | Igen  |
+|  147. | 88187 | Szilas patak medre | Nem | Nem | Igen | Igen  |
+|  148. | (88188) | Szilas-patak régi medre (betemetve), közterület | Nem | Nem | Nem | Igen  |
+|  149. | 88189 | Károlyi Sándor út, bekerítetlen terület a Szilas-patak mellett, nem közterület | Nem | Nem | Nem | Igen  |
+|  150. | (88190) | Szilas-patak régi medre (betemetve), közterület | Nem | Nem | Nem | Igen  |
+|  151. | (88191) | Szilas-patak medre, közterület | Nem | Nem | Nem | Igen  |
+|  152. | 88192 | MÁV vaspályák közötti elkerítetlen erdős terület, nem közterület | Nem | Nem | Nem | Igen  |
+|  153. | (88193/1) | Szilas-patak medre melletti elkerítetlen, erdős terület, közterület | Nem | Nem | Nem | Igen  |
+|  154. | (88193/2) | Szilas-patak medre, közterület | Nem | Nem | Nem | Igen  |
+|  155. | (88193/3) | Szilas-patak medre melletti bekerített terület, XV. ker. Önkormányzat zöldhulladékgyűjtő (Kovácsi Kálmán tér) | Nem | Nem | Nem | Igen  |
+|  156. | (88195) | MÁV vaspálya | Nem | Nem | Nem | Igen  |
+|  157. | 88196 | Töltés utca 28. | Nem | Nem | Nem | Igen  |
+|  158. | 88197 | Töltés utca 26. | Nem | Nem | Nem | Igen  |
+|  159. | 88198 | Töltés utca 24. | Nem | Nem | Nem | Igen  |
+|  160. | 88199 | Kovácsi Kálmán tér 14. | Nem | Nem | Nem | Igen  |
+|  161. | 88200 | Kovácsi Kálmán tér 13. | Nem | Nem | Nem | Igen  |
+|  162. | 88201 | Töltés utca 22. | Nem | Nem | Nem | Igen  |
+|  163. | 88202 | Kovácsi Kálmán tér 13/A. | Nem | Nem | Nem | Igen  |
+|  164. | 88203 | Kovácsi Kálmán tér 12. | Nem | Nem | Nem | Igen  |
+|  165. | 88204 | Töltés utca 20. | Nem | Nem | Nem | Igen  |
+|  166. | 88205 | Kemény István utca 8. | Nem | Nem | Nem | Igen  |
+|  167. | 88206 | Kemény István utca 6. | Nem | Nem | Nem | Igen  |
+|  168. | 88207 | Kemény István utca 4. | Nem | Nem | Nem | Igen  |
+|  169. | 88208 | Kemény István utca 2. | Nem | Nem | Nem | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+178/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.  
+ Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVÓGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Ssz. | Szennyezett-séggel érintett ingatlan hrsz. | Azonosítás | Szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  170. | (88209) | Kemény István utca, közterület | Nem | Nem | Nem | Igen  |
+|  171. | 88210 | Töltés utca 16. | Nem | Nem | Nem | Igen  |
+|  172. | 88211 | Töltés utca 14. | Nem | Nem | Nem | Igen  |
+|  173. | 88212 | Kemény István utca 3. | Nem | Nem | Nem | Igen  |
+|  174. | 88213 | Töltés tér 12. | Nem | Nem | Nem | Igen  |
+|  175. | 88214 | Kemény István utca 1/A. | Nem | Nem | Nem | Igen  |
+|  176. | 88215 | Kemény István utca 1. | Nem | Nem | Nem | Igen  |
+|  177. | 88216 | Csomád utca 2. (Kovácsi Kálmán tér 9.) | Nem | Nem | Nem | Igen  |
+|  178. | (88217) | Kovácsi Kálmán tér, közterület | Nem | Nem | Nem | Igen  |
+|  179. | 88218 | MÁV vaspálya, Kovácsi Kálmán tér, nem közterület | Nem | Nem | Nem | Igen  |
+|  180. | (88219) | Kovácsi Kálmán tér, közterület | Nem | Nem | Nem | Igen  |
+|  181. | (88220) | Kovácsi Kálmán tér, közterület | Nem | Nem | Nem | Igen  |
+|  182. | 88221 | Kovácsi Kálmán tér 8. | Nem | Nem | Nem | Igen  |
+|  183. | 88222 | Kovácsi Kálmán tér 7. | Nem | Nem | Nem | Igen  |
+|  184. | 88223 | Töltés tér 2. | Nem | Nem | Nem | Igen  |
+|  185. | 88224 | Kovácsi Kálmán tér 6. | Nem | Nem | Nem | Igen  |
+|  186. | 88225 | Kovácsi Kálmán tér 6/A. | Nem | Nem | Nem | Igen  |
+|  187. | 88226 | Töltés tér 3. | Nem | Nem | Nem | Igen  |
+|  188. | 88227 | Töltés utca 12. | Nem | Nem | Nem | Igen  |
+|  189. | 88228 | Töltés utca 10. | Nem | Nem | Nem | Igen  |
+|  190. | 88229 | Kovácsi Kálmán tér 5. | Nem | Nem | Nem | Igen  |
+|  191. | 88230 | Kovácsi Kálmán tér 4/A. | Nem | Nem | Nem | Igen  |
+|  192. | 88231 | Töltés utca 8. | Nem | Nem | Nem | Igen  |
+|  193. | 88232 | Kovácsi Kálmán tér 4. | Nem | Nem | Nem | Igen  |
+|  194. | 88233 | Kovácsi Kálmán tér 3. | Nem | Nem | Nem | Igen  |
+|  195. | 88234 | Töltés utca 6. | Nem | Nem | Nem | Igen  |
+|  196. | 88235 | Töltés utca 4. | Nem | Nem | Nem | Igen  |
+|  197. | 88236 | Töltés utca 2. | Nem | Nem | Nem | Igen  |
+|  198. | 88237 | Kovácsi Kálmán tér 2. | Nem | Nem | Nem | Igen  |
+|  199. | 88238 | Károlyi Sándor utca 38/B. | Nem | Nem | Nem | Igen  |
+|  200. | 88239 | Károlyi Sándor utca 38/A. | Nem | Nem | Nem | Igen  |
+|  201. | (88240) | Károlyi Sándor út, közterület | Nem | Nem | Igen | Igen  |
+|  202. | 88241 | Közvágóhíd utca 24., üzletház | Nem | Nem | Nem | Igen  |
+|  203. | 88243 | Közvágóhíd utca 22. | Nem | Nem | Nem | Igen  |
+|  204. | 88244 | Közvágóhíd utca 20. | Nem | Nem | Nem | Igen  |
+|  205. | 88245 | Közvágóhíd utca 18/B. | Nem | Nem | Nem | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+179/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Ssz. | Szennyezett-séggel érintett ingatlan hrsz. | Azonosítás | Szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  206. | 88246 | Közvágóhíd utca 18. | Nem | Nem | Nem | Igen  |
+|  207. | 88258/2 | Károlyi Sándor út 7., egykori Növényolajgyár területe | Nem | Nem | Nem | Igen  |
+|  208. | (88262/2) | Szilas patak nyomvonala | Nem | Nem | Igen | Igen  |
+|  209. | 88263 | Károlyi Sándor út 5. (bekerítetlen terület) | Nem | Nem | Igen | Igen  |
+|  210. | 88265 | Anyácska utca 3. | Nem | Nem | Igen | Igen  |
+|  211. | 88266/1 | Anyácska utca, hsz. nélkül, tényleges beközlekedés a 88263 hrsz.-en keresztül | Nem | Nem | Igen | Igen  |
+|  212. | 88266/2 | Nyél a 88266/2 hrsz-hez, Anyácska utcából (használaton kívül) | Nem | Nem | Igen | Igen  |
+|  213. | 88267 | Anyácska utca 5. | Nem | Nem | Igen | Igen  |
+|  214. | 88268 | Anyácska utca 7. | Nem | Nem | Igen | Igen  |
+|  215. | 88269 | Anyácska utca 9. | Nem | Nem | Igen | Igen  |
+|  216. | 88270 | Anyácska utca 9. sz. telekkel egybenyitva | Nem | Nem | Igen | Igen  |
+|  217. | 88271 | Anyácska utca 11. | Nem | Nem | Igen | Igen  |
+|  218. | 88272 | Anyácska utca 13. | Nem | Nem | Nem | Igen  |
+|  219. | 88273 | Anyácska utca 15. | Nem | Nem | Nem | Igen  |
+|  220. | 88276 | Anyácska utca 19. | Nem | Nem | Nem | Igen  |
+|  221. | 88278 | Anyácska utca 21. | Nem | Nem | Nem | Igen  |
+|  222. | 88279 | Anyácska utca 25. | Nem | Nem | Nem | Igen  |
+|  223. | 88299 | Énekes utca 20. | Nem | Nem | Nem | Igen  |
+|  224. | 88300 | Énekes utca 22. | Nem | Igen | Igen | Igen  |
+|  225. | 88301 | Anyácska utca 14. | Nem | Nem | Igen | Nem  |
+|  226. | 88302 | Anyácska utca 12. | Nem | Nem | Igen | Igen  |
+|  227. | 88303 | Énekes utca 24. | Nem | Igen | Igen | Igen  |
+|  228. | 88304 | Énekes utca 28., Pisztráng utca 5. | Nem | Nem | Igen | Igen  |
+|  229. | 88305 | Anyácska utca 10. | Nem | Nem | Igen | Igen  |
+|  230. | 88306 | Anyácska utca 8. | Nem | Nem | Igen | Igen  |
+|  231. | 88307 | Pisztráng utca 3. | Nem | Nem | Igen | Igen  |
+|  232. | 88308 | Anyácska utca 6. | Nem | Nem | Nem | Igen  |
+|  233. | (88309) | Anyácska utca, közterület | Nem | Nem | Igen | Igen  |
+|  234. | (88310) | Pisztráng utca, közterület | Nem | Nem | Igen | Igen  |
+|  235. | 88311 | Pozsony utca 36., Leánynevelő Intézet | Nem | Igen | Igen | Igen  |
+|  236. | 88320 | Szövőgyár utca 3. | Nem | Nem | Nem | Igen  |
+|  237. | 88321 | Szövőgyár utca 5. | Nem | Nem | Nem | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+180/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Ssz. | Szennyezett-séggel érintett ingatlan hrsz. | Azonosítás | Szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  238. | 88322/1 | Az egykori Budapesti Finomkötöttárugyár gyártelepből kialakított harmadik ingatlan, jelenleg ipartelep | Nem | Igen | Igen | Igen  |
+|  239. | 88322/2 | LabSystem Kft. ingatlanja. Ipari ingatlan, egykori Budapesti Finomkötöttárugyár gyártelep része | Igen | Igen | Igen | Igen  |
+|  240. | 88323 | Dinamo Invest Kft. ingatlanja. Lakóövezeti területté átminősített ingatlan, egykori Budapesti Finomkötöttárugyár gyártelep része | Igen | Igen | Igen | Igen  |
+|  241. | 88325 | Énekes utca 33. ipari üzem | Igen | Nem | Igen | Igen  |
+|  242. | 88326 | Szövőgyár utca 23. lakóház | Igen | Igen | Igen | Igen  |
+|  243. | (88327) | Szövőgyár utca, közterület | Igen | Igen | Igen | Igen  |
+|  244. | (88328/1) | Énekes utca, közterület | Igen | Igen | Nem | Igen  |
+|  245. | 88328/2 | Énekes utca 19-35. lakóház | Igen | Igen | Nem | Igen  |
+|  246. | 88334 | Szövőgyár utca 24., Szövő Ovi | Nem | Igen | Igen | Igen  |
+|  247. | 88335 | Szövőgyár utca 22. | Nem | Nem | Igen | Igen  |
+|  248. | 88336 | Szövőgyár utca 20. | Nem | Nem | Igen | Igen  |
+|  249. | 88337 | Szövőgyár utca 18. | Nem | Nem | Igen | Igen  |
+|  250. | 88338 | Szövőgyár utca 16. | Nem | Nem | Nem | Igen  |
+|  251. | 88339 | Szövőgyár utca 14. | Nem | Nem | Nem | Igen  |
+|  252. | 88340 | Szövőgyár utca 12. | Nem | Nem | Nem | Igen  |
+|  253. | (88422) | Énekes utca, közterület | Igen | Igen | Igen | Igen  |
+|  254. | (88438) | Töltés utca, közterület | Nem | Nem | Nem | Igen  |
+|  255. | (88439) | Töltés tér, közterület | Nem | Nem | Nem | Igen  |
+|  256. | (88440) | MÁV vaspálya (Csomád utca) | Nem | Nem | Nem | Igen  |
+|  257. | (88441) | Töltés tér, közterület | Nem | Nem | Nem | Igen  |
+|  258. | (88442) | Töltés utca, közterület | Nem | Nem | Nem | Igen  |
+|  259. | 88443 | Kemény István utca 5. | Nem | Nem | Nem | Igen  |
+|  260. | 88444 | Kemény István utca 5/B. | Nem | Nem | Nem | Igen  |
+|  261. | 88445 | Töltés tér 10. | Nem | Nem | Nem | Igen  |
+|  262. | 88446 | Töltés tér 9. | Nem | Nem | Nem | Igen  |
+|  263. | 88447 | Töltés tér 8. | Nem | Nem | Nem | Igen  |
+|  264. | 88448 | Csomád utca 6/B. | Nem | Nem | Nem | Igen  |
+|  265. | 88449 | Kemény István utca 7. | Nem | Nem | Nem | Igen  |
+|  266. | 88450 | Kemény István utca 9. | Nem | Nem | Nem | Igen  |
+|  267. | 88451 | Csomád utca 8. | Nem | Nem | Nem | Igen  |
+|  268. | 88452 | Csomád utca 10. | Nem | Nem | Nem | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+181/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.  
+ Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713  
+ adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVÓGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Ssz. | Szennyezett-séggel érintett ingatlan hrsz. | Azonosítás | Szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  269. | 88453 | Kemény István utca 11. | Nem | Nem | Nem | Igen  |
+|  270. | 88454 | Kemény István utca 13. | Nem | Nem | Nem | Igen  |
+|  271. | 88455 | Kemény István utca 15. | Nem | Nem | Nem | Igen  |
+|  272. | 88456 | Csomád utca 12. | Nem | Nem | Nem | Igen  |
+|  273. | 88457 | Csomád utca 14. | Nem | Nem | Nem | Igen  |
+|  274. | 88458 | Kemény István utca 17. | Nem | Nem | Nem | Igen  |
+|  275. | 88459 | Kemény István utca 19. | Nem | Nem | Nem | Igen  |
+|  276. | 88460 | Csomád utca 16. | Nem | Nem | Nem | Igen  |
+|  277. | 88461 | Csomád utca 18. | Nem | Nem | Nem | Igen  |
+|  278. | 88462 | Kemény István utca 21. | Nem | Nem | Nem | Igen  |
+|  279. | 88463 | Kemény István utca 23. | Nem | Nem | Nem | Igen  |
+|  280. | 88464 | Kemény István utca 25. | Nem | Nem | Nem | Igen  |
+|  281. | 88465 | Csomád utca 20. | Nem | Nem | Nem | Igen  |
+|  282. | 88466 | Csomád utca 22. | Nem | Nem | Nem | Igen  |
+|  283. | 88467 | Kemény István utca 27. | Nem | Nem | Nem | Igen  |
+|  284. | 88468 | Kemény István utca 29. | Nem | Nem | Nem | Igen  |
+|  285. | 88469 | Csomád utca 24. | Nem | Nem | Nem | Igen  |
+|  286. | 88470 | Csomád utca 26. | Nem | Nem | Nem | Igen  |
+|  287. | 88471 | Kemény István utca 31. | Nem | Nem | Nem | Igen  |
+|  288. | (88485) | Kemény István utca, közterület | Nem | Nem | Nem | Igen  |
+|  289. | 88504 | Kemény István utca 34. | Nem | Nem | Nem | Igen  |
+|  290. | 88505 | Kemény István utca 32. | Nem | Nem | Nem | Igen  |
+|  291. | 88506 | Alagi tér 12. | Nem | Nem | Nem | Igen  |
+|  292. | 88507 | Alagi tér 11. | Nem | Nem | Nem | Igen  |
+|  293. | 88508 | Kemény István utca 30. | Nem | Nem | Nem | Igen  |
+|  294. | 88509 | Kemény István utca 28. | Nem | Nem | Nem | Igen  |
+|  295. | 88510 | Alagi tér 10. | Nem | Nem | Nem | Igen  |
+|  296. | 88511 | Alagi tér 9. | Nem | Nem | Nem | Igen  |
+|  297. | 88512 | Kemény István utca 26. | Nem | Nem | Nem | Igen  |
+|  298. | 88513 | Kemény István utca 24. | Nem | Nem | Nem | Igen  |
+|  299. | 88514 | Alagi tér 8. | Nem | Nem | Nem | Igen  |
+|  300. | 88515 | Alagi tér 7. | Nem | Nem | Nem | Igen  |
+|  301. | 88516 | Kemény István utca 22. | Nem | Nem | Nem | Igen  |
+|  302. | 88517 | Kemény István utca 20. | Nem | Nem | Nem | Igen  |
+|  303. | 88518 | Alagi tér 6. | Nem | Nem | Nem | Igen  |
+|  304. | 88519 | Alagi tér 5. | Nem | Nem | Nem | Igen  |
+|  305. | 88520 | Kemény István utca 18. | Nem | Nem | Nem | Igen  |
+|  306. | 88521 | Kemény István utca 16. | Nem | Nem | Nem | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+182/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Ssz. | Szennyezett-séggel érintett ingatlan hrsz. | Azonosítás | Szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  307. | 88522 | Alagi tér 4. | Nem | Nem | Nem | Igen  |
+|  308. | 88523 | Alagi tér 3. | Nem | Nem | Nem | Igen  |
+|  309 | 88524 | Alagi tér 2. | Nem | Nem | Nem | Igen  |
+|  310. | 88525 | Kemény István utca 14. | Nem | Nem | Nem | Igen  |
+|  311. | 88526 | Kemény István utca 12. | Nem | Nem | Nem | Igen  |
+|  312. | 88527 | Kemény István utca 10. | Nem | Nem | Nem | Igen  |
+|  313. | 88528 | Töltés utca 15. | Nem | Nem | Nem | Igen  |
+|  314. | 88529 | Töltés utca 17. | Nem | Nem | Nem | Igen  |
+|  315. | 88530 | Töltés utca 19. | Nem | Nem | Nem | Igen  |
+|  316. | (88531) | Alagi tér, közterület | Nem | Nem | Nem | Igen  |
+|  317. | 88533 | Alagi tér 13., Református Misszió Központ | Nem | Nem | Nem | Igen  |
+|  318. | 88570 | Alagi tér 16. | Nem | Nem | Nem | Igen  |
+|  319. | 88571 | Alagi tér 17. | Nem | Nem | Nem | Igen  |
+|  320. | 88572 | Alagi tér 18. | Nem | Nem | Nem | Igen  |
+|  321. | 88573 | Harsányi Kálmán utca 13. | Nem | Nem | Nem | Igen  |
+|  322. | 88574 | Harsányi Kálmán utca 11. | Nem | Nem | Nem | Igen  |
+|  323. | 88575 | Alagi tér 19. | Nem | Nem | Nem | Igen  |
+|  324. | 88576 | Alagi tér 20. | Nem | Nem | Nem | Igen  |
+|  325. | 88577 | Harsányi Kálmán utca 11/A. | Nem | Nem | Nem | Igen  |
+|  326. | 88578 | Harsányi Kálmán utca 9. | Nem | Nem | Nem | Igen  |
+|  327. | 88579 | Harsányi Kálmán utca 7. | Nem | Nem | Nem | Igen  |
+|  328. | 88580 | Alagi tér 21. | Nem | Nem | Nem | Igen  |
+|  329. | 88581 | Alagi tér 22. | Nem | Nem | Nem | Igen  |
+|  330. | 88582 | Töltés utca 21. | Nem | Nem | Nem | Igen  |
+|  331. | 88583 | Töltés utca 23. | Nem | Nem | Nem | Igen  |
+|  332. | 88584 | Töltés utca 25. | Nem | Nem | Nem | Igen  |
+|  333. | 88585 | Harsányi Kálmán utca 5. | Nem | Nem | Nem | Igen  |
+|  334. | (88586) | MÁV vaspálya (Harsányi Kálmán utca) | Nem | Nem | Nem | Igen  |
+|  335. | (88587) | Harsányi Kálmán utca, közterület | Nem | Nem | Nem | Igen  |
+|  336. | (88860) | Csomád utca, közterület | Nem | Nem | Nem | Igen  |
+|  337. | (88876) | Csomád utca, közterület | Nem | Nem | Nem | Igen  |
+|  338. | 89071 | Veresegyházi utca 26. | Nem | Nem | Nem | Igen  |
+|  339. | 89072 | Csomád utca 17. | Nem | Nem | Nem | Igen  |
+|  340. | 89073 | Csomád utca 15/B. | Nem | Nem | Nem | Igen  |
+|  341. | 89074 | Veresegyházi utca 24. | Nem | Nem | Nem | Igen  |
+|  342. | 89075 | Veresegyházi utca 22. | Nem | Nem | Nem | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+183/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Ssz. | Szennyezett-séggel érintett ingatlan hrsz. | Azonosítás | Szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  343. | 89076 | Csomád utca 15/A. | Nem | Nem | Nem | Igen  |
+|  344. | 89077 | Csomád utca 13. | Nem | Nem | Nem | Igen  |
+|  345. | 89078 | Veresegyházi utca 20. | Nem | Nem | Nem | Igen  |
+|  346. | 89079 | Veresegyházi utca 18. | Nem | Nem | Nem | Igen  |
+|  347. | 89080 | Veresegyházi utca 16. | Nem | Nem | Nem | Igen  |
+|  348. | 89081 | Csomád utca 11. | Nem | Nem | Nem | Igen  |
+|  349. | 89082 | Csomád utca 9/B. | Nem | Nem | Nem | Igen  |
+|  350. | 89083 | Veresegyházi utca 14. | Nem | Nem | Nem | Igen  |
+|  351. | 89084 | Veresegyházi utca 12. | Nem | Nem | Nem | Igen  |
+|  352. | 89085 | Csomád utca 9. | Nem | Nem | Nem | Igen  |
+|  353. | 89086 | Csomád utca 7. | Nem | Nem | Nem | Igen  |
+|  354. | 89087 | Veresegyházi utca 10. | Nem | Nem | Nem | Igen  |
+|  355. | 89088 | Veresegyházi utca 8. | Nem | Nem | Nem | Igen  |
+|  356. | 89089 | Csomád utca 5/B. | Nem | Nem | Nem | Igen  |
+|  357. | 89090 | Csomád utca 5/A. | Nem | Nem | Nem | Igen  |
+|  358. | 89091 | Csomád utca 3. | Nem | Nem | Nem | Igen  |
+|  359. | 89092 | Veresegyházi utca 6/B. | Nem | Nem | Nem | Igen  |
+|  360. | 89093 | Veresegyházi utca 6. | Nem | Nem | Nem | Igen  |
+|  361. | 89094 | Veresegyházi utca 4. | Nem | Nem | Nem | Igen  |
+|  362. | 89095 | Töltés tér 6. | Nem | Nem | Nem | Igen  |
+|  363. | 89096 | Töltés utca 5. | Nem | Nem | Nem | Igen  |
+|  364. | 89097 | Veresegyházi utca 2. | Nem | Nem | Nem | Igen  |
+|  365. | (89098) | Veresegyházi utca, közterület | Nem | Nem | Nem | Igen  |
+|  366. | 89117 | Veresegyházi utca 25-27. | Nem | Nem | Nem | Igen  |
+|  367. | 89121 | Veresegyházi utca 23. | Nem | Nem | Nem | Igen  |
+|  368. | 89122 | Veresegyházi utca 21. | Nem | Nem | Nem | Igen  |
+|  369. | 89123 | Károlyi Sándor út 56. | Nem | Nem | Nem | Igen  |
+|  370. | 89124 | Károlyi Sándor út 54. | Nem | Nem | Nem | Igen  |
+|  371. | 89125 | Veresegyházi utca 19. | Nem | Nem | Nem | Igen  |
+|  372. | 89126 | Veresegyházi utca 17. | Nem | Nem | Nem | Igen  |
+|  373. | 89127 | Károlyi Sándor út 52. | Nem | Nem | Nem | Igen  |
+|  374. | 89128 | Károlyi Sándor út 50. | Nem | Nem | Nem | Igen  |
+|  375. | 89129 | Veresegyházi utca 15. | Nem | Nem | Nem | Igen  |
+|  376. | 89130 | Veresegyházi utca 13. | Nem | Nem | Nem | Igen  |
+|  377. | 89131 | Veresegyházi utca 11. | Nem | Nem | Nem | Igen  |
+|  378. | 89132 | Károlyi Sándor út 48. | Nem | Nem | Nem | Igen  |
+|  379. | 89133 | Károlyi Sándor út 46. | Nem | Nem | Nem | Igen  |
+|  380. | 89134 | Veresegyházi utca 9. | Nem | Nem | Nem | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+184/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Ssz. | Szennyezett-séggel érintett ingatlan hrsz. | Azonosítás | Szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  381. | 89135 | Veresegyházi utca 7. | Nem | Nem | Nem | Igen  |
+|  382. | 89136 | Károlyi Sándor út 44. | Nem | Nem | Nem | Igen  |
+|  383. | 89137 | Károlyi Sándor út 42. | Nem | Nem | Nem | Igen  |
+|  384. | 89138 | Veresegyházi utca 5. | Nem | Nem | Nem | Igen  |
+|  385. | 89139 | Veresegyházi utca 3. | Nem | Nem | Nem | Igen  |
+|  386. | 89140 | Veresegyházi utca 1. | Nem | Nem | Nem | Igen  |
+|  387. | 89141 | Töltés utca 5. | Nem | Nem | Nem | Igen  |
+|  388. | 89142 | Töltés utca 3. | Nem | Nem | Nem | Igen  |
+|  389. | 89143 | Töltés utca 1/B. | Nem | Nem | Nem | Igen  |
+|  390. | 89144 | Töltés utca 1. | Nem | Nem | Nem | Igen  |
+|  391. | 89145 | Károlyi Sándor út 40/B. | Nem | Nem | Nem | Igen  |
+|  392. | (89146) | Károlyi Sándor út, közterület | Nem | Nem | Nem | Igen  |
+|  393. | 89147 | Károlyi Sándor út 41. | Nem | Nem | Nem | Igen  |
+|  394. | 89148 | Közvágóhíd utca 27. | Nem | Nem | Nem | Igen  |
+|  395. | 89149 | Közvágóhíd utca 25. | Nem | Nem | Nem | Igen  |
+|  396. | 89150 | Vácduka tér 1. | Nem | Nem | Nem | Igen  |
+|  397. | 89151 | Vácduka tér 2. | Nem | Nem | Nem | Igen  |
+|  398. | 89152 | Vácduka tér 3. | Nem | Nem | Nem | Igen  |
+|  399. | 89153 | Károlyi Sándor út 43. | Nem | Nem | Nem | Igen  |
+|  400. | 89154 | Károlyi Sándor út 45. | Nem | Nem | Nem | Igen  |
+|  401. | 89155 | Vácduka tér 4. | Nem | Nem | Nem | Igen  |
+|  402. | 89156 | Vácduka tér 5. | Nem | Nem | Nem | Igen  |
+|  403. | 89157 | Károlyi Sándor út 47. | Nem | Nem | Nem | Igen  |
+|  404. | 89158 | Károlyi Sándor út 49. | Nem | Nem | Nem | Igen  |
+|  405. | 89162 | Károlyi Sándor út 51. | Nem | Nem | Nem | Igen  |
+|  406. | 89163 | Károlyi Sándor út 53. | Nem | Nem | Nem | Igen  |
+|  407. | 89166 | Károlyi Sándor út 55. | Nem | Nem | Nem | Igen  |
+
+## 8.5. AZ LNAPL ÉS DNAPL SZENNYEZETTSÉG EGYMÁSRA HATÁSA
+
+A felszín alatti vízben oldott szennyezőanyagok területi eloszlásáról elmondható, hogy a felső szintben vizsgált halogénezett aromás és alifás vegyületek hiánya mutatkozik meg az olajszármazék szennyezettséggel érintett területen. Ez az olajszármazékok intenzív bomlásával együtt járó oxidációs-redukciós állapotok megváltozásának következménye, mely a klórozott szénhidrogének bomlásának kedvez.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+185/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Ezen egymásra hatás (koszolvencia, valamint a bomlási folyamatok gyorsulása) megfigyelhető az egyes vízminőségi és szennyezettségi paramétereken. Ahol az olajos frakciók jelenléte döntő, koncentrációjuk a telítettségi határ fölötti, ott még a saját gócterülethez közel eső pontokon is a tetraklór-etén jelenléte csak másodlagos, a szennyezőanyag bomlása gyors, oldott fázisa is csekélyebb mértékű. Ez a hatás ugyanakkor a felszín alatti víztestnek csak a sekélyebb, a kapilláris zónába eső részében érvényesül. Emiatt a sekély zónában a tetraklór-etén oldott fázisának az elterjedése az olajos gócterület térségében lecsökken, a mélyebb zónákban a terjeszkedése ugyanakkor zavartalan.
+
+## 8.6. JELEN KÁRHELYRŐL KIINDULT ÉS AZ EGYKORI VÁKUUMTECHNIKAI GÉPGYÁRBÓL KIINDULT OLDOTT FÁZISÚ SZENNYEZŐ CSÓVÁK EGYMÁSRA HATÁSA
+
+A 2.1.8.1. fejezetben bemutatásra került a jelen szennyezettség környezetében ismert másik szennyezettséggel érintett térség, mely a Budapest IV. került, Fóti út 141. sz. ingatlanról indult ki és elterjedési területe nincs túlságosan távol jelen kárhelytől, továbbá az ott ismert szennyezőanyag csóva és jelen kárhelyről kiindult szennyező csóva haladási iránya egyaránt ÉNy-i, amely miatt a két szennyezettség esetleges összeérése nem volt kizárható.
+
+Áttekintve a Vákuumtechnikai Gépgyár kármentesítés monitoringhoz rendelkezésre álló dokumentációt megállapítható, hogy a Fóti úti kármentesítés során létesített monitoring és víztisztító furatok műszaki kialakítása kompatibilis az általunk létesített sekély mélységű oldott fázisú szennyezettség vizsgáló furatok műszaki kialakításával, ezért egyetlen közös szennyezettség elterjedési ábrába vihető fel a két adatsor.
+
+Ennek megfelelően a két szennyezettséget egyetlen közös térképre vittük fel és az általunk a már IV. kerületben létesített lehatároló furatokkal kiegészítettük a rendelkezésre álló ottani (2025. szeptemberi) monitoring adatokat is. A kapott eredményeket a 7.1.-7.6. ábrák mutatják be.
+
+Az ábrákat áttekintve az alábbiak állapíthatók meg:
+
+- a tetraklór-etén és bomlástermékei tekintetében a két szennyezőcsóva szennyezettségi határértéket meghaladó mértékű szennyezettséget mutató csóvarészei még viszonylag távolabb helyezkednek el egymástól, de a kimutatási határérték feletti szennyezettség tekintetében már mindkét csóva elérte a Budapest IV., Szilágyi utcai UTE Sportközpont területét és ott már jelenleg is átfedik egymást.
+- a kloroform szennyező komponens tekintetében a Rákospalota kertvárosban megjelent szennyezettség már az egykori Vákuumtechnikai Gépgyár által okozott szennyezettség következménye,
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+186/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+- a két oldott fázisú szennyezőanyag csóva az összes halogénezett alifás szénhidrogének tekintetében a 10 µg/l kontúr tekintetében éppen elérte egymást,
+- a két szennyező csóva a jövőben nem kizárt, hogy jelentősebb mértékű átfedésbe kerül a Budapest IV., Szilágyi utcai UTE Sportközpont és Tarzan Park térségében.
+
+## 8.7. A FELSZÍN ALATTI KÖZEGEK SZENNYEZETTSÉGI ÁLLAPOTÁRA VONATKOZÓ ISMERETEK ÖSSZEFOGLALÁSA
+
+A vizsgált területen a földtani közegben és a felszín alatti vízben kialakult szennyezettséget eltérő viselkedésű szennyező anyagok egyenként is több forrásból bekövetkezett kijutása okozta. A két szennyezettség ezen felül egymásra is hatással van. Ennek eredményeképpen térben nagyon komplex szennyezettségi állapot jött létre.
+
+A kiegészítő tényfeltárás fontos feladata volt, hogy tisztázza a korábbi, olajostartály és kazánház környezetében észlelt szénhidrogén szennyezések eredményeként a talajvízben régebben fellelt oldott fázisú TPH, BTEX, PAH komponensek a területről csak átmenetileg, vagy véglegesen „tűntek el”. Erre egyértelmű válasz született, mely szerint a szennyezettség jelen van nagy kiterjedéssel.
+
+Az 5. ábracsoportról is kiolvashatóan az érintett furatokban jelentős, adott esetben önálló fázist is alkotó mértékben jelentek meg ezen szénhidrogén komponensek.
+
+Így ezen értékek figyelembe vételével a kockázatelemzés elvégzése ismételten szükséges, amely alapján a beavatkozási szükségesség meghatározásra kerül.
+
+A kiegészítő tényfeltárás másik fontos részfeladata volt a 2023-ban, egy talajmintában és több felszín alatti víz mintában addig nem detektált halogénezett alifás szénhidrogén szennyezettség kimutatását követően a szennyezettség eredetének, kiterjedésének, hatásának felderítése és értékelése. A vizsgálatok egyértelmű választ adtak a kérdésre, a szennyezőanyag az egykori Budapesti Finomkötöttárugyár területéről indult ki, a szennyezés feltételezhetően 1968 és 1992 között keletkezett, kiterjedése pedig meghaladja a 47 ha területet.
+
+Az eredmények ismertetését tartalmazó fejezet alapján kijelenthető, hogy a felszín alatti vízben mért VOCl szennyezettség mind kiterjedésében, mind koncentrációjában jelentősen meghaladja a 2023-ban végzett tényfeltárás során észlelt értékeket.
+
+A földtani közegben összesen 68 db furatban volt detektálható a szennyező anyag (B) értéket meghaladó koncentrációban. A maximális értékek jellemzően 7-10 m-es mélységben mutatkoztak. Ebből egyrészt következik, hogy a szennyező komponensek talajszemcsékhez való
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+187/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+kötődése kevésbé jellemző, másrészt a leáramlási zóna – kiindulva abból, hogy a szennyezés a felszínen való elfolyásból keletkezhetett – pontosan meghatározásra került.
+
+Fontos rögzíteni, hogy talajszennyezés került észlelésre mind a Leánynevelő, mint a volt Finomkötöttárugyár területén, a Szövőgyár és Énekes utca területén is, valamint a mélyebb rétegekben egészen a Platán utcáig mindhol. A szennyezettségi koncentrációkból és a szennyezettséggel érintett minták származási mélységéből, valamint további tények mérlegelésével világosan kimutatható volt, hogy a szennyezés mindezek ellenére egyetlen pontból indult ki és a talajszennyezésként a felszín alatti vízzel, valamint több esetben a csatornahálózatból a mintavételi pontba jutott, majd a talajhoz kötődő szennyező anyag került észlelésre egyes fúráspontokból vett minták esetében.
+
+Felszín alatti víz tekintetében a kiegészítő tényfeltárás új eredményeket hozott. Tisztázódott, hogy nagy kiterjedésű oldott fázisú szennyező csóva alakult ki, melynek további terjedése, annak részleges korlátozottsága is tisztázásra került, valamint tisztázódott a szennyezettséggel érintett ingatlanok köre.
+
+A textil tisztítási technológiák áttekintése alapján rögzíthető, hogy a textilgyártáshoz kapcsolódó tisztítási folyamatok keretében használt perklóretilén sem a korábbi, sem a már modern, zárt rendszerű alkalmazás keretében nem jutott ki a felszín alatti vízbe üzemszerű működés mellett. A zárt rendszerek felhasználását megelőzően is a levegőbe történt a kijutás és elsődlegesen munkaegészségügyi problémákat okozott. A helyszínen feltárt szennyezés egyértelműen nem lehet kiülepedés eredménye.
+
+Előbbiek alapján a jelen ismereteink szerint a szennyezést legvalószínűbben, elsődlegesen kettő folyamatból, tevékenységből eredeztethetjük.
+
+Az egyik a perklór-etilén anyagtárolása, ill. kapcsolódó tárolási, kitárolási hibák, haváriák, stb. Ez a kevésbé valószínű, mivel a felhasználandó anyag minden bizonnyal eredeti gyártói csomagolásban érkezhetett és az abban való további tárolása nem jelenthetett különös kockázatot. Továbbá egyes cikkekből azt is tudjuk, hogy drága anyagról van szó, így az érzékelhető mértékű fogyása nyilván intézkedési kötelezettséget vont (volna) maga után.
+
+Ezért nagyobb valószínűséggel a használat után visszamaradt folyékony desztillációs maradék, esetleg az ún. persár (ami a visszanyert oldószer utáni desztillációs maradvány kovaföldben felitatva) kijuttatása okozhatta a területen detektált szennyezést. Utóbbi nagy valószínűséggel kizárható, mert a gócterületen jelenlévő földtani közegben a kovaföldfrakciót nem detektáltuk. Ezek az anyagok veszélyes hulladéknak minősülnek és elszállíttatásuk nyilván jelentős költség igénnyel bírt. Ez különösen a Finomkötöttárugyár csődközeli helyzetében jelenthetett problémát.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+188/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Ilyen hulladékok nagyobb mennyiségű keletkezése a Finomkötöttárugyár tevékenysége során szinte bizonyossággal kijelenthető.
+
+Ezen alapanyagok és hulladékok pontos felhasználási helye a szükséges mértékig beazonosításra került, mégpedig az egykori „Festőde” épületében (9.I. jelű lebontott épület) zajlott a tri- majd tetraklór-eténnel történt e feladatra dedikált berendezés segítségével a textilanyagok mosása 1958-tól triklór-eténnel, 1968-tól pedig tetraklór-eténnel. A vizsgálatok azt is felderítették, hogy a perklóretén szennyezőanyag által okozott szennyezettség forrásterülete éppen a valamikori 9.I. épület sarka. A tények együttesen minden kétséget kizáróan igazolják, hogy a szennyezettséget az egykori állami vállalat okozta a 9.I. jelű Festőde épületben folytatott halogénezett alifás szénhidrogénekkel (tetraklór-eténnel) történő mosási munkálatok, vagy ahhoz kapcsolódó segédtevékenység során.
+
+A vizsgálatok arra is fényt derítettek, hogy a szennyezőanyag a szabadba jutása éppen egy a SZÖVŐGYÁR ingatlanjának közepe táján, az egykor 9.I. jelű épület sarkához közel elhelyezkedő csatornaszem mellett történt és így a szennyezőanyag csatornába jutása közvetlenül, vagy közvetetten, a csatornarendszerbe szivárgással is megvalósulhatott. A SZÖVŐGYÁR csatornahálózata pedig kapcsolatban állt nem csak a Szövőgyár utcai csatorna gerincvezetékkel, de a Leánynevelő Intézett csatornahálózatával is. Így volt lehetséges, hogy a szennyezőanyagot felleltük a Leánynevelő Intézet derítőaknájának üledékében, valamint a szennyezettség kiindulási pontjánál található csatornaszem üledékében is, továbbá többek közt ennek köszönhető, hogy a gócterülettől távolabb, a csatornahálózat nyomvonala mentén kismértékű földtani közegből detektált szennyezettséget mutattunk ki.
+
+Összefoglalóan a feltárás során felderített tények alapján a következőket jelenthetjük ki:
+
+- a jogutód nélkül megszűnt Budapesti Finomkötöttárugyár a 9.I. jelű Festődében perklór-eténes mosási tevékenységet folytatott,
+- a 9.I. jelű (időközben lebontott) épület ÉK-i sarkánál található a DNAPL szennyezettség (tetraklór-etén vezérszennyező) forrásterülete és feltehetőleg kizárólag innen indult ki a szennyezettség,
+- valószínűsíthető, hogy a szennyezés szétterjedése legalább részben a Leánynevelő Intézet egyesített rendszerű korábbi csatorna hálózatán, ill. a Finomkötöttárugyárhoz kapcsolódó közcsatorna hálózaton keresztül történt,
+- az oldott fázisú szennyezettség elhagyta a gyárterületet és elszennyezte a szomszédos ingatlanokat, köztük a Leánynevelő Intézet teljes területét,
+- a csóva keresztülhaladt a Károlyi Sándor út, Platán utca térségében található Rákospalotai kertvároson és elérte Budapest IV. kerületét,
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+189/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+- a csóva É-i irányban történő tovább haladását a Szilas-patak „völgye” korlátozza, akárcsak a környékre jellemző földtani viszonyok, ugyanakkor a Szilas-patak balpartján nem kizárt, hogy eljuthat egészen a Duna vonaláig.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+190/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 9. HIDRAULIKAI- ÉS TRANSZPORTMODELLEZÉS
+
+Jelen kiegészítő tényfeltárás keretén belül vizsgáltuk az érintett területen észlelt, egyes klórozott szénhidrogén-és kenőolaj eredetű szennyező komponensek várható térbeli-és időbeli elmozdulásának lehetőségét a talajvízre vonatkozóan, egy hidrodinamikai modellre épített szennyeződésterjedési szimuláció segítségével.
+
+A góckutatás során bizonyítást nyert, hogy a feltárt **alifás- és aromás szénhidrogének** szennyezőforrás területe döntően az egykori Budapesti Finomkötöttárugyár területén van, míg az **illékony klórozott alifás** komponensek mind a volt Finomkötöttárugyár, mind pedig a szomszédos Leánynevelő Intézet területén fellelhetőek. Ebből adódóan, mennyiségi tömegszámításokkal vizsgáltuk, hogy a forrásterületen feltárt földtani közegben lévő szennyező komponensek várhatóan milyen mértékben és mennyi ideig biztosíthatják az oldott szennyezés utánpótlódását.
+
+A laboranalitikai eredmények értékelését követően megállapítottuk, hogy földtani közeghez kapcsolódó szennyezés domináns részarányát a **TPH** és **PCE** komponenskör adja, melyből adódóan így a transzportszimuláció során a klórozott oldószerek közül a **PCE**, míg az alifás szénhidrogének közül a **TPH** komponens transzportmodellezését végeztük el 10 és 20 év időtávra vonatkozóan.
+
+Jelen kiegészítő tényfeltárás fázisában a beavatkozás nélküli esetben vizsgáltuk a komponensek transzportját, miszerint magára hagyjuk a feltárt szennyeződést (földtani és talajvíz tekintetében) és nyomon követjük szennyezőforrásból történő beoldódás mértékét, így az oldott szennyezés további előrehaladásának ütemét és további területi kiterjedésének mértékét.
+
+A számítási eredményeink szerint a földtani közegben feltárt jelentős mértékű szennyeződés, kimagasló utánpótlódási lehetőséget biztosít az oldott komponensek további transzportjára vonatkozóan, melyből adódóan a PCE tekintetében jelentős további felszín alatti vízben oldott terjedés várható az összegzett degradációs mechanizmusok ellenére is, míg TPH komponensek tekintetében annak kenőolaj minősége miatt, a feltárt olajeredetű szennyezés helyben marad, számottevő terjedése nem várható.
+
+Ugyanakkor a PCE komponens esetében, ennek északi irányú terjedése szempontjából a jövőben szükséges tisztázni a Szilas-patak meder hidraulikai hatását, melyről azt gondoljuk, hogy jelentős hatással van az oldott transzportra.
+
+A modellezés részletes bemutatása az **1. függelékben** található dokumentációban történik.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+191/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 10. KOCKÁZATI SZÁMÍTÁSOK
+
+### 10.1. KORÁBBI KOCKÁZATI SZÁMÍTÁSOK
+
+#### 10.1.1. 2023. ÉVI KOCKÁZATI SZÁMÍTÁSOK
+
+2022-2023. évben az Energiaügyi Minisztérium uniós, KEHOP pályázati finanszírozásból, a „Kármentesítési tényfeltárási, beavatkozási tervek” tárgyú projekt keretében számos, potenciálisan a Magyar Állam felelősségi körébe tartozó kárhely tekintetében készíttetett állapotfelmérést, ill. tényfeltárást. Ezen projekt keretében kiadott megrendelés alapján készült el a volt Budapesti Finomkötöttárugyár, Budapest XV. kárhely tekintetében is a tényfeltárási záródokumentáció és beavatkozási terv, amely tartalmazott kockázati számításokat is. A javasolt célhatárértékek az alábbiak voltak:
+
+10.1.1.1. szövegközti táblázat. A 2023 évi dokumentációban javasolt D kármentesítési célállapot határértékek
+
+|  Vizsgált komponens(csoport) | (B) mg/kg | Javasolt (D) kármentesítési célállapot határérték, földtani közegre mg/kg  |
+| --- | --- | --- |
+|  Benzol | 0,2 | 1,76  |
+|  Toluol | 0,5 | 8,8  |
+|  Etilbenzol | 0,5 | 25,2  |
+|  Xilolok összesen | 0,5 | 118  |
+|  Egyéb alkilbenzolok összesen | 0,5 | 582  |
+|  *Összes alifás szénhidrogén (TPH C5-C40)* | 100 | 54 600  |
+|  PAH | 1 | 840  |
+
+A határérték javaslat nem tartalmazott célállapot határértékeket a 2023 évi munkák során azonosított halogénezett alifás szennyezettséget okozó komponensekre. A benyújtott dokumentáció alapján a Pest Vármegyei Kormányhivatal, mint környezetvédelmi hatóság az MNV Zrt.-t a tényfeltárás folytatására és a tényfeltárás alatti monitoring végzésére kötelezte.
+
+A tényfeltárás folytatása kettő különálló ok miatt is szükségesnek bizonyult. Egyrészt, a 2023 évi munkák előtt már azonosított szénhidrogén (LNAPL típusú) szennyezettség³⁸ tekintetében az Energiaügyi Minisztérium megbízásából végzett 2023 évi tényfeltárás – ellentétben a korábbi
+
+³⁸ Ezen olajszármazékok kijutásából keletkezett szennyeződés 2003-ban lett felfedezve. A terület ekkor a COLORTEX Kft. tulajdonában és használatában állt. A későbbiek során a COLORTEX Kft. hosszas pereskedéssel igazolta, hogy a szennyezettséget nem ő okozta, hanem a területen a rendszerváltást megelőzően működött egykori Budapesti Finomkötöttárugyár („Szövőgyár”) állami vállalat.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+192/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+vizsgálatokkal - csak a földtani közeg szennyezettségét mutatta ki, a felszín alatti víz vizsgálati eredmények nem mutattak (B) érték feletti koncentrációkat. Így viszont a kockázatelemzés beavatkozást igénylő kockázatot nem mutatott ki, és a hatóság – a szakértővel egyetértve - a beavatkozást véglegesen megalapozó eredmények további megerősítésének szükségessége mellett foglalt állást, másrészt a 2023 évi tényfeltárás során halogénezett alifás szénhidrogén (DNAPL) szennyezettség került feltárásra, amely szennyező anyagra vonatkozó részletes vizsgálat azonban már nem képezhette az uniós projekt keretében elvégzett tényfeltárás részét³⁹.
+
+A javaslatot jóváhagyó környezetvédelmi hatóság a kiegészítő tényfeltárási záródokumentáció készítési és benyújtási kötelezettséget 2025. július 31-ig írta elő, amely időpont módosító határozattal, 2026. január 31-re módosult.
+
+A 2024-ben elvégzett munkarészekről előrehaladási jelentés készült, az abban található adatok alapján összefoglalóan egyrészt az volt megállapítható meg, hogy olajszármazékok (LNAPL) tekintetében nem egy, hanem két önálló szennyezőforrás mutatható ki, mindkettő a 88323 ingatlan területére esik. A CLRT-F01 pont melletti forrás pontos helye ismert, az a CLRT-F01 pont és az ingatlanhatár közt helyezkedett el. A szennyezettség forrását adó tartály a rendelkezésre álló előzményes tényfeltárási záródokumentáció leírása alapján „a telek ÉK-i sarkában elhelyezett süllyesztett olajtartály”⁴⁰ volt. Megjegyzendő, hogy az 1970-es évektől készült ortofotók alapján a tartály felszíni, vagy félig süllyesztett rendszerű lehetett⁴¹. A másik szennyezőforrás a CLRT-F109 pontnál helyezkedett le, ez az egykori épületen belüli forrás volt, ezért ennek pontos helye már nem határozható meg. A két forrás területén, illetve környezetükben a földtani közeg szennyezettsége és a kiterjedt oldott fázisú LNAPL szennyezettség mellett a szennyező anyagnak a földtani közegben meglévő magas szaturációja miatt elkülönült szerves fázis is észlelhető, amely valószínűsíthetően összefüggő foltot alkot a CLRT-F01, CLRT-F101 CLRT-F109 pontok környezetében. Ezen felül a 2025-évi vizsgálatok két további kisebb LNAPL gócpontot is azonosítottak, az egyik a volt kazánház környezetében, a másik az egykori szövőgyári ingatlan délnyugati sarkánál, de már a Leánynevelő Intézet területén (CLRT-226 pont).
+
+Másrészről jelentős oldott fázisú DNAPL szennyezettség érinti az ingatlant. A DNAPL szennyezettség egyik valószínűsített gócterülete a maximális oldott koncentrációk és a földtani közeg DNAPL szennyezettségének vertikális eloszlása alapján a 88323 ingatlan nyugati sarkához
+
+³⁹ Összegezve tehát a történéseket, az LNAPL szennyezettség 2003-ban, a DNAPL szennyezettség 2023-ban került felfedezésre.
+
+⁴⁰ Tényfeltárási záródokumentáció, COLORTEX Textilkészítő Kft., készítette Sövit Kft., 2017., 5. oldal (Bevezetés).
+
+⁴¹ A rendelkezésre álló adatok alapján a tartály nyomáspróbázva lett a szennyezettség felfedezését követően és tömörnek bizonyult. Ugyanakkor a vizsgálatok azt állapították meg, hogy a kijutott szennyezőanyag bizonyosan a tartályban is tárolt anyaggal volt azonos, így vagy a tartály mégsem volt teljességgel tömör, esetleg hosszabb ideig nem volt tömör, de azt megelőzően, hogy a szennyezettségre fény derült, a tömörsége helyre lett állítva, vagy esetleg nem a tartályban volt a hiba, hanem a kiszolgáló (töltő/ürítő stb.) rendszerben.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+193/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+közel helyezkedhet el. A bizonytalanság egyik fő oka, hogy a két típusú szennyezettség együttes jelenléte a DNAPL szennyezőanyagok bomlásával jár, ezért az oldott fázisú DNAPL koncentrációk mintázata az LNAPL szennyezettséggel területileg egybeeső jelentős degradáció miatt nem alkalmas DNAPL szennyezőgóc helyének kimutatására.
+
+### 10.1.2. 2025. ÉVI KOCKÁZATI SZÁMÍTÁSOK
+
+A 88323 hrsz ingatlan összevonása ingatlanfejlesztés céljából történt, a terület tulajdonosa a Dinamo Invest Kft. mélygarázsos, négy épületből álló társasház-lakópark létesítését tervezi. Tekintettel arra, hogy a korábbi (2023 évi) kockázati számítások, és a javasolt „D” kármentesítési célállapot határértékek az oldott fázisú LNAPL szennyezettség (és önálló fázis) jelenléte miatt felülvizsgálandók, valamint az ingatlanfejlesztésre vonatkozó tervek ismeretében az expozíciók pontosabban számíthatók, valamint arra, hogy az ingatlanfejlesztéssel kapcsolatos, a szennyezettséget is figyelembe vevő döntések megalapozottan meghozhatók legyenek, az MNV Zrt. nevében eljáró Nitrokémia Zrt. a 88323 hrsz-re vonatkozó, a meglévő fejlesztési terveket is figyelembe vevő kockázati számítások elvégzését rendelte meg, azzal, hogy ki kell térni annak vizsgálatára, hogy 1-3 m mélységű bolygatás a szennyezőanyag párolgására való tekintettel milyen hatással lehet az építés során a munkavégzésből eredő, illetve hosszútávon a humán hatásviselőkre (így mindenekelőtt a leendő lakókra, huzamosabban helyben tartózkodókra), valamint a dokumentumnak vizsgálnia kell azon műszaki megoldásokat is, melyek a fennálló kockázatokat mérsékelni, esetleg kizárni képesek, továbbá javaslatot kell adni arra, hogy a Dinamo Invest Kft. milyen feltételek mellett tudhatja az építkezést kivitelezni.
+
+A kockázati számítások elkészültek. A számítások azt mutatták, hogy a 2024-ben rendelkezésre álló adatok szerint ingatlanra tervezett lakófunkciójú fejlesztéshez köthető emberi egészségkockázat meghaladj az elviselhetőnek tekintett mértéket, azaz a fejlesztés csak kockázatcsökkentő beavatkozást követően valósulhat meg.
+
+A 2025 évi számítások óta elvégzett munkák feltárták az oldott fázisú DNAPL csóva gerincét és a DNAPL szennyezettség forrásterületét is. így a kockázati számítások pontosításához újabb adatok állnak rendelkezésre.
+
+## 10.2. 2026. ÉVI MENNYISÉGI KOCKÁZATFELMÉRÉS
+
+### 10.2.1. KOCKÁZAT FOGALMA ÉRTELMEZÉSE SZÁMÍTÁSA
+
+A kockázat valamely kedvezőtlen esemény bekövetkezési valószínűségének, valamint súlyosságának kombinációja. Környezetvédelmi területen az emberi egészségkockázat az a
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+194/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+kedvezőtlen esemény, amely a szennyező anyagoknak való kitettség következtében, azok szervezetbe kerülése hatására kialakuló egészségkárosodásként manifesztálódhat.
+
+A kockázat akkor értelmezhető, ha a kockázat mindhárom eleme jelen van: (1) az egészségre káros anyag, mint a kockázat forrása, (2) a hatásviselő, azaz az egészségkárosodással veszélyeztetett személy(ek) mint receptor(ok), és (3) a kettő közötti találkozás, az expozíció.
+
+A kockázatfelmérés során az egészségre káros anyag környezeti elemekben mért koncentrációiból kiindulva meghatározásra kerül a meglévő az expozíciós útvonalak mentén a kitettségi pontra számított, vagy a kitettségi ponton mérhető koncentráció (POE = Point Of Exposure koncentráció). Ezt követően az expozícióval érintett receptorok jellemzése alapján válik számíthatóvá a kockázat. A gyakorlatban az expozíció általános kifejezése a szervezetbe került vegyi anyag testtömeg- és időegységre vonatkoztatott mennyiségével, vagyis az átlagos napi dózissal (ÁND) történik, az alábbi tényezők figyelembevételével:
+
+$$\text{ÁND (mg/testtömeg kg/nap)} = C_k \cdot \text{BM} \cdot \text{EG} / \text{TT}$$
+
+Ahol
+
+$C_k$: az anyag koncentrációja a szennyezett közegben /pl. talaj/ (mg/kg)
+
+BM: lenyelt/felvett szennyezett közeg mennyisége (kg/nap)
+
+EG: az expozíció gyakorisága (nap/365 nap)
+
+TT: testtömeg (kg)
+
+Karcinogén hatásoknak való kitettség értékelésekor ugyanakkor a teljes élettartamra számított átlagos napi dózis (ÉÁND) értékkel számolunk, amelynél a tényleges expozíciós idő alatt kapott terhelést a teljes élettartamra elnyújtva vesszük figyelembe:
+
+$$\text{ÉÁND} = \text{ÁND} \times (\text{EH} / \text{ÉT})$$
+
+Ahol
+
+EH: az expozíció időtartama (év)
+
+ÉT: teljes élettartam (év)
+
+Egyes expozíciók esetében (pl. belégzéses expozíciónál) nem dózissal, hanem referenciakoncentráció felhasználásával is számítani lehet a kockázatot.
+
+Az expozíció mértékének megállapítása után végezhető el az expozíció és a receptor tűrőképességének összevetése, vagyis a kockázatokat jellemző mérőszámok kiszámítása. Az
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+195/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+anyagok egyes szerveket, szervrendszereket károsító, toxikus hatása küszöbdózissal jellemezhető, azaz hatás (károsodás) csak egy bizonyos értéket meghaladó dózis esetében jelentkezik. A toxikus hatásoknál így a kockázat az expozíciót jellemző Átlagos Napi Dózis és a megengedhetőnek tartott terhelést jellemző referencia dózis (RfD) vagy referencia koncentráció (RfC) arányaként fejezhető ki:
+
+Kockázati hányados = ÁND / RfD -RfC
+
+A kockázati hányados minden, a veszélyazonosítás során meghatározott szennyező anyagra kiszámítandó. Annak érdekében, hogy az egyidejűleg jelenlévő, a receptorra hatást gyakorló anyagok által okozott kockázatokat a valóságnak megfelelően összesítve jelenítsük meg, a hasonló tulajdonságú, biológiai hatású anyagok kockázati hányadosait – receptoronként – össze kell adni.
+
+A fentiek szerint számított, a vegyi anyagok toxikus hatásának való kitettségből eredő egészségkockázat értéke általánosságban – a nemzetközi gyakorlat és a szakirodalom szerint (Szennyezett területek részletes mennyiségi kockázatfelmérése, Kármentesítési Kézikönyv, Környezetvédelmi Minisztérium, Budapest, 2001.; Risk Assessment Guidance for Superfund: Volume I Human Health Evaluation Manual (Part D), Final, Publication 9285.7-47, Office of Emergency and Remedial Response, U.S. Environmental Protection Agency, Washington DC 20460, December 2001) – akkor tekinthető elfogadhatónak, ha az összesített kockázati mutató értéke egynél nem nagyobb.
+
+A fentiekben tárgyalt toxikus hatásoktól eltérő a dózis-válasz összefüggés a potenciálisan daganatképződést okozó, karcinogén hatások esetében, amikor a szennyezőanyag a receptor szervezetében daganatképző folyamatokat indíthat el. Az ilyen hatások vonatkozásában küszöbdózis nem határozható meg, tetszőlegesen kis dózis is megnöveli a daganatképződés valószínűségét, így zéró kockázat csak zéró dózisnál van. Az egyes anyagok karcinogén hatása a dózis nagysága és a daganatképződés valószínűsége közötti függvénnyel jellemezhető, amely függvény alacsony dózistartományban megközelítőleg lineáris, így a függvény meredeksége a karcinogén hatást jól jellemzi. Hangsúlyoznunk kell, hogy daganatképződéshez számos hatás vezethet, ezért az anyagok karcinogén hatását jellemző tényezők, ill. a számított daganatkockázati értékek minden esetben a daganatképződés valószínűségének növekedésére, ill. az okozott többlet kockázatra vonatkoznak.
+
+Adott expozíciós szituációban egy vegyi anyag által okozott daganatkockázat, tehát a daganatképződés (többlet-) valószínűsége az expozíciós úttól függően az alábbiak szerint számítható:
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+196/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Daganatkockázat= 1 - e-(meredekségi tényező · ÉÁND)
+
+A karcinogén hatások kockázatát jellemző számított daganatkockázati érték a daganatképződés incidencia háttérértéken felüli, elméleti többletkockázatát jelenti. A daganatkockázat 1E-6 számított értéke azt fejezi ki, hogy egymillió ember közül egy esetben valószínűsíthető az adott expozícióra visszavezethetően fellépő rákos megbetegedés. Általában – a nemzetközi gyakorlatban, ill. szakirodalomban (pl. Szennyezett területek részletes mennyiségi kockázatfelmérése, Kármentesítési Kézikönyv, Környezetvédelmi Minisztérium, Budapest, 2001.; Risk Assessment Guidance for Superfund: Volume I Human Health Evaluation Manual (Part D), Final, Publication 9285.7-47, Office of Emergency and Remedial Response, U.S. Environmental Protection Agency, Washington DC 20460, December 2001) – ezt az 1E-6 értéket tekintik a daganatkockázat társadalmilag elfogadható mértékének, míg a több jelen lévő szennyező komponens karcinogén hatásának összegződése esetén számítandó kumulatív daganatkockázat esetében az elfogadhatóság határa általában 1E-5 (1 százezred).
+
+A kockázatfelmérés fentiekben vázlatosan ismertetett módszerével tehát meghatározható, hogy egy adott vegyi anyag valamely környezeti elemben, adott koncentrációban való jelenléte milyen mértékű kockázatot jelent az egyes hatásviselőkre (receptorokra) az expozíciós pontban, az expozíciós útvonalak figyelembevétele mellett. Ugyanezen logikai és számítási lépések ellentétes irányban is végigjárhatók (ún. reverz kockázatfelmérés): az elfogadhatónak tekintett kockázati, ill. expozíciós szintekből kiindulva meghatározhatjuk, hogy adott helyen, adott közegben milyen szennyező anyag koncentráció nem eredményez elfogadható szintet meghaladó kockázatot a receptorok számára. Ez a reverz kockázatfelmérés alapozhatja meg talaj- és talajvíz-szennyeződések esetén a „D” kármentesítési szennyezettségi célállapot határérték megállapítását.
+
+### 10.2.2. A SZENNYEZETTSÉG JELLEMZÉSE
+
+A területen két eltérő jellegű szennyezettség található, melyek forrása térben elkülönül egymástól. Az egyik szennyezettség LNAPL jellegű (fűtőolaj), a másik DNAPL jellegű (alapvetően PCE). A kialakult szennyezettségek mind a földtan közegben, mind a felszín alatti vízben összeérnek. Az oldott fázisú szennyezettség területi kiterjedése az LNAPL esetében megfelel a földtani közegben kimutatott szennyezettség területi elterjedésének, a PCE esetében azonban a forrásterületről kiindulva hosszan elnyúlt oldott fázisú csóvát tártak fel a vizsgálatok.
+
+Az LNAPL típusú szennyezettség esetében a szennyezettség összetétele megfelel a fűtőolajból származó olajszennyezettségre jellemző összetételnek. A földtani közegben a meghatározó komponens az alifás szénhidrogének (TPH), a kimutatott szennyezettség átlagosan 97%-a C₁₀-C₄₀ frakcióba (EPH) tartozik. A szénatomszám-eloszlások alapján a szennyezettség 11,87%-a C₁₀-C₁₂,
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+197/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+31,7 %-a C₁₂-C₁₆, 56,3 %-a a C₁₆-C₃₅ szénatomszám-frakcióba tartozik. Az eloszlásdiagramok a 9. mellékletben találhatók.
+
+Az alifás szennyezettség mellett megjelenő monoaromás komponensnek közt dominálnak az egyéb alkil-benzol vegyületek és a xilolok, az alábbi ábra szerint:
+
+![img-0.jpeg](img-0.jpeg)
+
+A fűtőolaj eredetű szennyezettségben poliaromás szénhidrogének (PAH) is jelen vannak. A poliaromás komponensek közt a naftalinok dominálnak, ezek mellett meghatározónak tekinthető még a fenantrén, a többi komponens jelenléte alárendelt.
+
+![img-1.jpeg](img-1.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+198/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A felszín alatti víz LNAPL szennyezettségét is a TPH határozza meg, a teljes szennyezettség gyakorlatilag a C10-C40 frakcióba tartozik. A szénatomszám eloszlás megegyezik a földtani közegre érvényes szénatomszám-eloszlással. A monoaromás komponensek közt a benzol részaránya a földtani közegben észlelhető szennyezettségnél (oldhatósága miatt) nagyobb, az alábbi diagram szerint:
+
+![img-2.jpeg](img-2.jpeg)
+
+Az oldott fázisú PAH szennyezettségben is a naftalinok a meghatározók, de itt a fenantrén mellett a fluorén és az antracén is jelentősebb arányban mutatkozik az alábbi diagram szerint:
+
+![img-3.jpeg](img-3.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+199/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A vizsgálatok feltárták a DNAPL szennyezettség fő forrásterületét. Itt a szennyezettség átlagos összetétele a földtani közegben 99,22%-ban tetraklór-etén. Két ponton (Clrt-GK-4-3 és Clrt-GK-5-2) jelentős (20-45%-ot) ér el a bontott komponensek részaránya. Ezek a pontok a DNAPL forrásterület délkeleti oldalán, az egykori kazánház felé találhatók az LNAPL szennyezettség északnyugati szegélyén. A bontott komponensek megjelenése az LNAPL szennyezettség által biztosított reduktív közegben lejátszódó természetes biodegradáció (szekvenciális dehalogenizáció) eredménye. A földtani közeg PCE szennyezettség mintázata eredendően egy északnyugat-délkelet irányában elnyúlt egységes szennyezőfolt lehetett, de az LNAPL szennyezettséggel való érintkezése miatt a megjelenése több elkülönülőnek látszó foltot mutat. A feltárt szennyezettség kialakulásában szerepet játszott a gyár és a környék szennyvízcsatorna rendszere, amelynek gyenge pontjain a csatornarendszerbe jutott DNAPL anyag kijutott a földtani közegbe és a felszín alatti vízbe.
+
+A fő forrásterületen kívül az adatok alapján további két, alárendeltebb gócpont valószínűsíthető, ezeket vizsgálattal, hozzáférés hiányában igazolni nem volt lehetőség. Az egyik további góc a Labsystem Kft. új csarnoka alatt, a másik a Leánynevelő intézet és a Labsystem Kft. telekhatárán valószínűsíthető. Ezek azonban csak módosítják a szennyezettség fő mintázatát, a szennyezettséget alapvetően a feltárt fő forrásterület határozza meg.
+
+Az oldott fázisú DNAPL szennyezettség esetében a tetraklór-etén (perklór-etén, PCE) a primer szennyező komponens a meghatározó. Bomlástermékeik alárendelt részarányban mutathatók ki, kivéve a cisz 1,2 diklór-etént, az alábbi diagram szerint:
+
+![img-4.jpeg](img-4.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+200/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Az oldott fázisú DNAPL csóvában elhelyezkedő oldott fázisú LNAPL csóvával érintkező területeken a bontott komponensek részaránya általában nagyobb, mint a csóva többi részén, hasonlóan a földtani közeg szennyezettségi mintázatához. A bontott komponensek nagyobb arányú megjelenése itt is az LNAPL szennyezettség által biztosított reduktív közegben lejátszódó természetes biodegradáció (szekvenciális dehalogenizáció) eredménye.
+
+### 10.2.3. KITETTSÉGI (EXPOZÍCIÓS) VISZONYOK
+
+#### 10.2.3.1. A 88323 HRSZ.-EN TERVEZETT INGATLANFEJLESZTÉS
+
+A tervezett ingatlanfejlesztés során épülő lakóingatlan épületeinek területét érinti a földtani közeg LNAPL szennyezettségének forrásterülete, az elkülönült szerves fázis megjelenésével érintett területrész, illetőleg a felszín alatti vízben oldott szennyezettséggel jellemezhető terület is. Az ingatlanon egy szint mélygarázs kialakítása tervezett., A tervezett építmények alaprajza a 10.2.3.1.1. szövegközti árán látható.
+
+Az oldott fázisú szennyezettség esetében megállapítható, hogy tervezett fejlesztés teljes területe érintett, továbbá arra a területre, ahova nem terjed ki az oldott fázisú LNAPL szennyezettség, ott az oldott fázisú DNAPL szennyezettség van jelen.
+
+Az oldott fázisú DNAPL és LNAPL szennyezettség egymásra hatása miatt úgy tűnik, mintha a kérdéses ingatlanon a DNAPL szennyezettség nem, vagy csak alárendelten volna jelen. A primer szennyezőanyag (tetraklór-etén) így is rendkívül magas koncentrációval észlelhető a telken, ugyanakkor az LNAPL szennyezettség hiányában ennél nagyságrendekkel magasabb koncentrációk alakulnának ki⁴².
+
+A 88323 hrsz ingatlanon a tervezett ingatlanfejlesztés jellege alapján lakossági felnőtt és gyermek expozícióval számolunk, amely beltéri belégzés útvonalon valósul meg.
+
+#### 10.2.3.2. A 88323 HRSZ.-EN KÍVÜLI ÉRINTETTSÉGEK
+
+Az LNAPL szennyezettség délkeleti széle a 88323 hrsz ingatlan határán túlnyúlva érinti a Szövőgyár u. területét, valamint részben a 88326 hrsz-ú ingatlant is, de összességében a 88323 hrsz ingatlanon kívül, kockázati szempontból a DNAPL szennyezettség a meghatározó. A 88326 hrsz ingatlan lakófunkciójához köthető kockázatot a 88323 hrsz tervezett lakófunkciójához tartozó kockázat keretében számítjuk.
+
+⁴² Ebben az esetben az LNAPL szennyezettség által okozott negatív redox potenciál hiányában ugyanis lényegesen lassabban vagy egyáltalán nem történne tetraklór-etén bomlás
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+201/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+10.2.3.1.1. szövegközti ábra. A 88323 hrsz.-en tervezett ingatlanfejlesztés alaprajzi elrendezése
+
+![img-5.jpeg](img-5.jpeg)
+
+A 88323 hrsz-en kívüli területeket lényegében tehát kizárólag DNAPL szennyezettség érinti. A DNAPL szennyezettség forrásterülete a 88322/2 és 88323 hrsz ingatlan határán van, és a földtani közeg DNAPL szennyezettség érinti a Labsystem Kft. 88322/2 hrsz ingatlanát is.
+
+A 88323 hrsz és 88322/2 ingatlanokon kívül a szennyezettség alvízi irányban kertvárosias jellegű lakóövezetet és a Leánynevelő Intézet területét érinti, a csóvatengely a Károlyi Sándor út – Győztes utca, valamint a Platán utca - Győzelem utca sarkai közti területen húzódik északi irányba, túlnyúlva a Platán utca - Győzelem utca sarkán. Az érintett területen (főként a Ferenczy Sándor utcában) változatos korú és kialakítású lakóházak találhatók, vannak köztük új és régi építésűek, helyenként pincével, szuterénnel, vagy szuterénes garázzsal kialakítottak is.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+202/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A szennyezettség felvízi oldalán a Szövőgyár utcában az oldott fázisú DNAPL szennyezettség közintézményt (óvodát) és kisebb mértékben lakóépületeket is érint, továbbá a 88322/2 hrsz. ipari-kereskedelmi funkciójú ingatlan (Labsystem Kft.) erősen érintett.
+
+A 88323 hrsz-ú ingatlanon kívüli területek esetében is lakossági felnőtt és gyermek expozícióval és beltéri belégzéssel számolunk, ezen felül a 88322/2 hrsz ingatlanon (Labsystem Kft.) ipari területhasználat melletti beltéri expozíciót veszünk figyelembe.
+
+A közintézmény („Szövő Ovi” óvoda, 88334 hrsz) esetében a jellemző kitettségi időket határozunk meg, külön a felnőtt, külön a gyermek hatásviselőre.
+
+## 10.2.4. KOCKÁZATI SZÁMÍTÁSOKOKBAN FIGYELEMBE VETT KONCENTRÁCIÓK
+
+### 10.2.4.1. 88323 HRSZ
+
+A 88323 hrsz ingatlan esetében a kigőzölgés elvileg mind a földtani közegből, mind a felszín alatti vízből megtörténik. A szennyezettség horizontális kiterjedése mindkét környezetielemben gyakorlatilag megegyező területe érint, a két kockázatiforrásköz szorosösszefüggés van. Tekintettel arra, hogy a teljes infrastruktúra érintett, illetve arra, hogy a kigőzölgést követően a mélygarázsban az elkeveredés megtörténik, a kigőzölgést és a beltérbe való bejutást a területen mért maximális koncentrációk határozzák meg, a számításnál ezért ezeket vesszük figyelembe.
+
+10.2.4.1.1. szövegközti táblázat. A kárhelyen az egyes szennyező komponensek tekintetében, a földtani közegben észlelt legmagasabb koncentrációk
+
+|  Komponens | Mért maximális koncentráció (mg/kg)  |
+| --- | --- |
+|  TPH | 192 000  |
+|  benzol | 3,54  |
+|  toluol | 8,8  |
+|  etil-benzol | 25,2  |
+|  xilolok | 118  |
+|  összes egyéb alkil-benzol | 582  |
+|  naftalin | 1137,65  |
+
+TPH komponensek esetében a maximális koncentrációt a C₁₀-C₁₂, C₁₂-C₁₆ és C₁₆-C₃₅ frakciók közt a tényleges eloszlásnak megfelelően 11,87%, 36,7% és 56,3%-os aránnyal vesszük figyelembe.
+
+A PAH komponensek esetében a teljes PAH koncentrációt naftalinként vesszük figyelembe, mivel a naftalin a PAH komponensek 90%-t képviseli, egyben a legillékonyabb. Ez a megközelítés biztosítja a számítás konzervatívitását.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+203/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A felszín alatti víz vizsgálati eredmények szénatomszám-eloszlása szerint a vizsgálatok ugyanazt a százalékos szénatomszám eloszlást mutattak, mint a földtani közeg esetében. A TPH komponensek oldhatóságai ugyanakkor ezekben a szénatomszám tartományokban nem érik el a szennyezettségi határértéket, így a felszín alatti vízben a laboratóriumban mért szénhidrogén koncentrációk részben a mintavételi körülmények, részben a laboratóriumi szabványos, akkreditált mintaelőkészítés következtében álltak elő. A felszín alatti vízmintákban mért „oldott” TPH koncentrációk valójában mikroemulziós formában, vagy a mintába kerülő finomszemű üledékhez kötve találhatóak, amelyeket az extrahálás során az extrahálószer felold, majd az extraktum gázkromatográfiás mérése során a detektor (tömegspektrométer) detektál. Lényegében a felszín alatti vízből történő kigőzölgés azonos a földtani közegből történő kigőzölgéssel, ezt külön számítani nem szükséges. A felszín alatti víz oldott fázisú TPH szennyezettsége kockázati szempontból nem tényező, a nem oldott fázisú szennyezettséget a földtani közeghez köthető kockázati számítás tartalmazza.
+
+PAH komponensek esetében a felszín alatti víz esetében is a teljes PAH koncentrációt naftalinként vesszük figyelembe, mivel a naftalin a PAH komponensek 80%-át képviseli, és egyben a legillékonyabb. Ez az megközelítés biztosítja a számítás konzervatívitását.
+
+A mérési adatok alapján a mélygarázs területén vinil-klorid kimutatási határ alatti koncentrációban volt mérhető. Az oldott fázisú szennyezettség horizontális koncentráció-eloszlási mintázata alapján az LNAPL szennyezettséggel érintett területen a tetraklór-etén természetes biodegradációja szekvenciális reduktív dehalogenizációval folyik. Ennek egyik végterméke a vinil-klorid, amely ki nem volt mérhető, de a bizonyított bomlási folyamatok miatt jelen kell legyen átmenetileg mindenképpen. Az adatok alapján azonban ezen a területen a bomlási folyamat teljes mértékben végigmegy, nincs olyan állapot, amikor a vinil-klorid tartósan jelen van a felszín alatti közegben. Mérési adatok hiányában a számításokban nem lehet figyelembe venni, ezért az elvégzett kockázati számítások ebből a szempontból alulbecsülnék a tényleges kockázatot. Ennek elkerülése érdekében fokozott konzervatív megközelítést alkalmazunk az expozíciós paraméterek meghatározásakor.
+
+Felszín alatti vízből történő kigőzölgés estében is a mélygarázs területére eső maximális koncentrációk a meghatározók, az alábbi táblázat szerint:
+
+10.2.4.1.2. szövegközti táblázat. A kárhelyen az egyes szennyező komponensek tekintetében, a felszín alatti vízben észlelt legmagasabb koncentrációk
+
+|  Komponens | Mért maximális koncentráció (µg/dm³)  |
+| --- | --- |
+|  Benzol | 95,9  |
+|  Toluol | 71  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+204/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Komponens | Mért maximális koncentráció (µg/dm³)  |
+| --- | --- |
+|  Etil-benzol | 76  |
+|  Xilolok | 335  |
+|  Összes egyéb alkil-benzol | 745  |
+|  Naftalin* | 810  |
+|  Tetraklór-etén | 5 000  |
+|  Triklór-etén | 30  |
+|  Cisz 1,2-diklór-etén | 100  |
+
+* A laboratóriumi mérési jegyzőkönyvben közölt „>600 µg/dm³” naftalin értéket 1,35-szörös szorzóval vettük figyelembe
+
+### 10.2.4.2. 88323 HRSZ-EN KÍVÜLI TERÜLETEK
+
+A 88322/2 hrsz ingatlan (Labsystem Kft.) esetében a kitettséget mind a földtani közeg, mind a felszín alatti víz DNAPL szennyezettsége okozza. A szennyezettség összetételében a tetraklór-etén a domináns. A Labsystem Kft. épülete mellet létesült CLRT-GKM-01 furat eredményei alapján a földtani közegből származó szennyezettséget a 6 méteres minta 1760 mg/kg-os tetraklór-etén eredményével, az oldott fázisú szennyezettséget 10 000 µg/dm³ tetraklór-etén koncentrációval vesszük figyelembe.
+
+A Szövőgyár u-i óvoda (88334 hrsz) esetében megállapítható, hogy az óvoda ingatlanának délnyugati részén a felszín alatti vízre a kiegészítő tényfeltárási időszakban 2 000 µg/dm³ tetraklór-etén koncentráció interpolálható, ez érinti az óvoda fő épületének területét. A beltéri belégzésesé expozíciók esetében az épületet érintő maximális koncentráció a meghatároz, ezért ezt vesszük figyelembe.
+
+Az oldott fázisú csóva néhány pontján mindkét zónában jelentős a bontott komponensek részaránya. A CLRT-F226, CLRT-A226 esetében 24% primer komponens mellett 2,5% TCE, 73% DCE és 5% VC (76% bontott komponens) észlelhető. A CLRT-F226, CLRT-A226 környezetében összefüggően több ponton (például CLRT-F14, CLRT-F111, CLRT-F112, CLRT-F114, CLRT-A121) is észlelhetők a bontott komponensek jelentősebb koncentrációban, de a primer/összes arány a csóvaterületen jellemzően meghaladja a 90%-ot. A bontott komponensek jelentős részarányú koncentrációival érintett területen a meghatározó expozíció (lakossági beltéri belégzés) nem azonosítható, ezért az alvízi irányban elhelyezkedő lakóövezet esetében a csóvatengelyben 10 300 µg/dm³ (forrásterületi oldal) és 3 960 µg/dm³ (csóvafronti oldal) mérhető teraklór-etén koncentráció határozza meg a kockázatokat. Az érintett területen nem zárható ki a forrásterületi oldal koncentrációjával azonos szintű szennyezettség, ezért a lakossági expozíció esetében 10 000 µg/dm³ tetraklór-etén koncentrációval számolunk. A bontott komponensek kockázatának figyelembevételét külön fejezet tartalmazza.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+205/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 10.2.5. EXPOZÍCIÓS SZCENÁRIÓK SZÁMÍTÁSA
+
+Ahol az expozíciós szcenárió jellege folytán a felszín alatti víz szerepet játszik annak kialakulásban, az expozíciós szcenárióhoz alapértelmezésben a 2025. IV. negyedévben, a kiegészítő lehatároló furatok esetében 2026. I. negyedévben vételezett felszín alatti vízmintákban észlelt koncentrációk kerültek figyelembe vételre a becslési kalkulációban. Ahol ettől eltérő számítás is készült, ott ezt a szövegrész külön jelzi.
+
+A kockázati számítások a szennyezettséggel érintett ingatlanok esetében mindig az adott ingatlanra jellemző expozíció (lakossági, ipari, stb.) és jellemző szennyezettség (komponenskör és koncentráció) együttes figyelembevételével készültek. Ennek alapján külön vizsgálja a számítás az alábbi eseteket:
+
+- 88323 hrsz. (egykori Szövőgyár ingatlanok egyik darabja), társasház építési tervvel,
+- 88322/2 hrsz., Labsystem Kft. iroda és raktárbázis,
+- 88334 hrsz., Közintézmény (Szövő Ovi),
+- Rákospalota kertváros ingatlanok (lakóövezet).
+
+## 10.2.6. A 88323 HRSZ-ON TERVEZETT INGATLANFEJLESZTÉS ESETE
+
+A fejlesztési területet érintő szennyezettség esetében megállapítható, hogy a szennyező anyagok meghatározó része illékony (VOC) vagy részben illékony (SVOC) anyag. A fő expozíciós szcenárió a földtani közegből és a felszín alatti vízből kigőzölgő, és a telítetlen zónán át a tervezett épületekbe (szuterénbe, mélygarázsba) bejutó, és a zárt térben felhalmozódó (vapor intrusion) illékony komponensek lakossági jellegű kitettsége.
+
+Az elvégzett kockázati számításnál abból indultunk ki, hogy az ingatlanfejlesztés a tervek szerint megvalósul, mélygarázs épül a tervezett alaprajz szerint, és nem történik előtte műszaki beavatkozás, amely az ingatlanon lévő szennyezettségi szintet csökkentené, továbbá az épület megvalósulása miatt erre az építkezést követően nem is tud sor kerülni, tehát a szennyezettség hosszú távon jelen lesz az ingatlan területén az épületek alatt.
+
+Az elvégzett számítás során a telítetlen zónát homoknak vettük, a TPH esetében a szénatomszám eloszlást a tényleges vizsgálati eredményeknek megfelelően az alábbi táblázat szerint vettük figyelembe:
+
+|  C_{10}-C_{12} | C_{12}-C_{16} | C_{16}-C_{35}  |
+| --- | --- | --- |
+|  11,9% | 31,7% | 56,3%  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+206/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Az összes PAH-ot naftalinként vettük figyelembe, mivel egyrészt ez a meghatározó komponens, másrészt a legillékonyabb. Az elkészített számítás konzervatívítása ezen meghatározások alapján is erősítésre került.
+
+### 10.2.6.1. LNAPL KIGŐZÖLGÉS FÖLDTANI KÖZEGBŐL
+
+A földtani közegből történő kigőzölgés paramétereinek megadásakor azt vettük figyelembe, hogy az adatok alapján legalább az egyik LNAPL szennyezőforrás a mélygarázs területére esik. Ebből következően a szennyezőforrás(ok) térségében magas szennyezettség vélelmezhető már az épület mélygarázsának alapsíkjában is, noha a szennyezettség lényegi része annál mélyebben helyezkedik el. A telítetlen zóna anyaga a fúrásszelvények alapján alapvetően homok, amelyet kisebb agyagos lencsék tagolnak. Az épület alapja 0,3 m vasbeton lemez, az érintett alapterület 50 x 17 m, a mélygarázs belmagassága 2,5 m. Minden más szükséges paraméter a számítás során alkalmazott Risc5 szoftver által felkínált alapértelmezett paraméter.
+
+A telítetlen zóna szennyezett földtani közegének azt a 20 x 16 méteres alapterületű részét vettük a számításkor figyelembe, amely a mélygarázs területére esik. A szennyezett zóna vastagságát a TPH szennyezettségi adatok alapján 4 méterben határoztuk meg.
+
+A számítás kiindulási koncentrációi a márt maximális koncentrációk voltak az alábbi táblázat szerint, tekintettel arra, hogy az LNAPL szennyezettség oldalirányú elvégződése mind a földtani közegben, mind a felszín alatti vízben gyorsan bekövetkezik, így a szennyezettség területén a maximális koncentrációk a jellemzőek és meghatározóak, továbbá ez a számítás konzervatívítását is biztosítja.
+
+Az elvégzett számítás alapján a földtani közegből eredő kigőzölgés eredményeképpen a tervezett épület belterében (a mélygarázsban) az alábbi kockázatok várhatók:
+
+10.2.6.1.1. szövegközti táblázat. Földtani közegből LNAPL szennyezőanyag kigőzölgés kockázata, 88323 hrsz., leendő funkció
+
+|  Komponens | Felnőtt lakos | Gyermek lakos | Felnőtt lakos | Gyermek lakos  |
+| --- | --- | --- | --- | --- |
+|   |  Kockázati hányados |   | Daganatkockázat  |   |
+|  benzol | 1,7E+00 | 1,9E+00 | 4,6E-05 | 3,9E-05  |
+|  etil-benzol | 1,4E-01 | 1,5E-01 | 4,4E-05 | 3,3E-05  |
+|  naftalin | 2,6E+00 | 2,8E+00 | 3,4E-05 | 2,4E-05  |
+|  toluol | 1,6E-02 | 1,8E-02 | ND | ND  |
+|  TPH C10-12 | 9,5E-02 | 1,0E-01 | ND | ND  |
+|  TPH C12-16 | 8,9E-03 | 9,5E-03 | ND | ND  |
+|  TPH C16-35 | ND | ND | ND | ND  |
+|  összes egyéb alkil benzol | 3,4E+00 | 3,7E+00 | ND | ND  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+207/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  xilolok | 4,1E+00 | 4,4E+00 | ND | ND  |
+| --- | --- | --- | --- | --- |
+|  Összesen | 1,2E+01 | 1,3E+01 | 1,2E-04 | 3,9E-05  |
+|  Elfogadható kockázati szint | 1,0E+00 | 1,0E+00 | 1,0E-05 | 1,0E-05  |
+|  Elfogadható kockázati szintet meghaladó kockázat | van | van | van | van  |
+
+### 10.2.6.2. KIGŐZÖLGÉS FELSZÍN ALATTI VÍZBŐL
+
+A felszín alatti vízből történő kigőzölgés esetéhez az épület beltéri alapsíkját a felszín alatti víztől 3 méteres távolságban vettük fel, a telítetlen zóna és a kapilláris zóna anyagát homokként vettük figyelembe. Az épület és a hatásviselők (felnőtt és gyermek lakos) paraméterei a földtani közeghez köthető expozícióval azonosak.
+
+A számítás alapján a felszín alatti vízből származó kigőzölgés beltéri belégzéses expozíciója az alábbi kockázatokat eredményezte:
+
+10.2.6.2.1. szövegközti táblázat. Felszín alatti vízből szennyezőanyag (LNAPL + DNAPL) kigőzölgés kockázata, leendő funkció
+
+|  Komponens | Kockázati hányados |   | Daganatkockázat  |   |
+| --- | --- | --- | --- | --- |
+|   |  Felnőtt lakos | Gyermek lakos | Felnőtt lakos | Gyermek lakos  |
+|  Benzol | 1,4E-02 | 1,5E-02 | 4,1E-07 | 2,9E-07  |
+|  cisz 1,2 diklór-etén | ND | ND | ND | ND  |
+|  Etil-benzol | 3,9E-04 | 4,2E-04 | 1,3E-07 | 8,9E-08  |
+|  Naftalin | 6,7E-02 | 7,2E-02 | 8,8E-07 | 6,3E-07  |
+|  Tetraklór-etén | 2,1E-01 | 2,3E-01 | 4,4E-05 | 3,1E-05  |
+|  Toluol | 7,1E-05 | 7,6E-05 | ND | ND  |
+|  Összes egyéb alkil benzol | 3,9E-02 | 4,1E-02 | ND | ND  |
+|  Triklór-etén | ND | ND | 5,4E-08 | 3,9E-08  |
+|  Xilolok | 1,3E-02 | 1,4E-02 | ND | ND  |
+|  Összesen | 3,4E-01 | 3,7E-01 | 4,5E-05 | 3,2E-05  |
+|  Elfogadható kockázati szint | 1,0E+00 | 1,0E+00 | 1,0E-05 | 1,0E-05  |
+|  Elfogadható kockázati szintet meghaladó kockázat | nincs | nincs | van | van  |
+
+### 10.2.7. A 88322/2 HRSZ (LABSYSTEM KFT.) ESETE
+
+#### 10.2.7.1. DNAPL KIGŐZÖLGÉS FÖLDTANI KÖZEGBŐL
+
+A területet érintő szennyezettség esetében megállapítható, hogy a szennyező anyagok mindegyike illékony (VOC) anyag. A fő expozíciós szcenárió a földtani közegből és a felszín alatti vízből kigőzölgő, és a telítetlen zónán át a tervezett épületekbe (szuterénbe, földszinti épületrészekbe) bejutó, és a zárt térben felhalmozódó (vapor intrusion) illékony komponensek ipari (szolgáltató irodai) jellegű kitettsége.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+208/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A földtani közegből történő kigőzölgés paramétereinek megadásakor azt vettük figyelembe, hogy az adatok alapján a DNAPL szennyezőforrás egy része a Labsystem Kft. új raktár és irodaépületének területére esik.
+
+A raktárépület 30 x 15 m alapterületű, 5 méteres belmagasságú, az alaplemez vastagsága 0,3 m, a telítetlen zóna homok, a szennyezett térrész vastagsága 9 m.
+
+A földtani közegből történő kigőzölgés a számítások szerint a raktárépület belterében 1,6 mg/m³ tetraklór-etén koncentrációt eredményez⁴³.
+
+### 10.2.7.2. DNAPL KIGŐZÖLGÉS FELSZÍN ALATTI VÍZBŐL
+
+A raktárépület területén a földtani közeg szennyezettségét meghalad horizontális kiterjedésben a felszín alatti víz szennyezettsége is jelentős. A felszín alatti vízből további szennyezőanyag bejutás várható a raktárépület belsejébe. Ezt az expozíciót a raktárépület paramétereivel, az alaplemez alatt 6 méteres mélységben elhelyezkedő telített zónával, és a földtani közeg kigőzölgés számításánál figyelembe vett telítetlen zóna paraméterekkel (homok) számítottuk. A számítás eredményeképpen a raktárépület belterébe a felszín alatti vízből további 0,077 mg/m³ tetraklór-etén bejutása várható.
+
+A felszín alatti víz tetraklór-etén szennyezettsége érinti a LabSystem Kft. irodaépületét is az adatok alapján a jellemző koncentráció 2500 µg/dm³. Az épületnek van szuterén szintje is, azaz az alaplemez felszín alatti víztől való távolsága kisebb. A szuterén helyiségekre van osztva a közepes méretű helyiségre elvégzett számításban a helyiséget 5 x 5 m alapterülettel és 2,5 m belmagassággal vettük figyelembe. A régi irodaépület esetében 0,2 méteres alaplemez vastagsággal számoltunk.
+
+Az elvégzett számítás alapján a felszín alatti vízből eredő kigőzölgés eredményeképpen a Labsystem Kft. épületének szuterénjének 5 x 5 méteres helyiségében 0,056 mg/m³ tetraklór-etén koncentráció várható.
+
+### 10.2.7.3. 88322/2 HRSZ IPARI TERÜLETHASZNÁLAT BELTÉRI BELÉGZÉS KOCKÁZATA
+
+A raktárépületben várható 1,677 mg/m³-es beltéri tetraklór-etén levegőkoncentrációhoz ipari kitettség esetén átlagos receptorokra vonatkozó alapértelmezett paraméterek figyelembevétele mellett az alábbi kockázat tartozik.
+
+⁴³ Abban az esetben, ha az épület zárt légtere 1 napig nyugalomban marad, a szellőztetés és a mozgás megszűnik a területén.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+209/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**10.2.7.3.1. szövegközti táblázat.** Földtani közegből és felszín alatti vízből DNAPL szennyezőanyag kigőzölgés kockázata, ipari funkció
+
+|  Komponens | Daganat kockázat | Kockázati hányados  |
+| --- | --- | --- |
+|  Tetraklór-etén | 6,8E-04 | 7,1E-01  |
+|  Elfogadható kockázat | 1,0E-05 | 1,0E+00  |
+|  Elfogadható kockázati szintet meghaladó kockázat | van | nincs  |
+
+A 88322/2 hrsz esetében a számított kockázat daganatkockázat esetében 68 szorosan meghaladja az elfogadhatónak tekintett szintet, a kockázati hányados tekintetében emberi egészségkockázat nem állapítható meg. A kockázatot a 88322/2 hrsz ingatlan esetében a földtani közeg szennyezettsége határozza meg.
+
+**10.2.7.3.1. 88322/2 HRSZ IRODA ÉS RAKTÁRÉPÜLETEK LÉGTÉRSZENNYEZETTSÉGÉNEK VIZSGÁLATA**
+
+A Labsystem Kft. által tulajdonolt és használt, az egykori Budapesti Finomkötöttárugyár 2.B. jelű irodaépülete az új tulajdonos igényei szerint modernizálva lett, teljes körűen felújításra került, abban az irodai munkavégzés feltételei teljességgel adottak. A társaság által 2024-ben épített új raktárépület, mely szintén tartalmaz irodát, modern XXI. századi létesítmény. Az épületek ugyanakkor a DNAPL gócterület környezetében helyezkednek el, és így ennek hatása a területükön is érvényesül. A raktárépület egészen közel helyezkedik el a gócterülethez, közepesen magas tetraklór-etén szennyezettség a gócterület Ny-i irányú nyúlványában, az épület K-i oldalfalánál létesített furatban is kimutatható volt. Az előző pontban meghatározottak szerinti magas potenciális kockázatok erre vezethetők vissza, így összességében indokolt volt az irodaépület és a raktárépület esetében beltéri légszennyezettség mérése, valamint az ott dolgozók tényleges expozíciós terhelésének vizsgálata kifejezetten a tetraklór-etén szennyezőkomponens esetében.
+
+A szennyezettség jellegénél fogva kétféle mérési feladat elvégzését tűztük ki:
+
+- az épületekben szokványos munkavégzési körülmények között dolgozó munkavállalók expozíciós terhelésének felmérése,
+- az épületekben nyugalmi körülmények között, szellőztetés és egyéb légmozgások kizárása mellett 24 óra alatt keletkező tetraklór-etén légtér koncentráció mértékének vizsgálata.
+
+A várakozások szerint az első felmérés a normál napi működésnek megfelelő, az irodákban és raktárhelyiségekben történő rendszeres mozgás, ki-be közlekedés, valamint az ott folyamatosan működő szellőztetés folytán alacsony terhelést, míg a második mérés, amennyiben az épület alatt valóban nagyobb mennyiségű tetraklór-etén van jelen, akár jelentős koncentrációkat is mutathat.
+
+Az elvégzett vizsgálatok eredményeit a **10. és 11. melléklet** mutatja be.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+210/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A vizsgálatok eredményeképpen megállapítható, hogy a munkavállalókat érő expozíciós terhelés normál munkakörülmények között jelentéktelen a foglalkozás-egészségügyi határértékhez viszonyítottan, így a jogszabályokban előírtaknak megfelelően létesített és üzemeltetett irodában és raktárban a munkavégzés kockázatot nem jelent.
+
+Ugyanakkor az is megállapítást nyert, hogy a raktárépületnek az egész területén, a gócterülethez eső térségében pedig különösen magas légtér-szennyezettségi szint alakul ki már egyetlen nap alatt is, ha nincs megfelelő szellőztetés, légmozgás / légcsere. Az irodaépületben is számolni kell ezzel a hatással, de itt a keletkező szennyezőanyag koncentráció a légtérben lényegesen alacsonyabb, mint a raktárépületben.
+
+Az alábbi ábrán együtt ábrázoltuk a földtani közeg 1 méteres mélységben észlelt szennyezettségi adatait a raktár légtérben mérhető értékekkel.
+
+10.2.7.3.1.1. szövegközti ábra. A Labsystem Kft. raktárépületének környezetében 1 méteres mélységben észlelt földtani közeg összes VOCI szennyezettség (pirossal) és a légtérben mért vezérszennyező (PCE) koncentrációja (kékkel). A pirossal jelzett számok: mg/kg, a kékkel jelzett számok µg/m³ mértékegységben lettek megadva.
+
+![img-6.jpeg](img-6.jpeg)
+
+Az épületben mért értékek és az épület alatt interpolált szennyezettségi koncentrációk között láthatóan korreláció mutatkozik.
+
+Minél sekélyebb mélységben észleljük a szennyezettséget, annál könnyebben éri el a belőle kipárolgó frakció a felszínt és így a raktár légterét. Ezért az 1 méteres mélységben észlelt szennyezettség iránymutató a légtérben mérhető koncentrációk szempontjából. A 2 és 3 méteres
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+211/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+mélységben a szennyezettség lényegesen csekélyebb, mint az 1 méteres mélységben észlelt, annak hatása kevésbé érvényesül. Ezt követő mélységekben már intenzíven megjelenik a szennyezettség, legmagasabb koncentrációval a kapilláris zóna feletti (6 mfa szint), még egészen alacsony felszín alatti víz szaturációval jellemezhető környezetben (vö.: 10.2.7.3.1.2. szövegközti ábra). Itt az 1 méteres mélységben mért értéknek 17-szerese a mért koncentráció, amelynek a felszínre gyakorolt hatása összemérhető a fenti szennyezettség hatásával.
+
+10.2.7.3.1.2. szövegközti ábra. A Labsystem Kft. raktárépületének környezetében 6 méteres mélységben észlelt földtani közeg összes VOCI szennyezettség (pirossal) és a légtérben mért vezérszennyező (PCE) koncentrációja (kékkel). A pirossal jelzett számok: mg/kg, a kékkel jelzett számok µg/m³ mértékegységben lettek megadva.
+
+![img-7.jpeg](img-7.jpeg)
+
+A 4-es mérési ponton mért magas (5 591 µg/m³) értékhez hozzájárul, hogy a magas értéket mutató pont egy kis belmagasságú irodában helyezkedik el, ahol a raktár többi részét elfoglaló nagy belmagasságú csarnokhoz képest intenzívebb a dúsulás. A magas érték arra is utal, hogy a raktárépület alatt a kis helység irányában további szennyezettség lehet jelen. Ezt a kármentesítés során figyelembe szükséges venni.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+212/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 10.2.8. KÖZINTÉZMÉNY, 88334 HRSZ (SZÖVŐ OVI ÓVODA) ESETE
+
+A területet érintő szennyezettség esetében megállapítható, hogy a szennyező anyagok mindegyike illékony (VOC) anyag. A fő expozíciós szcenárió a földtani közegből és a felszín alatti vízből kigőzölgő, és a telítetlen zónán át a tervezett épületekbe (földszinti épületrészekbe) bejutó, és a zárt térben felhalmozódó (vapor intrusion) illékony komponensek intézményi (közintézményi, óvoda) jellegű kitettsége.
+
+Az óvoda főépületének (Szövőgyár utcai front) területére a 2025. IV. negyedévben gyűjtött adatok alapján interpolált 2 000 µg/dm³-es oldott tetraklór-etén koncentrációból a beltérben 0,033 mg/m³-es tetraklór-etén koncentráció számítható⁴⁴. Az ehhez tartozó kockázatokokat az alábbi receptor paraméterek mellett számítottuk ki:
+
+10.2.8.4.1. szövegközti táblázat. Receptor paraméterek, Szövő Ovi (közintézmény) esetén
+
+|  Paraméter | mérték egység | Óvodai nevelő | Gyermek  |
+| --- | --- | --- | --- |
+|  Testtömeg | kg | 71,8 | 25  |
+|  Daganatkockázati időtartam | év | 70 | 70  |
+|  Kitettség időtartama | év | 4,2 | 3  |
+|  Kitettség gyakorisága | esemény/év | 250 | 180  |
+|  Beltéri tartózkodás | óra/nap | 8 | 6  |
+|  Beltéri belégzési ütem | m3/óra | 0,625 | 0,625  |
+
+A megadott paraméterekkel a kockázatok az alábbiak szerint alakultak:
+
+10.2.8.4.2. szövegközti táblázat. Felszín alatti vízből DNAPL szennyezőanyag kigőzölgés kockázata, intézmény (óvoda) funkció
+
+|  Komponens | Kockázati hányados |   | Daganat kockázat  |   |
+| --- | --- | --- | --- | --- |
+|   |  Óvodai nevelő | Gyermek | Óvodai nevelő | Gyermek  |
+|  Összesített kockázat (2025. IV. – 2026. I. negyedévi szennyezettségi állapot) | 2,7E-02 | 1,5E-02 | 2,6E-06 | 1,0E-06  |
+|  Összesített kockázat (2024. IV. negyedévi szennyezettségi állapot) | 6,75E-02 | 3,75E-02 | 6,5E-06 | 2,5E-06  |
+|  Elfogadható kockázat **Elfogadható kockázati szintet meghaladó kockázat** | 1,0E-00 nincs | 1,0E-00 nincs | 1,0E-05 nincs | 1,0E-05 nincs  |
+
+A közintézmény területén (Szövőgyár utcai óvoda) a számított kockázatok a jelenlegi állapotban nem haladják meg az elviselhetőnek tekintett mértéket.
+
+⁴⁴ A 2024. IV. negyedévi adatokon alapuló, 2025. márciusában készített kockázatelemzés során az interpoláció 5 000 µg/dm³-es oldott tetraklór-etén koncentrációt mutatott az óvoda területének D-i végében, az épület főbejárata térségében, és ennek megfelelően a légtérben számított koncentráció 0,072 mg/m³ volt, amit az akkori légtérmérés be is igazolt.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+213/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Fontos kihangsúlyozni, hogy az óvoda területén észlelhető felszín alatti víz tetraklór-etén szennyezettség mértéke – tekintve, hogy a gócterülethez közel eső térségről van szó – időben erősen változik. Így például a 2024 év IV. negyedévében mért szennyezettségi szint a jelenlegi szintnek több, mint kétszerese volt. A felszín alatt zajló dinamikus folyamatok miatt a szennyezettség alakulásának tényleges mértéke teljességgel nem határozható meg előzetesen, az emiatt a furatokban észlelhető szennyezettségi szintek ingadozása akár egy nagyságrendet is meghaladhat. A 2024 I. negyedévben észlelt szennyezettségi szint volt a vizsgálatok megkezdése óta az észlelt legmagasabb. Az ehhez a szinthez kiszámított kockázati értékeket is bemutattuk a 10.2.7.4.2. szövegközti táblázatban. Láthatóan még ekkor sem haladta meg a kockázat az elfogadható szintet, de erősen megközelítette.
+
+Ezen adatokat összegezve megállapítható, hogy előfordulhat a jövőben a jelenleginél, vagy akár a 2024. IV. negyedévinél is lényegesen magasabb szennyezettségi szint az óvoda területén, amelynek se a bekövetkeztét, se a fennmaradási időhosszát előre megjósolni nem lehet. Emiatt történt elővigyázatosságból az óvoda átmeneti bezárása. Az időközben nyert szennyezettségi állapotok idősorát áttekintve megállapítható, hogy az óvoda levegőminőségének szigorú felügyelete mellett annak ismételt használatbavétele lehetséges. A veszélyhelyzet és a levegőminőség kontroll szükségességének befejeződése a kármentesítés DNAPL jellegű szennyezőforrás megszüntetését megvalósító szakaszának lezárulta után, a felszín alatti vízben oldott szennyezőanyag koncentrációjának jelentős mértékű és tartós, végleges lecsökkenését követően lesz majd megállapítható.
+
+### 10.2.9. LAKÓÖVEZET (RÁKOSPALOTAI KERTVÁROS) ESETE
+
+A területet érintő szennyezettség esetében megállapítható, hogy a szennyező anyagok mindegyike illékony (VOC) anyag. A fő expozíciós szcenárió a felszín alatti vízből kigőzölgő, és a telítetlen zónán át a lakóépületekbe (földszinti, vagy szuterénnel / pincével rendelkező épületrészekbe) bejutó, és a zárt térben felhalmozódó (vapor intrusion) illékony komponensek lakossági (kertvárosi övezet) jellegű kitettsége.
+
+A 88323 és 88322/2 hrsz-ok (az egykori szövőgyár) területéről kiinduló és a lakóövezeti területek alatt hosszan elnyúló oldott fázisú csóvához tartozó kockázat számítása esetén a kockázatot a szuterénnel ellátott régi építésű építmények esete határozza meg. A figyelembe vett 10 000 µg/dm³-es oldott tetraklór-etén koncentrációból a lakóövezetben a csóvatengelyben elhelyezkedő ingatlanok esetén 0,32 mg/m³-es beltéri tetraklór-etén koncentráció számítható. Az ehhez tartozó kockázatok számításakor a telítetlen zónát homokként, az épületeket a Risc5 alapértelmezett paramétereivel vettük figyelembe, lakossági felnőtt és gyermek receptorok
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+214/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+esetében a jellemző kitettségre vonatkozó alapértelmezett paraméterek alapján. Az eredményeket az alábbi táblázat foglalja össze:
+
+**10.2.9.1. szövegközti táblázat.** Felszín alatti vízből DNAPL szennyezőanyag kigőzölgés kockázata, lakossági (kertvárosi övezet) funkció
+
+|  Komponens | Kockázati hányados |   | Daganat kockázat  |   |
+| --- | --- | --- | --- | --- |
+|   |  Felnőtt lakos | Gyermek lakos | Felnőtt lakos | Gyermek lakos  |
+|  Összesített kockázat | **8,6E-01** | **9,2E-01** | **1,8E-04** | **1,3E-04**  |
+|  Elfogadható kockázat | 1,0E-00 | 1,0E-00 | 1,0E-05 | 1,0E-05  |
+|  Elfogadható kockázati szintet meghaladó kockázat | nincs | nincs | van | van  |
+
+A lakóövezetben, a csóvatengely környezetében az aktuális szennyezettségi viszonyok esetén a daganatkockázat 18 szorosan haladja meg az elviselhetőnek tekintett mértéket.
+
+## 10.2.10. DNAPL SZENNYEZETTSÉG BOMLÁSTERMÉKEI
+
+Tekintettel arra, hogy az aktuális szennyezettségi szint az oldott fázisú DNAPL csóva területén az elfogadottnál magasabb kockázattal jár együtt, szükség van a szennyezettség mértékének (az oldott koncentrációk) csökkentésére. Tekintettel a területhasználatra, valamint arra, hogy a szennyezettségben még jelenleg is (az érintett felszín alatti víz pozitív redox potenciálja miatt) a primer komponens a meghatározó összetevő, továbbá arra, hogy az oldott fázisú csóva egyes területein folt/pontszerűen észlelhető negatív redox potenciálú területeken a tetraklór-etén bomlástermékei jelentős koncentrációban mutathatók ki, a szennyezettség csökkentése in-situ módon, a redox potenciál lecsökkentésével lehetővé tett szennyezőanyag-lebomlással célszerű, hogy történjen.
+
+A tetraklór-etén bomlása során ugyanakkor az egyes lépésekben más szennyező anyagok (triklór-etén, diklór-etének és vinil-klorid) keletkezik, mielőtt a szennyezettség végeredményben teljes mértékben deklorinálódva eténné alakul. A 88323 hrsz ingatlanon az LNAPL szennyezettség területén nem mutatható ki a halogénezett alifás szénhidrogének jelenléte, ebből arra lehet következtetni, hogy a területen a teljes bomlási sor lejátszódik. A bomlás során keletkező bomlástermékekhez köthető kockázatok vizsgálata külön indokolt.
+
+A számítások alapja a várható koncentrációváltozások mintázata, melynek során folyamatosan csökkenő tetraklór-etén koncentrációk mellett a bomlástermékek ütemezetten növekvő, majd csökkenő koncentrációt kell együttesen figyelembe venni. A számítások a lakóövezeti esetre vonatkozó paraméterekkel azonos paraméterek mellett történtek, kizárólag a kockázatos komponensek változó koncentrációinak figyelembevételével, az alábbi táblázat és diagram szerint:
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+215/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**10.2.10.1. szövegközti táblázat.** A tetraklór-etén bomlási folyamata
+
+|  Hónapok | PCE | TCE | DCE | VC | VOCI  |
+| --- | --- | --- | --- | --- | --- |
+|   |  µg/dm³  |   |   |   |   |
+|  **0** | 10 000 | 0 | 0 | 0 | 10 000  |
+|  **3** | 9 500 | 396 | 0 | 0 | 9 896  |
+|  **9** | 8 000 | 1 188 | 292 | 0 | 9 481  |
+|  **15** | 5 000 | 2 377 | 877 | 188 | 8 442  |
+|  **21** | 2 500 | 1 981 | 2 046 | 377 | 6 903  |
+|  **27** | 1 000 | 792 | 1 461 | 1 130 | 4 383  |
+|  **33** | 555 | 396 | 584 | 1 111 | 2 642  |
+
+**10.2.10.1. szövegközti ábra.** A Tetraklór-etén bomlási folyamata során keletkező bomlástermékek volumenének időbeli alakulása
+
+![img-8.jpeg](img-8.jpeg)
+
+A táblázat és a diagram szerint a bontott komponensek közül az utolsó bomlástermék, a vinilklorid koncentrációja a 27. hónapot követően csökkenni kezd, azaz ezt követően a hozzá köthető kockázat is csökkenő lesz.
+
+A bontott komponensek által képviselt kockázatnövekményt esetében a kitettségi időt minden lépésben a beavatkozás előrehaladásnak várható időtartama alapján (6 hónapos lépések) a konzervativitás érdekében kétszeres hosszúságban, 1 évvel vettük figyelembe. Ezek alapján a PCE koncentrációcsökkenésének kockázatai és a bontott komponensek megjelenése által képviselt kockázatnövekmény, valamint a kumulatív kockázatok értékei az alábbi táblázatban láthatók:
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+216/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+10.2.10.2. szövegközti táblázat. A tetraklór-etén bomlása során érzékelhető kockázati szint időbeli alakulása
+
+|  Kockázat  |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+|  Hónapok | PCE | Bomlás termékek | Összesen | Elfogadható kockázat | Elfogadható kockázatot meghaladó kockázat  |
+|  3 | 5,60E-05 | 6,80E-08 | 5,61E-05 | 1,00E-05 | van  |
+|  9 | 4,70E-05 | 1,90E-07 | 4,72E-05 | 1,00E-05 | van  |
+|  15 | 3,00E-05 | 9,10E-07 | 3,09E-05 | 1,00E-05 | van  |
+|  21 | 1,50E-05 | 1,30E-06 | 1,63E-05 | 1,00E-05 | van  |
+|  27 | 5,90E-06 | 2,90E-06 | 8,80E-06 | 1,00E-05 | nincs  |
+|  33 | 3,30E-06 | 2,80E-06 | 6,10E-06 | 1,00E-05 | nincs  |
+
+A számítások alapján egy megfelelő hatékonyságú beavatkozás során kockázatnövekedés nem várható, a szennyezettség csökkenésével a kumulatív kockázat folyamatosan csökken, az elfogadható kockázati szintet kb. 25-30 hónap alatt éri el.
+
+Fontos megjegyezni, hogy ennek megfelelő folyamat lezajlása várható a Leánynevelő Intézet területén is, ahol szintén jelentős mértékű, a lakott épületek tekintetében szintén 10 000 µg/dm³-es oldott tetraklór-etén koncentrációval lehet számolni.
+
+### 10.2.11. A „D” KÁRMENTESÍTÉSI CÉLÁLLAPOT HATÁRÉRTÉK JAVASLATOK
+
+A kockázatok eltérő szintje, a kockázatot képviselő komponensek különbsége, illetve a kockázatos anyagok által érintett környezeti elemek esetében fennálló különbségek miatt az alábbi célértékeket kell teljesíteni a kockázatok elfogadható szintű csökkentésére.
+
+#### 10.2.11.1. LNAPL SZENNYEZETTSÉGET ALKOTÓ KOMPONENSEK
+
+Az LNAPL szennyezettséget alkotó komponensek esetében a földtani közeg vonatkozásában az alábbi célértékek teljesülése esetén az emberi egészségkockázat nem haladja meg az elviselhetőnek tekintett szintet:
+
+10.2.11.1. szövegközti táblázat. Földtani közeg, LNAPL szennyezőkomponensekre javasolt célértékek
+
+|  Komponens | „B” szennyezettségi határérték (mg/kg) | Mért maximális koncentráció (mg/kg) | Kockázati alapú célérték (mg/kg)  |
+| --- | --- | --- | --- |
+|  TPH | 100 | 192 000 | 6 400  |
+|  Benzol | 0,2 | 3,54 | 0,77  |
+|  Toluol | 0,5 | 8,8 | 8,8  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+217/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Komponens | „B” szennyezettségi határérték (mg/kg) | Mért maximális koncentráció (mg/kg) | Kockázati alapú célérték (mg/kg)  |
+| --- | --- | --- | --- |
+|  Etil-benzol | 0,5 | 25,2 | 5,7  |
+|  Xilolok | 0,5 | 118 | 29  |
+|  Összes egyéb alkil benzol | 0,5 | 582 | 170  |
+|  Összes PAH* | 1,0 | 1 137,65 | 330  |
+
+*naftalin alapján
+
+10.2.11.2. szövegközti táblázat. Felszín alatti víz, LNAPL szennyezőkomponensekre javasolt célértékek
+
+|  Komponens | „B” szennyezettségi határérték (µg/dm³) | Mért maximális koncentráció (µg/dm³) | Kockázati alapú célérték (µg/dm³)  |
+| --- | --- | --- | --- |
+|  TPH* | 100 | 135 000 | 3 500*  |
+|  Benzol | 1 | 95,9 | 95,9  |
+|  Toluol | 20 | 71 | 71  |
+|  Etil-benzol | 20 | 76 | 76  |
+|  Xilolok | 20 | 335 | 335  |
+|  Összes egyéb alkil benzol | 20 | 745 | 745  |
+|  Összes PAH, naftalinok nélkül | 2,0 | 499,7 | 499,7  |
+|  Naftalinok | 2,0 | 810 | 275  |
+|  Acenaftilén | 0,2 | 20,3 | 20,3  |
+|  Acenaftén | 0,05 | 35,0 | 35,0  |
+|  Fluorén | 0,05 | 153 | 153  |
+|  Fenantrén | 0,1 | 270 | 270  |
+|  Antracén | 0,05 | 24,7 | 24,7  |
+|  Fluorantén | 0,1 | 6,17 | 6,17  |
+|  Pirén | 0,1 | 18,4 | 18,4  |
+|  Benzo[a]antracén | 0,02 | 1,07 | 1,07  |
+|  Krizén | 0,02 | 4,04 | 4,04  |
+|  Benzo[b]fluorantén | 0,03 | 0,59 | 0,59  |
+|  Benzo[k]fluorantén | 0,03 | 0,23 | 0,23  |
+|  Benzo[e]pirén | 0,01 | 0,88 | 0,88  |
+|  Benzo[a]pirén | 0,01 | 0,27 | 0,27  |
+|  Indeno[1,2,3-cd]pirén | 0,01 | 0,15 | 0,15  |
+|  Dibenzo[a,h]antracén | 0,02 | 0,034 | 0,034  |
+|  Benzo[ghi]perilén | 0,02 | 0,18 | 0,18  |
+
+*Technikai célérték a földtani közegre vonatkozó célértékhez tartozó becsült látszólagos FAV koncentráció alapján
+
+A táblázat első adatsora az adott komponensből az eddigi mérések során mért legmagasabb értéket mutatja be (nem a legutóbbi mért érték), alatta pedig a javasolt „D” kármentesítési
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+218/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+célállapot határérték szerepel. Amelyik komponens esetén a határérték alapján beavatkozásra van szükség, a mért maximális értéket pirossal jelöltük meg.
+
+Fontos megjegyzés, hogy a hátrahagyott, már kockázatot nem képviselő LNAPL szennyezettség biztosítja azt, hogy az érintett területen a reduktív és ezzel a DNAPL bomlást elősegítő körülmények legalább addig bizonyosan fennállhassanak, amíg a DNAPL góc mentesítése meg nem történik. Ezt követően a természetes koncentrációcsökkenés a terület lassú, de folyamatos javulását eredményezik, megjegyezve, hogy itt a javulás már az elfogadhatósági szint alatti további javulást jelenti.
+
+### 10.2.11.2. DNAPL SZENNYEZETTSÉGET ALKOTÓ KOMPONENSEK
+
+A DNAPL szennyezettséget a tetraklór-etén komponens határozza meg. A szennyezettség forrásterületén fennálló expozícióhoz köthető emberi egészségkockázat meghatározó tényező a földtani közegben található tetraklór-etén szennyezettség. A szennyezettség mértéke olyan jelentős, hogy a környezetében a földtani közeg pórusaiban kialakuló gőztér-koncentráció eléri a telítési koncentrációt, amelyből a beltérbe jutó tetraklór-eténhez köthető kockázat ered. A kockázat mértéke ezért nem egyenes arányos a földtani közegben mérhető tetraklór-etén koncentrációkkal. Ebből következően a számított és az elfogadhatónak tekintett kockázat arányában történő koncentráció-csökkentés nem eredményezi a kockázat kellő mértékű csökkenését. A kockázati alapú célértékekre elvégzett külön számítás szerint a tetraklór-etén esetén az alábbi célállapot koncentráció javasolható:
+
+10.2.11.2.1. szövegközti táblázat. Földtani közeg, DNAPL szennyezőkomponensekre javasolt célértékek
+
+|  Komponens | „B” szennyezettségi határérték (mg/kg) | Mért maximális koncentráció (mg/kg) | Kockázati alapú célérték (mg/kg)  |
+| --- | --- | --- | --- |
+|  Halogénezett alifás szénhidrogén összesen | 0,1 | 32 500 | 13  |
+
+Felszín alatti víz esetében a forrásterületen a felszín alatti vízből történő kigőzölgés hozzájárulása a kockázathoz elhanyagolható. A forrásterületen kívül az oldott fázisú csóva területén a kockázati számítás alapján az alábbi célkoncentráció javasolható:
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+219/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+10.2.11.2.2. szövegközti táblázat. Felszín alatti víz, DNAPL szennyezőkomponensekre javasolt célértékek
+
+|  Komponens | „B” szennyezettségi határérték (µg/dm³) | Kockázati számításhoz figyelembe vett koncentráció (µg/dm³) | Kockázati alapú célérték (µg/dm³)  |
+| --- | --- | --- | --- |
+|  Tetraklór-etén (PCE) | 10 | 10 000 | 555  |
+
+Az előzőekben levezetettek alapján a tetraklór-etén bomlási sorában keletkező komponensek (triklór-etén, diklór-etének, vinil-klorid) esetében nem indokolt célérték meghatározása, továbbá a tetraklór-etén célkoncentrációra való lecsökkentése biztosítja az elfogadható kockázatú célállapot létrejöttét.
+
+### 10.3. KÖRNYEZETI KOCKÁZATOK ÉRTÉKELÉSE
+
+A környezeti kockázatok értékelését az 1. függelékben (szivárgáshidraulikai és transzportmodell) fejtettük ki. Az eredményeket összefoglalva a földtani közegben feltárt jelentős mértékű szennyeződés, kimagasló utánpótlódási lehetőséget biztosít az oldott komponensek további transzportjára vonatkozóan, melyből adódóan a PCE tekintetében jelentős további felszín alatti vízben oldott terjedés várható az összegzett degradációs mechanizmusok ellenére is, míg TPH komponensek tekintetében annak kenőolaj minősége miatt, a feltárt olajeredetű szennyezés helyben marad, számottevő terjedése nem várható.
+
+A PCE szennyezettség tekintetében tehát a környezeti kockázatok csökkentése érdekében is szükséges beavatkozási intézkedést végrehajtani.
+
+### 10.4. „D” FELETTI SZENNYEZETTSÉGGEL ÉRINTETT INGATLANOK AZONOSÍTÁSA
+
+#### 10.4.1. LNAPL ÉS DNAPL „D” FELETTI SZENNYEZETTSÉGEK ÖSSZESÍTETT MENNYISÉGEI
+
+A 8.3.3. fejezetben bemutatottakkal analóg módon meghatároztuk a „D” kármentesítési célállapot határérték felett szennyezett mennyiségeket a földtani közeg és a felszín alatti víz tekintetében, valamint az ilyen szennyezettséggel jellemezhető térrészben található szennyezőanyag mennyiségeket.
+
+A földtani közeg LNAPL típusú, „D” kármentesítési célállapot határérték feletti szennyezettség elterjedésének felszíni vetületét a 10.4.1.1. szövegközti ábra mutatja be, a határvonalat vastag pirossal jelölve, míg a DNAPL esetében a 10.4.1.2. szövegközti ábra, a határvonalat vastag kékkel jelölve.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+220/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+10.4.1.1. szövegközti ábra. A földtani közeg LNAPL, „D” kármentesítési célállapot határérték feletti szennyezettség maximális kiterjedés felszíni vetülete
+
+![img-9.jpeg](img-9.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+221/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+10.4.1.2. szövegközti ábra. A földtani közeg DNAPL, „D” kármentesítési célállapot határérték feletti szennyezettség maximális kiterjedés felszíni vetülete
+
+![img-10.jpeg](img-10.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+222/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Láthatóan a DNAPL „D” feletti szennyezettség elterjedése az eredmények alapján több darabra esik szét. A 14.K. épület melletti két önálló darab sekély (6,0-7,0 mfa között) mélységben jelentkezik, ami alapján feltételezhetően ezek a csatornahálózat gerincvezetékéből közvetlenül kijutott szennyezettségek. Emiatt ezeket a foltokat a központi góccal összekötöttük és feltételezzük, hogy a szennyezettség ezen térségben a csatorna vonala mentén mindenhol jelen van / lehet. Ezzel szemben a Leánynevelő Intézet telekhatára melletti két önálló darab nagyobb (kb. 10 mfa) mélységből származik. Áttekintve a szennyezettségi ábrákat, ezek feltehetőleg a telített zónában elsősorban vertikálisan, de kismértékben horizontálisan is mozgó szennyezőanyagok feldúsulásai a fekühöz közeli szintek környezetében. Ezeket ezért önálló területként jelöltük meg.
+
+**10.4.1.3. szövegközi ábra.** A földtani közeg LNAPL és DNAPL, „D” kármentesítési célállapot határérték feletti szennyezettség maximális kiterjedés felszíni vetülete együttesen
+
+![img-11.jpeg](img-11.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+223/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A két szennyezettség elterjedést összevetve (10.4.1.3. szövegközti ábra) megállapítható, hogy a két szennyeződés „D” kármentesítés célállapot határérték feletti része éppen nem fedi egymást át. Ebben szerepet játszik az, hogy a DNAPL szennyezettség az LNAPL szennyezettség környezetében gyorsan elbomlik és így a jelentős mértékű DNAPL szennyezettség elterjedése nem tudja átfedni a jelentős mértékű LNAPL szennyezettség elterjedését.
+
+10.4.1.4. szövegközti ábra. A felszín alatti víz „D” kármentesítési célállapot határérték feletti LNAPL szennyezettség elterjedése
+
+![img-12.jpeg](img-12.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+224/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A „D” kármentesítési célállapot határérték felett LNAPL szennyezőkkel szennyezett felszín alatti víz elterjedése azonosan megegyezik a TPH komponens elterjedésével, amelyet a 10.4.1.4. szövegközti ábra mutat be.
+
+10.4.1.5. szövegközti ábra. A felszín alatti víz „D” kármentesítési célállapot határérték feletti DNAPL szennyezettség elterjedése
+
+![img-13.jpeg](img-13.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+225/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A DNAPL komponensek esetén a „D” kármentesítési célállapot határérték feletti szennyezettség elterjedését a 10.4.1.5. szövegközti ábra mutatja be.
+
+Az ábrát áttekintve megállapítható, hogy a PCE „D” feletti szennyezettség elterjedése teljes egészében magába foglalja a többi szennyezőkomponens elterjedési területét. Az egyesített felszíni vetület 105 499 m², meghaladja a 10 ha kiterjedést.
+
+Az eredményeket összefoglalóan az alábbi táblázat mutatja be.
+
+10.4.1.1. szövegközti táblázat. Összesített „D” kármentesítési célállapot határérték felett szennyezettségre vonatkozó mennyiségi kimutatás
+
+|  Komponenscsoport | Földtani közeg  |   |   |   |
+| --- | --- | --- | --- | --- |
+|   |  „D” feletti szennyezettséggel érintett terület felszíni vetülete | „D” feletti szennyezettséggel érintett földtani közeg mennyisége |   | Jelenlévő szennyezőanyag mennyisége, „D” feletti szennyezettséggel jellemzett térrész  |
+|   |  m² | m³ | tonna | kg  |
+|  LNAPL (olajszármazék) szennyező komponensek együttesen | 1 690,1 | 3 111,6 | 5 443,3 | 91 672,6  |
+|  DNAPL (tetraklór-etén és bomlástermékei) szennyező komponensek együttesen | 1 043,2 | 3 773,8 | 6 604,1 | 2 444,8  |
+|  **Összesen, átfedéseket levonva** | **2 733,3** | **6 885,4** | **12 047,4** | **94 117,4**  |
+
+|  Komponenscsoport | Felszín alatti víz  |   |   |
+| --- | --- | --- | --- |
+|   |  „D” feletti szennyezettséggel érintett terület felszíni vetülete | „D” feletti szennyezettséggel érintett felszín alatti víz mennyisége | Jelenlévő szennyezőanyag mennyisége, „D” feletti szennyezettséggel jellemzett térrész  |
+|   |  m² | m³ ≅ tonna | kg  |
+|  LNAPL (olajszármazék) szennyező komponensek együttesen | 1 273,7 | 1 560,2 | 18,34  |
+|  DNAPL (tetraklór-etén és bomlástermékei) szennyező komponensek együttesen | 105 499 | 212 606 | 425,14  |
+|  **Összesen, átfedéseket levonva** | **106 388** | **213 694** | **443,48**  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+226/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Komponenscsoport | Földtani közeg és felszín alatti víz együttesen  |   |   |   |
+| --- | --- | --- | --- | --- |
+|   |  „D” feletti szennyezettséggel érintett terület felszíni vetülete | „D” feletti szennyezettséggel érintett közegek mennyisége |   | Jelenlévő szennyezőanyag mennyisége, „D” feletti szennyezettséggel jellemzett térrész  |
+|   |  m² | m³ | tonna | kg  |
+|  LNAPL (olajszármazék) szennyező komponensek együttesen | 1 823,7 | 3 275,2 | 5 606,9 | 91 690,9  |
+|  DNAPL (tetraklór-etén és bomlástermékei) szennyező komponensek együttesen | 105 499 | 212 606 | 218 049 | 2 869,9  |
+|  **Összesen, átfedéseket levonva** | **106 853** | **225 755** | **240 937** | **94 560,8**  |
+
+A DNAPL szennyezettség esetében elmondható, hogy a különösen nagykiterjedésű oldott fázisú csóva a teljes földtani közeg szennyezettséget magába foglalja, ezért a két szennyezettség egyesítése ugyanazokat az értékeket adja, mint az oldott fázis önmagában.
+
+Az LNAPL szennyezettség esetében a földtani közeg és a felszín alatti víz szennyezettsége kissé eltérő elterjedést mutat, amit az alábbi ábra szemléltet.
+
+**10.4.1.6. szövegközti ábra.** A földtani közeg és felszín alatti víz „D” kármentesítési célállapot határérték feletti LNAPL szennyezettség maximális kiterjedés felszíni vetületeinek viszonya
+
+![img-14.jpeg](img-14.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+227/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Az ábráról leolvasható, hogy a differencia minimális.
+
+A „D” kármentesítés célállapot határérték felett szennyezett földtani közeg, felszín alatti víz, LNAPL és DNAPL területek egyesített ábráját az alábbiakban mutatjuk be.
+
+**10.4.1.7. szövegközti ábra.** A földtani közeg és felszín alatti víz „D” kármentesítési célállapot határérték feletti LNAPL és DNAPL szennyezettség maximális kiterjedés felszíni vetületeinek viszonya
+
+![img-15.jpeg](img-15.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+228/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+![Logo of ADEPT ENVIRO KFT]()
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.  
+ Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713  
+ adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVÓGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Az ábrán pirossal jelezve a földtani közeg „D” kármentesítési célállapot határérték feletti szennyezettség elterjedése, kékkel a felszín alatti vízé. Az ábráról leolvasható, hogy a szennyezettség döntő hányadát a DNAPL FAV elterjedés adja, a többi szennyezettség hozzá képest alárendelt.
+
+A földtani közeg és felszín alatti víz szennyezettséggel érintett ingatlanok kimutatását az előzőekben bemutattuk. A „D” kármentesítési célállapot határérték felett szennyezett földtani közeg tekintetében 3 db-ot érint LNAPL, 66 db-ot DNAPL szennyezettség, az átfedéseket figyelembe véve ez összesen 66 db ingatlan. A felszín alatti víz tekintetében 3 db-ot érint LNAPL, 101 db-ot DNAPL szennyezettség, az átfedéseket figyelembe véve ez összesen 102 db ingatlan. Mindösszesen 102 db ingatlan.
+
+Az alábbi táblázatban összesítettük a különféle „D” feletti szennyezettségekkel érintett ingatlanokat. A hrsz.-ek mind Budapest XV. kerület közigazgatásához tartoznak.
+
+# **10.4.1.2. szövegközi táblázat. „D” kármentesítési célállapot határérték feletti szennyezettséggel érintett ingatlanok**
+
+|  Ssz. | Szennyezettséggel érintett ingatlan hrsz. | Azonosítás | „D” határérték feletti szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  1. | (88090) | Győztes utca, közterület | Nem | Nem | Igen | Igen  |
+|  2. | 88092 | Ferenczy Sándor utca 24. | Nem | Nem | Nem | Igen  |
+|  3. | 88093 | Ferenczy Sándor utca 22. | Nem | Nem | Nem | Igen  |
+|  4. | 88095 | Győztes utca 19. | Nem | Nem | Nem | Igen  |
+|  5. | 88096 | Platán utca 18., Győztes utca 17. | Nem | Nem | Igen | Igen  |
+|  6. | 88097 | Platán utca 20. | Nem | Nem | Igen | Igen  |
+|  7. | 88098 | Platán utca 22. | Nem | Nem | Igen | Igen  |
+|  8. | 88099 | Ferenczy Sándor utca 20. | Nem | Nem | Nem | Igen  |
+|  9. | 88100 | Platán utca 24. | Nem | Nem | Nem | Igen  |
+|  10. | (88101) | Ferenczy Sándor utca, közterület | Nem | Nem | Nem | Igen  |
+|  11. | 88102 | Ferenczy Sándor utca 23. | Nem | Nem | Nem | Igen  |
+|  12. | 88103 | Ferenczy Sándor utca 21. | Nem | Nem | Nem | Igen  |
+|  13. | 88104 | Ferenczy Sándor utca 19. | Nem | Nem | Nem | Igen  |
+|  14. | 88105 | Ferenczy Sándor utca 17. | Nem | Nem | Nem | Igen  |
+|  15. | 88106 | Platán utca 28. | Nem | Nem | Nem | Igen  |
+|  16. | 88107 | Platán utca 30. | Nem | Nem | Nem | Igen  |
+|  17. | 88108 | Győzelem utca 20. | Nem | Nem | Nem | Igen  |
+|  18. | 88109 | Platán utca 32. | Nem | Nem | Nem | Igen  |
+|  19. | (88110) | Platán utca, közterület | Nem | Nem | Nem | Igen  |
+|  20. | 88117 | Csákó utca 5. | Nem | Nem | Igen | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+229/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Ssz. | Szennyezett-séggel érintett ingatlan hrsz. | Azonosítás | „D” határérték feletti szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  21. | 88118 | Csákó utca 3. | Nem | Nem | Igen | Igen  |
+|  22. | 88119 | Csákó utca 1., Károlyi Sándor út 10. | Nem | Nem | Igen | Igen  |
+|  23. | 88120 | Károlyi Sándor út 12. | Nem | Nem | Igen | Igen  |
+|  24. | 88121 | Károlyi Sándor út 14. | Nem | Nem | Igen | Igen  |
+|  25. | 88122 | Károlyi Sándor út 16., Győztes utca 2. | Nem | Nem | Igen | Igen  |
+|  26. | 88123 | Győztes utca 4. | Nem | Nem | Igen | Igen  |
+|  27. | 88124 | Győztes utca 6. | Nem | Nem | Igen | Igen  |
+|  28. | 88125 | Győztes utca 8a-8. | Nem | Nem | Igen | Igen  |
+|  29. | 88126 | Győztes utca 10a-10. | Nem | Nem | Igen | Igen  |
+|  30. | 88127 | Győztes utca 12. | Nem | Nem | Igen | Igen  |
+|  31. | 88128 | Győztes utca 14. | Nem | Nem | Igen | Igen  |
+|  32. | 88129 | Platán utca 13. | Nem | Nem | Igen | Igen  |
+|  33. | 88130 | Platán utca 15., Győztes utca 16. | Nem | Nem | Igen | Igen  |
+|  34. | (88131) | Győztes utca, közterület | Nem | Nem | Igen | Igen  |
+|  35. | 88132 | Platán utca 17. | Nem | Nem | Igen | Igen  |
+|  36. | 88133 | Platán utca 19. | Nem | Nem | Igen | Igen  |
+|  37. | 88134 | Győztes utca 13. | Nem | Nem | Igen | Igen  |
+|  38. | 88135 | Győztes utca 11. | Nem | Nem | Igen | Igen  |
+|  39. | 88136 | Győztes utca 9. | Nem | Nem | Igen | Igen  |
+|  40. | 88137 | Győztes utca 7a-7. | Nem | Nem | Igen | Igen  |
+|  41. | 88138 | Győztes utca 5. | Nem | Nem | Igen | Igen  |
+|  42. | 88139 | Győztes utca 3. | Nem | Nem | Igen | Igen  |
+|  43. | 88140 | Győztes utca 1., Károlyi Sándor út 18. | Nem | Nem | Igen | Igen  |
+|  44. | 88141 | Károlyi Sándor út 20. | Nem | Nem | Igen | Igen  |
+|  45. | 88142 | Károlyi Sándor út 22. | Nem | Nem | Igen | Igen  |
+|  46. | 88143 | Károlyi Sándor út 24., Ferenczy Sándor utca 2. | Nem | Nem | Igen | Igen  |
+|  47. | 88144 | Ferenczy Sándor utca 4. | Nem | Nem | Igen | Igen  |
+|  48. | 88145 | Ferenczy Sándor utca 6. | Nem | Nem | Igen | Igen  |
+|  49. | 88146 | Ferenczy Sándor utca 8. | Nem | Nem | Igen | Igen  |
+|  50. | 88147 | Ferenczy Sándor utca 10. | Nem | Nem | Igen | Igen  |
+|  51. | 88148 | Ferenczy Sándor utca 12. | Nem | Nem | Igen | Igen  |
+|  52. | 88149 | Ferenczy Sándor utca 14. | Nem | Nem | Igen | Igen  |
+|  53. | 88150 | Platán utca 21. | Nem | Nem | Igen | Igen  |
+|  54. | 88151 | Platán utca 23. | Nem | Nem | Igen | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+230/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Ssz. | Szennyezett-séggel érintett ingatlan hrsz. | Azonosítás | „D” határérték feletti szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  55. | (88152) | Ferenczy Sándor utca, közterület | Nem | Nem | Igen | Igen  |
+|  56. | 88153 | Platán utca 25., Ferenczy Sándor utca 15. | Nem | Nem | Igen | Igen  |
+|  57 | 88154 | Platán utca 27. | Nem | Nem | Nem | Igen  |
+|  58. | 88155 | Ferenczy Sándor utca 13. | Nem | Nem | Igen | Igen  |
+|  59. | 88156 | Ferenczy Sándor utca 11. | Nem | Nem | Igen | Igen  |
+|  60. | 88157 | Ferenczy Sándor utca 9. | Nem | Nem | Igen | Igen  |
+|  61. | 88158 | Ferenczy Sándor utca 7. | Nem | Nem | Igen | Igen  |
+|  62. | 88159 | Ferenczy Sándor utca 5. | Nem | Nem | Igen | Igen  |
+|  63. | 88160 | Ferenczy Sándor utca 3. | Nem | Nem | Igen | Igen  |
+|  64. | 88161 | Ferenczy Sándor utca 1., Károlyi Sándor út 26. | Nem | Nem | Igen | Igen  |
+|  65. | 88162 | Károlyi Sándor út 28. | Nem | Nem | Igen | Igen  |
+|  66. | 88163 | Károlyi Sándor út 30. | Nem | Nem | Igen | Igen  |
+|  67. | 88165 | Győzelem utca 4. | Nem | Nem | Igen | Igen  |
+|  68. | 88166 | Győzelem utca 6. | Nem | Nem | Igen | Igen  |
+|  69. | 88167 | Győzelem utca 8. | Nem | Nem | Igen | Igen  |
+|  70. | 88168 | Győzelem utca 10. | Nem | Nem | Igen | Igen  |
+|  71. | 88169 | Győzelem utca 12. | Nem | Nem | Nem | Igen  |
+|  72. | 88170 | Győzelem utca 14. | Nem | Nem | Nem | Igen  |
+|  73. | 88171 | Platán utca 29. | Nem | Nem | Nem | Igen  |
+|  74. | 88172 | Platán utca 31. | Nem | Nem | Nem | Igen  |
+|  75. | (88173) | Győzelem utca, közterület | Nem | Nem | Igen | Igen  |
+|  76. | 88174 | Győzelem utca 23. | Nem | Nem | Nem | Igen  |
+|  77. | 88175 | Győzelem utca 21. | Nem | Nem | Nem | Igen  |
+|  78. | 88176 | Győzelem utca 19. | Nem | Nem | Nem | Igen  |
+|  79. | 88177 | Győzelem utca 17. | Nem | Nem | Nem | Igen  |
+|  80. | 88178 | Győzelem utca 15. | Nem | Nem | Nem | Igen  |
+|  81. | 88179 | Győzelem utca 13. | Nem | Nem | Nem | Igen  |
+|  82. | 88180 | Győzelem utca 11. | Nem | Nem | Nem | Igen  |
+|  83. | 88181 | Győzelem utca 9. | Nem | Nem | Nem | Igen  |
+|  84. | 88182 | Győzelem utca 7. | Nem | Nem | Igen | Igen  |
+|  85. | 88183 | Győzelem utca 5. | Nem | Nem | Igen | Igen  |
+|  86. | 88187 | Szilas patak medre | Nem | Nem | Igen | Igen  |
+|  87. | (88190) | Szilas-patak régi medre (betemetve), közterület | Nem | Nem | Nem | Igen  |
+|  88. | (88191) | Szilas-patak medre, közterület | Nem | Nem | Nem | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+231/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  Ssz. | Szennyezett-séggel érintett ingatlan hrsz. | Azonosítás | „D” határérték feletti szennyezettséggel érintett?  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  FK, LNAPL | FAV, LNAPL | FK, DNAPL | FAV, DNAPL  |
+|  89. | 88192 | MÁV vaspályák közötti elkerítetlen erdős terület, nem közterület | Nem | Nem | Nem | Igen  |
+|  90. | (88193/1) | Szilas-patak meder melletti elkerítetlen, erdős terület, közterület | Nem | Nem | Nem | Igen  |
+|  91. | (88193/2) | Szilas-patak meder, közterület | Nem | Nem | Nem | Igen  |
+|  92. | (88195) | MÁV vaspálya | Nem | Nem | Nem | Igen  |
+|  93. | 88218 | MÁV vaspálya, Kovácsi Kálmán tér, nem közterület | Nem | Nem | Nem | Igen  |
+|  94. | (88219) | Kovácsi Kálmán tér, közterület | Nem | Nem | Nem | Igen  |
+|  95. | 88311 | Pozsony utca 36., Leánynevelő Intézet | Nem | Nem | Igen | Igen  |
+|  96. | 88322/2 | LabSystem Kft. ingatlanja. Ipari ingatlan, egykori Budapesti Finomkötöttárugyár gyártelep része | Nem | Nem | Igen | Igen  |
+|  97. | 88323 | Dinamo Invest Kft. ingatlanja. Lakóövezeti területté átminősített ingatlan, egykori Budapesti Finomkötöttárugyár gyártelep része | Igen | Igen | Igen | Igen  |
+|  98. | 88326 | Szövőgyár utca 23. lakóház | Igen | Igen | Igen | Nem  |
+|  99. | (88327) | Szövőgyár utca, közterület | Igen | Igen | Igen | Igen  |
+|  100. | 88334 | Szövőgyár utca 24., Szövő Ovi | Nem | Nem | Igen | Igen  |
+|  101. | 88335 | Szövőgyár utca 22. | Nem | Nem | Igen | Igen  |
+|  102. | 88336 | Szövőgyár utca 20. | Nem | Nem | Igen | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+232/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 11. KÁRFELELŐS AZONOSÍTÁSA
+
+A jelen dokumentáció előző fejezeteiben bemutatott körülmények (különösen, de nem kizárólagosan a szennyezés feltárt gócterületi elhelyezkedése, azonosított eredete, kora, mennyisége) alapján a szennyezés okozójaként az egykori Budapesti Finomkötöttárugyár állami nagyvállalat, továbbá az általa alapított COLORIT Festő-Kikészítő Részvénytársaság jelölhető meg.
+
+A Cg.01-01-002369 cégjegyzékszámú Budapesti Finomkötöttárugyár (1141 Budapest, Szugló u. 83-85.) a cégjegyzékbe – állami vállalatként – 1991-ben került bejegyzésre, ezt követően azonban rövid időn belül felszámolás alá került és 2000. november 2-i hatállyal törlésre került a cégjegyzékből.
+
+A Cg.01-10-041170 cégjegyzékszámú COLORIT Festő-Kikészítő Részvénytársaság felszámolás alatt (1151 Budapest, Szövőgyár u. 11-17.) céget felszámolás alapján 2000. május 4-i hatállyal szintén törölték a cégjegyzékből.
+
+Az okozóként megjelölhető szervezetek tehát jogutód nélkül megszűntek, egyéb szervezetek – pl. a szennyezett terület tulajdonosai, használói, stb. – pedig ismereteink szerint nem tettek olyan jognyilatkozatot, amely alapján a közigazgatási felelősség rájuk hárítható volna.
+
+Az 1995. évi LIII. törvény a környezet védelmének általános szabályairól c. jogszabály szerint a Kormány feladata – többek között - a jelentős környezetkárosodások, illetve a rendkívüli környezeti események (beleértve a Magyarország területén folytatott hadgyakorlatot is) következményeinek felszámolása, ha a kötelezettség másra nem hárítható, ill. a központi költségvetés finanszírozásában valósítandó meg a helyreállítási intézkedések teljesítése, amikor az másra át nem hárítható.
+
+Az azonosított szennyezések tekintetében kétségkívül kármentesítési (beavatkozási) intézkedések megvalósítása szükséges. A kármentesítési eljárás jelenleg a 219/2004. (VII.21.) Korm. rendeletben kerül szabályozásra. Ez alapján a kármentesítést az OKKP és annak alprogramjai keretében kell végezni. Jelen kötelezettség az OKKP Alprogramjai közül a Társasági Alprogramhoz illeszthető leginkább.
+
+A korábban Társasági Privatizációs Alprogram, jelenleg Társasági Alprogram keretében zajlik az MNV Zrt. és jogelődei, az ÁPV Zrt. portfoliójába tartozó vállalatok, társaságok, illetve egyéb vagyontárgyak esetén az állam tulajdonosi felelősségével kapcsolatos környezetvédelmi feladatok ellátása, az MNV Zrt. jogszabályokban meghatározott feladatkörébe és ellátási
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+233/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+kötelezettségébe tartozó, vagy oda sorolódó kármentesítési feladatok irányítása és lebonyolítása.
+
+Előbbiek alapján, a volt Budapesti Finomkötöttárugyár, valamint a Colorit Rt. Szövőgyár utcai gyártelepén és üzemi tevékenységével (fűtés, textil tisztítás) okozott, tényfeltárás keretében azonosított szennyezettség, ill. az ahhoz kapcsolódó kármentesítési feladatok – amelyeknek a már megszűnt gazdasági társaság nem tud eleget tenni, illetve amelynek a költségei másra át nem háríthatóak – a hivatalos közlés szerint jelenleg működő OKKP Alprogramok közül a Társasági Alprogram keretébe sorolhatók. Ezen Alprogram felelős szervezete a rendelkezésre álló adatok szerint a Magyar Nemzeti Vagyonkezelő Zrt. Ezért a 219/2004. (VII.21.) Korm. rendelet szerinti kármentesítés tekintetében lefolytatandó közigazgatási eljárásban ezen szervezet jelölhető meg a feltárt szennyezés alapján szükséges kármentesítési intézkedések megtételéért felelős szervezetnek.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+234/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 12. BEAVATKOZÁSI KONCEPCIÓ
+
+Tekintettel arra, hogy eltérő forrásból származó, eltérő jellegű szennyezettségek együttes jelenléte okozza a feltárt vizsgálati területen a szennyezettséget, továbbá arra, hogy mindkét szennyezettség (LNAPL és DNAPL) forrásterülete jól és kellő mértékben meghatározott, valamint arra, hogy a DNAPL gócterületből kiinduló oldott fázisú csóva mérete rendkívüli mértékben kiterjedt, a feltárt szennyezettség kockázatainak megszüntetése egyrészről nem lehetséges műszakilag egyetlen megoldás alkalmazásával, másrészről az eltérő jellegű szennyezőanyagok eltérő viselkedésük miatt is különböző mentesítési technológiák alkalmazását igénylik.
+
+A fennálló kockázatok csökkentése alapvetően három módon történhet:
+
+- receptorok eltávolítása,
+- expozíciós útvonalakba történő beavatkozás,
+- forráskoncentráció csökkentés.
+
+A jelenleg régről fennálló és a 88323 hrsz-en tervezett területhasználati viszonyokra tekintettel a receptorok (az érintett lakosság) eltávolítása (elköltöztetés, ingatlanok kisajátítása, lebontása, stb.) nyilvánvalóan nem tartozik a megvalósítható megoldások körébe, ezért ezt a lehetőséget nem vizsgáljuk.
+
+A területen észlelhető kockázatokhoz kapcsolódó expozíciós utakba történő beavatkozás a probléma forrását nem oldja meg, így a probléma fennállásának ideje alatt folyamatos megfigyelést, intézkedést és vészhelyzeti cselekvést igényel. Tekintettel arra, hogy a probléma fennállásának becsülhető ideje legkevesebb évtizedes léptékű, ez a kockázatcsökkentési mód nem tekinthető önállóan megfelelő megoldásnak. Fontos megjegyezni, hogy átmeneti intézkedésként a kockázatok azonnali csökkentése érdekében ugyanakkor szükségesek ilyen intézkedések elvégzése is. Erre a DNAPL szennyezettség esetében van szükség, az alábbi helyszíneken:
+
+- a Szövő Ovi,
+- a Leánynevelő Intézet egyes épületei,
+- az oldott fázisú DNAPL csóva „D” kármentesítési célállapot határértéket meghaladó koncentrációval érintett lakóövezeti ingatlanok lakóépületei,
+- valamint a Labsystem Kft. iroda és raktárépülete.
+
+A fentiekből következőleg az adott probléma esetén a kockázatcsökkentés megfelelő módja a forráskoncentrációk csökkentése.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+235/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A továbbiakban az alábbiakban bemutatott beavatkozási koncepció, figyelembe véve a műszaki, gazdasági, logisztikai, társadalmi szempontokat, külön tárgyalja az egyes szennyezőanyagok, illetőleg a DNAPL szennyezettség tekintetében a gócterületi és a gócterületen kívüli térségeket.
+
+## 12.1. BEAVATKOZÁS NÉLKÜLI ESET
+
+Abban az esetben, ha a feltárt LNAPL és DNAPL szennyezettség felszámolása, vagy a hozzájuk kapcsolódó kockázatok egyéb módon elfogadható szintre csökkentése nem történik meg, a 10.4. fejezetben felsorolt ingatlanok esetében tartósan nem elfogadható szintű emberi egészségkockázat fennállásával szükséges számolni.
+
+Ebből következőleg a beavatkozás nélküli eset nem elfogadható alternatíva.
+
+## 12.2. GÓCTERÜLETI BEAVATKOZÁSI KONCEPCIÓ
+
+### 12.2.1. LNAPL GÓCTERÜLET
+
+A szennyeződés vizsgálataink alapján négy pontból indult ki, melyek a jelenlegi Bp. XV., 88323 hrsz.-en helyezkednek el. Az egyes források egymáshoz közel esnek, ezért a kiindulási pontok környezetében kialakult szennyezettségek egyetlen nagyobb kiterjedésű gócot alkotnak. A földtani közeg szennyezettsége elsősorban a telített zónában jelentkezik.
+
+Az oldott fázisú szennyezettség kiterjedése lényegében nem terjed túl a földtani közeg szennyezettséggel érintett részen.
+
+Tekintettel arra, hogy a gócterület jól meghatározott és extrém magas koncentrációkkal jellemezhető, valamint jelentős az elkülönült szerves fázis (magas szénhidrogén szaturációval jellemezhető térrészek) részaránya, továbbá a szennyezettség célállapot határérték feletti része döntően könnyen hozzáférhető, a szennyezettséghez kapcsolódó kockázatok elfogadható szintre történő csökkentése forráskoncentrációk közvetlen csökkentésével (ex-situ off site megoldás alkalmazásával) célszerűen megvalósítható a jól hozzáférhető területek tekintetében.
+
+Az, hogy az oldott fázisú szennyezettség kiterjedése lényegében nem terjed túl a földtani közeg szennyezettséggel érintett részénél arra utal, hogy a környezet asszimilációs kapacitása elégséges ahhoz, hogy a szennyezettség terjedését természetes lebontás útján megakadályozza, ezért a szennyezettség stagnáló életszakaszban van. Ez utóbbit alátámasztja a szennyezettség igazoltan 1990 előtti keletkezése.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+236/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Ebből következően lehetséges volna in situ biológiai úton is csökkenteni a koncentrációkat, de ezt egyrészt a jelentős mennyiségű elkülönült szerves fázis akadályozza⁴⁵, másrészt ilyen mennyiségű szennyezőanyag bontása nagyon hosszú időt venne igénybe. A számítások szerint a természetes úton várható teljes lebomlás időszükséglete meghaladja a 100 évet. Ezt a megoldási lehetőséget előzőek miatt elvetjük.
+
+Megfontolható a szennyezettség megszüntetése in-situ termikus deszorpció segítségével. A megoldás fő problémája, hogy az LNAPL típusú szennyezettség döntően a jelenlegi kapilláris zóna alatti térségben helyezkedik el, ahol a megoldás alkalmazhatósága korlátozott. Emellett hátránya a jelentős energiaigénye is. Ezt a megoldási lehetőséget előzőek miatt elvetjük.
+
+A szennyezettség felszámolásának további lehetséges módja a szennyezettség in-situ vagy ex-situ on site módszerrel történő talajmosatása. A megoldás elviekben működőképes lehet. Ugyanakkor az in-situ megoldás esetében számolni szükséges azzal, hogy a jelenleg stagnáló szennyezettség mobilizálódik és a mobilizált oldott fázisú csóva eddig nem jelentkező környezeti kockázatot, ezzel újabb beavatkozási igényt támaszt. Az ex-situ on site megoldás esetében számolni szükséges a mosatási folyamatban keletkező extrém mennyiségű, szennyezőanyaggal és mosóvegyszerrel szennyezett víz kezeléséről, elszállításáról és ártalmatlanításáról. Az ex-situ off site megoldás ugyanakkor megfelelő lehet minden szempontból. Ez ugyanakkor a kockázatcsökkentés szempontjából egyenértékű bármely más ex-situ off site megoldással, ezért külön ezeket az eseteket nem tárgyaljuk. Ezeket a megoldási lehetőségeket előzőek miatt elvetjük.
+
+Az LNAPL gócterület hozzáférhető részének lokalizálása, mint megoldás azért vethető el, mert az LNAPL szennyezettség stagnáló állapotban van, így az elmozdulása nem prognosztizálható, azaz a lokalizálásra semmi szükség, a szennyezettség anélkül sem mozdul el. A megoldás ráadásul extrém költséggel is járna, mivel a lokalizáló objektumot (résfal) a 16-17 méteres mélységben található fekübe kellene bekötni, miközben a szennyezettség 10 méteres mélységnél mélyebben már nincs is jelen.
+
+Külön tárgyalnunk kell ugyanakkor azt a kis térrészt, amely a 88326 és (88327) hrsz-eken helyezkedik el, és az itt található szennyezettséghez a 88326 hrsz-re épült lakóház közelsége folytán a hozzáférés korlátozott, ezért itt az ex-situ off site megoldások alkalmazása nem lehetséges. Ezen a részterületen in-situ megoldást szükség választani. A lehetőségek közül fontolóra vehetőek az alábbi megoldások:
+
+⁴⁵ Az LNAPL típusú szennyezőanyag teljes mennyisége 151,7 tonna, ami kb. 185 m³, míg az önálló fázisú szennyezőanyag jelenlétével jellemezhető térfogat teljes mennyisége mintegy 10 000 m³, így a szennyezett térrészben a pórusok átlagos szaturációja minimálisan 6%-os.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+237/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+- in-situ intenzifikált biológiai bontás,
+- in-situ kémiai oxidáció in-situ stabilizációval,
+- in-situ termikus deszorpció.
+
+Az in-situ stabilizációs megoldás alkalmazhatóságát az épület jelenléte akadályozza. Az in-situ termikus deszorpció alkalmazhatósága költséghatékonysági okokból nem javasolt. Ilyen kis mennyiséghez a költséges és jelentős helyigényű eszköz kitelepítése értelmetlen. A technológia szállítók által meghatározott költséghatékonysági alsó mennyiségi szint 3 500 m³, miközben jelen esetben a kezelendő térfogat összesen valamivel több, mint 300 m³.
+
+Az in-situ intenzifikált biológiai bontás alkalmazhatóságát támasztja alá, hogy a kérdéses térrész a szennyezettség peremterületén, lényegében felvízi oldalon helyezkedik el, szennyezettségét közepes és alacsony koncentrációk jellemzik. Intenzifikáló megoldásként javasolható például többek közt az enzimes kezelés, de bármely vele egyenértékű megoldás is számításba jöhet.
+
+Összefoglalóan megállapítható tehát, hogy az LNAPL típusú szennyezettség esetében a jól hozzáférhető térfogat (9 243 m³) esetében ex-situ off site megoldást, míg a nehezen hozzáférhető térrészben (333 m³) in-situ intenzifikált biodegradációs megoldást javaslunk.
+
+### 12.2.1.1. LNAPL SZENNYEZETTSÉGHEZ KAPCSOLÓDÓ EX-SITU OFF SITE BEAVATKOZÁS
+
+A 11.2.1.1.1 szövegközti ábrán elkészítettük az LNAPL szennyezettség esetében a „D” kármentesítési célállapot határérték felett szennyezett földtani közeg és felszín alatti víz elterjedési területének felszíni vetületét, az összes komponens elterjedési területének figyelembevételével.
+
+Látható, hogy a „D” kármentesítési célállapot határérték felett szennyezett földtani közeg és felszín alatti víz valóban eléri a 88326 hrsz-en található lakóépületet, így annak környezetében valóban lehetséges nem ex-situ megoldást alkalmazni, vagy az épület bontása válna szükségessé, ami nem javasolt.
+
+Az ábrán megjelöltük a földtani közeg („FK”) és felszín alatti víz („FAV”) „D” kármentesítési célállapot határérték felett szennyezett elterjedésének felszíni vetületét, előbbit szaggatott barnával, utóbbit szaggatott kékkel. Megjegyezzük, hogy a felszín alatti víz szennyezettsége tekintetében az interpolációs határgörbe kalkulációja során a program nem tudta figyelembe venni a 88326 hrsz-en (Szövőgyár utca 23.) álló épület területét, mivel ott az épület miatt mintát venni nem lehetett. Emiatt ugyanakkor nem szűkítettük le a „D” kármentesítési célállapot határérték felett szennyezett felszín alatti víz becsült elterjedését, konzervatív megközelítéssel élve.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+238/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**11.2.1.1.1. szövegközti ábra.** LNAPL szennyezettség, „D” kármentesítési célállapot határérték felett szennyezett földtani közeg és felszín alatti víz elterjedési terület
+
+![img-16.jpeg](img-16.jpeg)
+
+Jelmagyarázat
+
+FK: Földtani közeg
+FAV: Felszín alatti víz
+
+Surfer: 3D szennyezettség modellező, ábrázoló rendszer (vö.: 5.10 fejezet)
+
+Előbbiek alapján az ex-situ off site megoldás tekintetében megállapítható, hogy a „D” kármentesítési célállapot határérték felett szennyezett földtani közeg (9 243 m³) elterjedési területének kitermelésére szorítkozó megoldás esetén nem túl nagy kiterjedésű olyan térrész maradna, ahol a felszín alatti víz szennyezettség meghaladja a „D” kármentesítési célállapot határértéket, de nem esik az előbbi térrészen belülre. Ezt a **11.2.1.1.1. szövegközti ábrán** szemlélhetjük meg, ilyenek a kékkel megjelölt térrészek, a barna részek pedig azok, ahol a földtani közeg szennyezettsége haladja meg a „D” értéket, de a felszín alatti víz szennyezettsége „D” alatt marad.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+239/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Áttekintve ezt a többletet, célszerű és javasolt olyan munkagödör meghatározása, amely egyszerre határolja mind a földtani közeg, mind a felszín alatti víz „D” kármentesítési célállapot határérték felett szennyezett térrészét. Ebben az esetben ugyanis egyetlen munkagödör segítségével a teljes LNAPL szennyezettség felszámolhatóvá válik, viszonylag alacsony költséggel megvalósítható szennyezett felszín alatti víz kezelés igénybevételével.
+
+Az így meghatározható munkagödör esetében várhatóan a „D” kármentesítési célállapot határérték alatt szennyezett földtani közeg mennyisége jelentősebb lesz ugyanakkor, amelynek a munkálatok során megfelelő kapacitású depóteret szükséges biztosítani, továbbá, ha másképpen nem megoldható, a szennyezett földtani közeget és felszín alatti vizet körülhatároló munkagödröt több alrészre „kazetták”-ra szükséges bontani, amelyekben úgy lehet a munkálatokat biztonsággal végezni, hogy a többi kazettában található szennyezett földtani közeg és felszín alatti víz az itteni munkálatokat nem zavarja, akadályozza.
+
+### 12.2.2. DNAPL GÓCTERÜLET
+
+A DNAPL gócterület az LNAPL gócterülethez hasonlóan szintén szétbontható könnyen és nehezen hozzáférhető térrészekre, egyúttal a DNAPL gócterület, (akárcsak az LNAPL gócterület), jól meghatározott és extrém magas koncentrációkkal jellemezhető, valamint jelentős a magas illékony halogéntartalmú alifás szénhidrogén szaturációval jellemezhető térrészek részaránya, továbbá, hogy a szennyezettség „D” kármentesítési célállapot határérték feletti része jelentős részben könnyen hozzáférhető. Fontos különbség ugyanakkor, hogy a DNAPL szennyezettség, ellentétben az LNAPL szennyezettséggel nem csak a kapilláris zóna alatt pár méteres mélységig jutott le, hanem egészen a felszín alatt kb. 16-17 méteres mélységben húzódó fekü szintjéig végig magas (de vertikálisan lefelé haladva egyre csökkenő) koncentrációval jellemezhető szennyezettség van jelen, amely forrása az oldott fázisú szennyezettségnek és tartós oldott fázisú utánpótlódást biztosít. Szükségszerű mindkét térrészben a koncentrációcsökkentő beavatkozás, ugyanakkor célszerű a két térrészben (telítetlen + kapilláris zóna, valamint a telített zóna kapilláris zóna alatti térrésze a feküig) jelenlévő szennyezettség szétválasztása, mert a szennyezettséghez kapcsolódó kockázatok elfogadható szintre történő csökkentése a telítetlen és kapilláris zóna térségében ebben az esetben is a forráskoncentrációk közvetlen csökkentésével (ex-situ off site megoldás alkalmazásával) célszerűen és egyszerűen megvalósítható a jól hozzáférhető területek tekintetében, míg a nehezen hozzáférhető térrészek esetében in-situ technológiák állnak rendelkezésre.
+
+A telített zóna további részei esetében a szennyezettség kitermelése (ex-situ off site technológia) nem kizárt, de lényegesen nagyobb munkaigénnyel és költséggel és bizonytalansággal jár. Így utóbbi esetben megfontolandó más (in-situ) megoldások részletesebb áttekintése is.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+240/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+### 12.2.2.1. DNAPL GÓCTERÜLET KÖNNYEN HOZZÁFÉRHETŐ TÉRSÉGE
+
+Az előző fejezetben leírtak alapján a DNAPL gócterület könnyen hozzáférhető része esetében ex-situ off site technológia (talajcsere) javasolható.
+
+A **telítetlen és kapilláris zóna könnyen hozzáférhető része tekintetében**, figyelemmel a szennyezőkomponensekre is (tetraklór-etén és alárendelten bomlástermékei), a mikrobiológiai megoldások a mért extrém koncentrációk mellett gyakorlatilag egyáltalán, vagy csak nagyon kis hatékonysággal működnek hasonló szennyezettséggel érintett kárhelyek tapasztalatai alapján. E megoldások biztonságos alkalmazása kétséges. Ezt a megoldást emiatt elvetjük ebben az esetben.
+
+A további in-situ megoldások közül a szennyezőanyagra tekintettel kémiai beavatkozás esetén redukciós megoldásra van szükség (in-situ chemical reduction – ISCR), mivel a tetraklór-etén reduktív környezetben bomlik megfelelő sebességgel. Az elvégzett piackutatás alapján az in-situ kémiai redukció, pl. EHC mixing⁴⁶ technológia sikeres alkalmazására ilyen extrém koncentrációk mellett a telítetlen zónában a gyártó-forgalmazó cégek nem vállalnak garanciát. Ezt a megoldást emiatt elvetjük ebben az esetben.
+
+Számításba lehet venni ebben az esetben a talajszellőztetés (Soil Vapor Extraction - SVE) megoldást. Ez esetben a számítások alapján a földtani közegben észlelhető szennyezettségi koncentrációk megfelelő szintre csökkentése megvalósítható még ilyen koncentrációk mellett is, de extrém hosszú, a becslések szerint 20 évet meghaladó időt igényelne. Ezért ezt a megoldást a túl hosszú működési időre tekintettel vetjük el, mert a befejeződésig a terület további használata, fejlesztése jelentős korlátokba ütközne.
+
+Felmerülhet a szennyezettség lokalizációja a telítetlen zónában. E megoldást a nagyon kis kiterjedésű gócterületre tekintettel kérdéses, hogy egyáltalán kedvezőbb költséggel lehetne-e megvalósítani, mint az ex-situ off site megoldást. Bizonyosan hátránya lenne, hogy a körbezárt térrész belső zónájának folyamatos nyomon követésére lenne szükség, az ottani földtani közeg szennyezettség megfigyelése gyakorlatilag korlátlan ideig, továbbá az így lezárt területnek felszínhez közel eső térségében horizontális befedésre is szükség lenne. Ez a megoldás nem felelne meg a kármentesítési előírásnak sem, hiszen az így lezárt térrészben a szennyezettség továbbra is jelentősen meghaladná a „D” kármentesítési célállapot határértéket. Külön
+
+⁴⁶ A német tulajdonú (hazánkban is képviselettel rendelkező) Evonik Industries AG által fejlesztett EHC nevű reagens bizonyos esetekben a szennyezettség koncentrációjának megfelelő mértékű csökkentésére alkalmas. Az esetek jelentős hányadában a szennyezettség kémiai redukciója mellett a keletkezett maradványok stabilizálása (in-situ stabilization – ISS) is szükséges, azaz a két technológia ötvözése, amit EHC mixing-nek nevez a szakirodalom. E megoldás a szennyezettség koncentrációjának lecsökkentése mellett a maradványok elmozdulását is megakadályozza betonszerű megkötésükkel.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+241/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+nehézséget okozna, hogy a 88323 és 88322/2 hrsz területeknek egy – igaz kisebb, de fontos helyen lévő – része kizáródna a további beépítési, fejlesztési lehetőségből, ami nyilvánvalóan az ingatlanok értékének tartós, végleges relatív csökkenését okozná. Összességében ezt a megoldást ezen okok miatt elvetjük.
+
+A telített zóna könnyen hozzáférhető része tekintetében az ex-situ off site megoldás alkalmazása már jelentős többletfeladatot, 17 méteres mélységig biztonságos oldalfallal rendelkező munkagödröt és a szűk és nagymélységű gödörből történő anyagkitermelést igényel. A kitermelendő és elszállítandó anyagmennyiség jelentősen meghaladja a telítetlen zónában kitermelni és elszállítani szükséges mennyiséget, ugyanakkor az eltávolításra kerülő szennyezőanyag-mennyiség lényegesen alacsonyabb, így a technológia hatékonysága erősen leromlik a telített zónában. A feladat ilyen módon műszakilag kivitelezhető, ugyanakkor a költsége és fajlagos költsége jelentősen magasabb, mint a telítetlen zónában megvalósítandó esetben. Itt ráadásul a szennyezettséget jellemző koncentrációk is lényegesen alacsonyabbak, mint a telítetlen és kapilláris zónában, ami kedvez az in-situ megoldásoknak, ráadásul ebben a térrészben a vizes környezetben lehet működtetni az in-situ megoldásokat.
+
+Az in-situ megoldások közül a kémiai redukciós megoldás (ISCR) esetén a gyártó-forgalmazó vállalkozások közlése szerint a vizes fázisban a megfelelő redukálószerek, pl. az előzőekben említett Evonik Industries AG által fejlesztett EHC nevű reagens, a szennyezettség koncentrációjának megfelelő mértékű csökkentésére alkalmasak. Figyelembe véve a jelentős mélységet, azért, hogy a keletkező munkagödör területe a kármentesítést követően használható maradjon, célszerű a szennyezettség kémiai redukciója mellett a keletkezett maradványok stabilizálása, azaz a szintén az előzőekben említett EHC mixing megoldás alkalmazása.
+
+Az ISCR technológia esetében a vezérszennyezőhöz kapcsolódó kármentesítési tapasztalatok alapján célszerű a redukálószer kombinálása a DHC (Dehalococcoidia) Chloroflexota baktériumtörzs alkalmazásával. A tapasztalatok alapján a DHC baktériumtörzsek a klóreténes környezetben anyagcseréjük során a klórozott molekulák dehalogénezését hajtják végre és ennek segítségével nyerik a fejlődéshez, szaporodáshoz szükséges energiát. Ez az alacsonyabb klóratomszámú molekulák bontását különösen meggyorsítja rendszerint.
+
+Felmerülhet ebben az esetben a szennyezettség lokalizációja a telített zónában, amely viszonylag kedvező beruházási költséget jelentene a mély zónákban megvalósítandó ex-situ off site megoldással szemben, ugyanakkor amelynek a hátránya lenne, hogy a körbezárt térrész belső zónájának folyamatos nyomon követésére lenne szükség, az ott zajló folyamatok és felszín alatti víz nyomásviszonyok, szennyezettség megfigyelése, kontrollálása gyakorlatilag korlátlan ideig. Ez a megoldás nem felelne meg a kármentesítési előírásnak sem, hiszen az így lezárt térrészben a
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+242/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+szennyezettség továbbra is jelentősen meghaladná a „D” kármentesítési célállapot határértéket.
+Összességében ezt a megoldást emiatt elvetjük.
+
+### 12.2.2.2. DNAPL GÓCTERÜLET NEHEZEN HOZZÁFÉRHETŐ TÉRSÉGE
+
+A **telítetlen és kapilláris zóna nehezen hozzáférhető része** (Labsystem Kft. 2024-ben épült raktárépülete alatti térség) **tekintetében**, az ex-situ megoldások eleve kizártak, az itt álló épületre tekintettel.
+
+Az in-situ megoldások tekintetében, figyelemmel a szennyezőkomponensekre is (tetraklór-etén és alárendelten bomlástermékei), a mikrobiológiai megoldások a mért közepesen magas koncentrációk mellett feltehetőleg megfelelő hatékonysággal működhetnek hasonló szennyezettséggel érintett kárhelyek tapasztalatai alapján. Problémát okoz ugyanakkor, hogy a méréseket az épület alatt nem lehetett kivitelezni és emiatt nem tudni, hogy ott milyenek a tényleges szennyezettségi viszonyok. Kockázatot jelent ebben az esetben, hogy ott a könnyen hozzáférhető gócterülethez hasonló, esetleg még annál is magasabb szennyezettség lehet jelen⁴⁷. Ebben az esetben a megoldás bizonyosan nem működne. Emiatt ezt a megoldást el kell vessük.
+
+A további in-situ megoldások közül a kémiai redukció (ISCR) alkalmazása is megfelelő megoldás lehet és ennek az alkalmazása sem kizárt. Az elvégzett piackutatás alapján az in-situ kémiai redukció, pl. EHC mixing technológia sikeres alkalmazására a mért koncentrációk mellett a telítetlen zónában megvalósítható lehet azzal, hogy ha a mért értékeknél jóval magasabb értékek vannak jelen az épület alatt, akkor ez a megoldás is ellehetetlenülhet (kifejezetten a telítetlen zónában). Ezt a megoldást emiatt szintén elvetjük ebben az esetben.
+
+Számításba lehet venni ebben az esetben a **talajszellőztetés (Soil Vapor Extraction - SVE)** megoldást. Ez esetben a számítások alapján a földtani közegben észlelhető szennyezettségi koncentrációk megfelelő szintre csökkentése megvalósítható az ismert koncentrációk mellett 3-6 éves időigénnyel. A szennyezőanyag illékony mivoltára tekintettel a földtani közegből történő kihajtása viszonylag biztonságosan megvalósítható ezzel a módszerrel normál körülmények között is. Amennyiben a tényleges koncentráció lényegesen magasabb az épület alatt, akkor a megoldás még mindig működik, csak számítani kell az elnyúló működési időre. Ez ugyanakkor ebben az esetben – lévén már egy meglévő épület alatt folyó munkálatról lenne szó – nem okozna akkora problémát, mint a könnyen hozzáférhető térségben. Összességében bár ez a megoldás is lehet kedvezőtlenebb (megnyúló alkalmazási időigény), ugyanakkor ez a megoldás legalább
+
+⁴⁷ Utóbbi az épületben több ponton mért légtérszennyezettség értékei alapján nem valószínű, de az épület mellett mért szennyezettségnél lényegesen magasabb értékek jelenléte egyáltalán nem kizárt.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+243/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+működőképes lenne minden esetben. Ezért ezt a megoldást tartjuk meg, mint potenciális megoldást ebben az esetben.
+
+Felmerülhet a szennyezettség lokalizációja a telítetlen zónában itt is. A megoldás ellen szóló legfontosabb érv, hogy ebben az esetben az egész raktárépületet körbe kellene zárni, ami jelentős résfalépítési munkáltot jelentene és amelynek a költségei emiatt nem tennék rentábilissá ezt a megoldást. Ellehetetlenítené továbbá a megoldást az is, hogy az építés hosszabb időszakára az épületet használni sem lehetne, ami a Labsystem Kft. részére jelentős kiesést okozna, feltételezhetően ellehetetlenítené a működését.
+
+A telített zóna nehezen hozzáférhető része tekintetében az ex-situ off site megoldás alkalmazása eleve nem lehetséges, a területen álló épület miatt.
+
+Az itt jelenlévő szennyezettséget kizárólag az oldott fázisban jelenlévő frakcióhoz történő hozzáféréssel tudjuk elérni. A fenitek alapján célszerű ISCR (redoxpotenciál csökkentése) megoldást alkalmazni az oldott fázisra, ugyanakkor itt a stabilizációra nincs lehetőség, mivel az épület alatti térrészhez mechanikailag hozzáférni nem lehet.
+
+A telítetlen zónánál írtak miatt a telített zónában sincs realitása a lokalizációnak.
+
+### 12.2.2.3. DNAPL GÓCTERÜLET, BEAVATKOZÁSOK ÖSSZEFOGLALÁSA
+
+Összefoglalóan megállapítható tehát, hogy a DNAPL típusú szennyezettség gócterület, azon belül a jól hozzáférhető térfogat (1,172 t PCE szennyezőanyag) esetében a telítetlen és kapilláris zónában ex-situ off site megoldást, míg a telített zónában (1,248 t PCE szennyezőanyag) EHC mixing megoldást javaslunk, DHC baktériumtörzsek kombinációjával, a nehezen hozzáférhető térrész telítetlen zónába eső térségében (0,025 t PCE szennyezőanyag) in-situ kilevegőztetés (SVE) megoldást, a telített zónában pedig redoxpotenciál csökkentést (ISCR) javaslunk, DHC baktériumtörzsek kombinációjával.
+
+### 12.2.2.4. ÁTMENETI INTÉZKEDÉSEK A DNAPL GÓCTERÜLET TÉRSÉGÉBEN
+
+Az előzőekben leírtakra tekintettel a DNAPL gócterület térségében mind a Labsystem Kft. irodaépülete (egykori Budapesti Finomkötöttárgyár volt 2.B. jelű épülete) esetében, mind a 2024-ben létesített raktárépülete tekintetében szükséges a bent tartózkodók védelme a felszín alatti közegekből kipárolgó és az épületek munkavállalók által használt térrészeibe bejutó tetraklór-eténnel szemben mindaddig, amíg a kármentesítés a terület környezetében jelenlévő szennyezettséget az elfogadható kockázattal jellemzett szint alá nem csökkenti (expozíciós útvonalakba történő beavatkozás). A két épületben dolgozó egy-egy munkavállaló doziméterrel történő napos vizsgálata alapján a jelenleg alkalmazott szellőztetési rend elégséges lehet,
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+244/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+amelynek fenntartása, felügyelete, valamint intézkedési terv kidolgozása vészhelyzet esetére (pl. szellőzés leállása) javasolt. A ténylegesen elvégzendő munkálatok nem kármentesítési, hanem foglalkozás egészségügyi feladatot jelentenek, amelynek a tényleges szabályait, feltételeit a szakterületen megfelelő jártassággal rendelkező szakértő által meghatározottak szerint szükséges kidolgozni és működtetni. A munkavállalókhoz kapcsolódóan elvégzett vizsgálatokat a 10. melléklet tartalmazza.
+
+### 12.3. OLDOTT FÁZISÚ CSÓVA TERÜLETÉHEZ KAPCSOLÓDÓ KONCEPCIÓ
+
+A DNAPL szennyezettség oldott fázisú csóvájának elterjedési területe lényegesen meghaladja a forrásterület kiterjedését, az oldott fázisú szennyezettség a forrástól igen nagy távolságra eljutott mind az érintett vízadó sekélyebb, mind pedig a mélyebb zónájában. A mélyebb zónában a kiterjedése horizontálisan nagyobb, mivel a vízadó alsó részének szivárgási együtthatója magasabb (lefelé durvuló szemcseméret a vízadón belül), ezért a vízadó alsóbb részén az advektív transzport erősebb. Az érintett vízadó vastagságának az áramlási iránnyal együtt járó vékonyodása (a feküképződmény szintjének emelkedése) miatt a csóvafronton a vízadó alsó és felső szintje összezáródik egyetlen szintté, így látszólag mindkét szintben egyforma kiterjedésű a szennyezettség. A kialakult csóva kiterjedésének felszíni vetülete mostanra átlépte a 47 ha területet.
+
+A csóva a Leánynevelő Intézet Károlyi Sándor úthoz eső kerítéséig bezárólag a forrásterületről kiinduló, nagyon magas, az oldhatóságot megközelítő koncentrációkkal jellemezhető szennyezettséget mutat, míg az azon túli, megnyúlt csóvarész jelentősen kisebb, de a csóvatengely térségében még mindig többezer µg/dm³ oldott fázisú szennyezettségi szinttel jellemezhető. Az előbbi térségben, észlelhető 100 000 µg/dm³ oldott fázisú szennyezettségi szintet meghaladó értékek egyértelműen azt jelzik, hogy itt a felszín alatti vízben magas szennyező anyag szaturáció jelenlétével is számolni szükséges. A koncentrációk a gócterület környezetében a legmagasabbak, áramlási irányban kb. 100 métert távolodva onnan kezdődik a szignifikáns csökkenés a mért értékekben. A koncentrációk ugyanakkor a vízadó felső részében fél-egy nagyságrenddel magasabbak, mint a vízadó alsó részében, kivéve a csóvafrontot, ahol a vízadó felső részében már lényegében nincs szennyezettség, de a vízadó alsó részében a szennyezettség messzebbre jutott.
+
+A szennyezőanyag más kárhelyeken megismert csóvamintázata itt is azonosítható. A forrásterület környezetében áramlási irányban a telítési koncentrációk szintjéig kialakuló a felszín alatti víz szennyezettsége, majd az advektív transzport irányában elnyúlik a csóva, melynek a forrásponttól húzott trajektóriája mentén egészen nagy távolságra (jelen esetben több, mint 500 méterre) is a szennyezettségi határértéknél 3 nagyságrenddel nagyobb koncentrációk mérhetők,
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+245/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+míg az áramvonalra ortogonális irányokban a diffúziós hatások révén kiszélesedik a csóva. A csóvatengely nyomvonala nem teljesen követi a felszín alatti víz horizontális áramlási irányát, mivel a csóva délnyugati oldalán a vízadó mélyebb részén erősen reduktív térrész található, ezért az itteni természetes szennyezőanyag-fogyás miatt úgy tűnik, mintha a csóva északnyugat felé elkanyarodna. Ennek következtében a csóva látszólagos karcsúságából arra lehetne következtetni, hogy az advektív hatás erősebb, mint a diffúzív transzport, de a csóva kialakulásában a diffúzív transzportnak (oldalirányú terjedés) is jelentős szerepe van.
+
+**11.3.1. szövegközti ábra.** DNAPL PCE oldott fázisú szennyezőanyag csóva térségei
+
+![img-17.jpeg](img-17.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+246/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+Mindez alapján a csóva három részterületre osztható. Egyrészt a forráshoz közeli, nagyon magas oldott koncentrációkkal és önálló fázisú szennyezőanyag jelenlétével jellemezhető „központi mag”-ra, másrészt az áramlási irányban ettől távolabbra elhelyezkedő, viszonylag szűk és elnyúlt, közepesen magas oldott koncentrációkkal és az önálló fázisú szennyezettség jelenlétének hiányával jellemezhető térségre („csóvagerinc”), végül e két térséget körülölelő külső, alacsony koncentrációkkal jellemezhető külső hatásövezetre („oldalirányú csóvaperem”). A csóva három térségét a 11.3.1. szövegközti ábra szemlélteti.
+
+Megfigyelhető az ábrán, hogy azokon a térségeken, ahol a felszín alatti víz redoxpotenciálja lecsökken, negatívba fordul, a DNAPL szennyezőanyagok koncentrációja lecsökken (lila szaggatott vonallal körülhatárolt térségek). Emiatt a csóva a „szabályos” formától mind az egykori gyártelep, mind a Leánynevelő Intézet területén ezekben a térségekben eltér, az izokoncentrációs vonalak nyomvonala „zavarttá válik”. A gyártelepen az ismert LNAPL gócok miatt két ilyen csökkent koncentrációs zóna is kialakult. A nagyobb a 3 db, egyenként is nagyon magas jelenlévő LNAPL szennyezőanyag koncentrációval jellemezhető, összefüggő LNAPL gócterület környezetében, ahol a koncentrációk közel nullára csökkentek, jelezve, hogy itt a teljes bomlási folyamat a nagymennyiségben jelenlévő olajszármazékra tekintettel gyorsan lezajlik. A negyedik, ezektől elkülönülő LNAPL góc, amely nagyjából 20 méterre ÉNy-i irányban található a DNAPL góctól csak nagyságrenddel csökkenteni tudja az ottani, a góc közelsége miatt extrém magas DNAPL koncentrációkat. Itt messze nem nulla közelébe esik a szint, de a csökkenés szembetűnően kirajzolódik a magas szennyezettségi értékekkel jellemzett zónába ékelődve. Megfigyelhető egy további markáns negatív redoxpotenciállal jellemezhető térség a Leánynevelő Intézet területén is. Ez a zóna az intézmény egykori derítőjének környezetében helyezkedik el. A derítő régen nincs használatban, ugyanakkor a valamikor belehordott reduktív anyagok a térségben a földtani közeg felső zónájában a redoxpotenciál viszonyokat negatív irányban tartósan eltolták.
+
+Az előzőekben meghatározott három térség (csóvamag, csóvatengely, oldalirányú csóvaperem) közül a külső hatásövezet (oldalirányú csóvaperem) esetében az elkészült kockázatelemzés alapján aktív intézkedésre nincsen szükség, a későbbiek folyamán az itteni szennyezettségi viszonyokat monitorozni lesz szükséges.
+
+A csóvamag és a csóvagerinc esetében ugyanakkor az aktív beavatkozás szükségessége igazolt. A két térség eltérő szennyezettségi viszonyai miatt célszerű a potenciális megoldásokat a térségek esetében külön-külön tárgyalni és értékelni.
+
+A csóvamag esetében megállapítható, hogy olyan mértékű oldott fázisú szennyezettség jellemzi, hogy az értékek a szennyező anyag magas szaturációját tükrözik. Ebben az esetben a
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+247/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+hagyományosnak tekintett Pump & Treat jellegű beavatkozás időben nagyon elhúzódó lesz, és a szivattyúzás leállásakor jellemzően bekövetkezik a szennyezettségi szint „visszapattanása” azaz a koncentrációk visszaemelkednek a beavatkozás kezdetekor jellemző koncentrációszintek közelébe. A DNAPL forrásterületen elvégzendő beavatkozás egyrészről eltávolítja a kijutott szennyező anyag jelentős részét a kapilláris zónából és közvetlenül alóla, a fennmaradó rész mentesítése a telített zónában pedig feküig elvégzett in-situ technológiával (ISCR) megtörténik. Ennek következtében a csóvamag keleti részén a koncentrációk csökkenése bekövetkezik további beavatkozási lépések nélkül.
+
+Ez a hatás azonban időben lassan, térben pedig korlátozottan terjed a csóvatengely mentén, a csóvamag nyugati részén a telített zónát a forrásterülettel azonos módon javasolt kezelni (ISCR).
+
+Tekintettel arra, hogy a csóva mintázata alapján a csóva viselkedését alapvetően befolyásolja a redoxpotenciál, a legkézenfekvőbb javaslat a csóvatengely mentén a redoxpotenciál csökkentésével létrehozni azokat a körülményeket, amelyek mellett az oldott fázisú szennyezettség lebomlása bekövetkezik, meggyorsul. A csóvamagban javasolt beavatkozás hatása csak időben nagyon lassan terjed ki a csóva többi részére, ezért a redoxpotenciálok csökkentését a csóvatengely mentén történő in-situ injektálásokkal kell segíteni.
+
+### 12.3.1.1. ÁTMENETI INTÉZKEDÉSEK A DNAPL OLDOTT FÁZISÚ CSÓVA TÉRSÉGÉBEN
+
+A tényfeltárás során meghatározott „D” kármentesítési célállapot határérték felett érintett lakóingatlanok esetében javasoljuk, hogy az illetékes közegészségügyi szervezet kerüljön az eljárásba bevonásra annak érdekében, hogy az esetlegesen szükséges intézkedések az érintett lakóingatlanok további használatával kapcsolatban meghatározásra kerüljenek.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+248/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+## 13. KÁRMENTESÍTÉSI MONITORING TERV A BEAVATKOZÁS MEGKEZDÉSÉIG (MONITORING I. SZAKASZ)
+
+Az eddigiekben bemutatottak alapján a kárhelyen LNAPL és DNAPL jellegű felszín alatti víz szennyezettség van jelen. E két szennyezettség monitorozása szükséges a kármentesítés sikeres befejezéséig. Mivel a beavatkozás megkezdését követően a szennyeződések gócpontjai környezetében nagy területen várható ex-situ off site beavatkozás megvalósítása, számolni szükséges a meglévő, monitorozásra alkalmas, vagy azzá tehető furatok egy részének kényszerű megszüntetésére (a munkagödröknek, egyéb szükséges létesítményeknek – felvonulási tér, közlekedési útvonalak, depóniák, stb. - útban lévő furatok). Emiatt javasoljuk, hogy a földtani közeg kármentesítésére irányuló beavatkozás megkezdéséig tartson az itt bemutatott műszaki tartalommal a monitoring tevékenység (Monitoring I. szakasz). Az ezt követő időszakra a beavatkozási tervben részletezett, módosított monitoring végzése javasolt (Monitoring II. szakasz), melyet a beavatkozási tervben szükséges kidolgozni.
+
+Jelen munkaszakaszhoz rendelt monitoring tevékenység célja az alábbi:
+
+(1) Kellő mennyiségű adatot szolgáltasson a kialakult LNAPL felszín alatti víz szennyezettség állapotáról, megjegyezve, hogy a szennyezettség elmozdulása nem prognosztizált és kiterjedésében sem várható lényegi változás.
+(2) Kellő mennyiségű adatot szolgáltasson a kialakult DNAPL felszín alatti víz szennyezettség állapotáról, megjegyezve, hogy a szennyezettség elmozdulása vélelmezhető, horizontális kiterjedése növekszik, vertikálisan ugyanakkor elérte a legmélyebb zónát.
+
+Az LNAPL szennyezettség csak a sekély mélységbe szűrőzött furatokban van jelen, a DNAPL szennyezettség a mélyen szűrőzött furatokban is széles körben megjelent.
+
+A monitoring alapelveként javasoljuk, hogy a rendelkezésre álló vizsgálati furatok közül a teljes kármentesítés során felhasználható furatok kerüljenek az I. szakaszban vízjogi engedélyes státuszba, míg a beavatkozás terepi munkálatok során megsemmisülő furatok maradjanak megszüntetésükig jelenlegi, nem engedélyes státuszukban. Ez egyrészt időben is kedvezőbb megoldás, másrészt felesleges a megsemmisítésig eltelő rövidebb időszak (1-1,5 év) időtartamra külön engedélyeztetési eljárást lefolytatni velük kapcsolatban.
+
+A II. monitoring szakaszban további monitoring kutakat is szükséges lesz létesíteni, amelyek a beavatkozás sikerességének ellenőrzéséhez kapcsolódó feladatok elvégzése érdekében.
+
+A jelenleg rendelkezésre álló furatokat a 13.1. szövegközti táblázatban mutatjuk be, kitérve a furat elhelyezkedésére és monitoring szempontból javasolt sorsára, azaz hogy a furatot
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+249/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+monitoring kúttá javasolt fejleszteni, ideiglenes státuszban javasolt hagyni, vagy szükségtelen és emiatt megszüntethető, vagy kihagyható a monitoring rendszerből.
+
+A táblázatot áttekintve megállapítható, hogy összesen 128 mintázható vizsgálati pont van, amelyből összesen 6 db elhagyása indokolt (3 db megszüntetés és 3 db olyan lakossági vizsgálati pont [ásott kút], amelyre nincs szükség a továbbiakban). További 18 olyan pont van, amelyek csak a kármentesítés ex-situ beavatkozásának megkezdéséig maradhatnak meg, mert ekkor el kell őket bontani a létesítendő munkagödrök érdekében. Mindezek alapján összesen 104 olyan vizsgálati pont van, amelynek a kármentesítés teljes ideje alatti fenntartása javasolt.
+
+Az így összesen a monitoring valamely szakaszába bevonni kívánt, már létező vizsgálati pontok száma 122 db. Ezek közül
+
+- lehatároló pont mindösszesen 36 db, amelyből
+  o felvízi pozícióban elhelyezkedő lehatároló pont összesen 23 db, amelyből
+    ▪ csak LNAPL lehatároló pont 4 db,
+    ▪ csak DNAPL lehatároló pont 17 db,
+    ▪ LNAPL és DNAPL együttes lehatároló pont 2 db,
+  o alvízi pozícióban elhelyezkedő lehatároló pont összesen 13 db, amelyből
+    ▪ csak LNAPL lehatároló pont 7 db,
+    ▪ csak DNAPL lehatároló pont 6 db,
+    ▪ LNAPL és DNAPL együttes lehatároló pont nincs,
+- csóvamagban elhelyezkedő pont összesen 29 db, amelyből
+  o LNAPL csóvamagban elhelyezkedő pont 3 db,
+  o DNAPL csóvamagban elhelyezkedő pont 26 db,
+  o LNAPL és DNAPL csóvamagban egyszerre elhelyezkedő pont nincs,
+- DNAPL csóvagerincben elhelyezkedő pont összesen 11 db (LNAPL nincs),
+- DNAPL csóvafronton elhelyezkedő pont összesen 3 db (LNAPL nincs),
+- csóvaperemen elhelyezkedő pont összesen 61 db, amelyből
+  o LNAPL csóvaperemen elhelyezkedő pont 3 db,
+  o DNAPL csóvaperemen elhelyezkedő pont 56 db,
+  o LNAPL és DNAPL csóvaperemen egyszerre elhelyezkedő pont 2 db.
+
+Az egyes csoportokba sorolt furatok száma összességében meghaladja a 122-t, mivel van néhány olyan speciális pont, amely az LNAPL és a DNAPL csóva szempontjából más-más pozícióban helyezkedik el. Például a CLRT-F101 furat az LNAPL csóva szempontjából csóvamagban, a DNAPL csóva szempontjából csóvaperemen helyezkedik el.
+
+Az egyes funkciók szempontjából az alábbi prioritási sorrendet állítjuk fel, amely alapján döntünk végül, hogy a pont mely csoportba és így mely vizsgálati osztályba tartozik.
+
+csóvamag ← csóvagerinc ← csóvafront ← csóvaperem ← alvízi lehatároló ← felvízi lehatároló
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+250/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+13.1. szövegközti táblázat. A rendelkezésre álló felszín alatti víz mintavételi pontok monitoring szempontú áttekintése
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócte-rület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis | Javaslat monitoring rendszerhez kapcsolódóan |   |   |   | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatá-roló |   | Fennmarad, nem kell a monitó-ringhoz | Megszüntetés most | Csak I. szakaszban használat (ideiglenes marad) | I. és II. szakaszban használat (vízjogi engedélyes monitoring kút)  |   |
+|  1 | CLRT-01 | 655552,09 | 247334,26 | 2023 | Olaj |  |  | DNAPL |  |  |  |  |  | X |  | LNAPL munkagödör miatt megszűnik  |
+|  2 | CLRT-04 | 655618,27 | 247327,34 | 2023 |  |  |  |  |  |  |  |  | X |  |  | DNAPL mély csóva felvízi tiszta oldalon van, CLRT-A106 és CLRT-07 közelebbi lehatárolók, ezért megszüntethető.  |
+|  3 | CLRT-05 | 655562,69 | 247413,75 | Régi |  |  |  |  |  |  |  | X |  |  |  | Családiház udvarán kút, CLRT-A104, CLRT-A122 és CLRT-A213 helyettesíti, nem kell vizsgálni, nem kell megszüntetni.  |
+|  4 | CLRT-07 | 655565,59 | 247303,99 | 2023 |  |  |  |  |  | DNAPL felvízi |  |  |  |  | X |   |
+|  5 | CLRT-10 | 655535,22 | 247294,93 | 2023 | Olaj | DNAPL |  |  |  |  |  |  |  | X |  | LNAPL munkagödör miatt megszűnik  |
+|  6 | CLRT-14 | 655460,75 | 247302,05 | 2023 |  | DNAPL |  |  |  |  |  |  |  |  | X |   |
+|  7 | CLRT-16 | 655485,68 | 247247,30 | 2023 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  8 | CLRT-17 | 655541,89 | 247429,07 | Régi |  |  |  |  |  |  |  | X |  |  |  | Családiház udvarán kút, CLRT-A204 és CLRT-A212 helyettesíti, nem kell vizsgálni, nem kell megszüntetni.  |
+|  9 | CLRT-18 | 655605,02 | 247415,81 | Régi |  |  |  |  |  |  |  | X |  |  |  | Családiház udvarán kút, CLRT-A122 helyettesíti, nem kell vizsgálni, nem kell megszüntetni.  |
+|  10 | CLRT-22 | 655426,84 | 247381,60 | 2023 |  | DNAPL |  |  |  |  |  |  | X |  |  | Csóvagerincen helyezkedik el, 14 méterre van tőle a CLRT-A117 jelű furat, ami miatt fenntartása indokolatlan  |
+|  11 | CLRT-23 | 655484,30 | 247480,85 | 2023 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  12 | CLRT-24 | 655338,07 | 247184,08 | 2023 |  |  |  |  |  | DNAPL felvízi |  |  |  |  | X |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+251/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létsítés éve | Érintett gócterület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis | Javaslat monitoring rendszerhez kapcsolódóan |   |   |   | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatároló |   | Fennmarad, nem kell a monitoringhoz | Megszüntetés most | Csak I. szakaszban használat (ideiglenes marad) | I. és II. szakaszban használat (vízjogi engedélyes monitoring kút)  |   |
+|  13 | CLRT-25 | 655682,68 | 247357,68 | 2023 |  |  |  |  |  |  |  |  | X |  |  | DNAPL mély csóva felvizi tiszta oldalon van, CLRT-A106 és CLRT-07 közelebbi lehatárolók, ezért megszüntethető.  |
+|  14 | CLRT-A102 | 655524,30 | 247316,07 | 2025 | Olaj |  |  | DNAPL |  |  |  |  |  | X |  | LNAPL munkagödör miatt megszűnik  |
+|  15 | CLRT-A103 | 655526,58 | 247354,19 | 2024 | Olaj |  |  | DNAPL |  |  |  |  |  | X |  | Felvonulási terület igény miatt megszűnik  |
+|  16 | CLRT-A104 | 655554,29 | 247369,77 | 2025 |  |  |  |  |  | DNAPL felvizi |  |  |  |  | X | Méréshatár feletti, de "B" alatti szennyezettségeket mutat rendszerint  |
+|  17 | CLRT-A106 | 655577,99 | 247318,77 | 2024 |  |  |  |  |  | DNAPL felvizi |  |  |  |  | X | A CLRT-07 is ugyanitt lehatároló, de javasolt a megtartása, mert CLRT-07 túl közel van a peremhez (CLRT-07 emiatt néha méréshatár feletti szennyezettséget mutat, CLRT-A106 nem)  |
+|  18 | CLRT-A107 | 655542,72 | 247287,93 | 2025 |  | DNAPL |  |  |  |  |  |  |  |  | X |   |
+|  19 | CLRT-A108 | 655524,70 | 247275,75 | 2025 | VOCI | DNAPL |  |  |  |  |  |  |  | X |  | Felvonulási terület igény miatt megszűnik  |
+|  20 | CLRT-A109 | 655522,02 | 247302,70 | 2024 | Olaj | DNAPL |  |  |  |  |  |  |  | X |  | LNAPL munkagödör miatt megszűnik  |
+|  21 | CLRT-A110 | 655485,40 | 247304,45 | 2024 | VOCI | DNAPL |  |  |  |  |  |  |  | X |  | DNAPL munkagödör miatt megszűnik  |
+|  22 | CLRT-A111 | 655457,28 | 247288,59 | 2024 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  23 | CLRT-A112 | 655424,52 | 247286,39 | 2024 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  24 | CLRT-A113 | 655441,67 | 247325,38 | 2024 |  | DNAPL |  |  |  |  |  |  |  |  | X |   |
+|  25 | CLRT-A114 | 655406,97 | 247343,18 | 2024 |  | DNAPL |  |  |  |  |  |  |  |  | X |   |
+|  26 | CLRT-A115 | 655461,91 | 247349,80 | 2024 |  | DNAPL |  |  |  |  |  |  |  |  | X |   |
+|  27 | CLRT-A116 | 655482,18 | 247330,81 | 2024 | VOCI | DNAPL |  |  |  |  |  |  |  | X |  | Felvonulási terület igény miatt megszűnik  |
+|  28 | CLRT-A117 | 655438,08 | 247371,82 | 2024 |  | DNAPL |  |  |  |  |  |  |  |  | X |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+252/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+![ADAPT ENVIRO KFT logo]()
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócte-rület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis | Javaslat monitoring rendszerhez kapcsolódóan |   |   |   | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatá-roló |   | Fennmarad, nem kell a monitoringhoz | Megszüntetés most | Csak I. szakaszban használat (ideiglenes marad) | I. és II. szakaszban használat (vízjogi engedélyes monitoring kút)  |   |
+|  29 | CLRT-A118 | 655329,64 | 247337,72 | 2024 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  30 | CLRT-A119 | 655370,66 | 247407,02 | 2024 |  |  | DNAPL |  |  |  |  |  |  |  | X |   |
+|  31 | CLRT-A120 | 655408,29 | 247459,04 | 2024 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  32 | CLRT-A121 | 655490,34 | 247557,05 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  33 | CLRT-A122 | 655598,33 | 247404,39 | 2024 |  |  |  |  |  | DNAPL felvízi |  |  |  |  | X |   |
+|  34 | CLRT-A123 | 655607,86 | 247280,67 | 2024 |  |  |  |  |  | DNAPL felvízi |  |  |  |  | X |   |
+|  35 | CLRT-A124 | 655487,95 | 247193,36 | 2024 |  |  |  |  |  | DNAPL felvízi |  |  |  |  | X |   |
+|  36 | CLRT-A201 | 655491,18 | 247290,79 | 2025 | VOCI | DNAPL |  |  |  |  |  |  |  | X |  | DNAPL munkagödör miatt megszűnik  |
+|  37 | CLRT-A202 | 655490,43 | 247369,08 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  38 | CLRT-A203 | 655528,64 | 247255,98 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  39 | CLRT-A204 | 655523,11 | 247390,89 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  40 | CLRT-A205 | 655484,36 | 247395,03 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  41 | CLRT-A206 | 655454,53 | 247267,82 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  42 | CLRT-A207 | 655456,70 | 247252,91 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  43 | CLRT-A208 | 655516,26 | 247229,27 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  44 | CLRT-A209 | 655389,37 | 247236,64 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  45 | CLRT-A210 | 655365,17 | 247297,60 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  46 | CLRT-A211 | 655451,69 | 247428,94 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  47 | CLRT-A212 | 655508,17 | 247430,98 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+253/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócte-rület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis | Javaslat monitoring rendszerhez kapcsolódóan |   |   |   | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatá-roló |   | Fennma-rad, nem kell a monito-ringhoz | Megszün-tetés most | Csak I. szakaszban használat (ideiglenes marad) | I. és II. szakaszban használat (vízjogi engedélyes monitoring kút)  |   |
+|  48 | CLRT-A213 | 655563,29 | 247432,27 | 2025 |  |  |  |  |  | DNAPL felvízi |  |  |  |  | X |   |
+|  49 | CLRT-A215 | 655620,82 | 247219,13 | 2025 |  |  |  |  |  | DNAPL felvízi |  |  |  |  | X |   |
+|  50 | CLRT-A216 | 655568,44 | 247204,50 | 2025 |  |  |  |  |  | DNAPL felvízi |  |  |  |  | X |   |
+|  51 | CLRT-A217 | 655302,00 | 247281,75 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X | Gyakorlatilag lehatároló, "B" közeli értékeket mutat  |
+|  52 | CLRT-A218 | 655258,03 | 247373,59 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  53 | CLRT-A219 | 655251,67 | 247479,12 | 2025 |  |  | DNAPL |  |  |  |  |  |  |  | X |   |
+|  54 | CLRT-A220 | 655334,84 | 247532,69 | 2025 |  |  | DNAPL |  |  |  |  |  |  |  | X |   |
+|  55 | CLRT-A221 | 655435,97 | 247514,14 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  56 | CLRT-A224 | 655569,57 | 247278,84 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X | Óvoda udvarán elhelyezett kútpár mély tagja  |
+|  57 | CLRT-A225 | 655542,80 | 247474,10 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  58 | CLRT-A226 | 655434,62 | 247293,20 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  59 | CLRT-A227 | 655460,96 | 247315,22 | 2025 |  | DNAPL |  |  |  |  |  |  |  |  | X |   |
+|  60 | CLRT-A228 | 655130,49 | 247340,77 | 2025 |  |  |  |  |  | DNAPL alvízi |  |  |  |  | X |   |
+|  61 | CLRT-A229 | 655099,64 | 247573,69 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  62 | CLRT-A230 | 655229,52 | 247701,05 | 2025 |  |  |  |  | DNAPL |  |  |  |  |  | X |   |
+|  63 | CLRT-A231 | 654867,55 | 247919,71 | 2025 |  |  |  |  |  | DNAPL alvízi |  |  |  |  | X |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+254/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+![ADEPT ENVIRO KFT logo]()
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócte-rület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis | Javaslat monitoring rendszerhez kapcsolódóan |   |   |   | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatá-roló |   | Fennmarad, nem kell a monitoringhoz | Megszüntetés most | Csak I. szakaszban használat (ideiglenes marad) | I. és II. szakaszban használat (vízjogi engedélyes monitoring kút)  |   |
+|  64 | CLRT-A232 | 655190,67 | 247912,50 | 2025 |  |  |  |  |  | DNAPL alvízi |  |  |  |  | X |   |
+|  65 | CLRT-A233 | 654951,18 | 247582,50 | 2025 |  |  |  |  |  | DNAPL alvízi |  |  |  |  | X |   |
+|  66 | CLRT-A234 | 655042,00 | 247843,00 | 2026 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  67 | CLRT-A235 | 655320,00 | 247838,00 | 2026 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  68 | CLRT-A236 | 655442,00 | 247683,00 | 2026 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  69 | CLRT-A237 | 655468,00 | 247904,00 | 2026 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  70 | CLRT-A238 | 655225,00 | 247610,00 | 2026 |  |  | DNAPL |  |  |  |  |  |  |  | X |   |
+|  71 | CLRT-A239 | 655356,00 | 247620,30 | 2026 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  72 | CLRT-A240 | 654804,00 | 247734,00 | 2026 |  |  |  |  |  | DNAPL alvízi |  |  |  |  | X |   |
+|  73 | CLRT-A241 | 654975,00 | 248043,00 | 2026 |  |  |  |  |  | DNAPL alvízi |  |  |  |  | X |   |
+|  74 | CLRT-A242 | 655327,00 | 248077,00 | 2026 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  75 | CLRT-F01 | 655549,53 | 247335,16 | 2024 | Olaj | LNAPL |  | DNAPL |  |  | Igen |  |  | X |  | LNAPL munkagödör miatt megszűnik  |
+|  76 | CLRT-F04 | 655619,70 | 247326,25 | 2025 |  |  |  |  |  | DNAPL felvízi |  |  |  |  | X |   |
+|  77 | CLRT-F07 | 655566,57 | 247303,28 | 2025 |  |  |  |  |  | LNAPL DNAPL felvízi |  |  |  |  | X |   |
+|  78 | CLRT-F14 | 655461,92 | 247301,60 | 2025 |  | DNAPL |  | LNAPL |  |  |  |  |  |  | X |   |
+|  79 | CLRT-F16 | 655484,81 | 247247,68 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+255/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis | Javaslat monitoring rendszerhez kapcsolódóan |   |   |   | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatároló |   | Fennmarad, nem kell a monitoringhoz | Megszüntetés most | Csak I. szakaszban használat (ideiglenes marad) | I. és II. szakaszban használat (vízjogi engedélyes monitoring kút)  |   |
+|  80 | CLRT-F101 | 655543,46 | 247313,02 | 2024 | Olaj | LNAPL |  | DNAPL |  |  | Igen |  |  | X |  | LNAPL munkagödör miatt megszűnik  |
+|  81 | CLRT-F102 | 655523,32 | 247316,95 | 2024 | Olaj |  |  | LNAPL DNAPL |  |  |  |  |  | X |  | LNAPL munkagödör miatt megszűnik  |
+|  82 | CLRT-F103 | 655527,79 | 247353,41 | 2024 |  |  |  | LNAPL DNAPL |  |  |  |  |  | X |  | Felvonulási terület igény miatt megszűnik  |
+|  83 | CLRT-F104 | 655555,36 | 247368,79 | 2024 |  |  |  | DNAPL |  | LNAPL alvízi |  |  |  |  | X |   |
+|  84 | CLRT-F105 | 655578,62 | 247343,94 | 2024 |  |  |  | DNAPL |  | LNAPL felvízi |  |  |  |  | X |   |
+|  85 | CLRT-F106 | 655579,36 | 247317,83 | 2024 |  |  |  |  |  | LNAPL DNAPL felvízi |  |  |  |  | X |   |
+|  86 | CLRT-F107 | 655541,85 | 247286,19 | 2024 |  | DNAPL |  |  |  | LNAPL felvízi |  |  |  |  | X |   |
+|  87 | CLRT-F108 | 655524,00 | 247275,97 | 2024 | VOCI | DNAPL |  |  |  | LNAPL felvízi |  |  |  | X |  | Felvonulási terület igény miatt megszűnik  |
+|  88 | CLRT-F109 | 655521,24 | 247302,81 | 2024 | Olaj | LNAPL |  | DNAPL |  |  | Igen |  |  | X |  | LNAPL munkagödör miatt megszűnik  |
+|  89 | CLRT-F110 | 655485,86 | 247303,41 | 2024 | VOCI | DNAPL |  | LNAPL |  |  |  |  |  | X |  | DNAPL munkagödör miatt megszűnik  |
+|  90 | CLRT-F111 | 655457,61 | 247289,72 | 2024 |  | DNAPL |  | LNAPL |  |  |  |  |  |  | X |   |
+|  91 | CLRT-F112 | 655424,98 | 247287,43 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  92 | CLRT-F113 | 655441,12 | 247324,14 | 2024 |  | DNAPL |  |  |  |  |  |  |  |  | X |   |
+|  93 | CLRT-F114 | 655407,61 | 247344,62 | 2025 |  | DNAPL |  |  |  |  |  |  |  |  | X |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+256/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócte-rület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis | Javaslat monitoring rendszerhez kapcsolódóan |   |   |   | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatá-roló |   | Fennmarad, nem kell a monitó-ringhoz | Megszün-tetés most | Csak I. szakaszban használat (ideiglenes marad) | I. és II. szakaszban használat (vízjogi engedélyes monitoring kút)  |   |
+|  94 | CLRT-F115 | 655462,36 | 247351,03 | 2025 |  | DNAPL |  |  |  | LNAPL alvízi |  |  |  |  | X |   |
+|  95 | CLRT-F116 | 655482,88 | 247329,15 | 2025 | VOCI | DNAPL |  | LNAPL |  |  |  |  |  |  | X |   |
+|  96 | CLRT-F117 | 655438,70 | 247372,71 | 2025 |  | DNAPL |  |  |  |  |  |  |  |  | X | Az alacsony mért érték a negatív redoxpotenciál miatti erős bomlásra vezethető vissza, de ettől még a csóvamaghoz tartozik.  |
+|  97 | CLRT-F118 | 655329,00 | 247337,00 | 2026 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  98 | CLRT-F119 | 655371,06 | 247407,78 | 2025 |  |  | DNAPL |  |  |  |  |  |  |  | X |   |
+|  99 | CLRT-F120 | 655409,00 | 247460,00 | 2026 |  |  | DNAPL |  |  |  |  |  |  |  | X | CLRT-A120-szal szemben ez a furat a csóvagerinchez közel esik (oka: nem teljesen azonos a trajektóriája az alsó és a felső szinten keletkezett csóvának)  |
+|  100 | CLRT-F122 | 655599,22 | 247403,61 | 2025 |  |  |  |  |  | DNAPL felvízi |  |  |  |  | X |   |
+|  101 | CLRT-F123 | 655621,60 | 247269,21 | 2025 |  |  |  |  |  | DNAPL felvízi |  |  |  |  | X |   |
+|  102 | CLRT-F201 | 655491,99 | 247289,72 | 2025 | VOCI | DNAPL |  | LNAPL |  |  |  |  |  | X |  | DNAPL munkagödör miatt megszűnik  |
+|  103 | CLRT-F202 | 655490,43 | 247369,08 | 2025 |  |  |  | DNAPL |  | LNAPL alvízi |  |  |  |  | X |   |
+|  104 | CLRT-F203 | 655526,93 | 247252,56 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  105 | CLRT-F204 | 655521,90 | 247391,55 | 2025 |  |  |  | DNAPL |  | LNAPL alvízi |  |  |  |  | X |   |
+|  106 | CLRT-F205 | 655485,08 | 247394,54 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+257/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+![ADAPT ENVIRO KFT logo]()
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.  
+ Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713  
+ adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócte-rület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis | Javaslat monitoring rendszerhez kapcsolódóan |   |   |   | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatá-roló |   | Fennmarad, nem kell a monitoringhoz | Megszüntetés most | Csak I. szakaszban használat (ideiglenes marad) | I. és II. szakaszban használat (vízjogi engedélyes monitoring kút)  |   |
+|  107 | CLRT-F206 | 655454,14 | 247267,14 | 2025 |  |  |  | LNAPL DNAPL |  |  |  |  |  |  | X |   |
+|  108 | CLRT-F207 | 655457,08 | 247253,54 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  109 | CLRT-F208 | 655515,67 | 247228,03 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  110 | CLRT-F210 | 655364,57 | 247298,03 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  111 | CLRT-F212 | 655507,76 | 247430,55 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X | Kissé magasabb értékeket mutat rendszerint, de peremterületen, tisztázandó  |
+|  112 | CLRT-F213 | 655564,22 | 247431,51 | 2025 |  |  |  |  |  | DNAPL felvízi |  |  |  |  | X | 'B' közeli értékeket mutat rendszerint  |
+|  113 | CLRT-F214 | 655643,90 | 247376,87 | 2025 |  |  |  |  |  | DNAPL felvízi |  |  |  |  | X |   |
+|  114 | CLRT-F215 | 655621,72 | 247218,52 | 2025 |  |  |  |  |  | DNAPL felvízi |  |  |  |  | X |   |
+|  115 | CLRT-F216 | 655569,21 | 247204,75 | 2025 |  |  |  |  |  | DNAPL felvízi |  |  |  |  | X |   |
+|  116 | CLRT-F218 | 655257,00 | 247373,00 | 2026 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  117 | CLRT-F219 | 655251,00 | 247480,00 | 2026 |  |  | DNAPL |  |  |  |  |  |  |  | X | Csóvaperem és gerinc határán van  |
+|  118 | CLRT-F220 | 655334,00 | 247532,00 | 2026 |  |  | DNAPL |  |  |  |  |  |  |  | X |   |
+|  119 | CLRT-F221 | 655435,50 | 247513,01 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  120 | CLRT-F224 | 655569,98 | 247279,49 | 2025 |  |  |  | DNAPL |  | LNAPL felvízi |  |  |  |  | X |   |
+|  121 | CLRT-F226 | 655434,30 | 247292,39 | 2025 |  | DNAPL |  |  |  |  |  |  |  |  | X |   |
+|  122 | CLRT-F227 | 655460,07 | 247314,05 | 2025 |  | DNAPL |  |  |  |  |  |  |  |  | X |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+258/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócte-rület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis | Javaslat monitoring rendszerhez kapcsolódóan |   |   |   | Megjegyzés  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatá-roló |   | Fennma-rad, nem kell a monito-ringhoz | Megszün-tetés most | Csak I. szakaszban használat (ideiglenes marad) | I. és II. szakaszban használat (vízjogi engedélyes monitoring kút)  |   |
+|  123 | CLRT-F228 | 655130,45 | 247340,76 | 2025 |  |  |  |  |  | DNAPL alvízi |  |  |  |  | X |   |
+|  124 | CLRT-F229 | 655100,50 | 247574,35 | 2025 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  125 | CLRT-F230 | 655229,58 | 247701,06 | 2025 |  |  |  |  | DNAPL |  |  |  |  |  | X |   |
+|  126 | CLRT-F236 | 655443,00 | 247685,00 | 2026 |  |  |  | DNAPL |  |  |  |  |  |  | X |   |
+|  127 | CLRT-F238 | 655226,00 | 247612,00 | 2026 |  |  | DNAPL |  |  |  |  |  |  |  | X |   |
+|  128 | CLRT-F239 | 655357,00 | 247622,00 | 2026 |  |  | DNAPL |  |  |  |  |  |  |  | X | Csóvaperem és gerinc határán van  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+259/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A 122 pont az elszennyezett mindösszesen 47 ha területre vetítve ha-onként 2,6 vizsgálati pontot (valamivel több, mint egy kútpárt) jelent.
+
+Azért, hogy ilyen mennyiségű vizsgálati pont vizsgálati igényét ésszerű szintre szorítsuk, a pontok elhelyezkedéséhez igazodó szelektív vizsgálati programot javaslunk, mely szerint a csóvamag, csóvagerinc és csóvafronton elhelyezkedő pontoknak negyedévente, a csóvaperemen és alvízi lehatároló pozícióban található pontoknak féléves periódusokban, a felvízi pozícióban elhelyezkedő pontokat pedig évente történjen meg a vizsgálata. Tekintettel arra, hogy egyes vizsgálati pontok egyes szennyezettségi típusok esetén más és más vizsgálati periódusba esnek, ezért a pontos vizsgálati programot a félreértések elkerülése érdekében negyedéves bontásban adjuk meg. A vizsgálati program ezek alapján az alábbiak szerint alakul.
+
+Az egyes időszakokban a vizsgálati program stratégiája azonos:
+
+- Amennyiben egy adott pont esetén LNAPL szennyezettség merül fel, akkor azon a ponton TPH+BTEX+PAH, valamint általános vízkémia (ÁVK) vizsgálatot szükséges végezni.
+- Amennyiben egy adott pont esetén DNAPL szennyezettség merül fel, akkor azon a ponton illékony halogénezett alifás szénhidrogének vizsgálatot szükséges végezni, valamint az általános vízkémiai paraméterek közül a klorid mennyiséget.
+
+Minden pont esetében különösen fontos odafigyelni arra, hogy a vízmintavétel az adott ponton szivattyúzással kinyert felszín alatti víz legalább 3 db jellemző paraméterének állandóságáig történjen, mely paraméterek között kötelezően az egyik a redoxpotenciál kell legyen. A vízmintavételi jegyzőkönyvön rögzíteni szükséges az állandósult redoxpotenciál mértékét.
+
+# Első és harmadik negyedéves vizsgálati program
+
+Ebben a két időszakban összesen alkalmanként 41 db pontot javaslunk vizsgálatra, az alábbiak szerint.
+
+13.2. szövegközti táblázat. Monitoring I. szakasz, első és harmadik negyedéves vizsgálati program, pontok
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócterület | Vizsgálati pont elhelyezkedése |   |   | Önálló fázis  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-front  |   |
+|  1 | CLRT-10 | 655535,22 | 247294,93 | 2023 | Olaj | DNAPL |  |  |   |
+|  2 | CLRT-14 | 655460,75 | 247302,05 | 2023 |  | DNAPL |  |  |   |
+|  3 | CLRT-A107 | 655542,72 | 247287,93 | 2025 |  | DNAPL |  |  |   |
+|  4 | CLRT-A108 | 655524,70 | 247275,75 | 2025 | VOCI | DNAPL |  |  |   |
+|  5 | CLRT-A109 | 655522,02 | 247302,70 | 2024 | Olaj | DNAPL |  |  |   |
+|  6 | CLRT-A110 | 655485,40 | 247304,45 | 2024 | VOCI | DNAPL |  |  |   |
+|  7 | CLRT-A113 | 655441,67 | 247325,38 | 2024 |  | DNAPL |  |  |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+260/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+![Logo of ADEPT ENVIRO KFT (Adept Enviro Kft)]()
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócterület | Vizsgálati pont elhelyezkedése |   |   | Önálló fázis  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-front  |   |
+|  8 | CLRT-A114 | 655406,97 | 247343,18 | 2024 |  | DNAPL |  |  |   |
+|  9 | CLRT-A115 | 655461,91 | 247349,80 | 2024 |  | DNAPL |  |  |   |
+|  10 | CLRT-A116 | 655482,18 | 247330,81 | 2024 | VOCI | DNAPL |  |  |   |
+|  11 | CLRT-A117 | 655438,08 | 247371,82 | 2024 |  | DNAPL |  |  |   |
+|  12 | CLRT-A119 | 655370,66 | 247407,02 | 2024 |  |  | DNAPL |  |   |
+|  13 | CLRT-A201 | 655491,18 | 247290,79 | 2025 | VOCI | DNAPL |  |  |   |
+|  14 | CLRT-A219 | 655251,67 | 247479,12 | 2025 |  |  | DNAPL |  |   |
+|  15 | CLRT-A220 | 655334,84 | 247532,69 | 2025 |  |  | DNAPL |  |   |
+|  16 | CLRT-A227 | 655460,96 | 247315,22 | 2025 |  | DNAPL |  |  |   |
+|  17 | CLRT-A230 | 655229,52 | 247701,05 | 2025 |  |  |  | DNAPL |   |
+|  18 | CLRT-A238 | 655225,00 | 247610,00 | 2026 |  |  | DNAPL |  |   |
+|  19 | CLRT-F01 | 655549,53 | 247335,16 | 2024 | Olaj | LNAPL |  |  | Igen  |
+|  20 | CLRT-F14 | 655461,92 | 247301,60 | 2025 |  | DNAPL |  |  |   |
+|  21 | CLRT-F101 | 655543,46 | 247313,02 | 2024 | Olaj | LNAPL |  |  | Igen  |
+|  22 | CLRT-F107 | 655541,85 | 247286,19 | 2024 |  | DNAPL |  |  |   |
+|  23 | CLRT-F108 | 655524,00 | 247275,97 | 2024 | VOCI | DNAPL |  |  |   |
+|  24 | CLRT-F109 | 655521,24 | 247302,81 | 2024 | Olaj | LNAPL |  |  | Igen  |
+|  25 | CLRT-F110 | 655485,86 | 247303,41 | 2024 | VOCI | DNAPL |  |  |   |
+|  26 | CLRT-F111 | 655457,61 | 247289,72 | 2024 |  | DNAPL |  |  |   |
+|  27 | CLRT-F113 | 655441,12 | 247324,14 | 2024 |  | DNAPL |  |  |   |
+|  28 | CLRT-F114 | 655407,61 | 247344,62 | 2025 |  | DNAPL |  |  |   |
+|  29 | CLRT-F115 | 655462,36 | 247351,03 | 2025 |  | DNAPL |  |  |   |
+|  30 | CLRT-F116 | 655482,88 | 247329,15 | 2025 | VOCI | DNAPL |  |  |   |
+|  31 | CLRT-F117 | 655438,70 | 247372,71 | 2025 |  | DNAPL |  |  |   |
+|  32 | CLRT-F119 | 655371,06 | 247407,78 | 2025 |  |  | DNAPL |  |   |
+|  33 | CLRT-F120 | 655409,00 | 247460,00 | 2026 |  |  | DNAPL |  |   |
+|  34 | CLRT-F201 | 655491,99 | 247289,72 | 2025 | VOCI | DNAPL |  |  |   |
+|  35 | CLRT-F219 | 655251,00 | 247480,00 | 2026 |  |  | DNAPL |  |   |
+|  36 | CLRT-F220 | 655334,00 | 247532,00 | 2026 |  |  | DNAPL |  |   |
+|  37 | CLRT-F226 | 655434,30 | 247292,39 | 2025 |  | DNAPL |  |  |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+261/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+![ADAPT ENVIRO KFT logo]()
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.  
+ Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713  
+ adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVÓGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati pont elhelyezkedése |   |   | Önálló fázis  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-front  |   |
+|  38 | CLRT-F227 | 655460,07 | 247314,05 | 2025 |  | DNAPL |  |  |   |
+|  39 | CLRT-F230 | 655229,58 | 247701,06 | 2025 |  |  |  | DNAPL |   |
+|  40 | CLRT-F238 | 655226,00 | 247612,00 | 2026 |  |  | DNAPL |  |   |
+|  41 | CLRT-F239 | 655357,00 | 247622,00 | 2026 |  |  | DNAPL |  |   |
+
+A vizsgálati irányokat az alábbi táblázat mutatja be.
+
+# **13.3. szövegközti táblázat.** Monitoring I. szakasz, első és harmadik negyedéves vizsgálati program, vizsgálati irányok
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati irányok  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  ÁVK | Klorid | TPH, BTEX és PAH | VOCI  |
+|  1 | CLRT-10 | 655535,22 | 247294,93 | 2023 | Olaj |  | Igen |  | Igen  |
+|  2 | CLRT-14 | 655460,75 | 247302,05 | 2023 |  |  | Igen |  | Igen  |
+|  3 | CLRT-A107 | 655542,72 | 247287,93 | 2025 |  |  | Igen |  | Igen  |
+|  4 | CLRT-A108 | 655524,70 | 247275,75 | 2025 | VOCI |  | Igen |  | Igen  |
+|  5 | CLRT-A109 | 655522,02 | 247302,70 | 2024 | Olaj |  | Igen |  | Igen  |
+|  6 | CLRT-A110 | 655485,40 | 247304,45 | 2024 | VOCI |  | Igen |  | Igen  |
+|  7 | CLRT-A113 | 655441,67 | 247325,38 | 2024 |  |  | Igen |  | Igen  |
+|  8 | CLRT-A114 | 655406,97 | 247343,18 | 2024 |  |  | Igen |  | Igen  |
+|  9 | CLRT-A115 | 655461,91 | 247349,80 | 2024 |  |  | Igen |  | Igen  |
+|  10 | CLRT-A116 | 655482,18 | 247330,81 | 2024 | VOCI |  | Igen |  | Igen  |
+|  11 | CLRT-A117 | 655438,08 | 247371,82 | 2024 |  |  | Igen |  | Igen  |
+|  12 | CLRT-A119 | 655370,66 | 247407,02 | 2024 |  |  | Igen |  | Igen  |
+|  13 | CLRT-A201 | 655491,18 | 247290,79 | 2025 | VOCI |  | Igen |  | Igen  |
+|  14 | CLRT-A219 | 655251,67 | 247479,12 | 2025 |  |  | Igen |  | Igen  |
+|  15 | CLRT-A220 | 655334,84 | 247532,69 | 2025 |  |  | Igen |  | Igen  |
+|  16 | CLRT-A227 | 655460,96 | 247315,22 | 2025 |  |  | Igen |  | Igen  |
+|  17 | CLRT-A230 | 655229,52 | 247701,05 | 2025 |  |  | Igen |  | Igen  |
+|  18 | CLRT-A238 | 655225,00 | 247610,00 | 2026 |  |  | Igen |  | Igen  |
+|  19 | CLRT-F01 | 655549,53 | 247335,16 | 2024 | Olaj | Igen |  | Igen | Igen  |
+|  20 | CLRT-F14 | 655461,92 | 247301,60 | 2025 |  | Igen |  | Igen | Igen  |
+|  21 | CLRT-F101 | 655543,46 | 247313,02 | 2024 | Olaj | Igen |  | Igen | Igen  |
+|  22 | CLRT-F107 | 655541,85 | 247286,19 | 2024 |  | Igen |  | Igen | Igen  |
+|  23 | CLRT-F108 | 655524,00 | 247275,97 | 2024 | VOCI | Igen |  | Igen | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+262/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati irányok  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  ÁVK | Klorid | TPH, BTEX és PAH | VOCI  |
+|  24 | CLRT-F109 | 655521,24 | 247302,81 | 2024 | Olaj | Igen |  | Igen | Igen  |
+|  25 | CLRT-F110 | 655485,86 | 247303,41 | 2024 | VOCI | Igen |  | Igen | Igen  |
+|  26 | CLRT-F111 | 655457,61 | 247289,72 | 2024 |  | Igen |  | Igen | Igen  |
+|  27 | CLRT-F113 | 655441,12 | 247324,14 | 2024 |  |  | Igen |  | Igen  |
+|  28 | CLRT-F114 | 655407,61 | 247344,62 | 2025 |  |  | Igen |  | Igen  |
+|  29 | CLRT-F115 | 655462,36 | 247351,03 | 2025 |  | Igen |  | Igen | Igen  |
+|  30 | CLRT-F116 | 655482,88 | 247329,15 | 2025 | VOCI | Igen |  | Igen | Igen  |
+|  31 | CLRT-F117 | 655438,70 | 247372,71 | 2025 |  |  | Igen |  | Igen  |
+|  32 | CLRT-F119 | 655371,06 | 247407,78 | 2025 |  |  | Igen |  | Igen  |
+|  33 | CLRT-F120 | 655409,00 | 247460,00 | 2026 |  |  | Igen |  | Igen  |
+|  34 | CLRT-F201 | 655491,99 | 247289,72 | 2025 | VOCI | Igen |  | Igen | Igen  |
+|  35 | CLRT-F219 | 655251,00 | 247480,00 | 2026 |  |  | Igen |  | Igen  |
+|  36 | CLRT-F220 | 655334,00 | 247532,00 | 2026 |  |  | Igen |  | Igen  |
+|  37 | CLRT-F226 | 655434,30 | 247292,39 | 2025 |  |  | Igen |  | Igen  |
+|  38 | CLRT-F227 | 655460,07 | 247314,05 | 2025 |  |  | Igen |  | Igen  |
+|  39 | CLRT-F230 | 655229,58 | 247701,06 | 2025 |  |  | Igen |  | Igen  |
+|  40 | CLRT-F238 | 655226,00 | 247612,00 | 2026 |  |  | Igen |  | Igen  |
+|  41 | CLRT-F239 | 655357,00 | 247622,00 | 2026 |  |  | Igen |  | Igen  |
+
+### Második negyedéves (féléves) vizsgálati program
+
+A féléves vizsgálati program végrehajtásának időszakában a negyedéves és féléves esedékes vizsgálatokat időben egyszerre javasolt végrehajtani. Összesen 103 db féléves periódussal vizsgálandó pontot javaslunk, az alábbiak szerint.
+
+**13.4. szövegközti táblázat.** Monitoring I. szakasz, javasolt féléves vizsgálati program, pontok
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatároló  |   |
+|  1 | CLRT-01 | 655552,09 | 247334,26 | 2023 | Olaj |  |  | DNAPL |  |  |   |
+|  2 | CLRT-10 | 655535,22 | 247294,93 | 2023 | Olaj | DNAPL |  |  |  |  |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+263/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.  
+ Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713  
+ adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVÓGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócte-rület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatá-roló  |   |
+|  3 | CLRT-14 | 655460,75 | 247302,05 | 2023 |  | DNAPL |  |  |  |  |   |
+|  4 | CLRT-16 | 655485,68 | 247247,30 | 2023 |  |  |  | DNAPL |  |  |   |
+|  5 | CLRT-23 | 655484,30 | 247480,85 | 2023 |  |  |  | DNAPL |  |  |   |
+|  6 | CLRT-A102 | 655524,30 | 247316,07 | 2025 | Olaj |  |  | DNAPL |  |  |   |
+|  7 | CLRT-A103 | 655526,58 | 247354,19 | 2024 | Olaj |  |  | DNAPL |  |  |   |
+|  8 | CLRT-A107 | 655542,72 | 247287,93 | 2025 |  | DNAPL |  |  |  |  |   |
+|  9 | CLRT-A108 | 655524,70 | 247275,75 | 2025 | VOCI | DNAPL |  |  |  |  |   |
+|  10 | CLRT-A109 | 655522,02 | 247302,70 | 2024 | Olaj | DNAPL |  |  |  |  |   |
+|  11 | CLRT-A110 | 655485,40 | 247304,45 | 2024 | VOCI | DNAPL |  |  |  |  |   |
+|  12 | CLRT-A111 | 655457,28 | 247288,59 | 2024 |  |  |  | DNAPL |  |  |   |
+|  13 | CLRT-A112 | 655424,52 | 247286,39 | 2024 |  |  |  | DNAPL |  |  |   |
+|  14 | CLRT-A113 | 655441,67 | 247325,38 | 2024 |  | DNAPL |  |  |  |  |   |
+|  15 | CLRT-A114 | 655406,97 | 247343,18 | 2024 |  | DNAPL |  |  |  |  |   |
+|  16 | CLRT-A115 | 655461,91 | 247349,80 | 2024 |  | DNAPL |  |  |  |  |   |
+|  17 | CLRT-A116 | 655482,18 | 247330,81 | 2024 | VOCI | DNAPL |  |  |  |  |   |
+|  18 | CLRT-A117 | 655438,08 | 247371,82 | 2024 |  | DNAPL |  |  |  |  |   |
+|  19 | CLRT-A118 | 655329,64 | 247337,72 | 2024 |  |  |  | DNAPL |  |  |   |
+|  20 | CLRT-A119 | 655370,66 | 247407,02 | 2024 |  |  | DNAPL |  |  |  |   |
+|  21 | CLRT-A120 | 655408,29 | 247459,04 | 2024 |  |  |  | DNAPL |  |  |   |
+|  22 | CLRT-A121 | 655490,34 | 247557,05 | 2025 |  |  |  | DNAPL |  |  |   |
+|  23 | CLRT-A201 | 655491,18 | 247290,79 | 2025 | VOCI | DNAPL |  |  |  |  |   |
+|  24 | CLRT-A202 | 655490,43 | 247369,08 | 2025 |  |  |  | DNAPL |  |  |   |
+|  25 | CLRT-A203 | 655528,64 | 247255,98 | 2025 |  |  |  | DNAPL |  |  |   |
+|  26 | CLRT-A204 | 655523,11 | 247390,89 | 2025 |  |  |  | DNAPL |  |  |   |
+|  27 | CLRT-A205 | 655484,36 | 247395,03 | 2025 |  |  |  | DNAPL |  |  |   |
+|  28 | CLRT-A206 | 655454,53 | 247267,82 | 2025 |  |  |  | DNAPL |  |  |   |
+|  29 | CLRT-A207 | 655456,70 | 247252,91 | 2025 |  |  |  | DNAPL |  |  |   |
+|  30 | CLRT-A208 | 655516,26 | 247229,27 | 2025 |  |  |  | DNAPL |  |  |   |
+|  31 | CLRT-A209 | 655389,37 | 247236,64 | 2025 |  |  |  | DNAPL |  |  |   |
+|  32 | CLRT-A210 | 655365,17 | 247297,60 | 2025 |  |  |  | DNAPL |  |  |   |
+|  33 | CLRT-A211 | 655451,69 | 247428,94 | 2025 |  |  |  | DNAPL |  |  |   |
+|  34 | CLRT-A212 | 655508,17 | 247430,98 | 2025 |  |  |  | DNAPL |  |  |   |
+|  35 | CLRT-A217 | 655302,00 | 247281,75 | 2025 |  |  |  | DNAPL |  |  |   |
+|  36 | CLRT-A218 | 655258,03 | 247373,59 | 2025 |  |  |  | DNAPL |  |  |   |
+|  37 | CLRT-A219 | 655251,67 | 247479,12 | 2025 |  |  | DNAPL |  |  |  |   |
+|  38 | CLRT-A220 | 655334,84 | 247532,69 | 2025 |  |  | DNAPL |  |  |  |   |
+|  39 | CLRT-A221 | 655435,97 | 247514,14 | 2025 |  |  |  | DNAPL |  |  |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+264/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+![Logo of ADEPT ENVIRO KFT (Adept Enviro Kft)]()
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócte-rület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatá-roló  |   |
+|  40 | CLRT-A224 | 655569,57 | 247278,84 | 2025 |  |  |  | DNAPL |  |  |   |
+|  41 | CLRT-A225 | 655542,80 | 247474,10 | 2025 |  |  |  | DNAPL |  |  |   |
+|  42 | CLRT-A226 | 655434,62 | 247293,20 | 2025 |  |  |  | DNAPL |  |  |   |
+|  43 | CLRT-A227 | 655460,96 | 247315,22 | 2025 |  | DNAPL |  |  |  |  |   |
+|  44 | CLRT-A228 | 655130,49 | 247340,77 | 2025 |  |  |  |  |  | DNAPL alvízi |   |
+|  45 | CLRT-A229 | 655099,64 | 247573,69 | 2025 |  |  |  | DNAPL |  |  |   |
+|  46 | CLRT-A230 | 655229,52 | 247701,05 | 2025 |  |  |  |  | DNAPL |  |   |
+|  47 | CLRT-A231 | 654867,55 | 247919,71 | 2025 |  |  |  |  |  | DNAPL alvízi |   |
+|  48 | CLRT-A232 | 655190,67 | 247912,50 | 2025 |  |  |  |  |  | DNAPL alvízi |   |
+|  49 | CLRT-A233 | 654951,18 | 247582,50 | 2025 |  |  |  |  |  | DNAPL alvízi |   |
+|  50 | CLRT-A234 | 655042,00 | 247843,00 | 2026 |  |  |  | DNAPL |  |  |   |
+|  51 | CLRT-A235 | 655320,00 | 247838,00 | 2026 |  |  |  | DNAPL |  |  |   |
+|  52 | CLRT-A236 | 655442,00 | 247683,00 | 2026 |  |  |  | DNAPL |  |  |   |
+|  53 | CLRT-A237 | 655468,00 | 247904,00 | 2026 |  |  |  | DNAPL |  |  |   |
+|  54 | CLRT-A238 | 655225,00 | 247610,00 | 2026 |  |  | DNAPL |  |  |  |   |
+|  55 | CLRT-A239 | 655356,00 | 247620,30 | 2026 |  |  |  | DNAPL |  |  |   |
+|  56 | CLRT-A240 | 654804,00 | 247734,00 | 2026 |  |  |  |  |  | DNAPL alvízi |   |
+|  57 | CLRT-A241 | 654975,00 | 248043,00 | 2026 |  |  |  |  |  | DNAPL alvízi |   |
+|  58 | CLRT-A242 | 655327,00 | 248077,00 | 2026 |  |  |  | DNAPL |  |  |   |
+|  59 | CLRT-F01 | 655549,53 | 247335,16 | 2024 | Olaj | LNAPL |  | DNAPL |  |  | Igen  |
+|  60 | CLRT-F14 | 655461,92 | 247301,60 | 2025 |  | DNAPL |  | LNAPL |  |  |   |
+|  61 | CLRT-F16 | 655484,81 | 247247,68 | 2025 |  |  |  | DNAPL |  |  |   |
+|  62 | CLRT-F101 | 655543,46 | 247313,02 | 2024 | Olaj | LNAPL |  | DNAPL |  |  | Igen  |
+|  63 | CLRT-F102 | 655523,32 | 247316,95 | 2024 | Olaj |  |  | LNAPL DNAPL |  |  |   |
+|  64 | CLRT-F103 | 655527,79 | 247353,41 | 2024 | Olaj |  |  | LNAPL DNAPL |  |  |   |
+|  65 | CLRT-F104 | 655555,36 | 247368,79 | 2024 |  |  |  | DNAPL |  | LNAPL alvízi |   |
+|  66 | CLRT-F105 | 655578,62 | 247343,94 | 2024 |  |  |  | DNAPL |  |  |   |
+|  67 | CLRT-F107 | 655541,85 | 247286,19 | 2024 |  | DNAPL |  |  |  |  |   |
+|  68 | CLRT-F108 | 655524,00 | 247275,97 | 2024 | VOCI | DNAPL |  |  |  |  |   |
+|  69 | CLRT-F109 | 655521,24 | 247302,81 | 2024 | Olaj | LNAPL |  | DNAPL |  |  | Igen  |
+|  70 | CLRT-F110 | 655485,86 | 247303,41 | 2024 | VOCI | DNAPL |  | LNAPL |  |  |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+265/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócte-rület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatá-roló  |   |
+|  71 | CLRT-F111 | 655457,61 | 247289,72 | 2024 |  | DNAPL |  | LNAPL |  |  |   |
+|  72 | CLRT-F112 | 655424,98 | 247287,43 | 2025 |  |  |  | DNAPL |  |  |   |
+|  73 | CLRT-F113 | 655441,12 | 247324,14 | 2024 |  | DNAPL |  |  |  |  |   |
+|  74 | CLRT-F114 | 655407,61 | 247344,62 | 2025 |  | DNAPL |  |  |  |  |   |
+|  75 | CLRT-F115 | 655462,36 | 247351,03 | 2025 |  | DNAPL |  |  |  | LNAPL alvízi |   |
+|  76 | CLRT-F116 | 655482,88 | 247329,15 | 2025 | VOCI | DNAPL |  | LNAPL |  |  |   |
+|  77 | CLRT-F117 | 655438,70 | 247372,71 | 2025 |  | DNAPL |  |  |  |  |   |
+|  78 | CLRT-F118 | 655329,00 | 247337,00 | 2026 |  |  |  | DNAPL |  |  |   |
+|  79 | CLRT-F119 | 655371,06 | 247407,78 | 2025 |  |  | DNAPL |  |  |  |   |
+|  80 | CLRT-F120 | 655409,00 | 247460,00 | 2026 |  |  | DNAPL |  |  |  |   |
+|  81 | CLRT-F201 | 655491,99 | 247289,72 | 2025 | VOCI | DNAPL |  | LNAPL |  |  |   |
+|  82 | CLRT-F202 | 655490,43 | 247369,08 | 2025 |  |  |  | DNAPL |  | LNAPL alvízi |   |
+|  83 | CLRT-F203 | 655526,93 | 247252,56 | 2025 |  |  |  | DNAPL |  |  |   |
+|  84 | CLRT-F204 | 655521,90 | 247391,55 | 2025 |  |  |  | DNAPL |  | LNAPL alvízi |   |
+|  85 | CLRT-F205 | 655485,08 | 247394,54 | 2025 |  |  |  | DNAPL |  |  |   |
+|  86 | CLRT-F206 | 655454,14 | 247267,14 | 2025 |  |  |  | LNAPL DNAPL |  |  |   |
+|  87 | CLRT-F207 | 655457,08 | 247253,54 | 2025 |  |  |  | DNAPL |  |  |   |
+|  88 | CLRT-F208 | 655515,67 | 247228,03 | 2025 |  |  |  | DNAPL |  |  |   |
+|  89 | CLRT-F210 | 655364,57 | 247298,03 | 2025 |  |  |  | DNAPL |  |  |   |
+|  90 | CLRT-F212 | 655507,76 | 247430,55 | 2025 |  |  |  | DNAPL |  |  |   |
+|  91 | CLRT-F218 | 655257,00 | 247373,00 | 2026 |  |  |  | DNAPL |  |  |   |
+|  92 | CLRT-F219 | 655251,00 | 247480,00 | 2026 |  |  | DNAPL |  |  |  |   |
+|  93 | CLRT-F220 | 655334,00 | 247532,00 | 2026 |  |  | DNAPL |  |  |  |   |
+|  94 | CLRT-F221 | 655435,50 | 247513,01 | 2025 |  |  |  | DNAPL |  |  |   |
+|  95 | CLRT-F224 | 655569,98 | 247279,49 | 2025 |  |  |  | DNAPL |  |  |   |
+|  96 | CLRT-F226 | 655434,30 | 247292,39 | 2025 |  | DNAPL |  |  |  |  |   |
+|  97 | CLRT-F227 | 655460,07 | 247314,05 | 2025 |  | DNAPL |  |  |  |  |   |
+|  98 | CLRT-F228 | 655130,45 | 247340,76 | 2025 |  |  |  |  |  | DNAPL alvízi |   |
+|  99 | CLRT-F229 | 655100,50 | 247574,35 | 2025 |  |  |  | DNAPL |  |  |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+266/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+![ADAPT ENVIRO KFT logo]()
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.  
+ Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713  
+ adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVÓGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatároló  |   |
+|  100 | CLRT-F230 | 655229,58 | 247701,06 | 2025 |  |  |  |  | DNAPL |  |   |
+|  101 | CLRT-F236 | 655443,00 | 247685,00 | 2026 |  |  |  | DNAPL |  |  |   |
+|  102 | CLRT-F238 | 655226,00 | 247612,00 | 2026 |  |  | DNAPL |  |  |  |   |
+|  103 | CLRT-F239 | 655357,00 | 247622,00 | 2026 |  |  | DNAPL |  |  |  |   |
+
+A vizsgálati irányokat az alábbi táblázat mutatja be.
+
+# **13.5. szövegközti táblázat.** Monitoring I. szakasz, javasolt féléves vizsgálati program, vizsgálati irányok
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati irányok  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  ÁVK | Klorid | TPH, BTEX és PAH | VOCI  |
+|  1 | CLRT-01 | 655552,09 | 247334,26 | 2023 | Olaj |  | Igen |  | Igen  |
+|  2 | CLRT-10 | 655535,22 | 247294,93 | 2023 | Olaj |  | Igen |  | Igen  |
+|  3 | CLRT-14 | 655460,75 | 247302,05 | 2023 |  |  | Igen |  | Igen  |
+|  4 | CLRT-16 | 655485,68 | 247247,30 | 2023 |  |  | Igen |  | Igen  |
+|  5 | CLRT-23 | 655484,30 | 247480,85 | 2023 |  |  | Igen |  | Igen  |
+|  6 | CLRT-A102 | 655524,30 | 247316,07 | 2025 | Olaj |  | Igen |  | Igen  |
+|  7 | CLRT-A103 | 655526,58 | 247354,19 | 2024 | Olaj |  | Igen |  | Igen  |
+|  8 | CLRT-A107 | 655542,72 | 247287,93 | 2025 |  |  | Igen |  | Igen  |
+|  9 | CLRT-A108 | 655524,70 | 247275,75 | 2025 | VOCI |  | Igen |  | Igen  |
+|  10 | CLRT-A109 | 655522,02 | 247302,70 | 2024 | Olaj |  | Igen |  | Igen  |
+|  11 | CLRT-A110 | 655485,40 | 247304,45 | 2024 | VOCI |  | Igen |  | Igen  |
+|  12 | CLRT-A111 | 655457,28 | 247288,59 | 2024 |  |  | Igen |  | Igen  |
+|  13 | CLRT-A112 | 655424,52 | 247286,39 | 2024 |  |  | Igen |  | Igen  |
+|  14 | CLRT-A113 | 655441,67 | 247325,38 | 2024 |  |  | Igen |  | Igen  |
+|  15 | CLRT-A114 | 655406,97 | 247343,18 | 2024 |  |  | Igen |  | Igen  |
+|  16 | CLRT-A115 | 655461,91 | 247349,80 | 2024 |  |  | Igen |  | Igen  |
+|  17 | CLRT-A116 | 655482,18 | 247330,81 | 2024 | VOCI |  | Igen |  | Igen  |
+|  18 | CLRT-A117 | 655438,08 | 247371,82 | 2024 |  |  | Igen |  | Igen  |
+|  19 | CLRT-A118 | 655329,64 | 247337,72 | 2024 |  |  | Igen |  | Igen  |
+|  20 | CLRT-A119 | 655370,66 | 247407,02 | 2024 |  |  | Igen |  | Igen  |
+|  21 | CLRT-A120 | 655408,29 | 247459,04 | 2024 |  |  | Igen |  | Igen  |
+|  22 | CLRT-A121 | 655490,34 | 247557,05 | 2025 |  |  | Igen |  | Igen  |
+|  23 | CLRT-A201 | 655491,18 | 247290,79 | 2025 | VOCI |  | Igen |  | Igen  |
+|  24 | CLRT-A202 | 655490,43 | 247369,08 | 2025 |  |  | Igen |  | Igen  |
+|  25 | CLRT-A203 | 655528,64 | 247255,98 | 2025 |  |  | Igen |  | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+267/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati irányok  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  ÁVK | Klorid | TPH, BTEX és PAH | VOCI  |
+|  26 | CLRT-A204 | 655523,11 | 247390,89 | 2025 |  |  | Igen |  | Igen  |
+|  27 | CLRT-A205 | 655484,36 | 247395,03 | 2025 |  |  | Igen |  | Igen  |
+|  28 | CLRT-A206 | 655454,53 | 247267,82 | 2025 |  |  | Igen |  | Igen  |
+|  29 | CLRT-A207 | 655456,70 | 247252,91 | 2025 |  |  | Igen |  | Igen  |
+|  30 | CLRT-A208 | 655516,26 | 247229,27 | 2025 |  |  | Igen |  | Igen  |
+|  31 | CLRT-A209 | 655389,37 | 247236,64 | 2025 |  |  | Igen |  | Igen  |
+|  32 | CLRT-A210 | 655365,17 | 247297,60 | 2025 |  |  | Igen |  | Igen  |
+|  33 | CLRT-A211 | 655451,69 | 247428,94 | 2025 |  |  | Igen |  | Igen  |
+|  34 | CLRT-A212 | 655508,17 | 247430,98 | 2025 |  |  | Igen |  | Igen  |
+|  35 | CLRT-A217 | 655302,00 | 247281,75 | 2025 |  |  | Igen |  | Igen  |
+|  36 | CLRT-A218 | 655258,03 | 247373,59 | 2025 |  |  | Igen |  | Igen  |
+|  37 | CLRT-A219 | 655251,67 | 247479,12 | 2025 |  |  | Igen |  | Igen  |
+|  38 | CLRT-A220 | 655334,84 | 247532,69 | 2025 |  |  | Igen |  | Igen  |
+|  39 | CLRT-A221 | 655435,97 | 247514,14 | 2025 |  |  | Igen |  | Igen  |
+|  40 | CLRT-A224 | 655569,57 | 247278,84 | 2025 |  |  | Igen |  | Igen  |
+|  41 | CLRT-A225 | 655542,80 | 247474,10 | 2025 |  |  | Igen |  | Igen  |
+|  42 | CLRT-A226 | 655434,62 | 247293,20 | 2025 |  |  | Igen |  | Igen  |
+|  43 | CLRT-A227 | 655460,96 | 247315,22 | 2025 |  |  | Igen |  | Igen  |
+|  44 | CLRT-A228 | 655130,49 | 247340,77 | 2025 |  |  | Igen |  | Igen  |
+|  45 | CLRT-A229 | 655099,64 | 247573,69 | 2025 |  |  | Igen |  | Igen  |
+|  46 | CLRT-A230 | 655229,52 | 247701,05 | 2025 |  |  | Igen |  | Igen  |
+|  47 | CLRT-A231 | 654867,55 | 247919,71 | 2025 |  |  | Igen |  | Igen  |
+|  48 | CLRT-A232 | 655190,67 | 247912,50 | 2025 |  |  | Igen |  | Igen  |
+|  49 | CLRT-A233 | 654951,18 | 247582,50 | 2025 |  |  | Igen |  | Igen  |
+|  50 | CLRT-A234 | 655042,00 | 247843,00 | 2026 |  |  | Igen |  | Igen  |
+|  51 | CLRT-A235 | 655320,00 | 247838,00 | 2026 |  |  | Igen |  | Igen  |
+|  52 | CLRT-A236 | 655442,00 | 247683,00 | 2026 |  |  | Igen |  | Igen  |
+|  53 | CLRT-A237 | 655468,00 | 247904,00 | 2026 |  |  | Igen |  | Igen  |
+|  54 | CLRT-A238 | 655225,00 | 247610,00 | 2026 |  |  | Igen |  | Igen  |
+|  55 | CLRT-A239 | 655356,00 | 247620,30 | 2026 |  |  | Igen |  | Igen  |
+|  56 | CLRT-A240 | 654804,00 | 247734,00 | 2026 |  |  | Igen |  | Igen  |
+|  57 | CLRT-A241 | 654975,00 | 248043,00 | 2026 |  |  | Igen |  | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+268/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati irányok  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  ÁVK | Klorid | TPH, BTEX és PAH | VOCI  |
+|  58 | CLRT-A242 | 655327,00 | 248077,00 | 2026 |  |  | Igen |  | Igen  |
+|  59 | CLRT-F01 | 655549,53 | 247335,16 | 2024 | Olaj | Igen |  | Igen | Igen  |
+|  60 | CLRT-F14 | 655461,92 | 247301,60 | 2025 |  | Igen |  | Igen | Igen  |
+|  61 | CLRT-F16 | 655484,81 | 247247,68 | 2025 |  |  | Igen |  | Igen  |
+|  62 | CLRT-F101 | 655543,46 | 247313,02 | 2024 | Olaj | Igen |  | Igen | Igen  |
+|  63 | CLRT-F102 | 655523,32 | 247316,95 | 2024 | Olaj | Igen |  | Igen | Igen  |
+|  64 | CLRT-F103 | 655527,79 | 247353,41 | 2024 | Olaj | Igen |  | Igen | Igen  |
+|  65 | CLRT-F104 | 655555,36 | 247368,79 | 2024 |  |  | Igen |  | Igen  |
+|  66 | CLRT-F105 | 655578,62 | 247343,94 | 2024 |  |  | Igen |  | Igen  |
+|  67 | CLRT-F107 | 655541,85 | 247286,19 | 2024 |  |  | Igen |  | Igen  |
+|  68 | CLRT-F108 | 655524,00 | 247275,97 | 2024 | VOCI |  | Igen |  | Igen  |
+|  69 | CLRT-F109 | 655521,24 | 247302,81 | 2024 | Olaj | Igen |  | Igen | Igen  |
+|  70 | CLRT-F110 | 655485,86 | 247303,41 | 2024 | VOCI | Igen |  | Igen | Igen  |
+|  71 | CLRT-F111 | 655457,61 | 247289,72 | 2024 |  | Igen |  | Igen | Igen  |
+|  72 | CLRT-F112 | 655424,98 | 247287,43 | 2025 |  |  | Igen |  | Igen  |
+|  73 | CLRT-F113 | 655441,12 | 247324,14 | 2024 |  |  | Igen |  | Igen  |
+|  74 | CLRT-F114 | 655407,61 | 247344,62 | 2025 |  |  | Igen |  | Igen  |
+|  75 | CLRT-F115 | 655462,36 | 247351,03 | 2025 |  | Igen |  | Igen | Igen  |
+|  76 | CLRT-F116 | 655482,88 | 247329,15 | 2025 | VOCI | Igen |  | Igen | Igen  |
+|  77 | CLRT-F117 | 655438,70 | 247372,71 | 2025 |  |  | Igen |  | Igen  |
+|  78 | CLRT-F118 | 655329,00 | 247337,00 | 2026 |  |  | Igen |  | Igen  |
+|  79 | CLRT-F119 | 655371,06 | 247407,78 | 2025 |  |  | Igen |  | Igen  |
+|  80 | CLRT-F120 | 655409,00 | 247460,00 | 2026 |  |  | Igen |  | Igen  |
+|  81 | CLRT-F201 | 655491,99 | 247289,72 | 2025 | VOCI | Igen |  | Igen | Igen  |
+|  82 | CLRT-F202 | 655490,43 | 247369,08 | 2025 |  | Igen |  | Igen | Igen  |
+|  83 | CLRT-F203 | 655526,93 | 247252,56 | 2025 |  |  | Igen |  | Igen  |
+|  84 | CLRT-F204 | 655521,90 | 247391,55 | 2025 |  | Igen |  | Igen | Igen  |
+|  85 | CLRT-F205 | 655485,08 | 247394,54 | 2025 |  |  | Igen |  | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+269/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati irányok  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  ÁVK | Klorid | TPH, BTEX és PAH | VOCI  |
+|  86 | CLRT-F206 | 655454,14 | 247267,14 | 2025 |  | Igen |  | Igen | Igen  |
+|  87 | CLRT-F207 | 655457,08 | 247253,54 | 2025 |  |  | Igen |  | Igen  |
+|  88 | CLRT-F208 | 655515,67 | 247228,03 | 2025 |  |  | Igen |  | Igen  |
+|  89 | CLRT-F210 | 655364,57 | 247298,03 | 2025 |  |  | Igen |  | Igen  |
+|  90 | CLRT-F212 | 655507,76 | 247430,55 | 2025 |  |  | Igen |  | Igen  |
+|  91 | CLRT-F218 | 655257,00 | 247373,00 | 2026 |  |  | Igen |  | Igen  |
+|  92 | CLRT-F219 | 655251,00 | 247480,00 | 2026 |  |  | Igen |  | Igen  |
+|  93 | CLRT-F220 | 655334,00 | 247532,00 | 2026 |  |  | Igen |  | Igen  |
+|  94 | CLRT-F221 | 655435,50 | 247513,01 | 2025 |  |  | Igen |  | Igen  |
+|  95 | CLRT-F224 | 655569,98 | 247279,49 | 2025 |  |  | Igen |  | Igen  |
+|  96 | CLRT-F226 | 655434,30 | 247292,39 | 2025 |  |  | Igen |  | Igen  |
+|  97 | CLRT-F227 | 655460,07 | 247314,05 | 2025 |  |  | Igen |  | Igen  |
+|  98 | CLRT-F228 | 655130,45 | 247340,76 | 2025 |  |  | Igen |  | Igen  |
+|  99 | CLRT-F229 | 655100,50 | 247574,35 | 2025 |  |  | Igen |  | Igen  |
+|  100 | CLRT-F230 | 655229,58 | 247701,06 | 2025 |  |  | Igen |  | Igen  |
+|  101 | CLRT-F236 | 655443,00 | 247685,00 | 2026 |  |  | Igen |  | Igen  |
+|  102 | CLRT-F238 | 655226,00 | 247612,00 | 2026 |  |  | Igen |  | Igen  |
+|  103 | CLRT-F239 | 655357,00 | 247622,00 | 2026 |  |  | Igen |  | Igen  |
+
+Fontos, hogy a féléves programban egyes pontok esetében, noha azok LNAPL felvízi lehatároló pontok is egyben, nem kell az LNAPL szennyezettséghez kapcsolódó vizsgálatokat (TPH+BTEX+PAH) elvégezni.
+
+### **Negyedik negyedéves (éves) vizsgálati program**
+
+Az éves vizsgálati program végrehajtásának időszakában a negyedéves, féléves és éves esedékes vizsgálatokat időben egyszerre javasolt végrehajtani. Ekkor az összes, 122 db vizsgálati pontot vizsgálni szükséges, az alábbiak szerint.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+270/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.  
+ Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVÓGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+# **13.6. szövegközti táblázat.** Monitoring I. szakasz, javasolt éves vizsgálati program, pontok
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócte-rület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatá-roló  |   |
+|  1 | CLRT-01 | 655552,09 | 247334,26 | 2023 | Olaj |  |  | DNAPL |  |  |   |
+|  2 | CLRT-07 | 655565,59 | 247303,99 | 2023 |  |  |  |  |  | DNAPL felvízi |   |
+|  3 | CLRT-10 | 655535,22 | 247294,93 | 2023 | Olaj | DNAPL |  |  |  |  |   |
+|  4 | CLRT-14 | 655460,75 | 247302,05 | 2023 |  | DNAPL |  |  |  |  |   |
+|  5 | CLRT-16 | 655485,68 | 247247,30 | 2023 |  |  |  | DNAPL |  |  |   |
+|  6 | CLRT-23 | 655484,30 | 247480,85 | 2023 |  |  |  | DNAPL |  |  |   |
+|  7 | CLRT-24 | 655338,07 | 247184,08 | 2023 |  |  |  |  |  | DNAPL felvízi |   |
+|  8 | CLRT-A102 | 655524,30 | 247316,07 | 2025 | Olaj |  |  | DNAPL |  |  |   |
+|  9 | CLRT-A103 | 655526,58 | 247354,19 | 2024 | Olaj |  |  | DNAPL |  |  |   |
+|  10 | CLRT-A104 | 655554,29 | 247369,77 | 2025 |  |  |  |  |  | DNAPL felvízi |   |
+|  11 | CLRT-A106 | 655577,99 | 247318,77 | 2024 |  |  |  |  |  | DNAPL felvízi |   |
+|  12 | CLRT-A107 | 655542,72 | 247287,93 | 2025 |  | DNAPL |  |  |  |  |   |
+|  13 | CLRT-A108 | 655524,70 | 247275,75 | 2025 | VOCI | DNAPL |  |  |  |  |   |
+|  14 | CLRT-A109 | 655522,02 | 247302,70 | 2024 | Olaj | DNAPL |  |  |  |  |   |
+|  15 | CLRT-A110 | 655485,40 | 247304,45 | 2024 | VOCI | DNAPL |  |  |  |  |   |
+|  16 | CLRT-A111 | 655457,28 | 247288,59 | 2024 |  |  |  | DNAPL |  |  |   |
+|  17 | CLRT-A112 | 655424,52 | 247286,39 | 2024 |  |  |  | DNAPL |  |  |   |
+|  18 | CLRT-A113 | 655441,67 | 247325,38 | 2024 |  | DNAPL |  |  |  |  |   |
+|  19 | CLRT-A114 | 655406,97 | 247343,18 | 2024 |  | DNAPL |  |  |  |  |   |
+|  20 | CLRT-A115 | 655461,91 | 247349,80 | 2024 |  | DNAPL |  |  |  |  |   |
+|  21 | CLRT-A116 | 655482,18 | 247330,81 | 2024 | VOCI | DNAPL |  |  |  |  |   |
+|  22 | CLRT-A117 | 655438,08 | 247371,82 | 2024 |  | DNAPL |  |  |  |  |   |
+|  23 | CLRT-A118 | 655329,64 | 247337,72 | 2024 |  |  |  | DNAPL |  |  |   |
+|  24 | CLRT-A119 | 655370,66 | 247407,02 | 2024 |  |  | DNAPL |  |  |  |   |
+|  25 | CLRT-A120 | 655408,29 | 247459,04 | 2024 |  |  |  | DNAPL |  |  |   |
+|  26 | CLRT-A121 | 655490,34 | 247557,05 | 2025 |  |  |  | DNAPL |  |  |   |
+|  27 | CLRT-A122 | 655598,33 | 247404,39 | 2024 |  |  |  |  |  | DNAPL felvízi |   |
+|  28 | CLRT-A123 | 655607,86 | 247280,67 | 2024 |  |  |  |  |  | DNAPL felvízi |   |
+|  29 | CLRT-A124 | 655487,95 | 247193,36 | 2024 |  |  |  |  |  | DNAPL felvízi |   |
+|  30 | CLRT-A201 | 655491,18 | 247290,79 | 2025 | VOCI | DNAPL |  |  |  |  |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+271/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócte-rület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatá-roló  |   |
+|  31 | CLRT-A202 | 655490,43 | 247369,08 | 2025 |  |  |  | DNAPL |  |  |   |
+|  32 | CLRT-A203 | 655528,64 | 247255,98 | 2025 |  |  |  | DNAPL |  |  |   |
+|  33 | CLRT-A204 | 655523,11 | 247390,89 | 2025 |  |  |  | DNAPL |  |  |   |
+|  34 | CLRT-A205 | 655484,36 | 247395,03 | 2025 |  |  |  | DNAPL |  |  |   |
+|  35 | CLRT-A206 | 655454,53 | 247267,82 | 2025 |  |  |  | DNAPL |  |  |   |
+|  36 | CLRT-A207 | 655456,70 | 247252,91 | 2025 |  |  |  | DNAPL |  |  |   |
+|  37 | CLRT-A208 | 655516,26 | 247229,27 | 2025 |  |  |  | DNAPL |  |  |   |
+|  38 | CLRT-A209 | 655389,37 | 247236,64 | 2025 |  |  |  | DNAPL |  |  |   |
+|  39 | CLRT-A210 | 655365,17 | 247297,60 | 2025 |  |  |  | DNAPL |  |  |   |
+|  40 | CLRT-A211 | 655451,69 | 247428,94 | 2025 |  |  |  | DNAPL |  |  |   |
+|  41 | CLRT-A212 | 655508,17 | 247430,98 | 2025 |  |  |  | DNAPL |  |  |   |
+|  42 | CLRT-A213 | 655563,29 | 247432,27 | 2025 |  |  |  |  |  | DNAPL felvízi |   |
+|  43 | CLRT-A215 | 655620,82 | 247219,13 | 2025 |  |  |  |  |  | DNAPL felvízi |   |
+|  44 | CLRT-A216 | 655568,44 | 247204,50 | 2025 |  |  |  |  |  | DNAPL felvízi |   |
+|  45 | CLRT-A217 | 655302,00 | 247281,75 | 2025 |  |  |  | DNAPL |  |  |   |
+|  46 | CLRT-A218 | 655258,03 | 247373,59 | 2025 |  |  |  | DNAPL |  |  |   |
+|  47 | CLRT-A219 | 655251,67 | 247479,12 | 2025 |  |  | DNAPL |  |  |  |   |
+|  48 | CLRT-A220 | 655334,84 | 247532,69 | 2025 |  |  | DNAPL |  |  |  |   |
+|  49 | CLRT-A221 | 655435,97 | 247514,14 | 2025 |  |  |  | DNAPL |  |  |   |
+|  50 | CLRT-A224 | 655569,57 | 247278,84 | 2025 |  |  |  | DNAPL |  |  |   |
+|  51 | CLRT-A225 | 655542,80 | 247474,10 | 2025 |  |  |  | DNAPL |  |  |   |
+|  52 | CLRT-A226 | 655434,62 | 247293,20 | 2025 |  |  |  | DNAPL |  |  |   |
+|  53 | CLRT-A227 | 655460,96 | 247315,22 | 2025 |  | DNAPL |  |  |  |  |   |
+|  54 | CLRT-A228 | 655130,49 | 247340,77 | 2025 |  |  |  |  |  | DNAPL alvízi |   |
+|  55 | CLRT-A229 | 655099,64 | 247573,69 | 2025 |  |  |  | DNAPL |  |  |   |
+|  56 | CLRT-A230 | 655229,52 | 247701,05 | 2025 |  |  |  |  | DNAPL |  |   |
+|  57 | CLRT-A231 | 654867,55 | 247919,71 | 2025 |  |  |  |  |  | DNAPL alvízi |   |
+|  58 | CLRT-A232 | 655190,67 | 247912,50 | 2025 |  |  |  |  |  | DNAPL alvízi |   |
+|  59 | CLRT-A233 | 654951,18 | 247582,50 | 2025 |  |  |  |  |  | DNAPL alvízi |   |
+|  60 | CLRT-A234 | 655042,00 | 247843,00 | 2026 |  |  |  | DNAPL |  |  |   |
+|  61 | CLRT-A235 | 655320,00 | 247838,00 | 2026 |  |  |  | DNAPL |  |  |   |
+|  62 | CLRT-A236 | 655442,00 | 247683,00 | 2026 |  |  |  | DNAPL |  |  |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+272/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócte-rület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatá-roló  |   |
+|  63 | CLRT-A237 | 655468,00 | 247904,00 | 2026 |  |  |  | DNAPL |  |  |   |
+|  64 | CLRT-A238 | 655225,00 | 247610,00 | 2026 |  |  | DNAPL |  |  |  |   |
+|  65 | CLRT-A239 | 655356,00 | 247620,30 | 2026 |  |  |  | DNAPL |  |  |   |
+|  66 | CLRT-A240 | 654804,00 | 247734,00 | 2026 |  |  |  |  |  | DNAPL alvízi |   |
+|  67 | CLRT-A241 | 654975,00 | 248043,00 | 2026 |  |  |  |  |  | DNAPL alvízi |   |
+|  68 | CLRT-A242 | 655327,00 | 248077,00 | 2026 |  |  |  | DNAPL |  |  |   |
+|  69 | CLRT-F01 | 655549,53 | 247335,16 | 2024 | Olaj | LNAPL |  | DNAPL |  |  | Igen  |
+|  70 | CLRT-F04 | 655619,70 | 247326,25 | 2025 |  |  |  |  |  | DNAPL felvízi |   |
+|  71 | CLRT-F07 | 655566,57 | 247303,28 | 2025 |  |  |  |  |  | LNAPL DNAPL felvízi |   |
+|  72 | CLRT-F14 | 655461,92 | 247301,60 | 2025 |  | DNAPL |  | LNAPL |  |  |   |
+|  73 | CLRT-F16 | 655484,81 | 247247,68 | 2025 |  |  |  | DNAPL |  |  |   |
+|  74 | CLRT-F101 | 655543,46 | 247313,02 | 2024 | Olaj | LNAPL |  | DNAPL |  |  | Igen  |
+|  75 | CLRT-F102 | 655523,32 | 247316,95 | 2024 | Olaj |  |  | LNAPL DNAPL |  |  |   |
+|  76 | CLRT-F103 | 655527,79 | 247353,41 | 2024 | Olaj |  |  | LNAPL DNAPL |  |  |   |
+|  77 | CLRT-F104 | 655555,36 | 247368,79 | 2024 |  |  |  | DNAPL |  | LNAPL alvízi |   |
+|  78 | CLRT-F105 | 655578,62 | 247343,94 | 2024 |  |  |  | DNAPL |  | LNAPL felvízi |   |
+|  79 | CLRT-F106 | 655579,36 | 247317,83 | 2024 |  |  |  |  |  | LNAPL DNAPL felvízi |   |
+|  80 | CLRT-F107 | 655541,85 | 247286,19 | 2024 |  | DNAPL |  |  |  | LNAPL felvízi |   |
+|  81 | CLRT-F108 | 655524,00 | 247275,97 | 2024 | VOCI | DNAPL |  |  |  | LNAPL felvízi |   |
+|  82 | CLRT-F109 | 655521,24 | 247302,81 | 2024 | Olaj | LNAPL |  | DNAPL |  |  | Igen  |
+|  83 | CLRT-F110 | 655485,86 | 247303,41 | 2024 | VOCI | DNAPL |  | LNAPL |  |  |   |
+|  84 | CLRT-F111 | 655457,61 | 247289,72 | 2024 |  | DNAPL |  | LNAPL |  |  |   |
+|  85 | CLRT-F112 | 655424,98 | 247287,43 | 2025 |  |  |  | DNAPL |  |  |   |
+|  86 | CLRT-F113 | 655441,12 | 247324,14 | 2024 |  | DNAPL |  |  |  |  |   |
+|  87 | CLRT-F114 | 655407,61 | 247344,62 | 2025 |  | DNAPL |  |  |  |  |   |
+|  88 | CLRT-F115 | 655462,36 | 247351,03 | 2025 |  | DNAPL |  |  |  | LNAPL alvízi |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+273/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Léte-sítés éve | Érintett gócte-rület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatá-roló  |   |
+|  89 | CLRT-F116 | 655482,88 | 247329,15 | 2025 | VOCI | DNAPL |  | LNAPL |  |  |   |
+|  90 | CLRT-F117 | 655438,70 | 247372,71 | 2025 |  | DNAPL |  |  |  |  |   |
+|  91 | CLRT-F118 | 655329,00 | 247337,00 | 2026 |  |  |  | DNAPL |  |  |   |
+|  92 | CLRT-F119 | 655371,06 | 247407,78 | 2025 |  |  | DNAPL |  |  |  |   |
+|  93 | CLRT-F120 | 655409,00 | 247460,00 | 2026 |  |  | DNAPL |  |  |  |   |
+|  94 | CLRT-F122 | 655599,22 | 247403,61 | 2025 |  |  |  |  |  | DNAPL felvízi |   |
+|  95 | CLRT-F123 | 655621,60 | 247269,21 | 2025 |  |  |  |  |  | DNAPL felvízi |   |
+|  96 | CLRT-F201 | 655491,99 | 247289,72 | 2025 | VOCI | DNAPL |  | LNAPL |  |  |   |
+|  97 | CLRT-F202 | 655490,43 | 247369,08 | 2025 |  |  |  | DNAPL |  | LNAPL alvízi |   |
+|  98 | CLRT-F203 | 655526,93 | 247252,56 | 2025 |  |  |  | DNAPL |  |  |   |
+|  99 | CLRT-F204 | 655521,90 | 247391,55 | 2025 |  |  |  | DNAPL |  | LNAPL alvízi |   |
+|  100 | CLRT-F205 | 655485,08 | 247394,54 | 2025 |  |  |  | DNAPL |  |  |   |
+|  101 | CLRT-F206 | 655454,14 | 247267,14 | 2025 |  |  |  | LNAPL DNAPL |  |  |   |
+|  102 | CLRT-F207 | 655457,08 | 247253,54 | 2025 |  |  |  | DNAPL |  |  |   |
+|  103 | CLRT-F208 | 655515,67 | 247228,03 | 2025 |  |  |  | DNAPL |  |  |   |
+|  104 | CLRT-F210 | 655364,57 | 247298,03 | 2025 |  |  |  | DNAPL |  |  |   |
+|  105 | CLRT-F212 | 655507,76 | 247430,55 | 2025 |  |  |  | DNAPL |  |  |   |
+|  106 | CLRT-F213 | 655564,22 | 247431,51 | 2025 |  |  |  |  |  | DNAPL felvízi |   |
+|  107 | CLRT-F214 | 655643,90 | 247376,87 | 2025 |  |  |  |  |  | DNAPL felvízi |   |
+|  108 | CLRT-F215 | 655621,72 | 247218,52 | 2025 |  |  |  |  |  | DNAPL felvízi |   |
+|  109 | CLRT-F216 | 655569,21 | 247204,75 | 2025 |  |  |  |  |  | DNAPL felvízi |   |
+|  110 | CLRT-F218 | 655257,00 | 247373,00 | 2026 |  |  |  | DNAPL |  |  |   |
+|  111 | CLRT-F219 | 655251,00 | 247480,00 | 2026 |  |  | DNAPL |  |  |  |   |
+|  112 | CLRT-F220 | 655334,00 | 247532,00 | 2026 |  |  | DNAPL |  |  |  |   |
+|  113 | CLRT-F221 | 655435,50 | 247513,01 | 2025 |  |  |  | DNAPL |  |  |   |
+|  114 | CLRT-F224 | 655569,98 | 247279,49 | 2025 |  |  |  | DNAPL |  | LNAPL felvízi |   |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+274/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+![Logo of ADEPT ENVIRO KFT (Adept Enviro Kft)]()
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati pont elhelyezkedése (FAV szennyezettség, vö.: 11.3.1. ábra) |   |   |   |   | Önálló fázis  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Csóva-mag | Csóva-gerinc | Csóva-perem | Csóva-front | Lehatároló  |   |
+|  115 | CLRT-F226 | 655434,30 | 247292,39 | 2025 |  | DNAPL |  |  |  |  |   |
+|  116 | CLRT-F227 | 655460,07 | 247314,05 | 2025 |  | DNAPL |  |  |  |  |   |
+|  117 | CLRT-F228 | 655130,45 | 247340,76 | 2025 |  |  |  |  |  | DNAPL alvízi |   |
+|  118 | CLRT-F229 | 655100,50 | 247574,35 | 2025 |  |  |  | DNAPL |  |  |   |
+|  119 | CLRT-F230 | 655229,58 | 247701,06 | 2025 |  |  |  |  | DNAPL |  |   |
+|  120 | CLRT-F236 | 655443,00 | 247685,00 | 2026 |  |  |  | DNAPL |  |  |   |
+|  121 | CLRT-F238 | 655226,00 | 247612,00 | 2026 |  |  | DNAPL |  |  |  |   |
+|  122 | CLRT-F239 | 655357,00 | 247622,00 | 2026 |  |  | DNAPL |  |  |  |   |
+
+A vizsgálati irányokat az alábbi táblázat mutatja be.
+
+**13.7. szövegközti táblázat.** Monitoring I. szakasz, javasolt éves vizsgálati program, vizsgálati irányok
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati irányok  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  ÁVK | Klorid | TPH, BTEX és PAH | VOCI  |
+|  1 | CLRT-01 | 655552,09 | 247334,26 | 2023 | Olaj |  | Igen |  | Igen  |
+|  2 | CLRT-07 | 655565,59 | 247303,99 | 2023 |  |  | Igen |  | Igen  |
+|  3 | CLRT-10 | 655535,22 | 247294,93 | 2023 | Olaj |  | Igen |  | Igen  |
+|  4 | CLRT-14 | 655460,75 | 247302,05 | 2023 |  |  | Igen |  | Igen  |
+|  5 | CLRT-16 | 655485,68 | 247247,30 | 2023 |  |  | Igen |  | Igen  |
+|  6 | CLRT-23 | 655484,30 | 247480,85 | 2023 |  |  | Igen |  | Igen  |
+|  7 | CLRT-24 | 655338,07 | 247184,08 | 2023 |  |  | Igen |  | Igen  |
+|  8 | CLRT-A102 | 655524,30 | 247316,07 | 2025 | Olaj |  | Igen |  | Igen  |
+|  9 | CLRT-A103 | 655526,58 | 247354,19 | 2024 | Olaj |  | Igen |  | Igen  |
+|  10 | CLRT-A104 | 655554,29 | 247369,77 | 2025 |  |  | Igen |  | Igen  |
+|  11 | CLRT-A106 | 655577,99 | 247318,77 | 2024 |  |  | Igen |  | Igen  |
+|  12 | CLRT-A107 | 655542,72 | 247287,93 | 2025 |  |  | Igen |  | Igen  |
+|  13 | CLRT-A108 | 655524,70 | 247275,75 | 2025 | VOCI |  | Igen |  | Igen  |
+|  14 | CLRT-A109 | 655522,02 | 247302,70 | 2024 | Olaj |  | Igen |  | Igen  |
+|  15 | CLRT-A110 | 655485,40 | 247304,45 | 2024 | VOCI |  | Igen |  | Igen  |
+|  16 | CLRT-A111 | 655457,28 | 247288,59 | 2024 |  |  | Igen |  | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+275/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati irányok  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  ÁVK | Klorid | TPH, BTEX és PAH | VOCI  |
+|  17 | CLRT-A112 | 655424,52 | 247286,39 | 2024 |  |  | Igen |  | Igen  |
+|  18 | CLRT-A113 | 655441,67 | 247325,38 | 2024 |  |  | Igen |  | Igen  |
+|  19 | CLRT-A114 | 655406,97 | 247343,18 | 2024 |  |  | Igen |  | Igen  |
+|  20 | CLRT-A115 | 655461,91 | 247349,80 | 2024 |  |  | Igen |  | Igen  |
+|  21 | CLRT-A116 | 655482,18 | 247330,81 | 2024 | VOCI |  | Igen |  | Igen  |
+|  22 | CLRT-A117 | 655438,08 | 247371,82 | 2024 |  |  | Igen |  | Igen  |
+|  23 | CLRT-A118 | 655329,64 | 247337,72 | 2024 |  |  | Igen |  | Igen  |
+|  24 | CLRT-A119 | 655370,66 | 247407,02 | 2024 |  |  | Igen |  | Igen  |
+|  25 | CLRT-A120 | 655408,29 | 247459,04 | 2024 |  |  | Igen |  | Igen  |
+|  26 | CLRT-A121 | 655490,34 | 247557,05 | 2025 |  |  | Igen |  | Igen  |
+|  27 | CLRT-A122 | 655598,33 | 247404,39 | 2024 |  |  | Igen |  | Igen  |
+|  28 | CLRT-A123 | 655607,86 | 247280,67 | 2024 |  |  | Igen |  | Igen  |
+|  29 | CLRT-A124 | 655487,95 | 247193,36 | 2024 |  |  | Igen |  | Igen  |
+|  30 | CLRT-A201 | 655491,18 | 247290,79 | 2025 | VOCI |  | Igen |  | Igen  |
+|  31 | CLRT-A202 | 655490,43 | 247369,08 | 2025 |  |  | Igen |  | Igen  |
+|  32 | CLRT-A203 | 655528,64 | 247255,98 | 2025 |  |  | Igen |  | Igen  |
+|  33 | CLRT-A204 | 655523,11 | 247390,89 | 2025 |  |  | Igen |  | Igen  |
+|  34 | CLRT-A205 | 655484,36 | 247395,03 | 2025 |  |  | Igen |  | Igen  |
+|  35 | CLRT-A206 | 655454,53 | 247267,82 | 2025 |  |  | Igen |  | Igen  |
+|  36 | CLRT-A207 | 655456,70 | 247252,91 | 2025 |  |  | Igen |  | Igen  |
+|  37 | CLRT-A208 | 655516,26 | 247229,27 | 2025 |  |  | Igen |  | Igen  |
+|  38 | CLRT-A209 | 655389,37 | 247236,64 | 2025 |  |  | Igen |  | Igen  |
+|  39 | CLRT-A210 | 655365,17 | 247297,60 | 2025 |  |  | Igen |  | Igen  |
+|  40 | CLRT-A211 | 655451,69 | 247428,94 | 2025 |  |  | Igen |  | Igen  |
+|  41 | CLRT-A212 | 655508,17 | 247430,98 | 2025 |  |  | Igen |  | Igen  |
+|  42 | CLRT-A213 | 655563,29 | 247432,27 | 2025 |  |  | Igen |  | Igen  |
+|  43 | CLRT-A215 | 655620,82 | 247219,13 | 2025 |  |  | Igen |  | Igen  |
+|  44 | CLRT-A216 | 655568,44 | 247204,50 | 2025 |  |  | Igen |  | Igen  |
+|  45 | CLRT-A217 | 655302,00 | 247281,75 | 2025 |  |  | Igen |  | Igen  |
+|  46 | CLRT-A218 | 655258,03 | 247373,59 | 2025 |  |  | Igen |  | Igen  |
+|  47 | CLRT-A219 | 655251,67 | 247479,12 | 2025 |  |  | Igen |  | Igen  |
+|  48 | CLRT-A220 | 655334,84 | 247532,69 | 2025 |  |  | Igen |  | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+276/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati irányok  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  ÁVK | Klorid | TPH, BTEX és PAH | VOCI  |
+|  49 | CLRT-A221 | 655435,97 | 247514,14 | 2025 |  |  | Igen |  | Igen  |
+|  50 | CLRT-A224 | 655569,57 | 247278,84 | 2025 |  |  | Igen |  | Igen  |
+|  51 | CLRT-A225 | 655542,80 | 247474,10 | 2025 |  |  | Igen |  | Igen  |
+|  52 | CLRT-A226 | 655434,62 | 247293,20 | 2025 |  |  | Igen |  | Igen  |
+|  53 | CLRT-A227 | 655460,96 | 247315,22 | 2025 |  |  | Igen |  | Igen  |
+|  54 | CLRT-A228 | 655130,49 | 247340,77 | 2025 |  |  | Igen |  | Igen  |
+|  55 | CLRT-A229 | 655099,64 | 247573,69 | 2025 |  |  | Igen |  | Igen  |
+|  56 | CLRT-A230 | 655229,52 | 247701,05 | 2025 |  |  | Igen |  | Igen  |
+|  57 | CLRT-A231 | 654867,55 | 247919,71 | 2025 |  |  | Igen |  | Igen  |
+|  58 | CLRT-A232 | 655190,67 | 247912,50 | 2025 |  |  | Igen |  | Igen  |
+|  59 | CLRT-A233 | 654951,18 | 247582,50 | 2025 |  |  | Igen |  | Igen  |
+|  60 | CLRT-A234 | 655042,00 | 247843,00 | 2026 |  |  | Igen |  | Igen  |
+|  61 | CLRT-A235 | 655320,00 | 247838,00 | 2026 |  |  | Igen |  | Igen  |
+|  62 | CLRT-A236 | 655442,00 | 247683,00 | 2026 |  |  | Igen |  | Igen  |
+|  63 | CLRT-A237 | 655468,00 | 247904,00 | 2026 |  |  | Igen |  | Igen  |
+|  64 | CLRT-A238 | 655225,00 | 247610,00 | 2026 |  |  | Igen |  | Igen  |
+|  65 | CLRT-A239 | 655356,00 | 247620,30 | 2026 |  |  | Igen |  | Igen  |
+|  66 | CLRT-A240 | 654804,00 | 247734,00 | 2026 |  |  | Igen |  | Igen  |
+|  67 | CLRT-A241 | 654975,00 | 248043,00 | 2026 |  |  | Igen |  | Igen  |
+|  68 | CLRT-A242 | 655327,00 | 248077,00 | 2026 |  |  | Igen |  | Igen  |
+|  69 | CLRT-F01 | 655549,53 | 247335,16 | 2024 | Olaj | Igen |  | Igen | Igen  |
+|  70 | CLRT-F04 | 655619,70 | 247326,25 | 2025 |  | Igen |  | Igen | Igen  |
+|  71 | CLRT-F07 | 655566,57 | 247303,28 | 2025 |  | Igen |  | Igen | Igen  |
+|  72 | CLRT-F14 | 655461,92 | 247301,60 | 2025 |  | Igen |  | Igen | Igen  |
+|  73 | CLRT-F16 | 655484,81 | 247247,68 | 2025 |  | Igen |  |  | Igen  |
+|  74 | CLRT-F101 | 655543,46 | 247313,02 | 2024 | Olaj | Igen |  | Igen | Igen  |
+|  75 | CLRT-F102 | 655523,32 | 247316,95 | 2024 | Olaj | Igen |  | Igen | Igen  |
+|  76 | CLRT-F103 | 655527,79 | 247353,41 | 2024 | Olaj | Igen |  | Igen | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+277/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati irányok  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  ÁVK | Klorid | TPH, BTEX és PAH | VOCI  |
+|  77 | CLRT-F104 | 655555,36 | 247368,79 | 2024 |  | Igen |  | Igen | Igen  |
+|  78 | CLRT-F105 | 655578,62 | 247343,94 | 2024 |  | Igen |  | Igen | Igen  |
+|  79 | CLRT-F106 | 655579,36 | 247317,83 | 2024 |  | Igen |  | Igen | Igen  |
+|  80 | CLRT-F107 | 655541,85 | 247286,19 | 2024 |  | Igen |  | Igen | Igen  |
+|  81 | CLRT-F108 | 655524,00 | 247275,97 | 2024 | VOCI | Igen |  | Igen | Igen  |
+|  82 | CLRT-F109 | 655521,24 | 247302,81 | 2024 | Olaj | Igen |  | Igen | Igen  |
+|  83 | CLRT-F110 | 655485,86 | 247303,41 | 2024 | VOCI | Igen |  | Igen | Igen  |
+|  84 | CLRT-F111 | 655457,61 | 247289,72 | 2024 |  | Igen |  | Igen | Igen  |
+|  85 | CLRT-F112 | 655424,98 | 247287,43 | 2025 |  |  | Igen |  | Igen  |
+|  86 | CLRT-F113 | 655441,12 | 247324,14 | 2024 |  |  | Igen |  | Igen  |
+|  87 | CLRT-F114 | 655407,61 | 247344,62 | 2025 |  |  | Igen |  | Igen  |
+|  88 | CLRT-F115 | 655462,36 | 247351,03 | 2025 |  | Igen |  | Igen | Igen  |
+|  89 | CLRT-F116 | 655482,88 | 247329,15 | 2025 | VOCI | Igen |  | Igen | Igen  |
+|  90 | CLRT-F117 | 655438,70 | 247372,71 | 2025 |  |  | Igen |  | Igen  |
+|  91 | CLRT-F118 | 655329,00 | 247337,00 | 2026 |  |  | Igen |  | Igen  |
+|  92 | CLRT-F119 | 655371,06 | 247407,78 | 2025 |  |  | Igen |  | Igen  |
+|  93 | CLRT-F120 | 655409,00 | 247460,00 | 2026 |  |  | Igen |  | Igen  |
+|  94 | CLRT-F122 | 655599,22 | 247403,61 | 2025 |  |  | Igen |  | Igen  |
+|  95 | CLRT-F123 | 655621,60 | 247269,21 | 2025 |  |  | Igen |  | Igen  |
+|  96 | CLRT-F201 | 655491,99 | 247289,72 | 2025 | VOCI | Igen |  | Igen | Igen  |
+|  97 | CLRT-F202 | 655490,43 | 247369,08 | 2025 |  | Igen |  | Igen | Igen  |
+|  98 | CLRT-F203 | 655526,93 | 247252,56 | 2025 |  |  | Igen |  | Igen  |
+|  99 | CLRT-F204 | 655521,90 | 247391,55 | 2025 |  | Igen |  | Igen | Igen  |
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+278/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+|  # | Vizsgálati pont jele | EOV Y | EOV X | Létesítés éve | Érintett gócterület | Vizsgálati irányok  |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  ÁVK | Klorid | TPH, BTEX és PAH | VOCI  |
+|  100 | CLRT-F205 | 655485,08 | 247394,54 | 2025 |  |  | Igen |  | Igen  |
+|  101 | CLRT-F206 | 655454,14 | 247267,14 | 2025 |  | Igen |  | Igen | Igen  |
+|  102 | CLRT-F207 | 655457,08 | 247253,54 | 2025 |  |  | Igen |  | Igen  |
+|  103 | CLRT-F208 | 655515,67 | 247228,03 | 2025 |  |  | Igen |  | Igen  |
+|  104 | CLRT-F210 | 655364,57 | 247298,03 | 2025 |  |  | Igen |  | Igen  |
+|  105 | CLRT-F212 | 655507,76 | 247430,55 | 2025 |  |  | Igen |  | Igen  |
+|  106 | CLRT-F213 | 655564,22 | 247431,51 | 2025 |  |  | Igen |  | Igen  |
+|  107 | CLRT-F214 | 655643,90 | 247376,87 | 2025 |  |  | Igen |  | Igen  |
+|  108 | CLRT-F215 | 655621,72 | 247218,52 | 2025 |  |  | Igen |  | Igen  |
+|  109 | CLRT-F216 | 655569,21 | 247204,75 | 2025 |  |  | Igen |  | Igen  |
+|  110 | CLRT-F218 | 655257,00 | 247373,00 | 2026 |  |  | Igen |  | Igen  |
+|  111 | CLRT-F219 | 655251,00 | 247480,00 | 2026 |  |  | Igen |  | Igen  |
+|  112 | CLRT-F220 | 655334,00 | 247532,00 | 2026 |  |  | Igen |  | Igen  |
+|  113 | CLRT-F221 | 655435,50 | 247513,01 | 2025 |  |  | Igen |  | Igen  |
+|  114 | CLRT-F224 | 655569,98 | 247279,49 | 2025 |  | Igen |  | Igen | Igen  |
+|  115 | CLRT-F226 | 655434,30 | 247292,39 | 2025 |  |  | Igen |  | Igen  |
+|  116 | CLRT-F227 | 655460,07 | 247314,05 | 2025 |  |  | Igen |  | Igen  |
+|  117 | CLRT-F228 | 655130,45 | 247340,76 | 2025 |  |  | Igen |  | Igen  |
+|  118 | CLRT-F229 | 655100,50 | 247574,35 | 2025 |  |  | Igen |  | Igen  |
+|  119 | CLRT-F230 | 655229,58 | 247701,06 | 2025 |  |  | Igen |  | Igen  |
+|  120 | CLRT-F236 | 655443,00 | 247685,00 | 2026 |  |  | Igen |  | Igen  |
+|  121 | CLRT-F238 | 655226,00 | 247612,00 | 2026 |  |  | Igen |  | Igen  |
+|  122 | CLRT-F239 | 655357,00 | 247622,00 | 2026 |  |  | Igen |  | Igen  |
+
+Az egyes időszakokban elvégzendő vizsgálatok darabszámai az alábbiak szerint alakulnak.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+279/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+**13.8. szövegközti táblázat.** Monitoring vizsgálati irányok mennyiségeinek összegzése
+
+|  Időszak | Vizsgálati irányok [db]  |   |   |   |
+| --- | --- | --- | --- | --- |
+|   |  ÁVK | Klorid | TPH, BTEX és PAH | VOCI  |
+|  Q1, Első negyedév | 11 | 30 | 11 | 41  |
+|  Q2 = H1, Második negyedév (félév) | 14 | 89 | 14 | 103  |
+|  Q3, Harmadik negyedév | 11 | 30 | 11 | 41  |
+|  Q4 = H2, Negyedik negyedév (év) | 22 | 100 | 22 | 122  |
+|  **Összesen éves vizsgálat** | **58** | **249** | **58** | **307**  |
+
+Tekintettel arra, hogy a vizsgálati pontok az előzőekben bemutatottak alapján az egyes szennyezettségekhez kapcsolódóan más-más pozícióban és funkcióba vannak, a tervezett monitoring hálózatot több szemléltető ábrán lehet együttesen áttekinthetően bemutatni.
+
+Elsőként a **13.1. szövegközti ábrán** bemutatjuk az egyes javasolt monitoring pontok elhelyezkedését.
+
+A **13.1. szövegközti ábrán** az egyes pontoknak csak a sorszámát jeleztük az áttekinthetőség érdekében, tehát ahol „114” szerepel, az azt jelenti, hogy ott a CLRT-A114 (alsó szűrőzésű) és CLRT-F114 (felső szűrőzésű) pontok találhatók. Az, hogy az adott ponton 1 vagy 2 vizsgálati egység (jelenleg furat, vagy később egyesek esetében vízjogi engedélyes monitoring kút) található, a **13.1. szövegközti ábra** vizsgálati pont színezése mutatja be (lásd jelmagyarázat).
+
+A **13.2. szövegközti ábrán** bemutatjuk a sekély szintű monitoring vizsgálati pontokat, monitoring I. és II. szakaszában történő részvétel alapján csoportosítva. Az ábrán piros színűek azok a pontok, amelyek a teljes monitoring időszakban megmaradnak. Ezeket vízjogi engedélyes monitoring kúttá javasoljuk alakítani. A sárga, zöld és lila színű pontok csak jelen, a beavatkozás megkezdéséig tartó monitoring I. szakaszban működnek, a II. szakasz kezdetekor megszüntetésükre lesz szükség, mert útban lesznek a beavatkozás létesítményrészeinek, valamint a munkálatokhoz lefoglalt egyéb területeknek (közlekedő utak, depóterek). A **13.3. szövegközti ábra** a **13.2. szövegközti ábra** értelemszerű párja, csak itt a mély szintű monitoring vizsgálati pontokat mutatjuk be azonos logikával.
+
+A **13.4. szövegközti ábrán** bemutatjuk az LNAPL FAV szennyezettség monitorozására javasolt vizsgálati pontokat, a monitorozásba vont pontokat az LNAPL FAV csóvához képesti elhelyezkedésük alapján csoportosítva. Ezen ábra kizárólag sekély szintre szűrőzött vizsgálati pontokat tartalmaz, mivel az LNAPL szennyezettség a mély szintű vizsgálati pontokban nincs jelen.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+280/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)
+
+---
+
+ADÉPTE ENVIRO KFT.
+
+Szekhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adepterviro@adepterviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRODOKUMENTÁCIÓ
+
+13.1. szövegközti ábra. Javasolt monitoring vizsgálati pontok, a létesített vizsgálati pontok vizsgálati mélysége alapján csoportosítva
+
+![img-0.jpeg](img-0.jpeg)
+
+# Jelmagyarázat
+
+Piros: A helyen csak mély vizsgálati pont lett létesítve
+Lila: A helyen csak sekély vizsgálati pont lett létesítve
+Sárga: A helyen a vizsgálati pár mindkét tagja létesítve
+Zöld: A helyen csak egy vizsgálati pont lett létesítve, amely a vízföldtani viszonyokra tekintettel a sekély és mély szintet is reprezentálja
+
+![img-1.jpeg](img-1.jpeg)
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+281/287
+
+Dokumentum azonosító: 0383/7/01/02 (Készült: 2026.04.30)
+
+---
+
+ADAPT ENVIRONMENT
+
+Szekhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriásy utca 5.
+
++36-309-703-713
+
+adaptersiro@adaptersiro.com
+
+BUDAPEST XV., SZÖVŐGIÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+13.2. szövegközti ábra. Javasolt sekély szintű monitoring vizsgálati pontok, a monitoring I. és II. szakaszában részvétel alapján csoportosítva
+
+![img-2.jpeg](img-2.jpeg)
+
+# Jelmagyarázat
+
+Piros: A helyen talalhato vizsgalati pont az I. es II. szakszban is hasznalatban marad (vizogi engedelyes kuttá szukseges kiépitésuk)
+Sarga: A helyen talalhato vizsgalati pontCsak az I. szakszban lesz hasznalatban (vizogi engedelyes kuttkiepites nem szukseges), a II. koros megszuntetes oka: LNAPL munkagodor
+Zold: A helyen talalhato vizsgalati pontCsak az I. szakszban lesz hasznalatban (vizogi engedelyes kuttkiepites nem szukseges), a II. koros megszuntetes oka: DNAPL munkagodor
+Lila: A helyen talalhato vizsgalati pontCsak az I. szakszban lesz hasznalatban (vizogi engedelyes kuttkiepites nem szukseges), a II. koros megszuntetes oka: Felyonulasi terulet
+
+![img-3.jpeg](img-3.jpeg)
+
+KÉSZÍTETTE: ADAPT ENVRO KFT.
+
+282/287
+
+Dokumentum azonosító: 0383/7/01/02 (Készült: 2026.04.30)
+
+---
+
+ADAPT ENVIRO KFT.
+
+Szekhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriásy utca 5.
+
++36-309-703-713
+adepterviro@adepterviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRODOKUMENTÁCIÓ
+
+13.3. szövegközti ábra. Javasolt mély szintű monitoring vizsgálati pontok, a monitoring I. és II. szakaszában részvétel alapján csoportosítva
+
+![img-4.jpeg](img-4.jpeg)
+
+# Jelmagyarázat
+
+Piros: A helyen található vizsgálati pont az I. és II. szakaszban is használatban marad (vízjogi engedélyes kúttá szükséges kiépítése)
+Sárga: A helyen található vizsgálati pont csak az I. szakaszban lesz használatban (vízjogi engedélyes kúttá kiépítés nem szükséges), a II. körös megszüntetés oka: LNAPL munkagödör
+Zöld: A helyen található vizsgálati pont csak az I. szakaszban lesz használatban (vízjogi engedélyes kúttá kiépítés nem szükséges), a II. körös megszüntetés oka: DNAPL munkagödör
+Lila: A helyen található vizsgálati pont csak az I. szakaszban lesz használatban (vízjogi engedélyes kúttá kiépítés nem szükséges), a II. körös megszüntetés oka: Felvonulási terület
+
+![img-5.jpeg](img-5.jpeg)
+
+KÉSZÍTETTE: ADAPT ENVIRO KFT.
+
+283/287
+
+Dokumentum azonosító: 0383/7/01/02 (Készült: 2026.04.30)
+
+---
+
+ADAPT ENVIRO KIT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fsz. 2.
+Iroda: 1095 Budapest, Máriásy utca 5.
+
++36-309-703-713
+adepterviro@adepterviro.com
+
+BUDAPEST XV., SZÖVŐGIÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRIÓDOKUMENTÁCIÓ
+
+13.4. szövegközti ábra. Javasolt sekély szintű monitoring vizsgálati pontok, LNAPL szennyezettséghez viszonyított elhelyezkedés alapján csoportosítva
+
+![img-6.jpeg](img-6.jpeg)
+
+# Jelmagyarázat
+
+Piros: Csóvamagban elhelyezkedő vizsgálati pont
+Zöld: Csóvaperemen elhelyezkedő vizsgálati pont
+Szürke: Lehatároló pont, felvízi oldal
+Kék: Lehatároló pont, alvízi oldal
+
+# Megjegyzés
+
+Mély szinten nincs LNAPL FAV szennyezettség, ezért mély szinthez kapcsolódó ábra nem készíthető.
+
+KÉSZÍTETTE: ADEPT ENVIRO KIT.
+
+284/287
+
+Dokumentum azonosító: 0383/7/01/02 (Készült: 2026.04.30)
+
+---
+
+ADAPT ENVIRON KIT
+
+Szekhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+
+Iroda: 1095 Budapest, Máriásy utca 5.
+
++36-309-703-713
+
+adaptersiro@adaptersiro.com
+
+BUDAPEST XV., SZÖVŐGIÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRODOKUMENTÁCIÓ
+
+13.5. szövegközti ábra. Javasolt sekély szintű monitoring vizsgálati pontok, DNAPL szennyezettséghez viszonyított elhelyezkedés alapján csoportosítva
+
+![img-7.jpeg](img-7.jpeg)
+
+# Jelmagyarázat
+
+Piros: Csovamagban elhelyezked vizsgalati pont
+Zöld: Csóvaperemen elhelyezked vizsgalati pont
+Sarga: Csovagerincen elhelyezked vizsgalati pont
+Lila: Csovafronton elhelyezked vizsgalati pont
+Szurke: Lehatarol pont, felvizi oldal
+Kek: Lehatarol pont, alvizi oldal
+
+# Megjegyzés
+
+A sekély szintű szennyezettség elterjedést mutató DNAPL ábra készítése során a CLRT-A232 - CLRT-A235, CLRT-A237, CLRT-A240 - CLRT-A242 jelű vizsgálati pontok eredményét is fel kell használni, amely pontok a 13.6. szövegközti ábrán tekinthetők át.
+
+![img-8.jpeg](img-8.jpeg)
+
+KÉSZÍTETTE: ADAPT ENVIRON KIT.
+
+285/287
+
+Dokumentum azonosító: 0383/7/01/02 (Készült: 2026.04.30)
+
+---
+
+ADAPT ENVIRO KFT.
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriásy utca 5.
+
++36-309-703-713
+adepterviro@adepterviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRODOKUMENTÁCIÓ
+
+13.6. szövegközti ábra. Javasolt mély szintű monitoring vizsgálati pontok, DNAPL szennyezettséghez viszonyított elhelyezkedés alapján csoportosítva
+
+![img-9.jpeg](img-9.jpeg)
+
+# Jelmagyarázat
+
+Piros: Csóvamagban elhelyezkedő vizsgálati pont
+Zöld: Csóvaperemen elhelyezkedő vizsgálati pont
+Sárga: Csóvagerincen elhelyezkedő vizsgálati pont
+Lila: Csóvafronton elhelyezkedő vizsgálati pont
+Szürke: Lehatároló pont, felvízi oldal
+Kék: Lehatároló pont, alvízi oldal
+
+![img-10.jpeg](img-10.jpeg)
+
+KÉSZÍTETTE: ADAPT ENVIRO KFT.
+
+286/287
+
+Dokumentum azonosító: 0383/7/01/02 (Készült: 2026.04.30)
+
+---
+
+ADEPT ENVIRO KFT
+
+Székhely: 1117 Budapest, Lágymányosi utca 12. Fszt. 2.
+Iroda: 1095 Budapest, Máriássy utca 5.
+
++36-309-703-713
+adeptenviro@adeptenviro.com
+
+BUDAPEST XV., SZÖVŐGYÁR UTCA 19-21.
+
+KIEGÉSZÍTŐ TÉNYFELTÁRÁSI ZÁRÓDOKUMENTÁCIÓ
+
+A **13.5. szövegközti ábrán** bemutatjuk a DNAPL FAV szennyezettség monitorozására javasolt, sekélyen szűrőzött vizsgálati pontokat, a monitorozásba vont pontokat a sekély szintű DNAPL FAV csóvához képesti elhelyezkedésük alapján csoportosítva. Tekintettel arra, hogy a DNAPL FAV szennyezettség a mély zónát is érinti, ennek az ábrának a **13.6. szövegközti ábra** a párja, amely ugyanezt mutatja be, csak a mély szintű vizsgálati pontokkal.
+
+### 13.1. KÁRMENTESÍTÉSI MONITORING II. SZAKASZ
+
+Javasolt a II. szakasz monitoring terv készítési és jóváhagyási feladatot a leendő kivitelező által készített kiviteli tervbe, vagy ahhoz kapcsolódó feladatként delegálni, hogy az összhangban lehessen a kivitelező megvalósításhoz kapcsolódó sajátos műszaki elképzelések és technológiai igényekhez.
+
+A kivitelezés megkezdésének javasolt, hogy szükséges feltétele legyen a jóváhagyott vízjogi létesítési engedély, a kivitelezés első operatív szakaszában (felvonulás, terepi előkészítés) lehet jóváhagyni az üzemeltetési engedélyt, addig az I. szakasz szerinti üzemelés fenntartásával.
+
+KÉSZÍTETTE: ADEPT ENVIRO KFT.
+
+287/287
+
+Dokumentum azonosító: 0383/T/01/02 (Készült: 2026.04.30)

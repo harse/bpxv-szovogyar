@@ -1,0 +1,2437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121234334193414,
+          47.56987868903223
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-01",
+        "ssz": "1",
+        "eov_y": 655552.09,
+        "eov_x": 247334.26,
+        "year": "2023",
+        "gocterulet": "Olaj",
+        "megjegyzes": "LNAPL munkagödör miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12211382461409,
+          47.56981588966953
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-04",
+        "ssz": "2",
+        "eov_y": 655618.27,
+        "eov_x": 247327.34,
+        "year": "2023",
+        "gocterulet": "",
+        "megjegyzes": "DNAPL mély csóva felvízi tiszta oldalon van, CLRT-A106 és CLRT-07 közelebbi lehatárolók, ezért megszüntethető."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12137619938777,
+          47.570593581226994
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-05",
+        "ssz": "3",
+        "eov_y": 655562.69,
+        "eov_x": 247413.75,
+        "year": "Régi",
+        "gocterulet": "",
+        "megjegyzes": "Családiház udvarán kút, CLRT-A104, CLRT-A122 és CLRT-A213 helyettesíti, nem kell vizsgálni, nem kell megszüntetni."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121413383413284,
+          47.56960630937031
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-07",
+        "ssz": "4",
+        "eov_y": 655565.59,
+        "eov_x": 247303.99,
+        "year": "2023",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121009636058897,
+          47.569525072116946
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-10",
+        "ssz": "5",
+        "eov_y": 655535.22,
+        "eov_x": 247294.93,
+        "year": "2023",
+        "gocterulet": "Olaj",
+        "megjegyzes": "LNAPL munkagödör miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1200199724899,
+          47.56958973020745
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-14",
+        "ssz": "6",
+        "eov_y": 655460.75,
+        "eov_x": 247302.05,
+        "year": "2023",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120350639034147,
+          47.56909707016671
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-16",
+        "ssz": "7",
+        "eov_y": 655485.68,
+        "eov_x": 247247.3,
+        "year": "2023",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121099938515044,
+          47.570731552438794
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-17",
+        "ssz": "8",
+        "eov_y": 655541.89,
+        "eov_x": 247429.07,
+        "year": "Régi",
+        "gocterulet": "",
+        "megjegyzes": "Családiház udvarán kút, CLRT-A204 és CLRT-A212 helyettesíti, nem kell vizsgálni, nem kell megszüntetni."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12193882701645,
+          47.570611754103496
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-18",
+        "ssz": "9",
+        "eov_y": 655605.02,
+        "eov_x": 247415.81,
+        "year": "Régi",
+        "gocterulet": "",
+        "megjegyzes": "Családiház udvarán kút, CLRT-A122 helyettesíti, nem kell vizsgálni, nem kell megszüntetni."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.119570248439885,
+          47.5703055287918
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-22",
+        "ssz": "10",
+        "eov_y": 655426.84,
+        "eov_x": 247381.6,
+        "year": "2023",
+        "gocterulet": "",
+        "megjegyzes": "Csóvagerincen helyezkedik el, 14 méterre van tőle a CLRT-A117 jelű furat, ami miatt fenntartása indokolatlan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12033514795287,
+          47.57119777094038
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-23",
+        "ssz": "11",
+        "eov_y": 655484.3,
+        "eov_x": 247480.85,
+        "year": "2023",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.118388080740612,
+          47.568529633721774
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-24",
+        "ssz": "12",
+        "eov_y": 655338.07,
+        "eov_x": 247184.08,
+        "year": "2023",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12297025985471,
+          47.57008823765938
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-25",
+        "ssz": "13",
+        "eov_y": 655682.68,
+        "eov_x": 247357.68,
+        "year": "2023",
+        "gocterulet": "",
+        "megjegyzes": "DNAPL mély csóva felvizi tiszta oldalon van, CLRT-A106 és CLRT-07 közelebbi lehatárolók, ezért megszüntethető."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120864762699252,
+          47.56971530897324
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A102",
+        "ssz": "14",
+        "eov_y": 655524.3,
+        "eov_x": 247316.07,
+        "year": "2025",
+        "gocterulet": "Olaj",
+        "megjegyzes": "LNAPL munkagödör miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12089553412689,
+          47.570058164268346
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A103",
+        "ssz": "15",
+        "eov_y": 655526.58,
+        "eov_x": 247354.19,
+        "year": "2024",
+        "gocterulet": "Olaj",
+        "megjegyzes": "Felvonulási terület igény miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121264012590476,
+          47.570198068969646
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A104",
+        "ssz": "16",
+        "eov_y": 655554.29,
+        "eov_x": 247369.77,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": "Méréshatár feletti, de \"B\" alatti szennyezettségeket mutat rendszerint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121578370423155,
+          47.56973914555517
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A106",
+        "ssz": "17",
+        "eov_y": 655577.99,
+        "eov_x": 247318.77,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": "A CLRT-07 is ugyanitt lehatároló, de javasolt a megtartása, mert CLRT-07 túl közel van a peremhez (CLRT-07 emiatt néha méréshatár feletti szennyezettséget mutat, CLRT-A106 nem)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12110922912916,
+          47.56946204732866
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A107",
+        "ssz": "18",
+        "eov_y": 655542.72,
+        "eov_x": 247287.93,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120869583297907,
+          47.56935264321368
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A108",
+        "ssz": "19",
+        "eov_y": 655524.7,
+        "eov_x": 247275.75,
+        "year": "2025",
+        "gocterulet": "VOCI",
+        "megjegyzes": "Felvonulási terület igény miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12083429577283,
+          47.56959507008576
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A109",
+        "ssz": "20",
+        "eov_y": 655522.02,
+        "eov_x": 247302.7,
+        "year": "2024",
+        "gocterulet": "Olaj",
+        "megjegyzes": "LNAPL munkagödör miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120347615166263,
+          47.56961111412723
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A110",
+        "ssz": "21",
+        "eov_y": 655485.4,
+        "eov_x": 247304.45,
+        "year": "2024",
+        "gocterulet": "VOCI",
+        "megjegyzes": "DNAPL munkagödör miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11997369068079,
+          47.569468691356725
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A111",
+        "ssz": "22",
+        "eov_y": 655457.28,
+        "eov_x": 247288.59,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11953826494273,
+          47.56944917157469
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A112",
+        "ssz": "23",
+        "eov_y": 655424.52,
+        "eov_x": 247286.39,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.119766670186177,
+          47.56979973090186
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A113",
+        "ssz": "24",
+        "eov_y": 655441.67,
+        "eov_x": 247325.38,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.119305698476946,
+          47.569960118198885
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A114",
+        "ssz": "25",
+        "eov_y": 655406.97,
+        "eov_x": 247343.18,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120035969812978,
+          47.5700192129774
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A115",
+        "ssz": "26",
+        "eov_y": 655461.91,
+        "eov_x": 247349.8,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120305140918205,
+          47.56984823846251
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A116",
+        "ssz": "27",
+        "eov_y": 655482.18,
+        "eov_x": 247330.81,
+        "year": "2024",
+        "gocterulet": "VOCI",
+        "megjegyzes": "Felvonulási terület igény miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11971951853588,
+          47.57021746965663
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A117",
+        "ssz": "28",
+        "eov_y": 655438.08,
+        "eov_x": 247371.82,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.118277864141803,
+          47.569911632519286
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A118",
+        "ssz": "29",
+        "eov_y": 655329.64,
+        "eov_x": 247337.72,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.118823875844427,
+          47.57053462814147
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A119",
+        "ssz": "30",
+        "eov_y": 655370.66,
+        "eov_x": 247407.02,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11932463603659,
+          47.571002221986916
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A120",
+        "ssz": "31",
+        "eov_y": 655408.29,
+        "eov_x": 247459.04,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12041635652378,
+          47.57188310944124
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A121",
+        "ssz": "32",
+        "eov_y": 655490.34,
+        "eov_x": 247557.05,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121849768867413,
+          47.57050909220579
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A122",
+        "ssz": "33",
+        "eov_y": 655598.33,
+        "eov_x": 247404.39,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121974886349125,
+          47.569396199530686
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A123",
+        "ssz": "34",
+        "eov_y": 655607.86,
+        "eov_x": 247280.67,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12038014983426,
+          47.568611882372196
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A124",
+        "ssz": "35",
+        "eov_y": 655487.95,
+        "eov_x": 247193.36,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120424267999592,
+          47.56948820007212
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A201",
+        "ssz": "36",
+        "eov_y": 655491.18,
+        "eov_x": 247290.79,
+        "year": "2025",
+        "gocterulet": "VOCI",
+        "megjegyzes": "DNAPL munkagödör miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120415256435393,
+          47.57019239375535
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A202",
+        "ssz": "37",
+        "eov_y": 655490.43,
+        "eov_x": 247369.08,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120921704835183,
+          47.56917478708819
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A203",
+        "ssz": "38",
+        "eov_y": 655528.64,
+        "eov_x": 247255.98,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120849866357705,
+          47.570388295034356
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A204",
+        "ssz": "39",
+        "eov_y": 655523.11,
+        "eov_x": 247390.89,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12033489819831,
+          47.570425853828205
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A205",
+        "ssz": "40",
+        "eov_y": 655484.36,
+        "eov_x": 247395.03,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11993688957244,
+          47.56928189601053
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A206",
+        "ssz": "41",
+        "eov_y": 655454.53,
+        "eov_x": 247267.82,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.119965549019543,
+          47.569147768627055
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A207",
+        "ssz": "42",
+        "eov_y": 655456.7,
+        "eov_x": 247252.91,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12075684061868,
+          47.5689346441331
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A208",
+        "ssz": "43",
+        "eov_y": 655516.26,
+        "eov_x": 247229.27,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.119070505094527,
+          47.56900197607522
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A209",
+        "ssz": "44",
+        "eov_y": 655389.37,
+        "eov_x": 247236.64,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.118749603445806,
+          47.5695504830622
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A210",
+        "ssz": "45",
+        "eov_y": 655365.17,
+        "eov_x": 247297.6,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.119901098580574,
+          47.57073112972553
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A211",
+        "ssz": "46",
+        "eov_y": 655451.69,
+        "eov_x": 247428.94,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120651793087802,
+          47.570749012682874
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A212",
+        "ssz": "47",
+        "eov_y": 655508.17,
+        "eov_x": 247430.98,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121384403193638,
+          47.57076015620654
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A213",
+        "ssz": "48",
+        "eov_y": 655563.29,
+        "eov_x": 247432.27,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.122146362071096,
+          47.56884256194392
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A215",
+        "ssz": "49",
+        "eov_y": 655620.82,
+        "eov_x": 247219.13,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121450028793202,
+          47.56871141223086
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A216",
+        "ssz": "50",
+        "eov_y": 655568.44,
+        "eov_x": 247204.5,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.117909849730072,
+          47.56940842565936
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A217",
+        "ssz": "51",
+        "eov_y": 655302.0,
+        "eov_x": 247281.75,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": "Gyakorlatilag lehatároló, \"B\" közeli értékeket mutat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.117326537512646,
+          47.57023483940021
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A218",
+        "ssz": "52",
+        "eov_y": 655258.03,
+        "eov_x": 247373.59,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.117243240457963,
+          47.571184089943884
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A219",
+        "ssz": "53",
+        "eov_y": 655251.67,
+        "eov_x": 247479.12,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11834928892688,
+          47.57166526810444
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A220",
+        "ssz": "54",
+        "eov_y": 655334.84,
+        "eov_x": 247532.69,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.119693196119943,
+          47.57149759846588
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A221",
+        "ssz": "55",
+        "eov_y": 655435.97,
+        "eov_x": 247514.14,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121465968312688,
+          47.56938006170676
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A224",
+        "ssz": "56",
+        "eov_y": 655569.57,
+        "eov_x": 247278.84,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": "Óvoda udvarán elhelyezett kútpár mély tagja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12111258865268,
+          47.57113657168601
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A225",
+        "ssz": "57",
+        "eov_y": 655542.8,
+        "eov_x": 247474.1,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11967258201549,
+          47.569510342272345
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A226",
+        "ssz": "58",
+        "eov_y": 655434.62,
+        "eov_x": 247293.2,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12002292351956,
+          47.5697081874121
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A227",
+        "ssz": "59",
+        "eov_y": 655460.96,
+        "eov_x": 247315.22,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.115631058901847,
+          47.56994063315079
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A228",
+        "ssz": "60",
+        "eov_y": 655130.49,
+        "eov_x": 247340.77,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.115223680708887,
+          47.572035892841
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A229",
+        "ssz": "61",
+        "eov_y": 655099.64,
+        "eov_x": 247573.69,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.116951425092562,
+          47.57318043553713
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A230",
+        "ssz": "62",
+        "eov_y": 655229.52,
+        "eov_x": 247701.05,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.112142661807102,
+          47.57514994101686
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A231",
+        "ssz": "63",
+        "eov_y": 654867.55,
+        "eov_x": 247919.71,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.116437490209428,
+          47.57508264651273
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A232",
+        "ssz": "64",
+        "eov_y": 655190.67,
+        "eov_x": 247912.5,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11325056313442,
+          47.57211625703537
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A233",
+        "ssz": "65",
+        "eov_y": 654951.18,
+        "eov_x": 247582.5,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.114460592079848,
+          47.57445866660737
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A234",
+        "ssz": "66",
+        "eov_y": 655042.0,
+        "eov_x": 247843.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.118155661038237,
+          47.57441152678096
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A235",
+        "ssz": "67",
+        "eov_y": 655320.0,
+        "eov_x": 247838.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.119775385804505,
+          47.57301637667259
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A236",
+        "ssz": "68",
+        "eov_y": 655442.0,
+        "eov_x": 247683.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120123652790447,
+          47.575003967903456
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A237",
+        "ssz": "69",
+        "eov_y": 655468.0,
+        "eov_x": 247904.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.116890289743917,
+          47.57236151316714
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A238",
+        "ssz": "70",
+        "eov_y": 655225.0,
+        "eov_x": 247610.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.118631572836115,
+          47.57245311452697
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A239",
+        "ssz": "71",
+        "eov_y": 655356.0,
+        "eov_x": 247620.3,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.111295974243305,
+          47.57348001716238
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A240",
+        "ssz": "72",
+        "eov_y": 654804.0,
+        "eov_x": 247734.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11357225019493,
+          47.57625808890136
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A241",
+        "ssz": "73",
+        "eov_y": 654975.0,
+        "eov_x": 248043.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.118251535632627,
+          47.57656117720057
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-A242",
+        "ssz": "74",
+        "eov_y": 655327.0,
+        "eov_x": 248077.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121200321176282,
+          47.56988680557521
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F01",
+        "ssz": "75",
+        "eov_y": 655549.53,
+        "eov_x": 247335.16,
+        "year": "2024",
+        "gocterulet": "Olaj",
+        "megjegyzes": "LNAPL munkagödör miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12213281662494,
+          47.56980607344904
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F04",
+        "ssz": "76",
+        "eov_y": 655619.7,
+        "eov_x": 247326.25,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121426399413753,
+          47.56959991498659
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F07",
+        "ssz": "77",
+        "eov_y": 655566.57,
+        "eov_x": 247303.28,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12003551702849,
+          47.569585673015276
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F14",
+        "ssz": "78",
+        "eov_y": 655461.92,
+        "eov_x": 247301.6,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120339080953467,
+          47.569100495302074
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F16",
+        "ssz": "79",
+        "eov_y": 655484.81,
+        "eov_x": 247247.68,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12111937364893,
+          47.56968771576144
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F101",
+        "ssz": "80",
+        "eov_y": 655543.46,
+        "eov_x": 247313.02,
+        "year": "2024",
+        "gocterulet": "Olaj",
+        "megjegyzes": "LNAPL munkagödör miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120851748691788,
+          47.56972323237608
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F102",
+        "ssz": "81",
+        "eov_y": 655523.32,
+        "eov_x": 247316.95,
+        "year": "2024",
+        "gocterulet": "Olaj",
+        "megjegyzes": "LNAPL munkagödör miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120911606305718,
+          47.57005113840706
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F103",
+        "ssz": "82",
+        "eov_y": 655527.79,
+        "eov_x": 247353.41,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": "Felvonulási terület igény miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121278221584664,
+          47.570189245308285
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F104",
+        "ssz": "83",
+        "eov_y": 655555.36,
+        "eov_x": 247368.79,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12158705601409,
+          47.56996553442015
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F105",
+        "ssz": "84",
+        "eov_y": 655578.62,
+        "eov_x": 247343.94,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121596566929995,
+          47.56973067911718
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F106",
+        "ssz": "85",
+        "eov_y": 655579.36,
+        "eov_x": 247317.83,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121097644874506,
+          47.56944640397881
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F107",
+        "ssz": "86",
+        "eov_y": 655541.85,
+        "eov_x": 247286.19,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120860282621038,
+          47.56935462784992
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F108",
+        "ssz": "87",
+        "eov_y": 655524.0,
+        "eov_x": 247275.97,
+        "year": "2024",
+        "gocterulet": "VOCI",
+        "megjegyzes": "Felvonulási terület igény miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12082393045218,
+          47.56959606597777
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F109",
+        "ssz": "88",
+        "eov_y": 655521.24,
+        "eov_x": 247302.81,
+        "year": "2024",
+        "gocterulet": "Olaj",
+        "megjegyzes": "LNAPL munkagödör miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120353716153023,
+          47.56960175593973
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F110",
+        "ssz": "89",
+        "eov_y": 655485.86,
+        "eov_x": 247303.41,
+        "year": "2024",
+        "gocterulet": "VOCI",
+        "megjegyzes": "DNAPL munkagödör miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11997809028983,
+          47.56947885254798
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F111",
+        "ssz": "90",
+        "eov_y": 655457.61,
+        "eov_x": 247289.72,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.119544391154665,
+          47.56945852220655
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F112",
+        "ssz": "91",
+        "eov_y": 655424.98,
+        "eov_x": 247287.43,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11975934531567,
+          47.569788582099356
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F113",
+        "ssz": "92",
+        "eov_y": 655441.12,
+        "eov_x": 247324.14,
+        "year": "2024",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.119314221844306,
+          47.56997306521749
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F114",
+        "ssz": "93",
+        "eov_y": 655407.61,
+        "eov_x": 247344.62,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12004196558074,
+          47.57003027263799
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F115",
+        "ssz": "94",
+        "eov_y": 655462.36,
+        "eov_x": 247351.03,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120314424136623,
+          47.56983330164266
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F116",
+        "ssz": "95",
+        "eov_y": 655482.88,
+        "eov_x": 247329.15,
+        "year": "2025",
+        "gocterulet": "VOCI",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.119727769576258,
+          47.570225469776254
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F117",
+        "ssz": "96",
+        "eov_y": 655438.7,
+        "eov_x": 247372.71,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": "Az alacsony mért érték a negatív redoxpotenciál miatti erős bomlásra vezethető vissza, de ettől még a csóvamaghoz tartozik."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11826934957068,
+          47.56990516153824
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F118",
+        "ssz": "97",
+        "eov_y": 655329.0,
+        "eov_x": 247337.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11882920126021,
+          47.57054146080479
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F119",
+        "ssz": "98",
+        "eov_y": 655371.06,
+        "eov_x": 247407.78,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1193340841684,
+          47.57101085102206
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F120",
+        "ssz": "99",
+        "eov_y": 655409.0,
+        "eov_x": 247460.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": "CLRT-A120-szal szemben ez a furat a csóvagerinchez közel esik (oka: nem teljesen azonos a trajektóriája az alsó és a felső szinten keletkezett csóvának)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121861587989976,
+          47.5705020689115
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F122",
+        "ssz": "100",
+        "eov_y": 655599.22,
+        "eov_x": 247403.61,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.122157355187664,
+          47.569293005163175
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F123",
+        "ssz": "101",
+        "eov_y": 655621.6,
+        "eov_x": 247269.21,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12043502029364,
+          47.56947856914789
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F201",
+        "ssz": "102",
+        "eov_y": 655491.99,
+        "eov_x": 247289.72,
+        "year": "2025",
+        "gocterulet": "VOCI",
+        "megjegyzes": "DNAPL munkagödör miatt megszűnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120415256435393,
+          47.57019239375535
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F202",
+        "ssz": "103",
+        "eov_y": 655490.43,
+        "eov_x": 247369.08,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1208989360221,
+          47.569144039773484
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F203",
+        "ssz": "104",
+        "eov_y": 655526.93,
+        "eov_x": 247252.56,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120833792593775,
+          47.5703942415341
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F204",
+        "ssz": "105",
+        "eov_y": 655521.9,
+        "eov_x": 247391.55,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12034446160448,
+          47.570421440527326
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F205",
+        "ssz": "106",
+        "eov_y": 655485.08,
+        "eov_x": 247394.54,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11993169801631,
+          47.569275782881924
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F206",
+        "ssz": "107",
+        "eov_y": 655454.14,
+        "eov_x": 247267.14,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.119970607055066,
+          47.569153432106305
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F207",
+        "ssz": "108",
+        "eov_y": 655457.08,
+        "eov_x": 247253.54,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120748984041814,
+          47.56892349572268
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F208",
+        "ssz": "109",
+        "eov_y": 655515.67,
+        "eov_x": 247228.03,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.118741634219628,
+          47.56955435558701
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F210",
+        "ssz": "110",
+        "eov_y": 655364.57,
+        "eov_x": 247298.03,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.120646338551,
+          47.57074514840515
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F212",
+        "ssz": "111",
+        "eov_y": 655507.76,
+        "eov_x": 247430.55,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": "Kissé magasabb értékeket mutat rendszerint, de peremterületen, tisztázandó"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121396754317605,
+          47.570753312517226
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F213",
+        "ssz": "112",
+        "eov_y": 655564.22,
+        "eov_x": 247431.51,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": "'B' közeli értékeket mutat rendszerint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12245508646976,
+          47.57026117492667
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F214",
+        "ssz": "113",
+        "eov_y": 655643.9,
+        "eov_x": 247376.87,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12215831581307,
+          47.568837067614
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F215",
+        "ssz": "114",
+        "eov_y": 655621.72,
+        "eov_x": 247218.52,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121460265486455,
+          47.56871365442453
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F216",
+        "ssz": "115",
+        "eov_y": 655569.21,
+        "eov_x": 247204.75,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.117312841127074,
+          47.57022954073305
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F218",
+        "ssz": "116",
+        "eov_y": 655257.0,
+        "eov_x": 247373.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.117234345758778,
+          47.57119201048579
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F219",
+        "ssz": "117",
+        "eov_y": 655251.0,
+        "eov_x": 247480.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": "Csóvaperem és gerinc határán van"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.118338116195776,
+          47.571659068575734
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F220",
+        "ssz": "118",
+        "eov_y": 655334.0,
+        "eov_x": 247532.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1196869356464,
+          47.571487438415645
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F221",
+        "ssz": "119",
+        "eov_y": 655435.5,
+        "eov_x": 247513.01,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.121471425495564,
+          47.56938590476029
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F224",
+        "ssz": "120",
+        "eov_y": 655569.98,
+        "eov_x": 247279.49,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.119668319236727,
+          47.569503059261066
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F226",
+        "ssz": "121",
+        "eov_y": 655434.3,
+        "eov_x": 247292.39,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1200110806435,
+          47.5696976710429
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F227",
+        "ssz": "122",
+        "eov_y": 655460.07,
+        "eov_x": 247314.05,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.115630527160114,
+          47.56994054351344
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F228",
+        "ssz": "123",
+        "eov_y": 655130.45,
+        "eov_x": 247340.76,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11523511863888,
+          47.57204182267894
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F229",
+        "ssz": "124",
+        "eov_y": 655100.5,
+        "eov_x": 247574.35,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.116952222699243,
+          47.57318052501102
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F230",
+        "ssz": "125",
+        "eov_y": 655229.58,
+        "eov_x": 247701.06,
+        "year": "2025",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11978870148954,
+          47.5730343576673
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F236",
+        "ssz": "126",
+        "eov_y": 655443.0,
+        "eov_x": 247685.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11690360428324,
+          47.572379494498044
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F238",
+        "ssz": "127",
+        "eov_y": 655226.0,
+        "eov_x": 247612.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.118644884415886,
+          47.572468397277795
+        ]
+      },
+      "properties": {
+        "well_id": "CLRT-F239",
+        "ssz": "128",
+        "eov_y": 655357.0,
+        "eov_x": 247622.0,
+        "year": "2026",
+        "gocterulet": "",
+        "megjegyzes": "Csóvaperem és gerinc határán van"
+      }
+    }
+  ]
+}

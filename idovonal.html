@@ -358,14 +358,66 @@
             padding-top: 14px;
             border-top: 1px dashed #cbd5e1;
         }
-        .attachments-header {
-            font-size: 13px;
+        .attachments-details {
+            border: 1px solid #cbd5e1;
+            border-radius: 8px;
+            background-color: #f8fafc;
+            transition: all 0.2s ease;
+        }
+        .attachments-details[open] {
+            background-color: #ffffff;
+            border-color: #94a3b8;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        }
+        .attachments-toggle-btn {
+            padding: 11px 16px;
+            font-size: 13.5px;
             font-weight: 600;
-            color: #2c3e50;
-            margin-bottom: 10px;
+            color: #2980b9;
+            cursor: pointer;
+            list-style: none;
             display: flex;
             align-items: center;
-            gap: 6px;
+            justify-content: space-between;
+            user-select: none;
+            outline: none;
+            border-radius: 8px;
+            background-color: #edf2f7;
+            border: 1px solid #cbd5e1;
+            transition: all 0.2s ease;
+        }
+        .attachments-toggle-btn::-webkit-details-marker {
+            display: none;
+        }
+        .attachments-toggle-btn:hover {
+            background-color: #e2e8f0;
+            color: #1a5276;
+            border-color: #94a3b8;
+        }
+        .attachments-details[open] .attachments-toggle-btn {
+            border-bottom: 1px solid #cbd5e1;
+            border-bottom-left-radius: 0;
+            border-bottom-right-radius: 0;
+            background-color: #e2e8f0;
+            color: #1e293b;
+        }
+        .toggle-icon-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .toggle-chevron {
+            font-size: 11px;
+            transition: transform 0.2s ease;
+            display: inline-block;
+        }
+        .attachments-details[open] .toggle-chevron {
+            transform: rotate(90deg);
+        }
+        .attachments-list {
+            padding: 12px 14px;
+            max-height: 480px;
+            overflow-y: auto;
         }
         .attachment-card {
             background-color: #f8fafc;
@@ -595,6 +647,1128 @@
 
     <script>
 const timelineData = [
+  {
+    "id": 115,
+    "filename": "lakossagi_tajekoztato_rovid_osszefoglalo_szovogyar_260907.pdf",
+    "url": "https://www.bpxv.hu/aktualitasok/osszefoglalo-lakossagi-tajekoztato-keszult-szovogyar-utcai-szennyezettsegrol",
+    "date": "2026.09.09",
+    "author": "BPXV Önkormányzat",
+    "recipient": "XV. kerületi lakosság",
+    "title": "Összefoglaló lakossági tájékoztató készült a Szövőgyár utcai szennyezettségről",
+    "summary": "Lakossági tájékoztatót tesz közzé az önkormányzat az egykori Szövőgyár területén és környezetében feltárt talaj- és talajvízszennyezésről. A dokumentum röviden bemutatja az ügy előzményeit, a szennyezés ismert jellemzőit, a lakosságot érintő kockázatokat, a javasolt óvintézkedéseket, valamint a kármentesítés várható következő lépéseit.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/lakossagi_tajekoztato_rovid_osszefoglalo_szovogyar_260907.pdf",
+        "date": "2026.09.09.",
+        "author": "BPXV Önkormányzat",
+        "title": "Összefoglaló lakossági tájékoztató a Szövőgyár utcai szennyezettségről (2026.09.07.)"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "filename": "",
+    "url": "https://www.bpxv.hu/aktualitasok/lakossagi-forum-lesz-szovogyar-utcai-szennyezettseg-ugyeben",
+    "date": "2026.09.08",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "XV. kerületi lakosság és érintett szervezetek",
+    "title": "Lakossági fórum lesz a Szövőgyár utcai szennyezettség ügyében",
+    "summary": "Lakossági fórumot tart a XV. kerületi önkormányzat a Szövőgyár utca 19–21. szám alatti ingatlanon és környezetében feltárt szennyezettséggel kapcsolatban. A fórum célja, hogy a környéken élők és a kerület lakosai közvetlen tájékoztatást kapjanak az ügyben érintett hatóságoktól és szakmai szereplőktől. A fórumra Cserdiné Németh Angéla polgármester meghívta az országgyűlési egyéni választókerületi képviselőt, valamint az ügyben érintett hatóságok és szervezetek képviselőit is, hogy a lakók a felmerülő kérdésekre megalapozott, szakmai válaszokat kaphassanak.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/meghivo_lakossagi_forumra_szovogyar_muller_anna_kepviselo._alairt_alairt.pdf",
+        "date": "2026.09.08.",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "Meghívó lakossági fórumra: Dr. Müller Anna országgyűlési képviselő részére"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/meghivo_lakossagi_forumra_szovogyar_mnv_zrt._alairt_alairt.pdf",
+        "date": "2026.09.08.",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "Meghívó lakossági fórumra: MNV Zrt. vezérigazgatója részére"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/meghivo_lakossagi_forumra_szovogyar_bfkh_alairt_alairt.pdf",
+        "date": "2026.09.08.",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "Meghívó lakossági fórumra: Budapest Főváros Kormányhivatala főigazgatója részére"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/meghivo_lakossagi_forumra_szovogyar_nngyk_alairt_alairt.pdf",
+        "date": "2026.09.08.",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "Meghívó lakossági fórumra: NNGYK országos tisztifőorvos részére"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/meghivo_lakossagi_forumra_szovogyar_xiv._nepeu_alairt_alairt.pdf",
+        "date": "2026.09.08.",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "Meghívó lakossági fórumra: BFKH XIV. Népegészségügyi Osztály részére"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/meghivo_lakossagi_forumra_szovogyar_pest_varmegyei_kormanyhivatal_1_alairt_alairt.pdf",
+        "date": "2026.09.08.",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "Meghívó lakossági fórumra: Pest Vármegyei Kormányhivatal Környezetvédelmi Főosztály részére"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "filename": "",
+    "url": "https://www.bpxv.hu/aktualitasok/elerhetok-szovogyar-utcai-zarodokumentacio-mellekletei",
+    "date": "2026.09.04",
+    "author": "BPXV Önkormányzat",
+    "recipient": "IV. és XV. kerületi lakosság",
+    "title": "Elérhetők a Szövőgyár utcai záródokumentáció mellékletei is",
+    "summary": "A korábban közzétett törzsanyag után most a Szövőgyár utca 19–21. szám alatti ingatlanon és környezetében feltárt szennyezettségről készült kiegészítő tényfeltárási záródokumentáció mellékleteit, függelékeit és táblázatait is közzéteszi az önkormányzat.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/1_tablazat_fk_tph_btex_pah.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció táblázatai: 1_tablazat_fk_tph_btex_pah.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/3_tablazat_ul_tph_btex_pah.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció táblázatai: 3_tablazat_ul_tph_btex_pah.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/2_tablazat_fk_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció táblázatai: 2_tablazat_fk_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_tablazat_fk_as.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció táblázatai: 5_tablazat_fk_as.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_tablazat_ul_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció táblázatai: 4_tablazat_ul_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/7_tablazat_fav_avk.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció táblázatai: 7_tablazat_fav_avk.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/6_tablazat_fav_tph_btex_pah.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció táblázatai: 6_tablazat_fav_tph_btex_pah.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/9_tablazat_fav_femek.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció táblázatai: 9_tablazat_fav_femek.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/8_tablazat_fav_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció táblázatai: 8_tablazat_fav_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/10_tablazat_fk_dnapl_statisztika.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció táblázatai: 10_tablazat_fk_dnapl_statisztika.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/11_tablazat_b_feletti_fk_jellemzo_adatok.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció táblázatai: 11_tablazat_b_feletti_fk_jellemzo_adatok.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/12_tablazat_d_feletti_fk_jellemzo_adatok.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció táblázatai: 12_tablazat_d_feletti_fk_jellemzo_adatok.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/1f_1_nyugalmi_fav_eloszlas_f_szint.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció függelékei: 1f_1_nyugalmi_fav_eloszlas_f_szint.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/1f_2_nyugalmi_fav_eloszlas_a_szint.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció függelékei: 1f_2_nyugalmi_fav_eloszlas_a_szint.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/1f_3_szamitott_nyugalmi_fav_eloszlas_a_szint.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció függelékei: 1f_3_szamitott_nyugalmi_fav_eloszlas_a_szint.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/1f_4_szamitott_nyugalmi_fav_eloszlas_f_szint.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció függelékei: 1f_4_szamitott_nyugalmi_fav_eloszlas_f_szint.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/1m_szilas_patak_eredmenyek_2026_04_08.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció függelékei: 1m_szilas_patak_eredmenyek_2026_04_08.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/1f_5_keresztszelveny_nyomvonal.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció függelékei: 1f_5_keresztszelveny_nyomvonal.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/2f_1_pce_terjedesi_uteme_a_felso_f_vizadoban_20.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció függelékei: 2f_1_pce_terjedesi_uteme_a_felso_f_vizadoban_20.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/2f_pce_terjedesi_uteme_az_also_a_vizadoban_10_ev.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció függelékei: 2f_pce_terjedesi_uteme_az_also_a_vizadoban_10_ev.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/2f_pce_terjedesi_uteme_az_also_a_vizadoban_20_ev.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció függelékei: 2f_pce_terjedesi_uteme_az_also_a_vizadoban_20_ev.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/szovogyar_utca_19_21_ktzd_transzportmodell.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció függelékei: szovogyar_utca_19_21_ktzd_transzportmodell.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/melleklet_01_tulajdoni_lapok_anonimizalt.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció mellékletei: melleklet_01_tulajdoni_lapok_anonimizalt.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/melleklet_02_hatosagi_hatarozatok.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció mellékletei: melleklet_02_hatosagi_hatarozatok.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/melleklet_03_furasi_mintaveteli_jkv_anonimizalt.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció mellékletei: melleklet_03_furasi_mintaveteli_jkv_anonimizalt.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/melleklet_03_furasi_mintaveteli_jkv_anonimizalt_1.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció mellékletei: melleklet_03_furasi_mintaveteli_jkv_anonimizalt_1.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/melleklet_04_fav_mintaveteli_jkv_anonimizalt.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció mellékletei: melleklet_04_fav_mintaveteli_jkv_anonimizalt.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/melleklet_06_egyideju_vizszintmeresi_jegyzokonyv.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció mellékletei: melleklet_06_egyideju_vizszintmeresi_jegyzokonyv.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/melleklet_07_geodeziai_jkv_anonimizalt.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció mellékletei: melleklet_07_geodeziai_jkv_anonimizalt.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/melleklet_05_laboratoriumi_vizsgalati_eredmenyek.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció mellékletei: melleklet_05_laboratoriumi_vizsgalati_eredmenyek.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/melleklet_08_colorit_rt_palyazati_dokumentacio_1.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció mellékletei: melleklet_08_colorit_rt_palyazati_dokumentacio_1.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/melleklet_09_szenatomszam_eloszlas.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció mellékletei: melleklet_09_szenatomszam_eloszlas.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/melleklet_11_belteri_levego_anonimizalt.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció mellékletei: melleklet_11_belteri_levego_anonimizalt.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/melleklet_10_munkavallaloi_expozicio_anonimizalt.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció mellékletei: melleklet_10_munkavallaloi_expozicio_anonimizalt.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/1_attekinto_helyszinrajz.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: 1_attekinto_helyszinrajz.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/2_1_attekinto_helyszinrajz_az_osszes_vizsgalati.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: 2_1_attekinto_helyszinrajz_az_osszes_vizsgalati.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/2_3_reszletes_helyszinrajz_pce_gockutatas_mintav.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: 2_3_reszletes_helyszinrajz_pce_gockutatas_mintav.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/2_2_attekinto_helyszinrajz_fk_fav_egyuttes_minta.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: 2_2_attekinto_helyszinrajz_fk_fav_egyuttes_minta.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/2_4_reszletes_helyszinrajz_olajszarmazek_gockuta.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: 2_4_reszletes_helyszinrajz_olajszarmazek_gockuta.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/2_5_1_reszletes_helyszinrajz_fav_mintaveteli_pon.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: 2_5_1_reszletes_helyszinrajz_fav_mintaveteli_pon.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/3_a_vizsgalt_terulet_kornyezeteben_nyilvantartot.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: 3_a_vizsgalt_terulet_kornyezeteben_nyilvantartot.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/8_1_m_szovogyar_2026_csatornahalozat_egyesitett.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: 8_1_m_szovogyar_2026_csatornahalozat_egyesitett.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/2_5_2_reszletes_helyszinrajz_fav_mintaveteli_pon.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: 2_5_2_reszletes_helyszinrajz_fav_mintaveteli_pon.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/8_2_m_szovogyar_2026_csatornahalozat_1_nagyitas.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: 8_2_m_szovogyar_2026_csatornahalozat_1_nagyitas.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/8_3_m_szovogyar_2026_csatornahalozat_2_nagyitas.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: 8_3_m_szovogyar_2026_csatornahalozat_2_nagyitas.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/8_5_m_szovogyar_2026_csatornahalozat_4_nagyitas.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: 8_5_m_szovogyar_2026_csatornahalozat_4_nagyitas.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/8_4_m_szovogyar_2026_csatornahalozat_3_nagyitas.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: 8_4_m_szovogyar_2026_csatornahalozat_3_nagyitas.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/8_6_m_szovogyar_2026_csatornahalozat_5_nagyitas.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: 8_6_m_szovogyar_2026_csatornahalozat_5_nagyitas.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/8_7_m_szovogyar_2026_csatornahalozat_6_nagyitas.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: 8_7_m_szovogyar_2026_csatornahalozat_6_nagyitas.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/foldtani_kereszt_szelvenyek.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: foldtani_kereszt_szelvenyek.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/foldtani_szelveny_nyomvonal.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "A Szövőgyár utcai szennyezettségről készült kiegészítő tényfeltárási záródokumentáció ábrái: foldtani_szelveny_nyomvonal.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/7_1.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Vákuumtechnikai ábrák a Szövőgyár utcai záródokumentációhoz: 7_1.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/7_2.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Vákuumtechnikai ábrák a Szövőgyár utcai záródokumentációhoz: 7_2.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/7_3.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Vákuumtechnikai ábrák a Szövőgyár utcai záródokumentációhoz: 7_3.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/7_4.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Vákuumtechnikai ábrák a Szövőgyár utcai záródokumentációhoz: 7_4.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/7_5.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Vákuumtechnikai ábrák a Szövőgyár utcai záródokumentációhoz: 7_5.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/7_6.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Vákuumtechnikai ábrák a Szövőgyár utcai záródokumentációhoz: 7_6.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/6_1_hidraulika_januar_sekely_kutak.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Hidraulikai ábrák a Szövőgyár utcai záródokumentációhoz: 6_1_hidraulika_januar_sekely_kutak.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/6_2_hidraulika_februar_sekely_kutak.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Hidraulikai ábrák a Szövőgyár utcai záródokumentációhoz: 6_2_hidraulika_februar_sekely_kutak.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/6_3_hidraulika_aprilis_sekely_kutak.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Hidraulikai ábrák a Szövőgyár utcai záródokumentációhoz: 6_3_hidraulika_aprilis_sekely_kutak.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/6_4_hidraulika_januar_mely_kutak.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Hidraulikai ábrák a Szövőgyár utcai záródokumentációhoz: 6_4_hidraulika_januar_mely_kutak.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/6_5_hidraulika_februar_mely_kutak.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Hidraulikai ábrák a Szövőgyár utcai záródokumentációhoz: 6_5_hidraulika_februar_mely_kutak.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/6_6_hidraulika_aprilis_mely_kutak.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Hidraulikai ábrák a Szövőgyár utcai záródokumentációhoz: 6_6_hidraulika_aprilis_mely_kutak.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_1_benzol.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_1_benzol.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_2_toluol.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_2_toluol.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_3_etilbenzol.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_3_etilbenzol.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_4_xilolok.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_4_xilolok.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_5_eab.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_5_eab.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_6_tph.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_6_tph.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_7_naftalinok.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_7_naftalinok.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_9_acenaften.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_9_acenaften.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_10_fluoren.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_10_fluoren.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_8_acenaftilen.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_8_acenaftilen.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_11_fenantren.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_11_fenantren.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_12_antracen.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_12_antracen.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_13_fluoranten.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_13_fluoranten.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_14_piren.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_14_piren.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_15_benz_a_antracen.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_15_benz_a_antracen.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_16_krizen.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_16_krizen.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_18_benz_k_fluoranten.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_18_benz_k_fluoranten.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_19_benz_e_piren.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_19_benz_e_piren.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_20_benz_a_piren.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_20_benz_a_piren.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_21_indeno_1_2_3_cd.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_21_indeno_1_2_3_cd.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_17_benz_b_fluoranten.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_17_benz_b_fluoranten.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_22_dibenz_a_h_antracen.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_22_dibenz_a_h_antracen.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_23_benz_g_h_i_perilen.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_23_benz_g_h_i_perilen.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_24_pah_ok_osszesen.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_24_pah_ok_osszesen.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_25_dce.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_25_dce.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_26_edc.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_26_edc.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_27_tcm.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_27_tcm.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_28_ctc.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_28_ctc.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_29_tce.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_29_tce.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_30_pce.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_30_pce.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_32_1_klorid_felso.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_32_1_klorid_felso.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_31_vocl_vc.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_31_vocl_vc.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_33_1_szulfat_felso_kutak_szulfat.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_33_1_szulfat_felso_kutak_szulfat.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_32_2_klorid_also.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_32_2_klorid_also.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_33_2_szulfat_also_kutak_szulfat.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_33_2_szulfat_also_kutak_szulfat.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_34_1_nitrat_felso_kutak_nitrat.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_34_1_nitrat_felso_kutak_nitrat.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_34_2_nitrat_also_kutak_nitrat.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_34_2_nitrat_also_kutak_nitrat.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_35_1_vas_felso.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_35_1_vas_felso.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_35_2_vas_also.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_35_2_vas_also.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_36_1_mangan_felso_szurozes.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_36_1_mangan_felso_szurozes.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_36_2_mangan_mely.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_36_2_mangan_mely.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/5_37_metan_felso.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Felszín alatti víz szennyezettségi ábrái a Szövőgyár utcai záródokumentációhoz: 5_37_metan_felso.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_1_1_talaj_benzol.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_1_1_talaj_benzol.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_1_2_talaj_benzol.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_1_2_talaj_benzol.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_1_3_talaj_benzol.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_1_3_talaj_benzol.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_2_1_talaj_toluol.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_2_1_talaj_toluol.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_2_2_talaj_toluol.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_2_2_talaj_toluol.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_2_3_talaj_toluol.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_2_3_talaj_toluol.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_3_1_talaj_etil_benzol.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_3_1_talaj_etil_benzol.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_3_2_talaj_etil_benzol.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_3_2_talaj_etil_benzol.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_3_3_talaj_etil_benzol.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_3_3_talaj_etil_benzol.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_3_4_talaj_etil_benzol.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_3_4_talaj_etil_benzol.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_3_5_talaj_etil_benzol.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_3_5_talaj_etil_benzol.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_3_6_talaj_etil_benzol.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_3_6_talaj_etil_benzol.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_4_1_talaj_xilolok.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_4_1_talaj_xilolok.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_4_2_talaj_xilolok.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_4_2_talaj_xilolok.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_4_4_talaj_xilolok.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_4_4_talaj_xilolok.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_4_3_talaj_xilolok.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_4_3_talaj_xilolok.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_4_5_talaj_xilolok.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_4_5_talaj_xilolok.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_4_6_talaj_xilolok.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_4_6_talaj_xilolok.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_5_1_talaj_eab.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_5_1_talaj_eab.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_5_2_talaj_eab.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_5_2_talaj_eab.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_5_3_talaj_eab.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_5_3_talaj_eab.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_5_5_talaj_eab.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_5_5_talaj_eab.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_5_6_talaj_eab.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_5_6_talaj_eab.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_5_7_talaj_eab.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_5_7_talaj_eab.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_5_8_talaj_eab.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_5_8_talaj_eab.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_6_1_talaj_tph.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_6_1_talaj_tph.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_5_4_talaj_eab.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_5_4_talaj_eab.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_6_2_talaj_tph.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_6_2_talaj_tph.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_6_3_talaj_tph.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_6_3_talaj_tph.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_6_4_talaj_tph.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_6_4_talaj_tph.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_6_5_talaj_tph.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_6_5_talaj_tph.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_6_6_talaj_tph.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_6_6_talaj_tph.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_6_7_talaj_tph.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_6_7_talaj_tph.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_6_8_talaj_tph.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_6_8_talaj_tph.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_6_9_talaj_tph.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_6_9_talaj_tph.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_6_10_talaj_tph.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_6_10_talaj_tph.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_6_11_talaj_tph.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_6_11_talaj_tph.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_6_12_talaj_tph.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_6_12_talaj_tph.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_7_1_talaj_pah.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_7_1_talaj_pah.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_7_2_talaj_pah.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_7_2_talaj_pah.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_7_4_talaj_pah.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_7_4_talaj_pah.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_7_5_talaj_pah.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_7_5_talaj_pah.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_7_6_talaj_pah.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_7_6_talaj_pah.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_7_7_talaj_pah.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_7_7_talaj_pah.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_7_8_talaj_pah.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_7_8_talaj_pah.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_7_9_talaj_pah.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_7_9_talaj_pah.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_7_10_talaj_pah.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_7_10_talaj_pah.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_7_3_talaj_pah.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_7_3_talaj_pah.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_7_11_talaj_pah.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_7_11_talaj_pah.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_1_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_1_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_2_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_2_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_3_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_3_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_5_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_5_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_4_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_4_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_6_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_6_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_7_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_7_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_8_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_8_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_9_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_9_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_10_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_10_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_11_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_11_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_12_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_12_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_13_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_13_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_14_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_14_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_15_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_15_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_16_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_16_talaj_vocl.pdf"
+      },
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/4_8_17_talaj_vocl.pdf",
+        "date": "2026.09.04.",
+        "author": "BPXV Önkormányzat",
+        "title": "Talajszennyezettségi ábrák a Szövőgyár utcai záródokumentációhoz: 4_8_17_talaj_vocl.pdf"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "filename": "7_584_61_2026_tajekoztatas_keres_08.31_fovarosi_kormanyhivatal_szovogyar_ugye_alairt_alairt_alairt.pdf",
+    "url": "https://www.bpxv.hu/aktualitasok/ujabb-tajekoztatast-ker-az-onkormanyzat-fovarosi-kormanyhivataltol-szovogyar-utcai",
+    "date": "2026.09.03",
+    "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+    "recipient": "dr. Mészár Erika főigazgató (BFK)",
+    "title": "Újabb tájékoztatást kér az Önkormányzat a Fővárosi Kormányhivataltól a Szövőgyár utcai szennyezés ügyében",
+    "summary": "Ismét Budapest Főváros Kormányhivatalához fordultunk a Szövőgyár utca 19–21. szám alatti ingatlanon és környezetében feltárt szennyezettség ügyében. A levélben az önkormányzat egyebek mellett az óvoda beltéri levegőminőségének vizsgálatáról, a lakossági ingatlanokon történő levegőmérések lehetőségéről, valamint az érintett lakók tájékoztatásáról kér érdemi választ. Az önkormányzat hangsúlyozza: a lakosság részéről továbbra is sok kérdés érkezik, ezért elengedhetetlen, hogy az illetékes hatóságok egyértelmű és hivatalos tájékoztatást adjanak a további teendőkről. A teljes tájékoztatáskérő levél a csatolt mellékletben olvasható.",
+    "attachments": [
+      {
+        "url": "https://www.bpxv.hu/sites/default/files/media/file/2026/09/7_584_61_2026_tajekoztatas_keres_08.31_fovarosi_kormanyhivatal_szovogyar_ugye_alairt_alairt_alairt.pdf",
+        "date": "2026.09.03.",
+        "author": "Cserdiné Németh Angéla polgármester (BPXV)",
+        "title": "Az Önkormányzat levele a Fővárosi Kormányhivatalnak a Szövőgyár utcai szennyezés ügyében (7/584-61/2026) - 7_584_61_2026_tajekoztatas_keres_0831_fovarosi_kormanyhivatal_szovogyar.pdf"
+      }
+    ]
+  },
   {
     "id": 111,
     "filename": "dokumentum/pest/2026-08/05398-36.pdf",
@@ -1269,7 +2443,7 @@ const timelineData = [
             }
         }
 
-        function renderTimeline(data) {
+        function renderTimeline(data, activeQuery = '') {
             const container = document.getElementById('timeline-container');
             container.innerHTML = '';
 
@@ -1318,12 +2492,26 @@ const timelineData = [
                         `;
                     }).join('');
 
+                    const shouldOpen = activeQuery && item.attachments.some(att =>
+                        (att.title && att.title.toLowerCase().includes(activeQuery)) ||
+                        (att.author && att.author.toLowerCase().includes(activeQuery)) ||
+                        (att.date && att.date.toLowerCase().includes(activeQuery))
+                    );
+
                     attachmentsHtml = `
                         <div class="attachments-group">
-                            <div class="attachments-header">
-                                Csatolmányok (${item.attachments.length}):
-                            </div>
-                            ${attachItems}
+                            <details class="attachments-details" ${shouldOpen ? 'open' : ''}>
+                                <summary class="attachments-toggle-btn">
+                                    <span class="toggle-icon-badge">
+                                        <span class="toggle-chevron">&#x25B6;</span>
+                                        <strong>Csatolmányok megtekintése</strong> (${item.attachments.length} db PDF)
+                                    </span>
+                                    <span style="font-size: 11.5px; color: #64748b; font-weight: normal;">Kattints a megnyitáshoz</span>
+                                </summary>
+                                <div class="attachments-list">
+                                    ${attachItems}
+                                </div>
+                            </details>
                         </div>
                     `;
                 }
@@ -1397,7 +2585,7 @@ const timelineData = [
             });
 
             document.getElementById('count-label').textContent = `Találatok: ${filtered.length} / ${timelineData.length} bejegyzés`;
-            renderTimeline(filtered);
+            renderTimeline(filtered, query);
         }
 
         document.getElementById('search-input').addEventListener('input', filterAndSort);

@@ -115,6 +115,9 @@
             display: block;
             line-height: 1.3;
         }
+        .map-tiles-gray {
+            filter: grayscale(100%) contrast(105%) brightness(95%);
+        }
     </style>
 </head>
 <body>
@@ -160,16 +163,17 @@
         // Initialize Leaflet Map centered near District XV, Budapest
         const map = L.map('map').setView([47.5725, 19.1130], 15);
 
-        // CartoDB Positron - Ultra-clean light gray map style (Default layer)
-        const cleanLightMap = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-            maxZoom: 20,
-            attribution: '&copy; OpenStreetMap, &copy; CARTO'
+        // OpenStreetMap Gray base layer (No API Key required)
+        const openStreetMapGray = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            className: 'map-tiles-gray',
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
 
-        // Standard OpenStreetMap base layer
-        const openStreetMap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        // OpenStreetMap Color base layer
+        const openStreetMapColor = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 19,
-            attribution: '&copy; OpenStreetMap contributors'
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         });
 
         // Google Satellite Hybrid layer
@@ -181,8 +185,8 @@
 
         // Add base layers to map controller
         const baseMaps = {
-            "OpenStreetMap CartoDB Positron (Alapértelmezett)": cleanLightMap,
-            "OpenStreetMap Standard": openStreetMap,
+            "OpenStreetMap (Szürke - Alapértelmezett)": openStreetMapGray,
+            "OpenStreetMap (Színes)": openStreetMapColor,
             "Google Satellite": googleSatellite
         };
         let layerControl = L.control.layers(baseMaps).addTo(map);
